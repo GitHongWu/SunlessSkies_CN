@@ -1,164 +1,91 @@
-# Sunless Skies Epic 版 UI 汉化
+# Sunless Skies Epic 中文补丁
 
-为 **Epic Games 版《Sunless Skies: Sovereign Edition》** 整理的离线 UI 汉化补丁，使用 **BepInEx 5 + XUnity.AutoTranslator Mono** 加载本地译文及中文字体。
-
-当前包含 **335 条 UI 和部分短文本译文**，覆盖主菜单、设置标签、按键名称、部分面板和提示。这是试用版本，**不是完整剧情汉化**，也不代表所有页面都已验证。
-
-## 适配版本与验证结果
-
-| 项目 | 本次验证环境 |
-| --- | --- |
-| 游戏渠道 | Epic Games |
-| 游戏版本 | 2.0.7.0 |
-| Unity | 2019.4.2f1 |
-| 脚本后端 | Mono，Windows x64 |
-| 游戏 TextMesh Pro | 1.4.0 |
-| BepInEx | 5.4.23.5，Windows x64 |
-| XUnity.AutoTranslator | 5.6.2，BepInEx Mono 版 |
-| XUnity.ResourceRedirector | 2.1.0，由上游包配套提供 |
-
-已在实际游戏中确认：
-
-- BepInEx 和两个配套插件成功加载。
-- 中文字体 `overTMP` 成功加载为 TextMesh Pro 后备字体。
-- 主菜单与选项菜单中文显示正常，之前出现的小方块消失。
-- 安装前后的游戏 EXE、UnityPlayer.dll、Assembly-CSharp.dll 和 Unity.TextMeshPro.dll SHA-256 相同。
-
-图像、音频、按键详情及游戏内所有面板尚未逐一检查；其他版本和商店渠道未验证。
+适用于 Windows x64、Epic Games 版《Sunless Skies: Sovereign Edition》2.0.7.0（Unity 2019.4.2f1 / Mono）的离线汉化。其他渠道和版本未验证。
 
 ## 安装
 
 1. 完全退出游戏。
-2. 从本仓库下载 ZIP 并解压，找到包含 `doorstop_config.ini` 的目录。
-3. 将以下内容复制到 **`Sunless Skies.exe` 所在目录**：
+2. 下载并解压本仓库，打开 **`patch/`**。
+3. 将 **`patch/` 内的全部内容**复制到 **`Sunless Skies.exe` 所在目录**，合并文件夹。
+4. 启动游戏。
 
-   ```text
-   BepInEx/
-   .doorstop_version
-   doorstop_config.ini
-   overTMP
-   winhttp.dll
-   ```
-
-4. 从 Epic 启动游戏。如果出现 Epic 首次账号授权页面，请自行处理。
-5. 等待主菜单出现，检查“新游戏”“选项”“退出到桌面”等文本。
-
-本次使用的安装位置为 `E:\Games\Epic Games\SunlessSkies`，实际安装到其他目录也可以。配置使用相对路径，不要求固定盘符。
-
-**不要把整个仓库文件夹再套一层放入游戏目录。** 安装后 `winhttp.dll` 与游戏 EXE 应位于同一层。
-
-如果已有其他 BepInEx、Doorstop 或汉化补丁，请先备份现有配置并核对兼容性。本说明按原版 Epic 游戏安装环境编写。
-
-## 为什么不能直接使用原仓库的加载器
-
-[InstantComet/SunlessSkies](https://github.com/InstantComet/SunlessSkies) 提供了译文和字体，但本次参考提交的 Doorstop 配置指向 IL2CPP 加载器。这里验证的 Epic 游戏具有 `Managed/Assembly-CSharp.dll`，使用 Mono 后端，因此换用了对应的 Mono 插件。
-
-本仓库是组件适配、配置和译文整理，并没有另写一个基于游戏方法的 Harmony 汉化插件。它替换显示层文本，不直接修改剧情 JSON 或游戏程序集。
-
-## 中文小方块的原因与修复
-
-这版游戏的部分 .NET 和 Unity 托管接口被裁剪。只安装加载器与译文时，会出现下列错误：
+不要只复制 `BepInEx/`，也不要把 `patch` 文件夹本身套在游戏目录里。安装后应为：
 
 ```text
-MissingMethodException: System.Reflection.Module.GetPEKind
-MissingMethodException: UnityEngine.Font.GetOSInstalledFontNames
-Could not find an appropriate asset bundle load method while loading font
-MissingMethodException: UnityEngine.GUIStyleState.set_background
+游戏目录/
+├── Sunless Skies.exe          # 游戏原有文件
+├── winhttp.dll
+├── doorstop_config.ini
+├── .doorstop_version
+├── overTMP
+├── THIRD_PARTY_LICENSES/
+└── BepInEx/
+    ├── core/
+    ├── plugins/
+    ├── config/AutoTranslatorConfig.ini
+    ├── Translation/zh/Text/ui.txt
+    └── unstripped/
+        ├── Newtonsoft.Json.dll
+        └── …                 # 完整保留本包内的其余运行库
 ```
 
-汉字被替换进去后，如果中文字体没加载，原字体无法绘制汉字，就会显示方块。
+**`patch/` 已包含全部补丁运行文件，包括修复版 `Newtonsoft.Json.dll`，安装不依赖 `debug/`、`outputs/json-fix`、译文来源资料或任何额外脚本。** 不需要配置 API 密钥或在线翻译服务。传统 UGUI 文本使用系统的 Microsoft YaHei 字体。
 
-本补丁将 Unity **2019.4.2** 对应的完整核心库和所需 Unity 托管库放在独立目录：
+已有其他 BepInEx 或汉化补丁时，先备份并检查兼容性。升级本补丁时覆盖 `patch/` 内全部内容；如果曾安装临时诊断插件，退出游戏后移除游戏内的 `BepInEx/plugins/SunlessSkies.PerformanceProbe/`。不要覆盖游戏的 `Sunless Skies_Data/Managed/`。
 
-```text
-BepInEx/unstripped/
-```
+## 汉化范围
 
-并在 `doorstop_config.ini` 中设置：
+包含 **42,661 个去重后的翻译键**，覆盖界面、剧情事件、物品、地区、交易、日志和船名。来源为 InstantComet 项目的全部可解析分类译文和翻译缓存，并保留本地 UI 修订。另有 505 行格式有歧义的源文本未启用。
 
-```ini
-[UnityMono]
-dll_search_path_override = BepInEx\unstripped
-```
-
-这使运行时优先从独立目录加载完整接口，**不覆盖 `Sunless Skies_Data/Managed` 中的原文件**。修改这些 DLL 或配置后，必须完全退出游戏再重启。
-
-## 主要配置
-
-文件：`BepInEx/config/AutoTranslatorConfig.ini`。
-
-```ini
-[Service]
-Endpoint=
-FallbackEndpoint=
-
-[General]
-Language=zh
-FromLanguage=en
-
-[Behaviour]
-UseStaticTranslations=False
-OverrideFont=Microsoft YaHei
-OverrideFontTextMeshPro=
-FallbackFontTextMeshPro=overTMP
-```
-
-- 两个翻译端点为空：仅使用本地翻译文件，不启用在线机器翻译。
-- `overTMP` 用于 TextMesh Pro 缺字后备，保留原有拉丁字体的显示风格。
-- `Microsoft YaHei` 用于传统 UGUI 文本；本次验证机器安装了该字体。
-- 未开启纹理翻译和剧情资源重定向。标题图片、Epic 叠加层等不会因此被汉化。
-
-## 修改译文
-
-文件：`BepInEx/Translation/zh/Text/ui.txt`。
-
-每条译文采用上游 XUnity.AutoTranslator 格式：
-
-```text
-New Game=新游戏
-Options=选项
-Exit to Desktop=退出到桌面
-```
-
-编辑时保留原文中的 `{{A}}` 等变量、富文本标签和转义符。文件使用 UTF-8 编码。默认没有启用自动重载，修改后请重启游戏。
-
-译文以 InstantComet 提供的 `ui.txt` 为基础，去除部分较长叙事内容和不适用条目，并修订“Paused”“Legend”等文本。仍可能存在不自然或缺少上下文的翻译，欢迎按原文、所在界面和建议译文提供反馈。
-
-## 排错
-
-查看 `BepInEx/LogOutput.log`。正常加载时应能找到：
-
-```text
-Chainloader startup complete
-Loaded fallback font for TextMesh Pro: overTMP
-```
-
-| 现象 | 检查方法 |
-| --- | --- |
-| 全部仍是英文 | 确认文件层级、加载器日志、`enabled = true` 和 `ui.txt` 路径 |
-| 中文是方块 | 确认 `overTMP` 存在、`unstripped` 完整、路径配置正确，然后完全退出并重启 |
-| 只有部分英文 | 可能没有对应译文，或是图片/Epic 叠加层，不能据此认定插件未加载 |
-| 没有 BepInEx 日志 | 检查是否用了 x64 Mono 加载器，以及 `winhttp.dll` 是否和 EXE 同目录 |
-| 游戏更新后异常 | 先停用补丁确认原版能运行；完整托管库需与 Unity 版本匹配 |
-
-日志仍可能出现 **字体资源版本 1.1.0 与 TextMesh Pro 1.4.0 不匹配**的警告。已经验证的两个菜单显示正常，但不能保证所有字体效果都兼容。
+这不代表游戏内容已 100% 汉化或逐条校对。仍可能出现英文、排版问题和不自然的译文。已实际确认菜单中文显示、交互键恢复及进港后明显缓慢问题的修复；未逐场景验证全部内容。
 
 ## 停用与卸载
 
-临时停用：退出游戏，把 `doorstop_config.ini` 的 `[General]` 中 `enabled = true` 改为 `enabled = false`，再启动。
+退出游戏，在游戏目录 `doorstop_config.ini` 的 `[General]` 中将 `enabled = true` 改为 `enabled = false` 即可停用；改回 `true` 并重启即可启用。
 
-重新启用：改回 `true` 并重启。
+卸载时移除上述补丁新增文件，不删除游戏 EXE、游戏数据目录或存档。如果还有其他 BepInEx 插件，应保留它们及共享加载器，不要直接删除整个 `BepInEx/`。
 
-卸载：退出游戏后移除本补丁新增的文件。如果后来安装过其他 BepInEx 插件，不要直接删除整个 `BepInEx` 目录；其中可能包含其他插件及配置。仅删除译文文件并不等于完整卸载加载器。
+## 常见问题
 
-## 来源与致谢
-
-| 组件/资源 | 来源 |
+| 现象 | 检查方法 |
 | --- | --- |
-| UI 译文和 `overTMP` 字体资源 | [InstantComet/SunlessSkies](https://github.com/InstantComet/SunlessSkies)，参考提交 `1f0533842efd13ccfd8dd2806b2947233f62cfcd` |
-| BepInEx | [5.4.23.5 发布](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.5) |
-| XUnity.AutoTranslator / ResourceRedirector | [5.6.2 发布](https://github.com/bbepis/XUnity.AutoTranslator/releases/tag/v5.6.2) |
-| 完整 Unity 托管库与核心库 | [Unity Libs Repository](https://unity.bepinex.dev/)，2019.4.2 |
-| 技术方案参考 | [tinygrox/SunlessSeaCN](https://github.com/tinygrox/SunlessSeaCN)，本补丁未安装其 Sunless Sea 游戏插件 |
+| 完全没有中文 | 确认 `winhttp.dll` 与游戏 EXE 同层，并检查 `BepInEx/LogOutput.log` 是否生成 |
+| 中文显示方块 | 完整复制 `overTMP` 和 `BepInEx/unstripped/`，然后重启游戏 |
+| 按钮或 R 键交互异常 | 保持配置中 `TextGetterCompatibilityMode=True` |
+| 进港后明显缓慢或 JObject / VTable 报错 | 确认 `BepInEx/unstripped/Newtonsoft.Json.dll` 来自本包，并完全重启；不要用插件 `FullNET/` 内的同名文件替代 |
+| 部分仍是英文 | 可能缺少对应译文，或属于图片文字和 Epic 叠加层 |
 
-各上游软件、译文、字体与 Unity 组件的权利归对应作者或权利人所有。该仓库不是 Failbetter Games 或 Epic Games 的官方汉化。请勿把适配工作描述为对全部上游资源的原创。
+反馈时附上游戏版本、发生场景及 `BepInEx/LogOutput.log`。游戏更新后如出现异常，先停用补丁确认原版可运行。
+
+## 仓库目录
+
+| 目录 | 用途 | 安装是否需要 |
+| --- | --- | --- |
+| `patch/` | 完整安装文件；发布包唯一来源 | **需要全部复制** |
+| `tools/` | 校验并生成安装 ZIP | 不需要 |
+| `translation-source/` | 上游原始译文及导入报告 | 不需要 |
+| `debug/` | 性能探针源码；默认不提交 Git | 不需要 |
+| `dist/` | 按需打包生成的 ZIP；默认不保留、不提交 Git | 可直接解压 ZIP 安装 |
+
+维护者在仓库根目录执行：
+
+```powershell
+powershell -ExecutionPolicy Bypass -File .\tools\Build-Release.ps1
+```
+
+脚本校验运行文件、JSON 修复版、离线配置及诊断文件隔离后，仅将 `patch/` 内容打包到 `dist/SunlessSkies-Epic-CN.zip`。安装该 ZIP 时直接复制解压内容到游戏目录，无需再找其他文件。只做校验可加 `-VerifyOnly`。
+
+修改译文请编辑 `patch/BepInEx/Translation/zh/Text/ui.txt`，使用 UTF-8，并保留变量、富文本标签和转义符。修改后重启游戏。
+
+## 来源与许可
+
+| 内容 | 来源 |
+| --- | --- |
+| 译文和中文字体 `overTMP` | [InstantComet/SunlessSkies](https://github.com/InstantComet/SunlessSkies)，参考提交 `1f0533842efd13ccfd8dd2806b2947233f62cfcd` |
+| 加载器 | [BepInEx 5.4.23.5](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.5) |
+| 翻译插件 | [XUnity.AutoTranslator 5.6.2](https://github.com/bbepis/XUnity.AutoTranslator/releases/tag/v5.6.2)，配套 ResourceRedirector 2.1.0 |
+| Unity 完整托管库 | [Unity Libs](https://unity.bepinex.dev/)，2019.4.2 |
+| JSON 运行库 | [Newtonsoft.Json 8.0.3](https://www.nuget.org/packages/Newtonsoft.Json/8.0.3)，net45；去除强名称以匹配游戏程序集身份，程序集版本 8.0.0.0 |
+| 方案参考 | [tinygrox/SunlessSeaCN](https://github.com/tinygrox/SunlessSeaCN) |
+
+许可证见 `patch/THIRD_PARTY_LICENSES/` 和各上游项目。各资源权利归对应作者或权利人所有，本项目不是 Failbetter Games 或 Epic Games 官方汉化。
