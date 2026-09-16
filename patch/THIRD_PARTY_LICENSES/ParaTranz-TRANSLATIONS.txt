@@ -1,0 +1,14 @@
+ParaTranz translation attribution
+
+Sunless Skies Chinese Localization RE / Project 5731
+Authors: InstantComet and the project translation contributors.
+Source: https://paratranz.cn/projects/5731
+Contributors: https://paratranz.cn/projects/5731/members
+Snapshot downloaded: 2026-09-15
+License: Creative Commons Attribution-NonCommercial 4.0 International
+https://creativecommons.org/licenses/by-nc/4.0/
+Legal code: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+Changes by this repository: converted to XUnity text format, repaired rich-text attribute escaping, deduplicated original strings, selected translations for conflicting originals. No additional human review is claimed. This notice applies to the translation content, not unrelated bundled libraries or fonts.
+
+Legacy fallback translations: sourced from https://github.com/InstantComet/SunlessSkies (reference commit 1f0533842efd13ccfd8dd2806b2947233f62cfcd), with prior local UI edits; preserved in this repository commit 8eb2eda3a6a34e61a75c957968643826d0411da6. Used only when ParaTranz has no exact original-text key. Review status unknown. The ParaTranz license statement above applies to the ParaTranz portion only; legacy source rights remain with their respective authors.
