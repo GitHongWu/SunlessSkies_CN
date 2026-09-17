@@ -1,0 +1,38 @@
+[
+  {
+    "key": "12$Description",
+    "original": "A Dishevelled Research Associate sells caddies of dried tea from an oak chest. \"Due to an unfortunate but entirely understandable administrative error, the professor's entire research budget has been spent on tea,\" she explains, shuffling her feet awkwardly. \"Please buy some.\"",
+    "translation": "",
+    "context": "原文内容变化：\n1. 旧原文第 33—96 个字符：删除「〔空格〕has briefly docked while on an arduous research expedition. She」。\n（字符位置按旧原文从 1 开始计数，空格和换行也计入。）\n\n旧原文：A Dishevelled Research Associate has briefly docked while on an arduous research expedition. She sells caddies of dried tea from an oak chest. \"Due to an unfortunate but entirely understandable administrative error, the professor's entire research budget has been spent on tea,\" she explains, shuffling her feet awkwardly. \"Please buy some.\"\n旧译文：一位衣衫褴褛的研究助理在一次艰苦的研究考察途中短暂停靠。她售卖橡木箱子里的干茶叶。“由于一次不幸但完全可以理解的管理失误，教授的研究预算全都花在了茶叶上，”她解释说，一边尴尬地来回挪脚。“请买一些吧。”"
+  },
+  {
+    "key": "12$Teaser",
+    "original": "A Dishevelled Research Associate sells caddies of dried tea from an oak chest...",
+    "translation": "",
+    "context": "原文内容变化：\n1. 旧原文第 34—36 个字符：将「has」改为「sells」（删除词内第 1—2 个字符「ha」；词内第 3 个字符后新增「ells」）。\n2. 旧原文第 38—44 个字符：将「briefly」改为「caddies」（词内第 1—2 个字符「br」→「cadd」；词内第 5—7 个字符「fly」→「s」）。\n3. 旧原文第 46—51 个字符：将「docked」改为「of」（删除词内第 1 个字符「d」；词内第 3—6 个字符「cked」→「f」）。\n4. 旧原文第 53—57 个字符：将「while」改为「dried」（词内第 1—2 个字符「wh」→「dr」；删除词内第 4 个字符「l」；词内第 5 个字符后新增「d」）。\n5. 旧原文第 59—60 个字符：将「on」改为「tea from」。\n6. 旧原文第 65—71 个字符：将「arduous」改为「oak」（词首新增「o」；词内第 2—7 个字符「rduous」→「k」）。\n7. 旧原文第 73—91 个字符：将「research expedition」改为「chest」。\n（字符位置按旧原文从 1 开始计数，空格和换行也计入。）\n\n旧原文：A Dishevelled Research Associate has briefly docked while on an arduous research expedition...\n旧译文：一位衣衫褴褛的研究助理在一次艰苦的研究考察途中短暂停靠……"
+  },
+  {
+    "key": "131662$Description",
+    "original": "Hollowed from the vast trees of the Reach, Bronzewood is prized for its durability and its gleaming resin.\r\n",
+    "translation": "",
+    "context": "原文格式变化（空格、换行或转义字符）：\n1. 旧原文第 107—109 个字符：将「〔回车〕〔反斜杠〕n」改为「〔回车〕〔换行〕」。\n（字符位置按旧原文从 1 开始计数，空格和换行也计入。）\n\n旧原文：Hollowed from the vast trees of the Reach, Bronzewood is prized for its durability and its gleaming resin.\r\\n\n旧译文：青铜木自外野的参天大树上挖出，因其坚韧的质地和闪亮的树脂而售价高昂。\\n"
+  },
+  {
+    "key": "50$Name",
+    "original": "An expulsion of problematic materiel",
+    "translation": "",
+    "context": "原文内容变化：\n1. 旧原文第 29—36 个字符：将「material」改为「materiel」（词内第 7 个字符「a」→「e」）。\n（字符位置按旧原文从 1 开始计数，空格和换行也计入。）\n\n旧原文：An expulsion of problematic material\n旧译文：驱逐有害材料"
+  },
+  {
+    "key": "85$Name",
+    "original": "Name Achlys' Gift",
+    "translation": "",
+    "context": "原文内容变化：\n1. 原文开头：新增「Name〔空格〕」。\n（字符位置按旧原文从 1 开始计数，空格和换行也计入。）\n\n旧原文：Achlys' Gift\n旧译文：埃克吕斯的礼物"
+  },
+  {
+    "key": "89$Description",
+    "original": "An Experimental Horticulturist is selling a mountain of seeds. Yes, she is very pleased with how well they turned out. No, she will not tell you what she treats her crops with\r\n",
+    "translation": "",
+    "context": "原文内容变化：\n1. 旧原文第 176 个字符：删除「.」。\n（字符位置按旧原文从 1 开始计数，空格和换行也计入。）\n\n旧原文：An Experimental Horticulturist is selling a mountain of seeds. Yes, she is very pleased with how well they turned out. No, she will not tell you what she treats her crops with.\r\n\n旧译文：一位实验园艺师正在出售堆积如山的种子。是的，她对它们的生长情况非常满意。不，她不会告诉你她用什么来处理她的作物。\n"
+  }
+]
