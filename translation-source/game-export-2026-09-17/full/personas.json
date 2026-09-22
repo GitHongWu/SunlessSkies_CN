@@ -1,0 +1,26 @@
+[
+  {
+    "key": "8596$Description",
+    "original": "AlgernonBaroque default persona",
+    "translation": "",
+    "context": "personas.bytes | Failbetter.Core.Persona | ID=8596 | Description | personas[0].Description；2026-09-15 快照中未收录此键。"
+  },
+  {
+    "key": "8596$Name",
+    "original": "AlgernonBaroque default persona",
+    "translation": "",
+    "context": "personas.bytes | Failbetter.Core.Persona | ID=8596 | Name | personas[0].Name；2026-09-15 快照中未收录此键。"
+  },
+  {
+    "key": "9563$Description",
+    "original": "AlgernonBaroque second persona",
+    "translation": "",
+    "context": "personas.bytes | Failbetter.Core.Persona | ID=9563 | Description | personas[1].Description；2026-09-15 快照中未收录此键。"
+  },
+  {
+    "key": "9563$Name",
+    "original": "Tutorial persona",
+    "translation": "",
+    "context": "personas.bytes | Failbetter.Core.Persona | ID=9563 | Name | personas[1].Name；2026-09-15 快照中未收录此键。"
+  }
+]

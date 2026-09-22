@@ -1,0 +1,6155 @@
+[
+  {
+    "file": "landmarks.json",
+    "key": "1$LM_London",
+    "original": "Crown & Misery Yards",
+    "translation": "皇冠与苦难机车厂",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "landmarks.json",
+    "key": "2$LM_London",
+    "original": "Edies Promise",
+    "translation": "艾迪之诺",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "landmarks.json",
+    "key": "8$LM_London",
+    "original": "Simon's Nest",
+    "translation": "西蒙之巢",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "landmarks.json",
+    "key": "1$LM_NewWinchester",
+    "original": "Alexander Yang Claim",
+    "translation": "亚历山大·杨领地",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "landmarks.json",
+    "key": "6$LM_NewWinchester",
+    "original": "Hodge's Crucible",
+    "translation": "霍奇坩埚",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "landmarks.json",
+    "key": "1$LM_Pan",
+    "original": "Bargainer's Bridge",
+    "translation": "商人桥",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "landmarks.json",
+    "key": "2$LM_Pan",
+    "original": "Calumner's Channel",
+    "translation": "卡鲁姆水道",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "landmarks.json",
+    "key": "9$LM_Pan",
+    "original": "The Binding Tables",
+    "translation": "缚约板岩",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "landmarks.json",
+    "key": "12$LM_Pan",
+    "original": "The Forgone Arch",
+    "translation": "弃绝拱门",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "landmarks.json",
+    "key": "15$LM_Pan",
+    "original": "The Whistling Apse",
+    "translation": "哨音后殿",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "landmarks.json",
+    "key": "14$LM_London",
+    "original": "The Glass House",
+    "translation": "玻璃房",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "loadingHints.json",
+    "key": "5$Hint",
+    "original": "Different weapons generate different amounts of heat.",
+    "translation": "不同的武器，开火时产生的热量不同。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "loadingHints.json",
+    "key": "12$Hint",
+    "original": "If you run out of both Supplies and Crew, you will die.",
+    "translation": "如果你失去了全部的补给与列车员，游戏便会结束。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "loadingHints.json",
+    "key": "17$Hint",
+    "original": "On long journeys, activate your locomotive's cruise control.",
+    "translation": "在长途旅行中，可以启动机车的巡航控制，自动前进。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "loadingHints.json",
+    "key": "19$Hint",
+    "original": "Locomotives with white running lights are not hostile.",
+    "translation": "车灯呈白色的机车不会攻击你。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "loadingHints.json",
+    "key": "21$Hint",
+    "original": "Discovering a new port for the first time will reduce your Terror.",
+    "translation": "首次发现新车站时，你的恐惧会降低。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "2$LE_AnAbandonedSignalBox",
+    "original": "Thanks to its coat of vines, this overgrown signal box of the Isambard Line retain its structural integrity, if not its dignity.",
+    "translation": "多亏了那层藤蔓外衣，这个草木疯长的伊桑巴德航线信号箱才勉强维持了其结构完整，尽管那份高贵已然无处可寻。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "3$LE_AvidHorizon",
+    "original": "\"I can hear the zee!\" a grizzled crewman cries. \"Listen! Lapping like a cat at cream!\"",
+    "translation": "“我听到了海浪声！”一位头发花白的列车员喊道，“听！就像有只猫在舔奶油一样！”",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "8$LE_AvidHorizon",
+    "original": "The Princess is intrigued. \"Is this Avid Horizon? I was occupied when the royal locomotive came through.\"",
+    "translation": "公主好奇地问道：“这里就是渴求之地平线吗？皇家火车穿过这里的时候，我正顾着其它事情。”",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "1$LE_Caduceus",
+    "original": "The air is heavy with the sleepy, silken scent of roses.",
+    "translation": "空气中盈满了丝滑的玫瑰香味，令人昏昏欲睡。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "9$LE_Death'sDoor",
+    "original": "Your Aunt examines the throngs of the dead. \"Oh good. I have a number of friends I wish to be certain made it here.\"",
+    "translation": "你的姨妈审视着成群的死者：“哦，太好了。我有几位已经长辞人世的朋友，希望他们都已经顺利来到这儿了。”",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "3$LE_Eagle'sEmpyrean",
+    "original": "This part of the sky has been claimed by the Eagle Khan.",
+    "translation": "这块天域已被雄鹰汗占据。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "4$LE_General_Discoveries",
+    "original": "Once pristine habitations, bequeathed to the skies.",
+    "translation": "昔日崭新的居所，如今遗落于天际之中。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "14$LE_General_Discoveries",
+    "original": "Boxy shapes tumble in the sky: paupers' coffins",
+    "translation": "天空中有一些四四方方的东西在翻滚——穷鬼们的棺材。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "19$LE_General_Discoveries",
+    "original": "A desolation of tumbled stones and cracked altars. What was worshipped here, in those forgotten days? A somnolent silence lies about these hollow, haughty ruins.",
+    "translation": "一幅乱石倾倒、祭坛开裂的荒芜景象。在那些被遗忘的年月里，这里究竟在供奉着什么？一片昏沉的寂静盘旋在这片空洞而高傲的遗迹上空。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "23$LE_General_Discoveries",
+    "original": "\"Captain! A hive!\"'",
+    "translation": "“车长！有个蜂巢！”",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "25$LE_General_Discoveries",
+    "original": "The Repentant Devil is listening to the bees. \"They sing of a well, and the unpleasant fate of the one who gave them voices.",
+    "translation": "悔过的魔鬼在聆听蜂鸣：“它们吟唱着一口井，还有那赋予它们声音者的不幸命运。”",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "26$LE_General_Discoveries",
+    "original": "The scent of honey on the wind, strong as mead.",
+    "translation": "风中飘来如蜜酒般浓烈的蜂蜜香味。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "34$LE_General_Discoveries",
+    "original": "An ancient structure has become home to an enclave of dead spirits",
+    "translation": "这座古建筑已成为了逝去鬼魂的栖所。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "36$LE_General_Discoveries",
+    "original": "A boil of midnight spills into the sky.",
+    "translation": "午夜向着天空倾泻如沸。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "41$LE_General_Discoveries",
+    "original": "'We came across an ancient ruin, wrought by long-vanished hands.'",
+    "translation": "“我们偶遇了一处古老的遗迹，它出自那些早已消逝的先民之手。”",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "56$LE_General_Discoveries",
+    "original": "A sign staked outside the homestead reads 'Under the protection of the Assembly!'",
+    "translation": "宅地外面钉着一块牌子，上面写着“受大集会保护！”",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "57$LE_General_Discoveries",
+    "original": "Incautious Driver: \"Is that - No. It's slightly different from the one I crashed into.\"",
+    "translation": "鲁莽的司机说：“是它吗——不，这和我先前撞到的那个略有不同。”",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "58$LE_General_Discoveries",
+    "original": "The Incognito Princess is delighted. \"I had a dolls' house this size. Much prettier, of course.",
+    "translation": "隐姓埋名的公主很高兴：“我曾经也有一个这么大的娃娃屋。当然，比它漂亮多了。”",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "59$LE_General_Discoveries",
+    "original": "The Inconvenient Aunt views the dingy homestead with silent, professional disdain.",
+    "translation": "令人困扰的姨妈打量着这片邋遢的宅地，目光中带有一种无声的、专家般的轻蔑。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "60$LE_General_Discoveries",
+    "original": "The Rat Brigade's noses twitch with freed. Is the Homestead is an easy target for food?",
+    "translation": "老鼠大队队员们的鼻子贪婪地抽动着。这片宅地是个搜刮食物的好去处吗？",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "61$LE_General_Discoveries",
+    "original": "\"So travel from home, yet cling to past comforts. Fascinating.\" The Repentant Devil seems intrigued.",
+    "translation": "“就算离家远走，也还是放不下过去的舒适。真有趣。”悔过的魔鬼似乎颇感兴趣。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "64$LE_General_Discoveries",
+    "original": "A piece of a forgotten library. It holds disquisitions written in the Pentecostal tongues of Heaven.",
+    "translation": "被遗忘的图书馆之一隅，馆中藏有用天穹五旬节派语言写就的论文。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "66$LE_General_Discoveries",
+    "original": "A splinter of a lost library, holding a tattered manuscripts.",
+    "translation": "一座失落的图书馆的碎块，里面藏着破烂的手稿。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "80$LE_General_Discoveries",
+    "original": "\"A wreck, captain,\" you driver informs you. \"Might be worth a wee look,\" they add, delicately.",
+    "translation": "“一个残骸，车长，”你的司机告诉你。“或许值得一看，”此人小心翼翼地补充道。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "88$LE_General_Discoveries",
+    "original": "The Rat Brigade gaze at the glass statues. \"Wonder if they ever threw stones.\" one squeaks.",
+    "translation": "老鼠大队紧盯着玻璃雕像。“不知道他们有没有扔过石头。”其中一只吱吱叫道。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "9$LE_General_Spectacles",
+    "original": "\"A Messenger of the Heavens\", breathes a member of your crew. There are tears in his eyes.",
+    "translation": "“天穹的信使，”你的一名列车员低呼道。他的眼里噙满了泪水。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "11$LE_General_Spectacles",
+    "original": "HIC SVNT DRACONES.",
+    "translation": "此处有龙（HIC SVNT DRACONES）。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "13$LE_General_Spectacles",
+    "original": "See! Even death may die.",
+    "translation": "瞧！即使死亡本身亦会死去。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "18$LE_General_Spectacles",
+    "original": "A giant has fallen.",
+    "translation": "一位业已陨落的巨人。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "21$LE_General_Spectacles",
+    "original": "The still-cooling corpse of a sun shudders, far below. Its fires have failed. Its light have died.",
+    "translation": "一颗仍在冷却的太阳残骸颤抖着，就在下方远处。它的火焰业已沉寂。它的光芒业已消逝。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "29$LE_General_Spectacles",
+    "original": "The sun! The sun! THE SUN! THE SUN! THESUNTHESUNTHESUN THESUNTHESUNTHESUNTHESUN",
+    "translation": "太阳！太阳！太阳！！太阳！！太阳太阳太阳太阳太阳太阳太阳",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "40$LE_General_Spectacles",
+    "original": "Horologion: the dial by which the servants of the Sapphir'd King move.",
+    "translation": "日位钟晷——蓝宝石之王的仆人遵照它的表盘移动。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "41$LE_General_Spectacles",
+    "original": "The movement of Horologion dictate the rituals and observances of the Blue Kingdom.",
+    "translation": "日位钟晷的运动支配着蓝色王国的典仪和祭规。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "15$LE_Hybras",
+    "original": "\"Is this... nature? The fairy tales don't mention pustules.\" The Princess is revolted by Hybras.",
+    "translation": "“这还是……大自然吗？童话故事里可没有提到这些脓疱。”公主被海波拉恶心坏了。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "2$LE_LangleyHall",
+    "original": "You near Langley Hall; its windows warm with candlelight.",
+    "translation": "你接近了兰利厅，它的窗棂透出温暖的烛光。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "5$LE_Leadbeater&Stainrod'sNatureReserve",
+    "original": "Incognito Princess: \"Is it the good kind of nature in the reserve, or the malodorous kind?\"",
+    "translation": "隐姓埋名的公主说：“保护区里头的自然环境是怡人的那种，还是臭气熏天的那种？”",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "10$LE_Leadbeater&Stainrod'sNatureReserve",
+    "original": "The Incautious Drive looks wistful. \"Father sent me here to work a quiet job. Couldn't keep it.",
+    "translation": "鲁莽的司机神色怅然地说道：“爸爸送我来这里做一份清净的差事，可我没能做得长久。”",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "11$LE_Leadbeater&Stainrod'sNatureReserve",
+    "original": "The Rat Brigade is in hiding. \"Sorry, cap,\" squeak Cinders from a crate. \"Reserve's full of predators.\"",
+    "translation": "老鼠大队躲了起来。“抱歉，列车长，”辛德斯的叫声自一个板条箱里传出，“保护区里到处都是捕食者。”",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "15$LE_Leadbeater&Stainrod'sNatureReserve",
+    "original": "\"What will I be once the Verdant's gone?\" The Incautious Driver gazes out the porthole, briefly sombre.",
+    "translation": "“翠绿碎片若是不在了，我又会变成什么样子？”鲁莽的司机望出舷窗，一时怅然。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "10$LE_Lustrum",
+    "original": "The Vagabond puffs on his pipe. \"Last time I climbed that mountain, I left four toes behind.\"",
+    "translation": "流浪汉吸了口烟斗：“上次我爬那座山，冻掉了四个脚趾头。”",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "1$LE_OldTom'sWell",
+    "original": "\"Careful, Captain,\" a signaller whispers. \"Lest the well-winds take us.\"",
+    "translation": "“小心，车长，”一个信号员低声警告道。“别让井风把我们卷进去。”",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "4$LE_OldTom'sWell",
+    "original": "The well is black as ink from the devil's pot. \"Turn back, captain.\", a crewman pleads.",
+    "translation": "那井水黑得就像是魔鬼锅里的墨水。“掉头吧，车长。”一名列车员恳求道。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "12$LE_OldTom'sWell",
+    "original": "Well-wind turbulence. The Repentant Devil is the only left one standing.",
+    "translation": "井风乱流。悔过的魔鬼是唯一一个仍站在地上的。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "2$LE_Perdurance",
+    "original": "You approach Perdurance, where the brightest and most beautiful of London's youth are conserved like jewels in a glass case.",
+    "translation": "你接近了琥珀宫，伦敦最聪慧、最美丽的年轻人们在此得蒙悦纳，一如玻璃匣子收纳着珠宝。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "5$LE_Perdurance",
+    "original": "A stoker explains Perdurance to the Eccentric. She is horrified. \"They never grow old? They never change?",
+    "translation": "一位司炉向怪人介绍起琥珀宫。怪人吓坏了：“他们永远不会变老？他们永远不会改变？”",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "8$LE_Perdurance",
+    "original": "Repentant Devil: \"Nobles sell their souls to send their progeny here. What will they pay to leave?\"",
+    "translation": "悔过的魔鬼说：“贵族们出卖自己的灵魂，将他们的子嗣送到这里。待到要离开的时候，他们又将付出什么代价呢？”",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "6$LE_Piranesi",
+    "original": "Inconvenient Aunt: \"A pity Piranesi is so far from Albion. I could a suggest number of people who would benefit from a spell here.\"",
+    "translation": "令人困扰的姨妈：“只可惜皮拉内西离阿尔比恩太远了。我倒是想到好些人选，他们很适合在这里待上一阵。”",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "9$LE_Polmear&Plenty'sInconceivableCircus",
+    "original": "The Inconvenient Aunt shudders. \"A carnival. Beware – they have wiles to win your money.\"",
+    "translation": "令人困扰的姨妈打了个寒颤：“狂欢节。多留心——他们有的是办法赢你的钱。”",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "8$LE_PortProsper",
+    "original": "\"The music halls here are poor quality,\" the Conductor says. \"They performed my early works.\"",
+    "translation": "“这里的音乐厅水准着实不佳，”粘土人列车主管说道，“他们上演过我的早期作品。”",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "1$LE_SkyBarnet",
+    "original": "Once, devils ruled here. Now, only bureaucracy.",
+    "translation": "昔日，此地由魔鬼管辖。如今，这儿只剩下官僚。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "8$LE_SkyBarnet",
+    "original": "The Repentant Devil considers the Toll-Tower. \"A grand old tower,\" he nods sagely, \"Completely Pointless, mind.\"",
+    "translation": "悔过的魔鬼端详着渡灵塔。“一座宏伟的老塔楼，”他一本正经地点了点头，“但完全没有意义，说真的。”",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "11$LE_TheBrabazonWorkworld",
+    "original": "Your Inadvisedly Big Dog is despondent. Its attempts to befriend your Blemmigan Voyager were met with a spray of caustic froth from the irritable mushroom.",
+    "translation": "你那只不明智的大狗很沮丧。它试图和你的真菌虫旅行者交朋友，而那只暴躁的蘑菇却喷出一道腐蚀性泡沫作回应。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "12$LE_TheBrabazonWorkworld",
+    "original": "\"Dear God,\" the Fatalistic Signalman breathes, as he takes in the extent of the workworld.",
+    "translation": "“我的天哪，”听天由命的信号员暗叹一番，将那宽广的工作世界尽收眼底。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "11$LE_TheClockworkSun",
+    "original": "\"Humans have chained a sun?\" Is that awe in the Forged Companion's voice?",
+    "translation": "“人类竟然锁住了一颗太阳？”锻造同伴的声音里似乎带着敬畏。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "2$LE_TheForgeofSouls",
+    "original": "Crew press their noses to the windows, hoping for a glimpse of the fabled Forge of Souls.",
+    "translation": "列车员们把鼻子贴上了窗户，渴望一睹传说中那灵魂铸炉的真容。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "1$LE_TheHouseofDays",
+    "original": "Here, the dead can plead their case, in hopes of altering their status.",
+    "translation": "在这里，希望改变地位的死者可以为自己申辩。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "2$LE_TheHouseofDays",
+    "original": "This is the House of Days, where the Pansekritis may be petitioned.",
+    "translation": "这里是时光之屋，潘塞克里蒂斯于此受理请愿。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "6$LE_TheWellofWonders",
+    "original": "Repentant Devil: \"Wells are prisons, Captain. Remember that.",
+    "translation": "悔过的魔鬼：“空井即是牢狱，车长。记住这一点。”",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "9$LE_TheWellofWonders",
+    "original": "\"They put on plays here.\" The Clay Conductor expects you to recognise that this is not a good thing.",
+    "translation": "“他们在这里演剧。” 粘土人列车主管希望你能认识到这不是什么好事。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "6$LE_TheWhiteWell",
+    "original": "The Fatalistic Signalman peers at the Well. \"'I suppose we've seen the worst of it all now', I was just thinking to myself. Happier times.\"",
+    "translation": "听天由命的信号员凝视着空井：“‘大概最糟的都已经过去了吧。’刚才我突然有了这种想法。日子会更好的。”",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "14$LE_Titania",
+    "original": "\"If I could shrink her, I'd put Titania on display behind glass,\" says the Chiropterous Hoarder, voice rasping and hungry.\"",
+    "translation": "“如果能将她变小，我一定要把狄坦妮娅封进玻璃罩里展出，”蝙蝠囤积者用它那沙哑而贪婪的声音如是说道。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "5$LE_WelloftheWolf",
+    "original": "\"We're going in? We have to. I'll take the wheel.\" The Incautious Driver is delighted.",
+    "translation": "“我们要进去吗？我们一定得进去。我来开车。”鲁莽的司机兴致高昂。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "9$LE_WelloftheWolf",
+    "original": "The Signalman grimaces, lighting a cigarette. \"Of course we'd poke around here. Why wouldn't we?\"",
+    "translation": "信号员的脸上闪过一丝愁容，随即点燃了一支香烟：“我们当然会来这里逛逛。为什么不呢？”",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "2$LE_Worlebury-juxta-Mare",
+    "original": "The sea of mist is white and thick as lamb's wool.",
+    "translation": "雾海洁白厚重，一如羊绒。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "12$LE_Worlebury-juxta-Mare",
+    "original": "The Repentant Devil looks thoughtful. \"We could have fun here.\" His definition might not match yours.",
+    "translation": "悔过的魔鬼露出若有所思的神情：“我们可以在这儿找点乐子。”当然，他对乐子的定义大概与你不大一样。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "logEntries.json",
+    "key": "1$LE_WreckoftheBerrenger",
+    "original": "A gleaming hulk in the dark: a wreck of a type you've never seen before.",
+    "translation": "一段机车残骸在黑暗中闪闪发亮——你从未见过这种型号的机车。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "139657$ChangeDescriptionText",
+    "original": "{\"1\":\"You endured the Rite of Raving.\"}",
+    "translation": "{\"1\":\"你经受住了风言仪式。\"}",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "137267$ChangeDescriptionText",
+    "original": "{\"1\":\"You endured the Rite of the Rack.\"}",
+    "translation": "{\"1\":\"你经受住了吊刑仪式。\"}",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "138476$ChangeDescriptionText",
+    "original": "{\"1\":\"You endured the Rite of Wedlock.\"}",
+    "translation": "{\"1\":\"你经受住了蛛婚仪式。\"}",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "135944$LevelDescriptionText",
+    "original": "{\"1\":\"You have sampled Eleutherian Gold\"}",
+    "translation": "{\"1\":\"你已经尝过了厄琉忒里亚黄金茶\"}",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "135943$LevelDescriptionText",
+    "original": "{\"1\":\"You have sampled Empress' Favour\"}",
+    "translation": "{\"1\":\"你已经尝过了女皇甄选\"}",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "135945$LevelDescriptionText",
+    "original": "{\"1\":\"You have sampled Indulgence Blend\"}",
+    "translation": "{\"1\":\"你已经尝过了纵欲拼配茶\"}",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "135942$LevelDescriptionText",
+    "original": "{\"1\":\"You have sampled Midnight's Favour\"}",
+    "translation": "{\"1\":\"你已经尝过了午夜甄选\"}",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "135907$LevelDescriptionText",
+    "original": "{\"1\":\"You have gone where you should not\"}",
+    "translation": "{\"1\":\"你已经去了你不应该去的地方\"}",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "139657$LevelDescriptionText",
+    "original": "{\"1\":\"You endured the Rite of Raving\"}",
+    "translation": "{\"1\":\"你经受住了风言仪式\"}",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "137267$LevelDescriptionText",
+    "original": "{\"1\":\"You endured the Rite of the Rack\"}",
+    "translation": "{\"1\":\"你经受住了吊刑仪式\"}",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "138476$LevelDescriptionText",
+    "original": "{\"1\":\"You endured the Rite of Wedlock\"}",
+    "translation": "{\"1\":\"你经受住了蛛婚仪式\"}",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "137268$LevelDescriptionText",
+    "original": "{\"1\":\"You endured the Rite of Wrongs\"}",
+    "translation": "{\"1\":\"你经受住了过错仪式\"}",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "139879$LevelDescriptionText",
+    "original": "{\"1\":\"There is a fault with your engine\"}",
+    "translation": "{\"1\":\"你的机车有故障\"}",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "139377$LevelDescriptionText",
+    "original": "{\"1\":\"You have learned something you should not\"}",
+    "translation": "{\"1\":\"你已经学到了一些你不应该学到的东西。\"}",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "135695$LevelDescriptionText",
+    "original": "{\"1\":\"Your encounter with the Scorn Fluke left an indelible mark\"}",
+    "translation": "{\"1\":\"你与藐视锚虫的相遇留下了不可磨灭的痕迹\"}",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "134551$LevelDescriptionText",
+    "original": "{\"1\":\"You have been touched by the Halved\"}",
+    "translation": "{\"1\":\"你已被半分者触碰\"}",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "137416$LevelDescriptionText",
+    "original": "{\"1\":\"You are closely entwined with the Liberation of the Night\"}",
+    "translation": "{\"1\":\"你与黑夜解放紧密交织在一起\"}",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "314429$DateTimeCreated",
+    "original": "0001-01-01T00:00:00",
+    "translation": "0001-01-01T00:00:00",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "298353$DateTimeCreated",
+    "original": "0001-01-01T00:00:00",
+    "translation": "0001-01-01T00:00:00",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "287750$DateTimeCreated",
+    "original": "0001-01-01T00:00:00",
+    "translation": "0001-01-01T00:00:00",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "311018$DateTimeCreated",
+    "original": "0001-01-01T00:00:00",
+    "translation": "0001-01-01T00:00:00",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "308859$DateTimeCreated",
+    "original": "0001-01-01T00:00:00",
+    "translation": "0001-01-01T00:00:00",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "315800$DateTimeCreated",
+    "original": "0001-01-01T00:00:00",
+    "translation": "0001-01-01T00:00:00",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "278204$DateTimeCreated",
+    "original": "0001-01-01T00:00:00",
+    "translation": "0001-01-01T00:00:00",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "308862$DateTimeCreated",
+    "original": "0001-01-01T00:00:00",
+    "translation": "0001-01-01T00:00:00",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "131235$CapAdvanced",
+    "original": "[q:132353]",
+    "translation": "[q:132353]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "298420$DateTimeCreated",
+    "original": "0001-01-01T00:00:00",
+    "translation": "0001-01-01T00:00:00",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "314694$DateTimeCreated",
+    "original": "0001-01-01T00:00:00",
+    "translation": "0001-01-01T00:00:00",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "283524$DateTimeCreated",
+    "original": "0001-01-01T00:00:00",
+    "translation": "0001-01-01T00:00:00",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "289576$DateTimeCreated",
+    "original": "0001-01-01T00:00:00",
+    "translation": "0001-01-01T00:00:00",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "310147$DateTimeCreated",
+    "original": "0001-01-01T00:00:00",
+    "translation": "0001-01-01T00:00:00",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "302064$DateTimeCreated",
+    "original": "0001-01-01T00:00:00",
+    "translation": "0001-01-01T00:00:00",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "311023$DateTimeCreated",
+    "original": "0001-01-01T00:00:00",
+    "translation": "0001-01-01T00:00:00",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "131237$CapAdvanced",
+    "original": "[q:132352]",
+    "translation": "[q:132352]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "306757$DateTimeCreated",
+    "original": "0001-01-01T00:00:00",
+    "translation": "0001-01-01T00:00:00",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "315807$DateTimeCreated",
+    "original": "0001-01-01T00:00:00",
+    "translation": "0001-01-01T00:00:00",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "298101$DateTimeCreated",
+    "original": "0001-01-01T00:00:00",
+    "translation": "0001-01-01T00:00:00",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "289574$DateTimeCreated",
+    "original": "0001-01-01T00:00:00",
+    "translation": "0001-01-01T00:00:00",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "297657$DateTimeCreated",
+    "original": "0001-01-01T00:00:00",
+    "translation": "0001-01-01T00:00:00",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "288648$DateTimeCreated",
+    "original": "0001-01-01T00:00:00",
+    "translation": "0001-01-01T00:00:00",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "314692$DateTimeCreated",
+    "original": "0001-01-01T00:00:00",
+    "translation": "0001-01-01T00:00:00",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "297469$DateTimeCreated",
+    "original": "0001-01-01T00:00:00",
+    "translation": "0001-01-01T00:00:00",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "315805$DateTimeCreated",
+    "original": "0001-01-01T00:00:00",
+    "translation": "0001-01-01T00:00:00",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "298099$DateTimeCreated",
+    "original": "0001-01-01T00:00:00",
+    "translation": "0001-01-01T00:00:00",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "309635$DateTimeCreated",
+    "original": "0001-01-01T00:00:00",
+    "translation": "0001-01-01T00:00:00",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "298103$DateTimeCreated",
+    "original": "0001-01-01T00:00:00",
+    "translation": "0001-01-01T00:00:00",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "306753$DateTimeCreated",
+    "original": "0001-01-01T00:00:00",
+    "translation": "0001-01-01T00:00:00",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "298355$DateTimeCreated",
+    "original": "0001-01-01T00:00:00",
+    "translation": "0001-01-01T00:00:00",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "306755$DateTimeCreated",
+    "original": "0001-01-01T00:00:00",
+    "translation": "0001-01-01T00:00:00",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "297607$DateTimeCreated",
+    "original": "0001-01-01T00:00:00",
+    "translation": "0001-01-01T00:00:00",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "297621$DateTimeCreated",
+    "original": "0001-01-01T00:00:00",
+    "translation": "0001-01-01T00:00:00",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "318661$DateTimeCreated",
+    "original": "0001-01-01T00:00:00",
+    "translation": "0001-01-01T00:00:00",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "302121$DateTimeCreated",
+    "original": "0001-01-01T00:00:00",
+    "translation": "0001-01-01T00:00:00",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "306759$DateTimeCreated",
+    "original": "0001-01-01T00:00:00",
+    "translation": "0001-01-01T00:00:00",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "309043$DateTimeCreated",
+    "original": "0001-01-01T00:00:00",
+    "translation": "0001-01-01T00:00:00",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "296203$DateTimeCreated",
+    "original": "0001-01-01T00:00:00",
+    "translation": "0001-01-01T00:00:00",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "298349$DateTimeCreated",
+    "original": "0001-01-01T00:00:00",
+    "translation": "0001-01-01T00:00:00",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "298351$DateTimeCreated",
+    "original": "0001-01-01T00:00:00",
+    "translation": "0001-01-01T00:00:00",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "297687$DateTimeCreated",
+    "original": "0001-01-01T00:00:00",
+    "translation": "0001-01-01T00:00:00",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "298105$DateTimeCreated",
+    "original": "0001-01-01T00:00:00",
+    "translation": "0001-01-01T00:00:00",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "qualities.json",
+    "key": "298107$DateTimeCreated",
+    "original": "0001-01-01T00:00:00",
+    "translation": "0001-01-01T00:00:00",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui9",
+    "original": "Uploading... {{A}}%",
+    "translation": "上传中... {{A}}%",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui18",
+    "original": "Sunless Skies v{{A}}.fcf{{B}}af{{C}}a",
+    "translation": "无光之空 v{{A}}.fcf{{B}}af{{C}}a",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui23",
+    "original": "Ambient SFX Volume ({{A}}%):",
+    "translation": "环境音效音量 ({{A}}%):",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui24",
+    "original": "SFX Volume ({{A}}%):",
+    "translation": "音效音量 ({{A}}%):",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui25",
+    "original": "Music Volume ({{A}}%):",
+    "translation": "音乐音量  ({{A}}%):",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui35",
+    "original": "{{A}}x{{B}}",
+    "translation": "{{A}}x{{B}}",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui39",
+    "original": "Toggle Journal",
+    "translation": "开/关日志面板",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui40",
+    "original": "Toggle Profile",
+    "translation": "开/关概览面板",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui41",
+    "original": "Toggle Hold",
+    "translation": "开/关货舱面板",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui42",
+    "original": "Horn",
+    "translation": "鸣笛",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui43",
+    "original": "Light Toggle",
+    "translation": "开/关大灯",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui45",
+    "original": "Interact with object",
+    "translation": "与物体交互",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui46",
+    "original": "Engage secondary weapon",
+    "translation": "使用副武器",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui47",
+    "original": "Engage primary weapon",
+    "translation": "使用主武器",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui48",
+    "original": "Pause or resume",
+    "translation": "暂停或继续",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui49",
+    "original": "Engage Scout",
+    "translation": "释放侦察兽",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui51",
+    "original": "Cruise / Full Steam",
+    "translation": "巡航速度/全速前进",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui52",
+    "original": "Lateral Thrust Left",
+    "translation": "向右冲刺",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui53",
+    "original": "Lateral Thrust Right",
+    "translation": "向左冲刺",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui54",
+    "original": "Move Backward",
+    "translation": "后退",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui55",
+    "original": "Move Forward",
+    "translation": "前进",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui57",
+    "original": "Move Left",
+    "translation": "左转",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui58",
+    "original": "Move Right",
+    "translation": "右转",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui69",
+    "original": "Toggle Officers",
+    "translation": "开/关车务官面板",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui70",
+    "original": "UI Navigation Horizontal",
+    "translation": "UI 水平导航",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui71",
+    "original": "UI Move Right",
+    "translation": "UI 向右移动",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui72",
+    "original": "UI Move Left",
+    "translation": "UI 向左移动",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui73",
+    "original": "UI Navigation Vertical",
+    "translation": "UI 垂直导航",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui74",
+    "original": "UI Move Up",
+    "translation": "UI 向上移动",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui75",
+    "original": "UI Move Down",
+    "translation": "UI 向下移动",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui76",
+    "original": "UI Scroll",
+    "translation": "UI 滚动",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui77",
+    "original": "UI Scroll Up",
+    "translation": "UI 向上滚动",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui78",
+    "original": "UI Scroll Down",
+    "translation": "UI 向下滚动",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui79",
+    "original": "UI Select",
+    "translation": "UI 选择",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui80",
+    "original": "UI Submit",
+    "translation": "UI 提交",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui82",
+    "original": "UI Tab Right",
+    "translation": "UI 向右切换",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui83",
+    "original": "UI Tab Left",
+    "translation": "UI 向左切换",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui86",
+    "original": "Dodge left:\\nDodge right:",
+    "translation": "向左躲避：\\n向右躲避：",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui87",
+    "original": "Thrust:\\nBrake:\\nTurn left:\\nTurn right:",
+    "translation": "前进：\\n刹车：\\n左转：\\n右转：",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui90",
+    "original": "{{A}} barrels in hold. \\n{{B}}% remaining in current barrel.",
+    "translation": "货舱中剩余{{A}}桶.\\n这一桶中还剩{{B}}%.",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui92",
+    "original": "Terror: {{A}}%\\nNightmares: Untroubled",
+    "translation": "恐怖：{{A}}%\\n恶梦：无忧",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui93",
+    "original": "Hold [H]",
+    "translation": "货舱 [H]",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui94",
+    "original": "Profile [P]",
+    "translation": "概览 [P]",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui95",
+    "original": "Journal [J]",
+    "translation": "日志 [J]",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui96",
+    "original": "Officers [O]",
+    "translation": "车务官 [O]",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui97",
+    "original": "Chart [Tab]",
+    "translation": "航图 [Tab]",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui103",
+    "original": "Report a bug (F{{A}})",
+    "translation": "报告Bug (F{{A}})",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui108",
+    "original": "Disable Tip Popups",
+    "translation": "禁用提示弹窗",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui115",
+    "original": "x{{A}}",
+    "translation": "x{{A}}",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui116",
+    "original": "[<#FFD27C>G</color>] Explore",
+    "translation": "[<#FFD27C>G</color>]探索",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui118",
+    "original": "[<#FFD27C>R</color>] Dock",
+    "translation": "[<#FFD27C>R</color>]进站",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui129",
+    "original": "Fuel and Supplies are consumed at the default rate.",
+    "translation": " 燃料和补给以默认速度消耗。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui131",
+    "original": "Enemy projectiles move at the default speed.",
+    "translation": " 敌人的射弹以默认速度移动。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui133",
+    "original": "Only a few player weapons arc towards targets.",
+    "translation": "修正玩家少数武器的弹道。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui136",
+    "original": "Many player weapons arc gently towards targets, making aiming easier.",
+    "translation": "略微修正玩家大多数武器的弹道，使得瞄准更加容易。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui138",
+    "original": "Fuel and Supplies last longer, making it a little easier to survive and prosper. ",
+    "translation": " 燃料和补给更加持久，让生存和赚钱更加容易。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui140",
+    "original": "Enemy projectiles are somewhat slower, making it easier to avoid them.",
+    "translation": " 敌人的射弹速度变慢，使之更容易避开。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui142",
+    "original": "Many player weapons arc aggressively towards targets, making aiming easier.",
+    "translation": "大幅修正玩家大多数武器的弹道，使得瞄准更加容易。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui144",
+    "original": "Fuel and Supplies last much longer. If you're finding it hard to survive or earn money, this should help.",
+    "translation": "燃料和补给更加持久，如果你认为生存或赚钱很困难，这应该有所帮助。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui146",
+    "original": "Enemy projectiles are significantly slower, making it easier to avoid them.",
+    "translation": " 敌人的射弹速度明显变慢，使之更容易避开。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui154",
+    "original": "[<#FFD27C>R</color>] Scavenge",
+    "translation": "[<#FFD27C>R</color>]搜刮",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui155",
+    "original": "Are you sure you want to save and\\nreturn to the title screen?",
+    "translation": "确定要保存并\\n返回开始界面吗？",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui157",
+    "original": "Doctor",
+    "translation": "博士",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui158",
+    "original": "Professor",
+    "translation": "教授",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui159",
+    "original": "Officer",
+    "translation": "长官",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui160",
+    "original": "Archivist",
+    "translation": "典藏官",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui161",
+    "original": "Principal",
+    "translation": "总监",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui162",
+    "original": "Administrator",
+    "translation": "行政官",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui163",
+    "original": "Secretary",
+    "translation": "秘书官",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui164",
+    "original": "Intendant",
+    "translation": "总督",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui165",
+    "original": "Nurse",
+    "translation": "护士",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui166",
+    "original": "Comrade",
+    "translation": "同志",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui167",
+    "original": "Brother",
+    "translation": "修士",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui168",
+    "original": "Sister",
+    "translation": "修女",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui169",
+    "original": "Reverend",
+    "translation": "神父",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui172",
+    "original": "Citizen",
+    "translation": "公民",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui173",
+    "original": "Captain",
+    "translation": "车长",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui174",
+    "original": "My lord",
+    "translation": "大人",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui175",
+    "original": "My lady",
+    "translation": "夫人",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui191",
+    "original": "Your engine was damaged in its escape from the Blue Kingdom. The captain was injured. Can you see her back to New Winchester? Time is running out for Captain Whitlock.",
+    "translation": "逃离蓝色王国时，你所在的机车受损，车长负伤。你能将她活着送回新温彻斯特吗？惠特洛克车长已经奄奄一息。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui201",
+    "original": "Reputations",
+    "translation": "声誉",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui209",
+    "original": "You coast into the bustle, the din, the soot and the steam of Wolvesey Station. It is clogged with other engines: scrappy mining locomotives from Lustrum-way, weathered explorers gleaming with frost; sleek Company vessels with bright brass fittings.\\r\\n\\r\\nNo sooner have you pulled into the sidings than a Brusque Stationmaster bustles over. He requests to come aboard. \"I must speak with your captain,\" he insists, brandishing a ledger. \"The usual formalities.\"",
+    "translation": "你的机车滑入伍夫塞站的铁轨，陷入了喧嚣、噪响、煤尘与蒸汽的洪流。站内早已水泄不通：有从伍载镇来的东拼西凑的采矿机车，有满身冰霜、历尽风雪的探险机车，还有装饰着锃亮黄铜配件、线条流畅的迎风公司机车。\\n\\n你们刚把机车驶进侧线，一位粗鲁的站长便赶了过来，要求登车。他说，\"我必须和你们的车长谈谈，\"同时挥舞着手中的账本，口气坚决地补充道：\"例行公事。\"",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui211",
+    "original": "The crew exchange bleak, wordless looks. The <i>Orphean</i> itself feels suddenly more empty. The Stationmaster looks confused. You inform him that unfortunately, Captain Whitlock has just passed.\\r\\n\\r\\n\"Ah,\" he says, neutrally. \"Sorry to hear that. Very sad, very sad.\" He waits for what he considers an appropriate minute and a half before continuing. \"Alas, even amidst tragedy the cogs of bureaucracy must turn. If Captain Whitlock is deceased, the Station Authority require their answers from the first officer.\" \\r\\n\\r\\nHe dons a set of spectacles and locates his pen. \"It will be relatively painless. Name, background, purpose of visit, et cetera. Shall we begin?\"",
+    "translation": "列车员们相顾无言，目光凄然。<i>俄耳甫斯号</i>仿佛突然空落了下来。站长面露疑色。你告诉他：就在刚刚，惠特洛克车长，去世了。\\n\\n“啊。”他平静地回应，“很遗憾，真是遗憾。悲哀至极，悲哀至极。”他默然站了一分半钟，似乎在默哀。随后他继续说道：“唉，即便悲剧发生，官僚系统也不会停摆。如果惠特洛克车长身故，车站管理局依然需要大副代为答复。”\\n\\n他戴上眼镜，取出钢笔，说道：“流程不算复杂。只需要姓名、背景、来访目的等。我们开始吧？”",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui212",
+    "original": "Today, London lies between the stars. Her new empire unfolds across the heavens.\\r\\n\\r\\nBut ten years ago – before the northern gate was opened; before the Renewed Empress led her people into the skies – it lay in a vast cavern far beneath the Earth. Deep. Dark. Marvellous.\\r\\n\\r\\nWho were you, then?",
+    "translation": "如今，伦敦坐落于群星之间，新帝国向天际铺展。\n\n可十年前，北境之门尚未开启，新生的女皇也未率子民升上天穹。彼时，伦敦仍位于一座广袤洞窟之中。地底幽深，黑暗，奇绝无比。\n\n当时，你是何许人也？",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui218",
+    "original": "Outfit {{A}}",
+    "translation": "衣物 {{A}}",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui219",
+    "original": "Chin {{A}}",
+    "translation": "下巴 {{A}}",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui220",
+    "original": "Nose {{A}}",
+    "translation": "鼻子 {{A}}",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui221",
+    "original": "Brow {{A}}",
+    "translation": "眉毛 {{A}}",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui222",
+    "original": "Hair {{A}}",
+    "translation": "头发 {{A}}",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui223",
+    "original": "Hat {{A}}",
+    "translation": "帽子 {{A}}",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui226",
+    "original": "Specialist",
+    "translation": "专家",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui231",
+    "original": "Even the stars have secrets. But they won't keep them from you.\\nA message from an old friend begins an unwise quest to learn a secret that the stars hide. What drives you? Curiosity? Justice? Insolence? Whatever it is, it will be tested.\\r\\n\\r\\n<i>Be warned: this is a demanding ambition, best played by a lineage that has already completed Wealth or Fame.</i>",
+    "translation": "即便是群星，也有自己的秘密。可它们不会向你隐瞒。\n一位旧识来信，引你踏上旅途。这是场鲁莽的冒险，只为揭开群星掩藏的秘密。是什么驱使你踏上征途？好奇？正义？还是狂妄？无论是哪种，都将在冒险途中经受考验。\n\n<i>请注意：这个野心相当困难，建议在完成财富或名声故事线后游玩。</i>",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui232",
+    "original": "THE TRUTH",
+    "translation": "真相",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui233",
+    "original": "You will immortalise your exploits in the Song of the Sky.\\nFor centuries, people have launched themselves into the unknown in the hope of making a name for themselves. You're sure you'll succeed. After all, you never heard of anyone who didn't.\\r\\n\\r\\n<i>Gather stories of your exploits, and write about them in New Winchester.</i>",
+    "translation": "你将在《天野之歌》中永载自己的功绩。\n几百年来，人们不断踏入未知之地，希望能够扬名立万。你确信自己会成功。毕竟，你从未听说过有谁能活着回来讲述他们的失败。\n\n<i>收集你的英勇事迹，并在新温彻斯特写下它们。</i>",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui234",
+    "original": "FAME",
+    "translation": "名望",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui235",
+    "original": "You want a comfortable retirement. And by 'comfortable', you mean 'extravagant'.\\nMany have made their fortunes out among the stars. Many more have failed, broken and lost in the drifting night. Will you be different?\\r\\n\\r\\n<i>To win, gather a substantial retirement fund, acquire lodgings at a hub port, and retire.</i>",
+    "translation": "你渴望安逸的退休生活。你所说的“安逸”，意味着“奢华至极”。\n在星空中发家致富的人不少，但失败、破产、迷失在漂泊的黑夜里的人更多。你会有所不同吗？\n\n<i>要想获胜，你需要积攒可观的退休金，在某座中心车站购置住所，并选择退休。</i>",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui236",
+    "original": "WEALTH",
+    "translation": "财富",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui237",
+    "original": "A REVOLUTIONARY",
+    "translation": "革命家",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui238",
+    "original": "A MINISTRY AUDITOR",
+    "translation": "公德部审查员",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui239",
+    "original": "A ZAILOR",
+    "translation": "地海海员",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui240",
+    "original": "A PRIEST",
+    "translation": "牧师",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui241",
+    "original": "For a time, you served at the Ministry of Public Decency, which has become Her Majesty's preferred instrument.\\r\\n\\r\\n<i>You will begin with high Mirrors, the skill of investigating and deducing.</i>",
+    "translation": "你曾供职于公德部，女王陛下眼下最为倚重的机构之一。\n\n<i>你开局将拥有更高的镜子值，镜子是调查和推理的技巧。</i>",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui242",
+    "original": "A student of the sciences, the arts, of philosophy. \\r\\n\\r\\n<i>You will begin with high Mirrors, the skill of investigating and deducing.</i>",
+    "translation": "研习科学、艺术、或哲学的学生。 \n\n<i>你开局将拥有更高的镜子值，镜子是调查和推理的技巧。</i>",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui243",
+    "original": "AN ACADEMIC",
+    "translation": "学者",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui244",
+    "original": "Hymns and hymnals, Sundays and sermons.\\r\\n\\r\\n<i>You will begin with high Hearts, the skill of convincing and enduring.</i>",
+    "translation": "圣歌和赞美诗，说道与礼拜日。\n\n<i>你开局将拥有更高的红心值，红心是说服和生存的技巧。</i>",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui245",
+    "original": "The pen. The ink. The blank, monstrous page. \\r\\n\\r\\n<i>You will begin with high Hearts, the skill of convincing and enduring.</i>",
+    "translation": "笔尖静候，墨水将滴，狰狞白纸，待你谱写。\n\n<i>你开局将拥有更高的红心值，红心是说服和生存的技巧。</i>",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui246",
+    "original": "A POET",
+    "translation": "诗人",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui247",
+    "original": "You roved the mournful, merciless waters of the Unterzee. \\r\\n\\r\\n<i>You will begin with high Iron, the skill of confronting and overcoming.</i>",
+    "translation": "你曾漫游海泽那哀伤无情的水域。\n\n<i>你开局将拥有更高的钢铁值，钢铁是战斗和取胜的技巧。</i>",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui248",
+    "original": "Yours was not to reason why. Yours was but to do and die.\\r\\n\\r\\n<i>You will begin with high Iron, the skill of confronting and overcoming.</i>",
+    "translation": "你的职责不是质疑，而是服从与赴死。\n\n<i>你开局将拥有更高的钢铁值，钢铁是战斗和取胜的技巧。</i>",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui249",
+    "original": "A SOLDIER",
+    "translation": "士兵",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui250",
+    "original": "The world is broken. One way for the rich, another for the poor. You decided to do something about it.\\r\\n\\r\\n<i>You will begin with high Veils, the skill of evading and deceiving.</i>",
+    "translation": "这世界害了病。富人走阳关道，穷人走独木桥。你决定为此做点什么。\n\n<i>你开局将拥有更高的面纱值，面纱是隐蔽和欺骗的技巧。</i>",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui251",
+    "original": "No parents! No laws! No Masters! But also no roof over your head, no money, and often no dinner. Freedom comes at a price. \\r\\n\\r\\n<i>You will begin with high Veils, the skill of evading and deceiving.</i>",
+    "translation": "无父无母！无视律法！无惧领主！但也无遮无蔽，身无分文，还经常无以果腹。自由，是有代价的。\n\n<i>你将以更高的面纱值开始，面纱是隐蔽和欺骗的技巧。</i>",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui252",
+    "original": "A STREET URCHIN",
+    "translation": "流浪儿",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui258",
+    "original": "You were a street urchin.\\n\\nYou raced, barefoot, across the chimneyed rooftops. You stole wigs, wallets, and purses. You made offerings to forgotten gods. \\r\\n\\r\\nThe urchins of Old London organise into gangs. \\r\\n\\r\\nWhich did you belong to?",
+    "translation": "你曾流落街头。\n\n你曾在屋顶上、烟囱间赤脚奔跑。你曾偷走假发、钱夹和皮包。你曾供奉被遗忘的神灵。\n\n旧伦敦的流浪儿们拉帮结派。\n\n你来自哪一个帮派？",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui259",
+    "original": "The most militaristic of the gangs, in their blue jackets and bright buttons. You attained the rank of corporal.\\r\\n \\r\\n<i>Increases your Iron, the skill of confronting and overcoming, and affiliates you with Villainy.</i>",
+    "translation": "纪律最为森严的帮派，成员个个身穿蓝夹克，亮闪闪的纽扣一字排开。你在其中官至下士。\n\n<i>增加你的钢铁值，钢铁是战斗和取胜的技巧，并让你与恶棍相联系。</i>",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui261",
+    "original": "Every Fisher-King bears an old wound. Every Fisher-King talks to the wind. Every Fisher-King knows things they should not know. \\r\\n\\r\\n<i>Increases your Mirrors, the skill of deducing and observing, and affiliates you with Villainy.</i>",
+    "translation": "每位渔人王都身负旧伤。每位渔人王都掌握风语。每位渔人王都知晓不该知晓之事。\n\n<i>增加你的镜子值，镜子是调查和推理的技巧，并让你与恶棍相联系。</i>",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui263",
+    "original": "A close-knit band that occupied a haunted rookery in the worst part of the city. \\r\\n\\r\\n<i>Increases your Hearts, the skill of convincing and enduring, and affiliates you with Villainy.</i>",
+    "translation": "一帮团结紧密的同伴，盘踞在城中最破败、闹鬼传闻最盛的鸽棚旧区。\n\n<i>增加你的红心值、红心是说服和生存的技巧，并让你与恶棍相联系。</i>",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui265",
+    "original": "You were a soldier.\\n\\nYou served in Her Majesty's military. \\r\\n\\r\\nBut how, exactly?",
+    "translation": "你曾是士兵。\n\n效力于女皇陛下的军队。\n\n不过，你是如何效力的？",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui266",
+    "original": "An army marches on its stomach. You had to find supplies by whatever means necessary.\\r\\n\\r\\n<i>Increases your Veils, the skill of deceiving and evading, and affiliates you with Villainy.</i>",
+    "translation": "军队是铁，粮食是钢。你得不择手段地搜寻补给。\n\n<i>增加你的面纱值，面纱是隐蔽和欺骗的技巧，并让你与恶棍相联系。</i>",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui268",
+    "original": "You were a sapper, a mechanic, an architect, an inventor – all while shells fell and bullets flew.\\r\\n\\r\\n<i>Increases your Mirrors, the skill of investigating and deducing, and affiliates you with Establishment.</i>",
+    "translation": "你曾是工程兵，兼机械师，兼建筑师，兼发明家——身处枪林弹雨，你自沉迷发明。\n\n<i>增加你的镜子值，镜子是调查和推理的技巧，并使你与权贵相联系。</i>",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui270",
+    "original": "You served in the Blues, conducting labyrinthine ceremonial duties and defending Her Majesty's person.\\r\\n\\r\\n<i>Increases your Hearts, the skill of convincing and enduring, and affiliates you with Bohemia.</i>",
+    "translation": "你曾在蓝色军团服役，执行无比繁琐的仪仗任务，还负责保卫女王陛下的人身安全。\n\n<i>增加你的红心值，红心是说服和生存的技巧，并使你与波西米亚派艺术家相联系。</i>",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui272",
+    "original": "You were a poet.\\n\\nPoetry was popular in Old London. Some poets sought fame, others art. Some simply enjoyed Bohemian company.  \\r\\n\\r\\nThree pre-eminent artistic movements have come to prominence. \\r\\n\\r\\nWhich are your works most associated with?",
+    "translation": "你曾是诗人。\n\n诗歌在旧伦敦风靡一时。有人追求名声，有人追求艺术，也有人只是醉心于波西米亚式的放浪生活。\n\n如今，三场声势浩大的艺术运动正崭露头角。\n\n你的作品，与哪一派最为相契？",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui273",
+    "original": "A new tradition, born in the Empress' Court. Their works are patriotic, bombastic, and occupied with the iconography of time: clocks and seasons and sand and so forth. \\r\\n\\r\\n<i>Increases your Iron, the skill of confronting and overcoming, and affiliates you with Bohemia.</i>",
+    "translation": "女皇的宫廷里诞生了一种新兴流派。其作品洋溢着爱国热情，气势磅礴，且满是与时间相关的意象：时钟、四季、流沙，诸如此类。\n\n<i>增加你的钢铁值，钢铁是战斗和取胜的技巧，并使你与波西米亚派艺术家相联系。</i>",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui275",
+    "original": "A radical, outlawed school that delights in freedoms found in the dark. \\r\\n\\r\\n<i>Increases your Veils, the skill of deceiving and evading, and affiliates you with Bohemia.</i>",
+    "translation": "一个激进的非法学派，藏于暗处，尽享自由。\n\n<i>增加你的面纱值，面纱是隐蔽和欺骗的技巧，并使你与波西米亚派艺术家相联系。</i>",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui277",
+    "original": "In Old London, they wrote nostalgically of the Surface and the Sun. Now, they write of the Stars, and the Treasures of Heaven. \\r\\n\\r\\n<i>Increases your Mirrors, the skill of investigating and deducing, and affiliates you with Bohemia.</i>",
+    "translation": "在旧伦敦，他们追怀地表和太阳。现如今，他们关注群星和天空的宝藏。\n\n<i>增加你的镜子值，镜子是调查和推理的技巧，并使你与波西米亚派艺术家相联系。</i>",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui279",
+    "original": "You were an academic.\\n\\nPerhaps you were educated at one of the esteemed colleges of Benthic or Somerset. \\r\\n\\r\\nPerhaps you taught yourself, through trial and error and grit. \\r\\n\\r\\nBut what was your field of study?",
+    "translation": "你曾是学者。\n\n或许你曾就读于著名的本栖或萨默塞特大学。\n\n又或许你靠着反复试验、自我摸索和坚韧意志，自学成才。\n\n那么，你专攻的学科是？",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui280",
+    "original": "Once the most indulgent of studies, now the most seditious. The Ministry of Public Decency has gutted the libraries.\\r\\n\\r\\n<i>Increases your Veils, the skill of deceiving and evading, and affiliates you with Academe.</i>",
+    "translation": "这曾是最广博的一门学科，现在则最为激进。为此，公德部已将图书馆洗劫一空。\n\n<i>增加你的面纱值，面纱是隐蔽和欺骗的技巧，并使你与学术界相联系。</i>",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui282",
+    "original": "They call it the Correspondence, the oldest of alphabets. It is maddening, revelatory, and occasionally inflammatory.\\r\\n\\r\\n<i>Increases your Hearts, the skill of convincing and enduring, and affiliates you with Academe.</i>",
+    "translation": "此物名为信符，是最古老的字符语言，使人疯狂，赐人启迪，有时还会令人燃烧。\n\n<i>增加你的红心值，红心是说服和生存的技巧，并使你与学术界相联系。</i>",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui284",
+    "original": "Engineering. Chemistry. Anatomy. Everything you need to break something apart and put it back together again.\\r\\n\\r\\n<i>Increases your Iron, the skill of confronting and overcoming, and affiliates you with Academe.</i>",
+    "translation": "你懂得拆解与拼装所需的一切知识。工程学、化学、甚至解剖学都不在话下。\n\n<i>增加你的钢铁值，钢铁是战斗和取胜的技巧，并使你与学术界相联系。</i>",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui286",
+    "original": "You were a priest.\\n\\nYou preached the word, and brought the needs of the world before the Church in intercession. \\r\\n\\r\\nBut besides God Almighty, to whom did you answer?",
+    "translation": "你曾是牧师。\n\n你传讲圣言，又为着世人的需用，在教会面前代求。\n\n但除全能的主之外，你还听从谁的话呢？",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui287",
+    "original": "Sisyphus had it easy. He never had to contend with Mrs Quigg.\\r\\n\\r\\n<i>Increases your Iron, the skill of confronting and overcoming, and affiliates you with Bohemia.</i>",
+    "translation": "西西弗斯多轻松啊，起码不用和奎格太太打交道。\n\n<i>增加你的钢铁值，钢铁是战斗和取胜的技巧，并使你与波西米亚派艺术家相联系。</i>",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui289",
+    "original": "It was illegal to hunt or harass devils. They were citizens of London, like you. But the Bishop did not care.\\r\\n\\r\\n<i>Increases your Veils, the skill of deceiving and evading, and affiliates you with Villainy.</i>",
+    "translation": "猎杀或骚扰魔鬼是违法行为，因为他们和你一样，也是伦敦公民。但这位主教可不管这些。\n\n<i>增加你的面纱值，面纱是隐蔽和欺骗的技巧，并使你与恶棍相联系。</i>",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui291",
+    "original": "The New Sequence was a young creed, then. Now it has spread to the highest offices of the Church, with Her Majesty's blessing.\\r\\n\\r\\n<i>Increases your Mirrors, the skill of investigating and deducing, and affiliates you with Establishment.</i>",
+    "translation": "新秩序教义当年尚且稚嫩，如今却已传入国教最高阶层，蒙得女王钦赐祝福。\n\n<i>增加你的镜子值，镜子是调查和推理的技巧，并使你与权贵相联系。</i>",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui293",
+    "original": "You were a zee-captain.\\n\\nYou remember bats winging across the still, black sea. The distant lights of London, calling you home. Salty prayers offered to heedless gods. \\r\\n\\r\\nIt was a hard life, and often a short one, but you made your mark. \\r\\n\\r\\nWhat were you known for?",
+    "translation": "你曾是海泽船长。\n\n仍记得那死寂的黑海上，成群蝙蝠振翅掠过；远方的伦敦灯火遥遥唤你归航；还有那献给冷漠诸神的粗俗祷词。\n\n那是一段艰难的生涯，走上这条道路的人往往早逝，但你已经成就了自己的功名。\n\n你究竟是因何闻名？",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui294",
+    "original": "You were a merchant. A precarious life, lived on the knife-edge between fortune and ruin.\\r\\n\\r\\n<i>Increases your Mirrors, the skill of investigating and deducing, and affiliates you with Bohemia.</i>",
+    "translation": "你是个商人，在刀尖上起舞，暴富与破产只在一念之间。\n\n<i>增加你的镜子值，镜子是调查和推理的技巧，并使你与波西米亚派艺术家相联系。</i>",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui296",
+    "original": "Yours were far, lonely journeys. You endured nameless hardships. You rallied your crew in the face of utmost uncertainty.\\r\\n\\r\\n<i>Increases your Hearts, the skill of convincing and enduring, and affiliates you with Academe.</i>",
+    "translation": "航程漫长而孤寂，你承受着难以言说的困苦，却在面对完全的未知时召集船员，坚定前行。\n\n<i>增加你的红心值，红心是说服和生存的技巧，并使你与学者相联系。</i>",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui298",
+    "original": "Her Majesty's navy had a great many opinions on what should and shouldn't be sold in her territories. Your own opinions were rather different.\\r\\n\\r\\n<i>Increases your Veils, the skill of deceiving and evading, and affiliates you with Villainy.</i>",
+    "translation": "女王陛下的海军总有一长串清单，规定哪些物品可以在帝国领地中流通，哪些则不可以。而你对这些事的看法，可不太一样。\n\n<i>增加你的面纱值，面纱是隐蔽和欺骗的技巧，并使你与恶棍相联系。</i>",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui300",
+    "original": "You were an Auditor.\\n\\nThe Ministry is responsible for the promotion and preservation of British culture. \\r\\n\\r\\nIt is a sprawling, many-branched institution. \\r\\n\\r\\nTo which department were you appointed?",
+    "translation": "你曾是审查员。\n\n公德部负责宣扬和传承不列颠文化。\n\n该部门机构庞杂、分支繁多。\n\n你曾在哪个部门任职？",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui301",
+    "original": "Why censor when you can correct? A revised word here; an omitted sentence there. Now the whole page says something different; something less troublesome.\\r\\n\\r\\n<i>Increases your Iron, the skill of confronting and overcoming, and affiliates you with Establishment.</i>",
+    "translation": "若修改即可，则何必审查？这里改句话，那里删段话，整页的意思立刻大为不同，和谐多了。\n\n<i>增加你的钢铁值，钢铁是战斗和取胜的技巧，并使你与权贵相联系。</i>",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui303",
+    "original": "Their task is to determine what constitutes 'Britishness', and identify threats to it.\\r\\n\\r\\n<i>Increases your Hearts, the skill of convincing and enduring, and affiliates you with Establishment.</i>",
+    "translation": "他们的任务，是定义何谓“不列颠性”，并识别一切威胁。\n\n<i>增加你的红心值，红心是说服和生存的技巧，并使你与权贵相联系。</i>",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui305",
+    "original": "The Office ingests raw information before it can reach vulnerable citizens, then regurgitates it in terms they should find less distressing.\\r\\n\\r\\n<i>Increases your Veils, the skill of deceiving and evading, and affiliates you with Establishment.</i>",
+    "translation": "为避免心理脆弱的普通公民直接接触一手信息，审查部门会先加工原始信息，然后产出言辞更温和的二手信息。\n\n<i>增加你的面纱值，面纱是隐蔽和欺骗的技巧，并使你与权贵相联系。</i>",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui307",
+    "original": "You were a revolutionary.\\n\\nThe law offered you no protection. \\r\\n\\r\\nThe engines of the state were set against that which you knew to be just. \\r\\n\\r\\nSo how did you resist?",
+    "translation": "你曾是革命家。\n\n法律未曾予你庇护。\n\n国家机器与你眼中的正义为敌。\n\n那么，你是如何奋起反抗的？",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui308",
+    "original": "Art travels swiftly. It cannot be imprisoned. It cannot be hanged.\\r\\n\\r\\n<i>Increases your Hearts, the skill of convincing and enduring, and affiliates you with Bohemia.</i>",
+    "translation": "艺术不胫而走，困不住，绞不死。\n\n<i>增加你的红心值，红心是说服和生存的技巧，并使你从属于波西米亚派艺术家。</i>",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui310",
+    "original": "Lies are the tools of tyrants. You published research to expose those lies, and illuminate injustice.\\r\\n\\r\\n<i>Increases your Mirrors, the skill of investigating and deducing, and affiliates you with Academe.</i>",
+    "translation": "谎言是暴君的工具。你发表研究，戳穿那些谎言，照亮世间的不公。\n\n<i>增加你的镜子值，镜子是调查和推理的技巧，并使你与学者相联系。</i>",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui312",
+    "original": "You marched. And when marching wasn't enough, you fought.\\r\\n\\r\\n<i>Increases your Iron, the skill of confronting and overcoming, and affiliates you with Villainy.</i>",
+    "translation": "你曾走上街头。游行无效时，你便举起拳头，奋起抗争。\n\n<i>增加你的钢铁值，钢铁是战斗和取胜的技巧，并使你与恶棍相联系。</i>",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui314",
+    "original": "Choose an ambition.\\n\\nWhat does winning mean to you?",
+    "translation": "选择一个野心。\n\n胜利对你意味着什么？",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui315",
+    "original": "Many have made their fortunes out among the stars. Many more have failed, broken and lost in the drifting night. Will you be different?\\r\\n\\r\\n<i>To win, gather a substantial retirement fund, acquire lodgings at a hub port, and retire.</i>",
+    "translation": "在星空中发家致富的人不少，但失败、破产、迷失在漂泊的黑夜里的人更多。你会有所不同吗？\n\n<i>要想获胜，你需要积攒可观的退休金，在某座中心车站购置住所，并选择退休。</i>",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui318",
+    "original": "You remember bats winging across the still, black sea. The distant lights of London, calling you home. Salty prayers offered to heedless gods. \\r\\n\\r\\nIt was a hard life, and often a short one, but you made your mark. \\r\\n\\r\\nWhat were you known for?",
+    "translation": "仍记得那死寂的黑海上，成群蝙蝠振翅掠过；远方的伦敦灯火遥遥唤你归航；还有那献给冷漠诸神的粗俗祷词。\n\n那是一段艰难的生涯，走上这条道路的人往往早逝，但你已经成就了自己的功名。\n\n你究竟是因何闻名？",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui322",
+    "original": "[<#FFD27C>R</color>] Undock",
+    "translation": "[<#FFD27C>R</color>]离站",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui325",
+    "original": "[<#FFD27C>R</color>] Loot",
+    "translation": "[<#FFD27C>R</color>]搜刮",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui327",
+    "original": "You now have {{A}} x Sovereigns",
+    "translation": "你现在拥有 {{A}} x 金镑",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui328",
+    "original": "You've lost {{A}} x Sovereigns (new total {{B}}).",
+    "translation": "你失去了 {{A}} x 金镑 (现在共有{{B}}).",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui329",
+    "original": "You've gained {{A}} x Hull (new total {{B}}).",
+    "translation": "你获得了 {{A}} x 车体 (现在共有{{B}}).",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui330",
+    "original": "You now have {{A}} x Supplies",
+    "translation": "你现在拥有 {{A}} x 补给",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui331",
+    "original": "You now have {{A}} x Diffident Bat",
+    "translation": "你现在拥有 {{A}} x 自卑蝠",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui332",
+    "original": "You now have {{A}} x Cotterell & Hathersage 'Jerusalem'",
+    "translation": "你现在拥有 {{A}} x 卡特洛尔 & 哈瑟萨奇 '耶路撒冷'型火炮",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui333",
+    "original": "<i>Another crewmember, lost...</i>",
+    "translation": "<i>又失去了一名列车员……</i>",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui334",
+    "original": "You've lost {{A}} x Crew (new total {{B}}).",
+    "translation": "你失去了 {{A}} x 列车员 (现在共有{{B}}).",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui336",
+    "original": "{{A}} Experience Gained",
+    "translation": "获得了 {{A}} 经验",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui337",
+    "original": "You've gained {{A}} x Terror (new total {{B}}).",
+    "translation": "你获得了 {{A}} x 恐惧 (现在共有{{B}}).",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui338",
+    "original": "You've gained {{A}} x Supplies (new total {{B}}).",
+    "translation": "你获得了 {{A}} x 补给 (现在共有{{B}}).",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui339",
+    "original": "You've lost {{A}} x Hull (new total {{B}}).",
+    "translation": "你失去了 {{A}} x 车体 (现在共有{{B}}).",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui340",
+    "original": "dummydummy",
+    "translation": "占位符",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui341",
+    "original": "{{A}} crates in hold. \\n{{B}}% remaining in current crate.",
+    "translation": "货舱中剩余{{A}}箱。 \n这一箱中还剩{{B}}%。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui348",
+    "original": "Press        to send out your scout\\n(costs Supplies)",
+    "translation": "     派出侦察兽\n(需消耗补给)",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui349",
+    "original": "dummydummy",
+    "translation": "占位符",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui355",
+    "original": "You've gained {{A}} x Sovereigns (new total {{B}}).",
+    "translation": "你获得了{{A}} x 金镑（现在有{{B}}）。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui356",
+    "original": "An occurrence! Your 'Crew' Quality is now {{A}}!",
+    "translation": "一次机遇！你的 \"列车员\" 特性现在是 {{A}}!",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui357",
+    "original": "You now have {{A}} x Cryptic Benefactor",
+    "translation": "你现在拥有 {{A}} x 隐秘的人脉",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui362",
+    "original": "You've gained {{A}} x Fuel (new total {{B}}).",
+    "translation": "你获得了{{A}} x 燃料（现在共有{{B}}）。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui364",
+    "original": "The Hillcrest Lodge",
+    "translation": "希尔克雷斯特山庄",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui365",
+    "original": "An occurrence! Your 'Hull' Quality is now {{A}}!",
+    "translation": "一次机遇! 你的 \"车体\" 特性现在是{{A}}!",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui366",
+    "original": "You unlocked this with {{A}} <b>Sovereigns</b> <i>(you needed {{B}})</i>",
+    "translation": "你有{{A}}<b>金镑</b>，因而解锁了此项  <i>(你需要{{B}})</i>",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui374",
+    "original": "dummydummy",
+    "translation": "占位符",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui375",
+    "original": "You need an <b>Uncanny Specimen</b>",
+    "translation": "你需要一个 <b>不可思议的标本</b>",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui379",
+    "original": "You need <b>Affiliation: Academe</b>",
+    "translation": "你需要 <b>人脉：学术界</b>",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui380",
+    "original": "You need {{A}} <b>Sovereigns</b> <i>(you have {{B}})</i>",
+    "translation": "你需要{{A}} <b>金镑</b> <i>(你有{{B}})</i>",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui381",
+    "original": "You need <b>Affiliation: Villainy</b> {{A}}<i> (you have {{B}})</i>",
+    "translation": "你需要 <b>人脉：恶棍</b> {{A}}<i> (你有{{B}})</i>",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui382",
+    "original": "You need a <b>Savage Secret</b>",
+    "translation": "你需要一个 <b>野蛮的秘密</b>",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui385",
+    "original": "r:Press a key to assign it to ([A-Z][a-z]*) ([A-Z][a-z]*). Modifier keys may also be used. To assign a modifier key alone, hold it down for {{A}} second.",
+    "translation": "请按下要分配的按键，修饰键也可以使用。要单独指定一个修饰键，请按住该键{{A}}秒。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui387",
+    "original": "sr:^(?<key>[\\w]) is already in use. Do you want to replace it? You may also choose to add the assignment anyway.",
+    "translation": "${<key>}已被使用。是否要选择其他按键？你也可以选择强行添加这一按键。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui389",
+    "original": "Speed up <sprite name\\=\"key_w\">    Back <sprite name\\=\"key_esc\">",
+    "translation": "加速 <sprite name\\=\"key_w\">    返回 <sprite name\\=\"key_esc\">",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui390",
+    "original": "Hide\\nAdvice",
+    "translation": "隐藏建议",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui391",
+    "original": "Disable\\nAdvice",
+    "translation": "禁用建议",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "ui392",
+    "original": "Something Dark",
+    "translation": "晦暗",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_general_1",
+    "original": "Sunless Skies v{0}",
+    "translation": "无光之空 v{0}",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_controls_1",
+    "original": "CONTROLS",
+    "translation": "控制",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_controls_6",
+    "original": "APPLY CHANGES",
+    "translation": "应用更改",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_controls_7",
+    "original": "RESTORE DEFAULTS",
+    "translation": "恢复默认值",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_controls_8",
+    "original": "DONE",
+    "translation": "完成",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_keys_1",
+    "original": "Backspace",
+    "translation": "退格键",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_keys_7",
+    "original": "ESC",
+    "translation": "ESC键",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_keys_8",
+    "original": "Down Arrow",
+    "translation": "下箭头",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_keys_9",
+    "original": "Left Arrow",
+    "translation": "左箭头",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_keys_10",
+    "original": "Right Arrow",
+    "translation": "右箭头",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_keys_11",
+    "original": "Up Arrow",
+    "translation": "上箭头",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_keys_12",
+    "original": "Page Down",
+    "translation": "下翻页",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_keys_13",
+    "original": "Page Up",
+    "translation": "上翻页",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_keys_14",
+    "original": "Tab",
+    "translation": "Tab键",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_keys_15",
+    "original": "Right Control",
+    "translation": "右Ctrl",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_mouse_1",
+    "original": "Left Mouse Button",
+    "translation": "鼠标左键",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_mouse_2",
+    "original": "Right Mouse Button",
+    "translation": "鼠标右键",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_flight_1",
+    "original": "Cruise / Full Steam",
+    "translation": "巡航速度/全速前进",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_flight_2",
+    "original": "Move Forward",
+    "translation": "前进",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_flight_3",
+    "original": "Move Backward",
+    "translation": "后退",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_flight_4",
+    "original": "Move Left",
+    "translation": "左转",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_flight_5",
+    "original": "Move Right",
+    "translation": "右转",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_flight_8",
+    "original": "Lateral Thrust Left",
+    "translation": "向右冲刺",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_flight_9",
+    "original": "Lateral Thrust Right",
+    "translation": "向左冲刺",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_dodge_1",
+    "original": "Dodge left:",
+    "translation": "向左躲避：",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_dodge_2",
+    "original": "Dodge right:",
+    "translation": "向右躲避：",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_weapon_1",
+    "original": "Engage primary weapon",
+    "translation": "使用主武器",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_weapon_2",
+    "original": "Engage secondary weapon",
+    "translation": "使用副武器",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_explore_1",
+    "original": "Engage Scout",
+    "translation": "派出侦察兽",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_explore_3",
+    "original": "Horn",
+    "translation": "鸣笛",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_explore_4",
+    "original": "Interact with object",
+    "translation": "与物体交互",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_explore_5",
+    "original": "Light Toggle",
+    "translation": "开/关大灯",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_panel_1",
+    "original": "Toggle Hold",
+    "translation": "开/关货舱面板",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_panel_2",
+    "original": "Toggle Journal",
+    "translation": "开/关日志面板",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_panel_3",
+    "original": "Toggle Officers",
+    "translation": "开/关车务官面板",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_panel_4",
+    "original": "Toggle Profile",
+    "translation": "开/关概览面板",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_system_1",
+    "original": "Pause or resume",
+    "translation": "暂停或继续",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_uinav_2",
+    "original": "UI Move Down",
+    "translation": "UI 向下移动",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_uinav_3",
+    "original": "UI Move Left",
+    "translation": "UI 向左移动",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_uinav_4",
+    "original": "UI Move Right",
+    "translation": "UI 向右移动",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_uinav_5",
+    "original": "UI Move Up",
+    "translation": "UI 向上移动",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_uinav_6",
+    "original": "UI Navigation Horizontal",
+    "translation": "UI 水平导航",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_uinav_7",
+    "original": "UI Navigation Vertical",
+    "translation": "UI 垂直导航",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_uinav_8",
+    "original": "UI Scroll",
+    "translation": "UI 滚动",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_uinav_9",
+    "original": "UI Scroll Down",
+    "translation": "UI 向下滚动",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_uinav_10",
+    "original": "UI Scroll Up",
+    "translation": "UI 向上滚动",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_uinav_11",
+    "original": "UI Select",
+    "translation": "UI 选择",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_uinav_12",
+    "original": "UI Submit",
+    "translation": "UI 提交",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_uinav_13",
+    "original": "UI Tab Left",
+    "translation": "UI 向左切换",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_uinav_14",
+    "original": "UI Tab Right",
+    "translation": "UI 向右切换",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_tip_1",
+    "original": "Hide Tips",
+    "translation": "隐藏提示",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_tip_3",
+    "original": "Tip description. Tip description. Tip description. Tip description. Tip description. Tip description. Tip description. Tip description. Tip description. Tip description. Tip description. Tip description. Tip description. Tip description. Tip description. Tip description.",
+    "translation": "提示描述。提示描述。提示描述。提示描述。提示描述。提示描述。提示描述。提示描述。提示描述。提示描述。提示描述。提示描述。提示描述。提示描述。提示描述。提示描述。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_ui_4",
+    "original": "Region",
+    "translation": "区域",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_ui_11",
+    "original": "Toggle",
+    "translation": "开/关",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_ui_15",
+    "original": "Change",
+    "translation": "修改",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_report_1",
+    "original": "Press        to send out your scout(costs Supplies)",
+    "translation": "按下        派出你的侦察兽（花费补给）",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_report_3",
+    "original": "Bug report submitted!",
+    "translation": "错误报告已提交！",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_report_9",
+    "original": "Unfortunately, we couldn't submit your report. It may be that there's a problem with your internet connection.",
+    "translation": "不幸的是，我们无法提交您的报告。可能是您的互联网连接有问题。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_report_10",
+    "original": "If you're definitely online, please try again later – thanks for taking the time to make a report, and sorry for the trouble.",
+    "translation": "如果您确实在线，请稍后重试 – 感谢您抽出时间报告，对于麻烦表示歉意。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_help_1",
+    "original": "BUGS & TECHNICAL HELP",
+    "translation": "Bug与技术支持",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_help_2",
+    "original": "If you find a bug please let us know via the bug reporter found through the pause menu or by pressing F8.",
+    "translation": "如果您发现错误，请通过暂停菜单中找到的错误报告工具或按F8告诉我们。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_help_3",
+    "original": "For technical help, please see our <u><link=https://www.failbettergames.com/sunless-skies-troubleshooting-guide/>Troubleshooting Guide</link></u>.",
+    "translation": "如需技术支持，请参考我们的<u><link=https://www.failbettergames.com/sunless-skies-troubleshooting-guide/>故障排除指南</link></u>。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_help_4",
+    "original": "For technical support please see our <u><link=https://steamcommunity.com/sharedfiles/filedetails/?id=1860884266>Troubleshooting Guide</link></u>.",
+    "translation": "如需技术支持，请查看我们的<u><link=https://steamcommunity.com/sharedfiles/filedetails/?id=1860884266>故障排除指南</link></u>。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_help_5",
+    "original": "When you submit a report we also collect a copy of your save file, an output log with details about any errors or exceptions, and some system information, such as your operating system and screen resolution.",
+    "translation": "当你提交报告时，我们也会收集你的保存文件副本、包含错误或异常详情的输出日志，以及一些系统信息，如你的操作系统和屏幕分辨率。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_help_6",
+    "original": "All data collected this way is anonymous and is only stored for 90 days (which gives us plenty of time to read and process it). Thank you – your reports and feedback help us to make Sunless Skies better.",
+    "translation": "以这种方式收集的所有数据都是匿名的，仅存储90天（这给我们充足的时间来阅读和处理）。谢谢–您的报告和反馈帮助我们改进Sunless Skies。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_misc_3",
+    "original": "TestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTest",
+    "translation": "测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "ui.json",
+    "key": "menu_misc_4",
+    "original": "TestTestTestTest",
+    "translation": "测试测试测试测试",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_logbook.json",
+    "key": "z_logbook1",
+    "original": "sr:<size\\=75%>(?<month>[\\w]+) (?<day>[0-9]*)(?<shit>[\\w][\\w]), (?<year>[0-9]{4})</size>\\nWispy condensation trails cross the sky; the ghosts of passing trains.",
+    "translation": "<size\\=75%>${year}年${month}月${day}日</size>\n纤细的凝结尾迹划过天空，宛若疾驰而过的火车的幽灵。",
+    "reason": "上游人工编写的动态日期正则模板，不是游戏静态原文"
+  },
+  {
+    "file": "z_logbook.json",
+    "key": "z_logbook2",
+    "original": "sr:<size\\=75%>(?<month>[\\w]+) (?<day>[0-9]*)(?<shit>[\\w][\\w]), (?<year>[0-9]{4})</size>\\nThe taste of smog. The sound of iron on iron. We are home.",
+    "translation": "<size\\=75%>${year}年${month}月${day}日</size>\n烟雾的味道。金铁相击的铿锵之声。我们到家了。",
+    "reason": "上游人工编写的动态日期正则模板，不是游戏静态原文"
+  },
+  {
+    "file": "z_logbook.json",
+    "key": "z_logbook3",
+    "original": "sr:<size\\=75%>(?<month>[\\w]+) (?<day>[0-9]*)(?<shit>[\\w][\\w]), (?<year>[0-9]{4})</size>\\n\"There's the dock, captain,\" a signaller declares. The crew are relieved at the thought of solid land.",
+    "translation": "<size\\=75%>${year}年${month}月${day}日</size>\n“到车站了，车长。”一位信号员大声汇报。一想到坚实的陆地，列车员们都松了一口气。",
+    "reason": "上游人工编写的动态日期正则模板，不是游戏静态原文"
+  },
+  {
+    "file": "z_logbook.json",
+    "key": "z_logbook4",
+    "original": "sr:<size\\=75%>(?<month>[\\w]+) (?<day>[0-9]*)(?<shit>[\\w][\\w]), (?<year>[0-9]{4})</size>\\nA distant clamour of engine-yards. An accretion of smog on the windows.",
+    "translation": "<size\\=75%>${year}年${month}月${day}日</size>\n远处传来机车场的喧嚣。窗上积起一层烟尘。",
+    "reason": "上游人工编写的动态日期正则模板，不是游戏静态原文"
+  },
+  {
+    "file": "z_logbook.json",
+    "key": "z_logbook5",
+    "original": "sr:<size\\=75%>(?<month>[\\w]+) (?<day>[0-9]*)(?<shit>[\\w][\\w]), (?<year>[0-9]{4})</size>\\nWispy condensation trails cross the sky; the ghosts of passing trains.",
+    "translation": "<size\\=75%>${year}年${month}月${day}日</size>\n纤细的凝结尾迹划过天空，宛若疾驰而过的火车的幽灵。",
+    "reason": "上游人工编写的动态日期正则模板，不是游戏静态原文"
+  },
+  {
+    "file": "z_logbook.json",
+    "key": "z_logbook6",
+    "original": "sr:<size\\=75%>(?<month>[\\w]+) (?<day>[0-9]*)(?<shit>[\\w][\\w]), (?<year>[0-9]{4})</size>\\nYour scout relays its findings.",
+    "translation": "<size\\=75%>${year}年${month}月${day}日</size>\n你的侦察兽回报了它的发现。",
+    "reason": "上游人工编写的动态日期正则模板，不是游戏静态原文"
+  },
+  {
+    "file": "z_logbook.json",
+    "key": "z_logbook7",
+    "original": "sr:<size\\=75%>(?<month>[\\w]+) (?<day>[0-9]*)(?<shit>[\\w][\\w]), (?<year>[0-9]{4})</size>\\nMuch to the relief of your stokers, you find a barrel of fuel among the detritus.",
+    "translation": "<size\\=75%>${year}年${month}月${day}日</size>\n你在碎石中发现了一桶燃料，这让司炉们松了一口气。",
+    "reason": "上游人工编写的动态日期正则模板，不是游戏静态原文"
+  },
+  {
+    "file": "z_logbook.json",
+    "key": "z_logbook8",
+    "original": "sr:<size\\=75%>(?<month>[\\w]+) (?<day>[0-9]*)(?<shit>[\\w][\\w]), (?<year>[0-9]{4})</size>\\nThis corner of the sky is little-travelled. It has been given over to the fungus, and the wilds, and the lost.",
+    "translation": "<size\\=75%>${year}年${month}月${day}日</size>\n这方天空人迹罕至。此地已归真菌、荒蛮，以及迷途之人所有。",
+    "reason": "上游人工编写的动态日期正则模板，不是游戏静态原文"
+  },
+  {
+    "file": "z_logbook.json",
+    "key": "z_logbook9",
+    "original": "sr:<size\\=75%>(?<month>[\\w]+) (?<day>[0-9]*)(?<shit>[\\w][\\w]), (?<year>[0-9]{4})</size>\\nYou have learned from your experiences.",
+    "translation": "<size\\=75%>${year}年${month}月${day}日</size>\n你已经从你的经验中吸取了教训。",
+    "reason": "上游人工编写的动态日期正则模板，不是游戏静态原文"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames18",
+    "original": "The Girard",
+    "translation": "吉拉尔号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames19",
+    "original": "The Biloxi Green",
+    "translation": "比洛克西绿地号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames20",
+    "original": "The Daydreamer",
+    "translation": "昼梦者号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames21",
+    "original": "The Vigs",
+    "translation": "油水号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames22",
+    "original": "The Yamashita",
+    "translation": "山下号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames23",
+    "original": "The Green Meadows",
+    "translation": "绿甸号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames24",
+    "original": "The Natick",
+    "translation": "纳蒂克号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames26",
+    "original": "The Stormcrow",
+    "translation": "风暴鸦号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames27",
+    "original": "The Ogre",
+    "translation": "食人魔号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames28",
+    "original": "The Renshaw's Runabout",
+    "translation": "伦肖的快艇号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames29",
+    "original": "The Flint",
+    "translation": "燧石号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames30",
+    "original": "The Monterey",
+    "translation": "蒙特利号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames31",
+    "original": "The Archipelagian Empress",
+    "translation": "列岛女皇号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames32",
+    "original": "The Aurora",
+    "translation": "曙光女神号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames33",
+    "original": "The Pontianak",
+    "translation": "坤甸号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames34",
+    "original": "The Crepuscular",
+    "translation": "曙暮号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames35",
+    "original": "The Ice-Maiden",
+    "translation": "冰姑娘号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames36",
+    "original": "The Mustard",
+    "translation": "芥子号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames37",
+    "original": "The Sapphire Rose",
+    "translation": "蓝宝石玫瑰号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames38",
+    "original": "The Bold Questions",
+    "translation": "勇毅求索号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames39",
+    "original": "The Antares",
+    "translation": "安塔瑞斯号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames40",
+    "original": "The Perill-Ennis",
+    "translation": "佩里尔-埃尼斯号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames55",
+    "original": "The Shepherd's Twilight",
+    "translation": "牧羊人的黄昏号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames56",
+    "original": "The Dinh",
+    "translation": "丁恩号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames57",
+    "original": "The Rhapsody",
+    "translation": "狂想曲号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames59",
+    "original": "The Schellenberger",
+    "translation": "施伦贝格号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames60",
+    "original": "The Capybara",
+    "translation": "卡皮巴拉号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames61",
+    "original": "The Newton's Nocturne",
+    "translation": "牛顿的夜曲号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames62",
+    "original": "The Falzell's Silence",
+    "translation": "法尔策尔的沉默号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames80",
+    "original": "The So It Goes",
+    "translation": "如此而已号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames81",
+    "original": "The Indefatigable",
+    "translation": "不倦号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames82",
+    "original": "The Erik's Range",
+    "translation": "埃里克之疆号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames83",
+    "original": "The Illusive Eltzroth",
+    "translation": "迷幻埃尔茨罗斯号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames84",
+    "original": "The Northerly Mill",
+    "translation": "北地磨坊号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames85",
+    "original": "The Blade of Night",
+    "translation": "夜刃号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames98",
+    "original": "The Wilde",
+    "translation": "王尔德号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames99",
+    "original": "The Eloquence",
+    "translation": "雄辩号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames100",
+    "original": "The Dothren",
+    "translation": "多思伦号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames101",
+    "original": "The Maatala",
+    "translation": "马塔拉号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames102",
+    "original": "The Maundy Bell",
+    "translation": "蒙德·贝尔号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames103",
+    "original": "The Ghost Story",
+    "translation": "怪谈号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames104",
+    "original": "The Aydelotte",
+    "translation": "艾德洛特号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames105",
+    "original": "The Gabriele",
+    "translation": "加布里埃莱号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames106",
+    "original": "The Ramming Speed",
+    "translation": "全速冲锋号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames118",
+    "original": "The Junker",
+    "translation": "容克号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames119",
+    "original": "The Hard Six",
+    "translation": "坚砺六者号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames120",
+    "original": "The Magnanimous",
+    "translation": "宽宏号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames121",
+    "original": "The Silverstone",
+    "translation": "银石号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames122",
+    "original": "The Maelstrom",
+    "translation": "漩涡号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames123",
+    "original": "The Exiled",
+    "translation": "放逐者号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames124",
+    "original": "The Pirie Harlequin",
+    "translation": "哈里昆皮里号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames125",
+    "original": "The Hahne",
+    "translation": "哈内号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames144",
+    "original": "The Faraday",
+    "translation": "法拉第号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames145",
+    "original": "The Melancholy Budapest",
+    "translation": "布达佩斯惆怅号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames146",
+    "original": "The Belfair Owl",
+    "translation": "贝尔费尔鸮号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames147",
+    "original": "The Roanoke",
+    "translation": "洛亚诺克号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames150",
+    "original": "The Cappadocia",
+    "translation": "卡帕多西亚号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames151",
+    "original": "The Never O'Neill",
+    "translation": "内弗·奥尼尔号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames152",
+    "original": "The Calenture",
+    "translation": "热病号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames153",
+    "original": "The Zesty",
+    "translation": "明丽号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames154",
+    "original": "The Blackwell",
+    "translation": "布莱克韦尔号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames155",
+    "original": "The Destiny",
+    "translation": "命运号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames159",
+    "original": "The Spellbinder",
+    "translation": "摄魂号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames160",
+    "original": "The Shields",
+    "translation": "坚盾号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames161",
+    "original": "The Great Great Aunt Kay",
+    "translation": "曾姑祖母凯伊号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames162",
+    "original": "The Wasn't Expecting That",
+    "translation": "始料未及号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames164",
+    "original": "The Jotblad",
+    "translation": "尤特布拉德号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames165",
+    "original": "The Mercy of Colours",
+    "translation": "彩旗之佑号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames166",
+    "original": "The Storm's Urge",
+    "translation": "风暴之志号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames167",
+    "original": "The Atropos",
+    "translation": "阿特洛波斯号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames168",
+    "original": "The Efficiency Is Our Watchword",
+    "translation": "效率至上号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames186",
+    "original": "The Alternative Diplomacy",
+    "translation": "另类外交号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames187",
+    "original": "The Bremen's Goat",
+    "translation": "不来梅的山羊号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames188",
+    "original": "The Erskine",
+    "translation": "厄斯金号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames189",
+    "original": "The Deliverance",
+    "translation": "救赎号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames200",
+    "original": "The Keep Your Opinions To Yourself",
+    "translation": "免开尊口号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames201",
+    "original": "The Kulak",
+    "translation": "库拉克号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames202",
+    "original": "The Steady Zephyr",
+    "translation": "不歇西风号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames203",
+    "original": "The Alcuin",
+    "translation": "阿尔昆号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames204",
+    "original": "The Pernicious",
+    "translation": "险恶号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames205",
+    "original": "The Finlayson",
+    "translation": "芬利森号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames206",
+    "original": "The Widdershins",
+    "translation": "威德辛号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames207",
+    "original": "The Liipola",
+    "translation": "利波拉号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames209",
+    "original": "The Devil's Own Luck",
+    "translation": "魔鬼之幸号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames210",
+    "original": "The Typhoon",
+    "translation": "台风号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames211",
+    "original": "The King of Emeralds",
+    "translation": "绿宝石之王号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames212",
+    "original": "The Lulu",
+    "translation": "露露号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames213",
+    "original": "The Elpha Green",
+    "translation": "埃尔法·格林号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames214",
+    "original": "The Ambition",
+    "translation": "雄心号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames215",
+    "original": "The Leppänen",
+    "translation": "莱帕宁号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames216",
+    "original": "The Arbat",
+    "translation": "阿尔巴特号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames217",
+    "original": "The Luckham",
+    "translation": "勒克姆号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames218",
+    "original": "The Nanilinsky Dancer",
+    "translation": "纳尼林斯基舞者号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames219",
+    "original": "The Please Leave",
+    "translation": "劝离号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames223",
+    "original": "The Jared",
+    "translation": "杰瑞德号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames224",
+    "original": "The McGillicuddy",
+    "translation": "麦吉利卡迪号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames225",
+    "original": "The Ella Planey",
+    "translation": "艾拉·普莱尼号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames226",
+    "original": "The Manatee",
+    "translation": "马纳蒂号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames227",
+    "original": "The Coronado",
+    "translation": "科罗纳多号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames230",
+    "original": "The Shenanigans",
+    "translation": "诡计号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames231",
+    "original": "The Barker",
+    "translation": "巴克尔号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames232",
+    "original": "The Sobriquet",
+    "translation": "浑名号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames233",
+    "original": "The Hanyang ",
+    "translation": "汉阳号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames234",
+    "original": "The Choko",
+    "translation": "佛手瓜号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames238",
+    "original": "The Jæja",
+    "translation": "亚伊亚号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames240",
+    "original": "The Old Izergil",
+    "translation": "老伊泽吉尔号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames241",
+    "original": "The Lazar",
+    "translation": "拉扎尔号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames243",
+    "original": "The Kingston's Cake",
+    "translation": "金士顿蛋糕号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames244",
+    "original": "The Innell",
+    "translation": "因伦号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames245",
+    "original": "The Eadem Mutata Resurgo",
+    "translation": "依然故我号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames246",
+    "original": "The Riddlebird",
+    "translation": "谜之鸟号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames248",
+    "original": "The Lamira",
+    "translation": "拉米拉号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames249",
+    "original": "The Canteri",
+    "translation": "坎特里号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames250",
+    "original": "The Bidmead",
+    "translation": "比德米德号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames251",
+    "original": "The Nothing's Easy",
+    "translation": "万险号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames252",
+    "original": "The Per Aspera ad Astra",
+    "translation": "艰旅繁星号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames253",
+    "original": "The Tenebrous",
+    "translation": "阴郁号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "z_shipnames.json",
+    "key": "z_shipnames254",
+    "original": "The Oblique Strategies",
+    "translation": "迂回策略号",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "events.json",
+    "key": "253295$Name",
+    "original": "Cage and tend to the bee",
+    "translation": "把蜜蜂关在笼子里，照看它",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "events.json",
+    "key": "253295$Description",
+    "original": "A devil at the Well of the Wolf has requested a live bee. You may be able to lure it into a trap using chorister nectar.",
+    "translation": "狼之井的一个魔鬼需要一只活蜂。你也许能用唱诗蜂蜜把它引到陷阱里。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "events.json",
+    "key": "345446$Name",
+    "original": "Got you!",
+    "translation": "抓到你了!",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "events.json",
+    "key": "345446$Description",
+    "original": "The last bee crawls clumsily after the nectar, and a brave crewman tugs the trap shut. You heave it on board. The droning song is deafening in the close confines of your engine's corridors. You order it kept at the opposite end of the locomotive from your cabin.",
+    "translation": "最后面的那只蜜蜂跟在唱诗蜂蜜后笨拙地爬行，一名勇敢的列车员将陷阱拉上。你把它搬上船。在你的机车走廊的密闭空间里，它的嗡鸣震耳欲聋。你命令把它放在机车里与你的车厢相对的一端。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "events.json",
+    "key": "253296$Name",
+    "original": "Cage and tend to the bee",
+    "translation": "把蜜蜂关在笼子里，照看它",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "events.json",
+    "key": "253296$Description",
+    "original": "A devil at the Well of the Wolf has requested a live bee. You may be able to lure it into a trap using chorister nectar.",
+    "translation": "狼之井的一个魔鬼需要一只活蜂。你也许能用唱诗蜂蜜把它引到陷阱里。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "events.json",
+    "key": "345447$Name",
+    "original": "Got you!",
+    "translation": "抓到你了!",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "events.json",
+    "key": "345447$Description",
+    "original": "The last bee crawls clumsily after the nectar, and a brave crewman tugs the trap shut. You heave it on board. The droning song is deafening in the close confines of your engine's corridors. You order it kept at the opposite end of the locomotive from your cabin.",
+    "translation": "最后面的那只蜜蜂跟在唱诗蜂蜜后笨拙地爬行，一名勇敢的列车员将陷阱拉上。你把它搬上船。在你的机车走廊的密闭空间里，它的嗡鸣震耳欲聋。你命令把它放在机车里与你的车厢相对的一端。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "events.json",
+    "key": "254042$Name",
+    "original": "Cage and tend to the bee",
+    "translation": "把蜜蜂关在笼子里，照看它",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "events.json",
+    "key": "254042$Description",
+    "original": "A devil at the Well of the Wolf has requested a live bee. You may be able to lure it into a trap using chorister nectar.",
+    "translation": "狼之井的一个魔鬼需要一只活蜂。你也许能用唱诗蜂蜜把它引到陷阱里。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "events.json",
+    "key": "346670$Name",
+    "original": "Got you!",
+    "translation": "抓到你了！",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "events.json",
+    "key": "346670$Description",
+    "original": "The last bee crawls clumsily after the nectar, and a brave crewman tugs the trap shut. You heave it on board. The droning song is deafening in the close confines of your engine's corridors. You order it kept at the opposite end of the locomotive from your cabin.",
+    "translation": "最后面的那只蜜蜂跟在唱诗蜂蜜后笨拙地爬行，一名勇敢的列车员将陷阱拉上。你把它搬上船。在你的机车走廊的密闭空间里，它的嗡鸣震耳欲聋。你命令把它放在机车里与你的车厢相对的一端。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "events.json",
+    "key": "253297$Name",
+    "original": "Lure a Chorister Bee",
+    "translation": "引诱一只唱诗蜂",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "events.json",
+    "key": "253297$Description",
+    "original": "Bees flock to flowers. You need a giant bee; these are giant flowers. Ergo.",
+    "translation": "蜜蜂会聚集到花朵上。这是巨大的花，因此你需要一只大蜜蜂。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "events.json",
+    "key": "345449$Name",
+    "original": "Entrapment",
+    "translation": "诱捕",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "events.json",
+    "key": "345449$Description",
+    "original": "A pair of hardy signallers help you set the trap. A thread, gossamer thin, strung between the stamen and the anther. You retreat to the underside to wait.\r\n\r\nSoon, a bee, huge and singing, descends in a slow drone. It nuzzles its way into the flower, where its limbs are swiftly covered with pollen and slicked with nectar. It trips the thread, and the cage descends and shuts. Its hymns grow dirgeful as you haul the enormous thing back to your engine.",
+    "translation": "一对顽强的信号员帮你设置陷阱。一根细线，细如游丝，串在雄蕊和花药之间。你退到下面等待。\\n\\n很快，一只巨大的蜜蜂在缓慢的嗡嗡声中降落了。它用鼻子蹭着进入花朵，四肢迅速被花粉覆盖，并沾满花蜜。它把线绊到了，笼子落下并关上了。当你把这个巨大的东西拖回你的机车时，它的赞美诗变得哀怨起来。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "events.json",
+    "key": "345448$Name",
+    "original": "A bee grown wise",
+    "translation": "聪明的蜜蜂",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "events.json",
+    "key": "345448$Description",
+    "original": "With the aid of a pair of stokers, you erect a simple snare, before retreating to watch from a hiding place.\r\n\r\nThe bee, when it appears, is not convinced. Its antenna twitch, its stinger emerges. \r\n\r\nBefore you've time to flee, the bee is bearing down upon you. You're able to shelter amidst a thicket of young flower, but the stokers are not so lucky.  Your records will be simple. Cause of Death: Bee. It's not so uncommon in the Reach.",
+    "translation": "在一对司炉工的帮助下，你竖起一个简单的陷阱，然后撤退到一个隐蔽的地方观察。\\n\\n蜜蜂出现时有些警惕。它的触须抽动，它的毒刺露出。\\n\\n你还没来得及逃跑，蜜蜂就向你袭来了。你可以躲在一丛年轻的花朵中，但司炉工就没那么幸运了。你的记录会很简单。死因：蜜蜂。这在外野并不罕见。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "events.json",
+    "key": "253298$Name",
+    "original": "Lure a Chorister Bee",
+    "translation": "引诱一只唱诗蜂",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "events.json",
+    "key": "253298$Description",
+    "original": "Bees flock to flowers. You need a giant bee; these are giant flowers. Ergo.",
+    "translation": "蜜蜂会聚集到花朵上。这是巨大的花，因此你需要一只大蜜蜂。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "events.json",
+    "key": "345451$Name",
+    "original": "Entrapment",
+    "translation": "诱捕",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "events.json",
+    "key": "345451$Description",
+    "original": "A pair of hardy signallers help you set the trap. A thread, gossamer thin, strung between the stamen and the anther. You retreat to the underside to wait.\r\n\r\nSoon, a bee, huge and singing, descends in a slow drone. It nuzzles its way into the flower, where its limbs are swiftly covered with pollen and slicked with nectar. It trips the thread, and the cage descends and shuts. Its hymns grow dirgeful as you haul the enormous thing back to your engine.",
+    "translation": "一对顽强的信号员帮你设置陷阱。一根细线，细如游丝，串在雄蕊和花药之间。你退到下面等待。\\n\\n很快，一只巨大的蜜蜂在缓慢的嗡嗡声中降落了。它用鼻子蹭着进入花朵，四肢迅速被花粉覆盖，并沾满花蜜。它把线绊到了，笼子落下并关上了。当你把这个巨大的东西拖回你的机车时，它的赞美诗变得哀怨起来。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "events.json",
+    "key": "345450$Name",
+    "original": "A bee grown wise",
+    "translation": "聪明的蜜蜂",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "events.json",
+    "key": "345450$Description",
+    "original": "With the aid of a pair of stokers, you erect a simple snare, before retreating to watch from a hiding place.\r\n\r\nThe bee, when it appears, is not convinced. Its antenna twitch, its stinger emerges. \r\n\r\nBefore you've time to flee, the bee is bearing down upon you. You're able to shelter amidst a thicket of young flower, but the stokers are not so lucky.  Your records will be simple. Cause of Death: Bee. It's not so uncommon in the Reach.",
+    "translation": "在一对司炉工的帮助下，你竖起一个简单的陷阱，然后撤退到一个隐蔽的地方观察。\\n\\n蜜蜂出现时有些警惕。它的触须抽动，它的毒刺露出。\\n\\n你还没来得及逃跑，蜜蜂就向你袭来了。你可以躲在一丛年轻的花朵中，但司炉工就没那么幸运了。你的记录会很简单。死因：蜜蜂。这在外野并不罕见。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "events.json",
+    "key": "254043$Name",
+    "original": "Lure a Chorister Bee",
+    "translation": "引诱一只唱诗蜂",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "events.json",
+    "key": "254043$Description",
+    "original": "Bees flock to flowers. You need a giant bee; these are giant flowers. Ergo.",
+    "translation": "蜜蜂会聚集到花朵上。这是巨大的花，因此你需要一只大蜜蜂。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "events.json",
+    "key": "346672$Name",
+    "original": "Entrapment",
+    "translation": "诱捕",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "events.json",
+    "key": "346672$Description",
+    "original": "A pair of hardy signallers help you set the trap. A thread, gossamer thin, strung between the stamen and the anther. You retreat to the underside to wait.\r\n\r\nSoon, a bee, huge and singing, descends in a slow drone. It nuzzles its way into the flower, where its limbs are swiftly covered with pollen and slicked with nectar. It trips the thread, and the cage descends and shuts. Its hymns grow dirgeful as you haul the enormous thing back to your engine.",
+    "translation": "一对顽强的信号员帮你设置陷阱。一根细线，细如游丝，串在雄蕊和花药之间。你退到下面等待。\\n\\n很快，一只巨大的蜜蜂在缓慢的嗡嗡声中降落了。它用鼻子蹭着进入花朵，四肢迅速被花粉覆盖，并沾满花蜜。它把线绊到了，笼子落下并关上了。当你把这个巨大的东西拖回你的机车时，它的赞美诗变得哀怨起来。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "events.json",
+    "key": "346671$Name",
+    "original": "A bee grown wise",
+    "translation": "聪明的蜜蜂",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "events.json",
+    "key": "346671$Description",
+    "original": "With the aid of a pair of stokers, you erect a simple snare, before retreating to watch from a hiding place.\r\n\r\nThe bee, when it appears, is not convinced. Its antenna twitch, its stinger emerges. \r\n\r\nBefore you've time to flee, the bee is bearing down upon you. You're able to shelter amidst a thicket of young flower, but the stokers are not so lucky.  Your records will be simple. Cause of Death: Bee. It's not so uncommon in the Reach.",
+    "translation": "在一对司炉工的帮助下，你竖起一个简单的陷阱，然后撤退到一个隐蔽的地方观察。\n\n蜜蜂出现时有些警惕。它的触须抽动，它的毒刺露出。\n\n你还没来得及逃跑，蜜蜂就向你袭来了。你可以躲在一丛年轻的花朵中，但司炉工就没那么幸运了。你的记录会很简单。死因：蜜蜂。这在外野并不罕见。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "events.json",
+    "key": "344066$CustomUnlockedMessage",
+    "original": "You require a bee.",
+    "translation": "你需要一只蜜蜂。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "events.json",
+    "key": "271076$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "275808$DifficultyAdvanced",
+    "original": "70",
+    "translation": "70",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "295633$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "295377$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "295635$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "295379$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "273678$DifficultyAdvanced",
+    "original": "[q:136790]*10",
+    "translation": "[q:136790]*10",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "275659$DifficultyAdvanced",
+    "original": "50+([q:137134]*10)",
+    "translation": "50+([q:137134]*10)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "287726$DifficultyAdvanced",
+    "original": "50+(([q:138993]*2)-([q:139041]))",
+    "translation": "50+(([q:138993]*2)-([q:139041]))",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "287739$DifficultyAdvanced",
+    "original": "40+(([q:138993]*2)-([q:139041]))",
+    "translation": "40+(([q:138993]*2)-([q:139041]))",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "287741$DifficultyAdvanced",
+    "original": "40+(([q:138993]*2)-([q:139041]))",
+    "translation": "40+(([q:138993]*2)-([q:139041]))",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "277028$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "translation": "[GAME_END_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "274486$DifficultyAdvanced",
+    "original": "[q:131140]",
+    "translation": "[q:131140]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "275068$DifficultyAdvanced",
+    "original": "[q:131140]",
+    "translation": "[q:131140]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "275069$DifficultyAdvanced",
+    "original": "[q:131138]",
+    "translation": "[q:131138]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "296972$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "300744$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "281887$DifficultyAdvanced",
+    "original": "2",
+    "translation": "2",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "281888$DifficultyAdvanced",
+    "original": "4",
+    "translation": "4",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "282057$DifficultyAdvanced",
+    "original": "([q:135650]*2)+([q:135652]*3)+([q:135651]*5)+([q:135653]*5)-([q:131235])",
+    "translation": "([q:135650]*2)+([q:135652]*3)+([q:135651]*5)+([q:135653]*5)-([q:131235])",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "282060$DifficultyAdvanced",
+    "original": "([q:135650]*2)+([q:135652]*3)+([q:135651]*5)+([q:135653]*5)",
+    "translation": "([q:135650]*2)+([q:135652]*3)+([q:135651]*5)+([q:135653]*5)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "302503$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "translation": "[GAME_END_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "302504$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "translation": "[GAME_END_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "302854$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "translation": "[GAME_END_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "302856$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "translation": "[GAME_END_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "302858$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "translation": "[GAME_END_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "302859$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "translation": "[GAME_END_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "308187$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "translation": "[GAME_END_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "288954$DifficultyAdvanced",
+    "original": "75-([q:139016]*10)",
+    "translation": "75-([q:139016]*10)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "302862$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "translation": "[GAME_END_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "302864$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "translation": "[GAME_END_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "302866$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "translation": "[GAME_END_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "308189$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "translation": "[GAME_END_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "303203$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "translation": "[GAME_END_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "303204$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "translation": "[GAME_END_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "303206$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "translation": "[GAME_END_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "303207$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "translation": "[GAME_END_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "303209$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "translation": "[GAME_END_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "303210$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "translation": "[GAME_END_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "303991$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "303680$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "304002$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "284136$DifficultyAdvanced",
+    "original": "10+(10*([q:138302]-[q:131235]))",
+    "translation": "10+(10*([q:138302]-[q:131235]))",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "284138$DifficultyAdvanced",
+    "original": "25+(([q:132352]-[q:131237])/2)",
+    "translation": "25+(([q:132352]-[q:131237])/2)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "288836$DifficultyAdvanced",
+    "original": "30+([q:138996]*5)",
+    "translation": "30+([q:138996]*5)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "288837$DifficultyAdvanced",
+    "original": "30+([q:138994]*5)",
+    "translation": "30+([q:138994]*5)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "288951$DifficultyAdvanced",
+    "original": "10+(10*([q:138302]-[q:131235]))",
+    "translation": "10+(10*([q:138302]-[q:131235]))",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "308194$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "translation": "[GAME_END_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "308196$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "translation": "[GAME_END_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "294769$DifficultyAdvanced",
+    "original": "40+([q:131232]/2)",
+    "translation": "40+([q:131232]/2)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "294775$DifficultyAdvanced",
+    "original": "20+(([q:132352]-[q:131237])/3)",
+    "translation": "20+(([q:132352]-[q:131237])/3)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "294777$DifficultyAdvanced",
+    "original": "20+(([q:132352]-[q:131237])/3)",
+    "translation": "20+(([q:132352]-[q:131237])/3)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "294779$DifficultyAdvanced",
+    "original": "30+([q:138284]*2)",
+    "translation": "30+([q:138284]*2)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "294789$DifficultyAdvanced",
+    "original": "30+([q:138284]*2)",
+    "translation": "30+([q:138284]*2)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "294790$DifficultyAdvanced",
+    "original": "20+([q:138284]*2)",
+    "translation": "20+([q:138284]*2)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "316233$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "translation": "[GAME_END_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "319366$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "translation": "[GAME_END_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "319368$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "translation": "[GAME_END_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "319369$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "translation": "[GAME_END_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "280532$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "286621$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "305502$ExoticEffects",
+    "original": "[CHARCREATE_EFFECT]",
+    "translation": "[CHARCREATE_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "305512$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "276738$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "300660$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "313201$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "336562$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "278212$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "319635$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "319704$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "306701$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "271279$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "271295$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "307938$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "307942$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "307953$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "275494$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "275503$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "308933$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "252148$DifficultyAdvanced",
+    "original": "100 / (1+ [q:133110])",
+    "translation": "100 / (1+ [q:133110])",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "252149$DifficultyAdvanced",
+    "original": "100 / (1+ [q:133110])",
+    "translation": "100 / (1+ [q:133110])",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "252150$DifficultyAdvanced",
+    "original": "100 / (1+ [q:133110])",
+    "translation": "100 / (1+ [q:133110])",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "252151$DifficultyAdvanced",
+    "original": "100 / (1+ [q:133110])",
+    "translation": "100 / (1+ [q:133110])",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "277540$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "275840$DifficultyAdvanced",
+    "original": "70",
+    "translation": "70",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "256455$DifficultyAdvanced",
+    "original": "([q:133373]*10)+10",
+    "translation": "([q:133373]*10)+10",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "256454$DifficultyAdvanced",
+    "original": "([q:133373]*10)+10",
+    "translation": "([q:133373]*10)+10",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "256456$DifficultyAdvanced",
+    "original": "([q:133373]*10)+10",
+    "translation": "([q:133373]*10)+10",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "256457$DifficultyAdvanced",
+    "original": "([q:133373]*10)+10",
+    "translation": "([q:133373]*10)+10",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "256458$DifficultyAdvanced",
+    "original": "([q:133373]*10)+10",
+    "translation": "([q:133373]*10)+10",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "256459$DifficultyAdvanced",
+    "original": "([q:133373]*10)+10",
+    "translation": "([q:133373]*10)+10",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "256461$DifficultyAdvanced",
+    "original": "([q:133373]*10)+10",
+    "translation": "([q:133373]*10)+10",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "256462$DifficultyAdvanced",
+    "original": "([q:133373]*10)+10",
+    "translation": "([q:133373]*10)+10",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "256463$DifficultyAdvanced",
+    "original": "([q:133373]*10)+10",
+    "translation": "([q:133373]*10)+10",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "256464$DifficultyAdvanced",
+    "original": "([q:133373]*10)+10",
+    "translation": "([q:133373]*10)+10",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "256465$DifficultyAdvanced",
+    "original": "([q:133373]*10)+10",
+    "translation": "([q:133373]*10)+10",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "279886$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "283637$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "322417$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "281134$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "257200$DifficultyAdvanced",
+    "original": "50",
+    "translation": "50",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "257201$DifficultyAdvanced",
+    "original": "75-[q:136682]",
+    "translation": "75-[q:136682]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "281738$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "281892$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "257674$DifficultyAdvanced",
+    "original": "40+([q:134401]*10)",
+    "translation": "40+([q:134401]*10)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "259063$DifficultyAdvanced",
+    "original": "30+([q:134401]*10)",
+    "translation": "30+([q:134401]*10)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "257958$DifficultyAdvanced",
+    "original": "40+([q:134401]*10)",
+    "translation": "40+([q:134401]*10)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "257959$DifficultyAdvanced",
+    "original": "40+([q:134401]*10)",
+    "translation": "40+([q:134401]*10)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "257960$DifficultyAdvanced",
+    "original": "40+([q:134401]*10)",
+    "translation": "40+([q:134401]*10)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "257961$DifficultyAdvanced",
+    "original": "40+([q:134401]*10)",
+    "translation": "40+([q:134401]*10)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "257962$DifficultyAdvanced",
+    "original": "40+([q:134401]*10)",
+    "translation": "40+([q:134401]*10)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "257963$DifficultyAdvanced",
+    "original": "40+([q:134401]*10)",
+    "translation": "40+([q:134401]*10)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "257964$DifficultyAdvanced",
+    "original": "40+([q:134401]*10)",
+    "translation": "40+([q:134401]*10)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "257965$DifficultyAdvanced",
+    "original": "40+([q:134401]*10)",
+    "translation": "40+([q:134401]*10)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "260851$DifficultyAdvanced",
+    "original": "(80+[q:134346])-([q:131173]*3)",
+    "translation": "(80+[q:134346])-([q:131173]*3)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "260755$DifficultyAdvanced",
+    "original": "(80+[q:134346])-([q:131175]*3)",
+    "translation": "(80+[q:134346])-([q:131175]*3)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "260814$DifficultyAdvanced",
+    "original": "(80+[q:134346])-([q:131174]*3)",
+    "translation": "(80+[q:134346])-([q:131174]*3)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "286475$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "284437$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "286563$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "286635$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "313454$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "313451$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "313457$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "313456$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "287760$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "264552$DifficultyAdvanced",
+    "original": "50-([q:135508]*5)",
+    "translation": "50-([q:135508]*5)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "264555$DifficultyAdvanced",
+    "original": "100-([q:135508]*5)",
+    "translation": "100-([q:135508]*5)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "289583$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "308629$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "342399$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "297449$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "297471$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "290110$ExoticEffects",
+    "original": "[DEPART_THE_GRAVEYARD_OF_STARS]",
+    "translation": "[DEPART_THE_GRAVEYARD_OF_STARS]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "290112$ExoticEffects",
+    "original": "[DEPART_THE_GRAVEYARD_OF_STARS]",
+    "translation": "[DEPART_THE_GRAVEYARD_OF_STARS]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "290111$ExoticEffects",
+    "original": "[DEPART_THE_GRAVEYARD_OF_STARS]",
+    "translation": "[DEPART_THE_GRAVEYARD_OF_STARS]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "290578$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "290560$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "294444$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "291188$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "291608$ExoticEffects",
+    "original": "[MOVE_TO_REGION],Albion",
+    "translation": "[MOVE_TO_REGION],Albion",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "296890$ExoticEffects",
+    "original": "[MOVE_TO_REGION],Albion",
+    "translation": "[MOVE_TO_REGION],Albion",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "291611$ExoticEffects",
+    "original": "[MOVE_TO_REGION],Albion",
+    "translation": "[MOVE_TO_REGION],Albion",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "296892$ExoticEffects",
+    "original": "[MOVE_TO_REGION],Albion",
+    "translation": "[MOVE_TO_REGION],Albion",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "291614$ExoticEffects",
+    "original": "[MOVE_TO_REGION],The Reach",
+    "translation": "[MOVE_TO_REGION],The Reach",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "296893$ExoticEffects",
+    "original": "[MOVE_TO_REGION],The Reach",
+    "translation": "[MOVE_TO_REGION],The Reach",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "291617$ExoticEffects",
+    "original": "[MOVE_TO_REGION],The Reach",
+    "translation": "[MOVE_TO_REGION],The Reach",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "296897$ExoticEffects",
+    "original": "[MOVE_TO_REGION],The Reach",
+    "translation": "[MOVE_TO_REGION],The Reach",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "299324$ExoticEffects",
+    "original": "[MOVE_TO_REGION],The Reach",
+    "translation": "[MOVE_TO_REGION],The Reach",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "299329$ExoticEffects",
+    "original": "[MOVE_TO_REGION],The Reach",
+    "translation": "[MOVE_TO_REGION],The Reach",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "291622$ExoticEffects",
+    "original": "[MOVE_TO_REGION],Eleutheria",
+    "translation": "[MOVE_TO_REGION],Eleutheria",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "296898$ExoticEffects",
+    "original": "[MOVE_TO_REGION],Eleutheria",
+    "translation": "[MOVE_TO_REGION],Eleutheria",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "299463$ExoticEffects",
+    "original": "[MOVE_TO_REGION],Eleutheria",
+    "translation": "[MOVE_TO_REGION],Eleutheria",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "299464$ExoticEffects",
+    "original": "[MOVE_TO_REGION],Eleutheria",
+    "translation": "[MOVE_TO_REGION],Eleutheria",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "291628$ExoticEffects",
+    "original": "[MOVE_TO_REGION],The Reach",
+    "translation": "[MOVE_TO_REGION],The Reach",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "296902$ExoticEffects",
+    "original": "[MOVE_TO_REGION],The Reach",
+    "translation": "[MOVE_TO_REGION],The Reach",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "299469$ExoticEffects",
+    "original": "[MOVE_TO_REGION],The Reach",
+    "translation": "[MOVE_TO_REGION],The Reach",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "299470$ExoticEffects",
+    "original": "[MOVE_TO_REGION],The Reach",
+    "translation": "[MOVE_TO_REGION],The Reach",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "291635$ExoticEffects",
+    "original": "[MOVE_TO_REGION],The Blue Kingdom",
+    "translation": "[MOVE_TO_REGION],The Blue Kingdom",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "296900$ExoticEffects",
+    "original": "[MOVE_TO_REGION],The Blue Kingdom",
+    "translation": "[MOVE_TO_REGION],The Blue Kingdom",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "308201$ExoticEffects",
+    "original": "[MOVE_TO_REGION],The Blue Kingdom",
+    "translation": "[MOVE_TO_REGION],The Blue Kingdom",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "308202$ExoticEffects",
+    "original": "[MOVE_TO_REGION],The Blue Kingdom",
+    "translation": "[MOVE_TO_REGION],The Blue Kingdom",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "308203$ExoticEffects",
+    "original": "[MOVE_TO_REGION],The Blue Kingdom",
+    "translation": "[MOVE_TO_REGION],The Blue Kingdom",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "308204$ExoticEffects",
+    "original": "[MOVE_TO_REGION],The Blue Kingdom",
+    "translation": "[MOVE_TO_REGION],The Blue Kingdom",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "291639$ExoticEffects",
+    "original": "[MOVE_TO_REGION],The Reach",
+    "translation": "[MOVE_TO_REGION],The Reach",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "296901$ExoticEffects",
+    "original": "[MOVE_TO_REGION],The Reach",
+    "translation": "[MOVE_TO_REGION],The Reach",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "300467$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "297689$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "294893$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "294906$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "272970$DifficultyAdvanced",
+    "original": "60-([q:136719]*10)",
+    "translation": "60-([q:136719]*10)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "272971$DifficultyAdvanced",
+    "original": "60-([q:136719]*10)",
+    "translation": "60-([q:136719]*10)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "272975$DifficultyAdvanced",
+    "original": "60-([q:136719]*10)",
+    "translation": "60-([q:136719]*10)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "273070$DifficultyAdvanced",
+    "original": "60-([q:136719]*10)",
+    "translation": "60-([q:136719]*10)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "273068$DifficultyAdvanced",
+    "original": "60-([q:136719]*10)",
+    "translation": "60-([q:136719]*10)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "273069$DifficultyAdvanced",
+    "original": "60-([q:136719]*10)",
+    "translation": "60-([q:136719]*10)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "272818$DifficultyAdvanced",
+    "original": "60-([q:136719]*10)",
+    "translation": "60-([q:136719]*10)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "274490$DifficultyAdvanced",
+    "original": "65-([q:136719]*10)",
+    "translation": "65-([q:136719]*10)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "296505$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "274496$DifficultyAdvanced",
+    "original": "65-([q:136719]*10)",
+    "translation": "65-([q:136719]*10)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "294976$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "295398$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "295383$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "295390$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "295622$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "295623$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "296205$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "275092$DifficultyAdvanced",
+    "original": "[q:131140]",
+    "translation": "[q:131140]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "296677$ExoticEffects",
+    "original": "[DEPART_THE_GRAVEYARD_OF_STARS]",
+    "translation": "[DEPART_THE_GRAVEYARD_OF_STARS]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "296678$ExoticEffects",
+    "original": "[DEPART_THE_GRAVEYARD_OF_STARS]",
+    "translation": "[DEPART_THE_GRAVEYARD_OF_STARS]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "297620$ExoticEffects",
+    "original": "[VICTORY_EFFECT]",
+    "translation": "[VICTORY_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "297665$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "298431$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "300259$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "299696$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "translation": "[GAME_END_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "300607$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "300715$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "302478$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "302494$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "translation": "[GAME_END_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "282071$DifficultyAdvanced",
+    "original": "([q:135650]*2)+([q:135652]*3)+([q:135651]*5)+([q:135653]*5)",
+    "translation": "([q:135650]*2)+([q:135652]*3)+([q:135651]*5)+([q:135653]*5)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "302510$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "translation": "[GAME_END_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "282072$DifficultyAdvanced",
+    "original": "([q:135650]*2)+([q:135652]*3)+([q:135651]*5)+([q:135653]*5)-10",
+    "translation": "([q:135650]*2)+([q:135652]*3)+([q:135651]*5)+([q:135653]*5)-10",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "282070$DifficultyAdvanced",
+    "original": "10+([q:135650]*2)+([q:135652]*3)+([q:135651]*5)+([q:135653]*5)",
+    "translation": "10+([q:135650]*2)+([q:135652]*3)+([q:135651]*5)+([q:135653]*5)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "284127$DifficultyAdvanced",
+    "original": "55-(15*[q:138077])",
+    "translation": "55-(15*[q:138077])",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "283044$DifficultyAdvanced",
+    "original": "55-(15*[q:138076])",
+    "translation": "55-(15*[q:138076])",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "305663$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "305677$ExoticEffects",
+    "original": "[CHARCREATE_EFFECT]",
+    "translation": "[CHARCREATE_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "305678$ExoticEffects",
+    "original": "[RETURN_TO_TUTORIAL]",
+    "translation": "[RETURN_TO_TUTORIAL]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "309707$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "287207$DifficultyAdvanced",
+    "original": "70-(15*[q:138078])",
+    "translation": "70-(15*[q:138078])",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "306270$ExoticEffects",
+    "original": "[DEPART_THE_GRAVEYARD_OF_STARS]",
+    "translation": "[DEPART_THE_GRAVEYARD_OF_STARS]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "306375$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "translation": "[GAME_END_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "286367$DifficultyAdvanced",
+    "original": "44-(15*[q:138078])",
+    "translation": "44-(15*[q:138078])",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "306442$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "307053$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "307055$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "307194$ExoticEffects",
+    "original": "[DEPART_THE_GRAVEYARD_OF_STARS]",
+    "translation": "[DEPART_THE_GRAVEYARD_OF_STARS]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "309618$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "translation": "[GAME_END_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "309619$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "translation": "[GAME_END_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "307247$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "307262$ExoticEffects",
+    "original": "[VICTORY_EFFECT]",
+    "translation": "[VICTORY_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "307263$ExoticEffects",
+    "original": "[VICTORY_EFFECT]",
+    "translation": "[VICTORY_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "307264$ExoticEffects",
+    "original": "[VICTORY_EFFECT]",
+    "translation": "[VICTORY_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "307265$ExoticEffects",
+    "original": "[VICTORY_EFFECT]",
+    "translation": "[VICTORY_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "288839$DifficultyAdvanced",
+    "original": "10+([q:139083]/3)",
+    "translation": "10+([q:139083]/3)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "288856$DifficultyAdvanced",
+    "original": "25+([q:139083]/3)+(([q:138993]-[q:139041])*5)",
+    "translation": "25+([q:139083]/3)+(([q:138993]-[q:139041])*5)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "287666$DifficultyAdvanced",
+    "original": "60+([q:139086]*10)",
+    "translation": "60+([q:139086]*10)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "287663$DifficultyAdvanced",
+    "original": "([q:139086]*10)+60",
+    "translation": "([q:139086]*10)+60",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "287662$DifficultyAdvanced",
+    "original": "([q:139086]*10)+30",
+    "translation": "([q:139086]*10)+30",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "287679$DifficultyAdvanced",
+    "original": "([q:139086]*10)+40",
+    "translation": "([q:139086]*10)+40",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "287681$DifficultyAdvanced",
+    "original": "([q:139086]*10)+50",
+    "translation": "([q:139086]*10)+50",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "307340$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "translation": "[GAME_END_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "309026$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "translation": "[GAME_END_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "289399$DifficultyAdvanced",
+    "original": "65 - ([q:139275]*6) + ([q:139277] * 10)",
+    "translation": "65 - ([q:139275]*6) + ([q:139277] * 10)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "289426$DifficultyAdvanced",
+    "original": "45 - [q:139278]",
+    "translation": "45 - [q:139278]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "289429$DifficultyAdvanced",
+    "original": "52 - [q:139278]",
+    "translation": "52 - [q:139278]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "289434$DifficultyAdvanced",
+    "original": "42 - [q:139278]",
+    "translation": "42 - [q:139278]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "309129$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "309147$ExoticEffects",
+    "original": "[VICTORY_EFFECT]",
+    "translation": "[VICTORY_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "309148$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "309152$ExoticEffects",
+    "original": "[VICTORY_EFFECT]",
+    "translation": "[VICTORY_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "309283$ExoticEffects",
+    "original": "[VICTORY_EFFECT]",
+    "translation": "[VICTORY_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "309630$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "translation": "[GAME_END_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "309655$ExoticEffects",
+    "original": "[VICTORY_EFFECT]",
+    "translation": "[VICTORY_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "309656$ExoticEffects",
+    "original": "[VICTORY_EFFECT]",
+    "translation": "[VICTORY_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "309702$ExoticEffects",
+    "original": "[VICTORY_EFFECT]",
+    "translation": "[VICTORY_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "309829$ExoticEffects",
+    "original": "[DEPART_THE_GRAVEYARD_OF_STARS]",
+    "translation": "[DEPART_THE_GRAVEYARD_OF_STARS]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "309830$ExoticEffects",
+    "original": "[DEPART_THE_GRAVEYARD_OF_STARS]",
+    "translation": "[DEPART_THE_GRAVEYARD_OF_STARS]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "292900$DifficultyAdvanced",
+    "original": "50-([q:139499]*10)",
+    "translation": "50-([q:139499]*10)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "292901$DifficultyAdvanced",
+    "original": "50-([q:139498]*10)",
+    "translation": "50-([q:139498]*10)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "310314$ExoticEffects",
+    "original": "[VICTORY_EFFECT]",
+    "translation": "[VICTORY_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "310315$ExoticEffects",
+    "original": "[VICTORY_EFFECT]",
+    "translation": "[VICTORY_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "310316$ExoticEffects",
+    "original": "[VICTORY_EFFECT]",
+    "translation": "[VICTORY_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "293133$DifficultyAdvanced",
+    "original": "40+([q:134401]*10)",
+    "translation": "40+([q:134401]*10)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "293135$DifficultyAdvanced",
+    "original": "30+([q:134401]*10)",
+    "translation": "30+([q:134401]*10)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "293136$DifficultyAdvanced",
+    "original": "40+([q:134401]*10)",
+    "translation": "40+([q:134401]*10)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "293138$DifficultyAdvanced",
+    "original": "40+([q:134401]*10)",
+    "translation": "40+([q:134401]*10)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "293140$DifficultyAdvanced",
+    "original": "40+([q:134401]*10)",
+    "translation": "40+([q:134401]*10)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "293142$DifficultyAdvanced",
+    "original": "40+([q:134401]*10)",
+    "translation": "40+([q:134401]*10)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "293144$DifficultyAdvanced",
+    "original": "40+([q:134401]*10)",
+    "translation": "40+([q:134401]*10)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "293146$DifficultyAdvanced",
+    "original": "40+([q:134401]*10)",
+    "translation": "40+([q:134401]*10)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "293148$DifficultyAdvanced",
+    "original": "40+([q:134401]*10)",
+    "translation": "40+([q:134401]*10)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "293150$DifficultyAdvanced",
+    "original": "40+([q:134401]*10)",
+    "translation": "40+([q:134401]*10)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "311979$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "294087$DifficultyAdvanced",
+    "original": "40+(2*[q:137043])",
+    "translation": "40+(2*[q:137043])",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "294089$DifficultyAdvanced",
+    "original": "40+(2*[q:137043])",
+    "translation": "40+(2*[q:137043])",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "294090$DifficultyAdvanced",
+    "original": "40+(2*[q:137043])",
+    "translation": "40+(2*[q:137043])",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "315881$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "312434$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "297051$DifficultyAdvanced",
+    "original": "30+([q:131235]*4)",
+    "translation": "30+([q:131235]*4)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "314684$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "translation": "[GAME_END_EFFECT]",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "315894$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "315808$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "315884$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "315976$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "316837$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "316846$ExoticEffects",
+    "original": "[MOVE_TO_REGION],Eleutheria",
+    "translation": "[MOVE_TO_REGION],Eleutheria",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "316940$ExoticEffects",
+    "original": "[MOVE_TO_REGION],Eleutheria",
+    "translation": "[MOVE_TO_REGION],Eleutheria",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "316942$ExoticEffects",
+    "original": "[MOVE_TO_REGION],Eleutheria",
+    "translation": "[MOVE_TO_REGION],Eleutheria",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "316943$ExoticEffects",
+    "original": "[MOVE_TO_REGION],Eleutheria",
+    "translation": "[MOVE_TO_REGION],Eleutheria",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "316944$ExoticEffects",
+    "original": "[MOVE_TO_REGION],Eleutheria",
+    "translation": "[MOVE_TO_REGION],Eleutheria",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "316945$ExoticEffects",
+    "original": "[MOVE_TO_REGION],Eleutheria",
+    "translation": "[MOVE_TO_REGION],Eleutheria",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "316946$ExoticEffects",
+    "original": "[MOVE_TO_REGION],Eleutheria",
+    "translation": "[MOVE_TO_REGION],Eleutheria",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "301757$DifficultyAdvanced",
+    "original": "45+(([q:138993]-[q:139041])*5)",
+    "translation": "45+(([q:138993]-[q:139041])*5)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "316961$ExoticEffects",
+    "original": "[MOVE_TO_REGION],Albion",
+    "translation": "[MOVE_TO_REGION],Albion",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "316962$ExoticEffects",
+    "original": "[MOVE_TO_REGION],Albion",
+    "translation": "[MOVE_TO_REGION],Albion",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "316963$ExoticEffects",
+    "original": "[MOVE_TO_REGION],Albion",
+    "translation": "[MOVE_TO_REGION],Albion",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "316964$ExoticEffects",
+    "original": "[MOVE_TO_REGION],Albion",
+    "translation": "[MOVE_TO_REGION],Albion",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "316965$ExoticEffects",
+    "original": "[MOVE_TO_REGION],Albion",
+    "translation": "[MOVE_TO_REGION],Albion",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "316966$ExoticEffects",
+    "original": "[MOVE_TO_REGION],Albion",
+    "translation": "[MOVE_TO_REGION],Albion",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "301776$DifficultyAdvanced",
+    "original": "45+(([q:138993]-[q:139041])*5)",
+    "translation": "45+(([q:138993]-[q:139041])*5)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "304819$DifficultyAdvanced",
+    "original": "-2+([q:131235]-[q:131123])",
+    "translation": "-2+([q:131235]-[q:131123])",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "304833$DifficultyAdvanced",
+    "original": "-1+((([q:131235]/4)-[q:131668])*2)",
+    "translation": "-1+((([q:131235]/4)-[q:131668])*2)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "305109$DifficultyAdvanced",
+    "original": "-2+((([q:131235]/7)-[q:131659])*3)",
+    "translation": "-2+((([q:131235]/7)-[q:131659])*3)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "273745$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "273849$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "252482$DifficultyAdvanced",
+    "original": "50-([q:133124]*5)",
+    "translation": "50-([q:133124]*5)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "280070$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "296232$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "275802$DifficultyAdvanced",
+    "original": "70",
+    "translation": "70",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "260801$DifficultyAdvanced",
+    "original": "([q:134545]*10)+60",
+    "translation": "([q:134545]*10)+60",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "314450$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "275804$DifficultyAdvanced",
+    "original": "70",
+    "translation": "70",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "313277$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "313279$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "303689$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "299467$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "299794$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "310694$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "275806$DifficultyAdvanced",
+    "original": "70",
+    "translation": "70",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "297713$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "297277$CustomUnlockedMessage",
+    "original": "The Devil has requested a secondment.",
+    "translation": "这魔鬼请求借调。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "events.json",
+    "key": "294653$CustomUnlockedMessage",
+    "original": "The Devil is on secondment.",
+    "translation": "这魔鬼是借调来的。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "events.json",
+    "key": "297183$CustomUnlockedMessage",
+    "original": "The Devil is on secondment.",
+    "translation": "这魔鬼是借调来的。",
+    "reason": "本次未定位，不能据此判断已从游戏删除"
+  },
+  {
+    "file": "events.json",
+    "key": "267079$DifficultyAdvanced",
+    "original": "50+([q:135933]*5)",
+    "translation": "50+([q:135933]*5)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "286857$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "287457$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "287491$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "293999$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "294000$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "298820$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "313212$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "313213$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "287770$DifficultyAdvanced",
+    "original": "55-([q:138078]*20)",
+    "translation": "55-([q:138078]*20)",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "308808$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  },
+  {
+    "file": "events.json",
+    "key": "311006$ExoticEffects",
+    "original": "None",
+    "translation": "无",
+    "reason": "元数据/内部表达式，已从翻译用导出排除"
+  }
+]

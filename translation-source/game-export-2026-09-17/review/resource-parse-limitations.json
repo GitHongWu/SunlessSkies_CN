@@ -1,0 +1,1454 @@
+[
+  {
+    "asset": "level10",
+    "pathid": 9552,
+    "type": "MonoBehaviour",
+    "error": "PPtr can't deref with m_PathID == 0!"
+  },
+  {
+    "asset": "level20",
+    "pathid": 11304,
+    "type": "MonoBehaviour",
+    "error": "PPtr can't deref with m_PathID == 0!"
+  },
+  {
+    "asset": "level21",
+    "pathid": 17877,
+    "type": "MonoBehaviour",
+    "error": "PPtr can't deref with m_PathID == 0!"
+  },
+  {
+    "asset": "level22",
+    "pathid": 13017,
+    "type": "MonoBehaviour",
+    "error": "PPtr can't deref with m_PathID == 0!"
+  },
+  {
+    "asset": "level23",
+    "pathid": 19064,
+    "type": "MonoBehaviour",
+    "error": "PPtr can't deref with m_PathID == 0!"
+  },
+  {
+    "asset": "level24",
+    "pathid": 19465,
+    "type": "MonoBehaviour",
+    "error": "PPtr can't deref with m_PathID == 0!"
+  },
+  {
+    "asset": "level6",
+    "pathid": 11613,
+    "type": "MonoBehaviour",
+    "error": "PPtr can't deref with m_PathID == 0!"
+  },
+  {
+    "asset": "level7",
+    "pathid": 9076,
+    "type": "MonoBehaviour",
+    "error": "PPtr can't deref with m_PathID == 0!"
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36808,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36809,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36810,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36811,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36812,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36813,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36814,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36815,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36816,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36817,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36818,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36819,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36820,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36821,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36822,
+    "type": "MonoBehaviour",
+    "error": "read_str out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36823,
+    "type": "MonoBehaviour",
+    "error": "read_str out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36824,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36825,
+    "type": "MonoBehaviour",
+    "error": "read_str out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36826,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36827,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36828,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36829,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36830,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36831,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36832,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36833,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36834,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36835,
+    "type": "MonoBehaviour",
+    "error": "read_str out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36837,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36838,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36839,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36840,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36841,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36842,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36843,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36844,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36845,
+    "type": "MonoBehaviour",
+    "error": "read_str out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36846,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36847,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36848,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36849,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36850,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36851,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36852,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36853,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36854,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36855,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36856,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36857,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36858,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36859,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36860,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36861,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36862,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36863,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36864,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36865,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36866,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36867,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36868,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36869,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36870,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36871,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36872,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36873,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36874,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36875,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36876,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36877,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36878,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36879,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36880,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36881,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36882,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36883,
+    "type": "MonoBehaviour",
+    "error": "read_str out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36884,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36885,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36886,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36887,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36888,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36889,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36890,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36891,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36892,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36893,
+    "type": "MonoBehaviour",
+    "error": "read_int out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36894,
+    "type": "MonoBehaviour",
+    "error": "read_str out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36895,
+    "type": "MonoBehaviour",
+    "error": "read_str out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36896,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36897,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36898,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36899,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36900,
+    "type": "MonoBehaviour",
+    "error": "read_str out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36901,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36902,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36903,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36904,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36905,
+    "type": "MonoBehaviour",
+    "error": "read_str out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36906,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36907,
+    "type": "MonoBehaviour",
+    "error": "read_str out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36908,
+    "type": "MonoBehaviour",
+    "error": "read_str out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36909,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36910,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36911,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36912,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36913,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36914,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36915,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36916,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36917,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36918,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36919,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36920,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36921,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36922,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36923,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36924,
+    "type": "MonoBehaviour",
+    "error": "read_float out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36925,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36926,
+    "type": "MonoBehaviour",
+    "error": "read_float out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36927,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36928,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36929,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36930,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36931,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36932,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36933,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36934,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36935,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36942,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36943,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36944,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36945,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36946,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36947,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36948,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36949,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36950,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36951,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36952,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36953,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36954,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36955,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36956,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36957,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36958,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36959,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36960,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36961,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36962,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36963,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36964,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36965,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36967,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36968,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36969,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36970,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36971,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36972,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36973,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36974,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36975,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36976,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36977,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 36978,
+    "type": "MonoBehaviour",
+    "error": "read_int_array out of bounds",
+    "classname": "Rewired.Data.Mapping.HardwareJoystickMap",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 37288,
+    "type": "MonoBehaviour",
+    "error": "read_str out of bounds",
+    "classname": "Skyless.Assets.Code.Skyless.Game.Procedural_Generation.Classes.SceneData",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 37290,
+    "type": "MonoBehaviour",
+    "error": "read_str out of bounds",
+    "classname": "Skyless.Assets.Code.Skyless.Game.Procedural_Generation.Classes.SceneData",
+    "gameObject": ""
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 38621,
+    "type": "MonoBehaviour",
+    "error": "read_int out of bounds",
+    "classname": ".AgentController",
+    "gameObject": "Ministry Monitor"
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 38722,
+    "type": "MonoBehaviour",
+    "error": "read_int out of bounds",
+    "classname": ".AgentController",
+    "gameObject": "Motor"
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 39616,
+    "type": "MonoBehaviour",
+    "error": "PPtr can't deref with m_PathID == 0!"
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 39873,
+    "type": "MonoBehaviour",
+    "error": "read_str out of bounds",
+    "classname": "Skyless.Assets.Code.Skyless.UI.Presenters.Generic.DifficultyMenuPresenter",
+    "gameObject": "DifficultyMenu"
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 40056,
+    "type": "MonoBehaviour",
+    "error": "PPtr can't deref with m_PathID == 0!"
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 40223,
+    "type": "MonoBehaviour",
+    "error": "read___int64 out of bounds",
+    "classname": ".AgentController",
+    "gameObject": "Motor"
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 40261,
+    "type": "MonoBehaviour",
+    "error": "read_int out of bounds",
+    "classname": ".AgentController",
+    "gameObject": "OGEReachMarauder"
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 41311,
+    "type": "MonoBehaviour",
+    "error": "read_str out of bounds",
+    "classname": ".PlayerController",
+    "gameObject": "PlayerController"
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 41587,
+    "type": "MonoBehaviour",
+    "error": "read_int out of bounds",
+    "classname": ".AgentController",
+    "gameObject": "ReachMarauder"
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 41666,
+    "type": "MonoBehaviour",
+    "error": "Expected to read 3744 bytes, but only read 364 bytes",
+    "classname": "Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter",
+    "gameObject": "BasicLoadingPanel"
+  },
+  {
+    "asset": "resources.assets",
+    "pathid": 42426,
+    "type": "MonoBehaviour",
+    "error": "Expected to read 1156 bytes, but only read 288 bytes",
+    "classname": "Skyless.Assets.Code.Skyless.UI.Presenters.CharacterCreation.CharacterFacePresenter",
+    "gameObject": "CharacterFace"
+  }
+]

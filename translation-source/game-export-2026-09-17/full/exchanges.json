@@ -1,0 +1,1034 @@
+[
+  {
+    "key": "100$ShopDescription",
+    "original": "Here, a captain can stock up on the essentials. There's never any shortage of chorister nectar, either.",
+    "translation": "在这里，车长可以囤积一些必需品。这里的唱诗蜂蜜也从不缺货。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=100 | Description | exchanges[0].Shops[3].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "100$ShopName",
+    "original": "The Sapphire'd Souk",
+    "translation": "蓝宝石之家",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=100 | Name | exchanges[0].Shops[3].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "101$ShopDescription",
+    "original": "The distinguished official retailers of Summerset College have deigned to establish a small outpost here. They conduct their business with consistent and vigorous disdain, trading lumber and edible flora from the whispering glades.",
+    "translation": "夏暮学院杰出的官方零售商屈尊在这里建立了一个小前哨。他们以持续而充满活力的轻蔑态度做着生意，交易木材和来自低语林的可食用植物。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=101 | Description | exchanges[5].Shops[2].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "101$ShopName",
+    "original": "Ravenscourt & Stamford",
+    "translation": "雷文斯考特&斯坦福前哨",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=101 | Name | exchanges[5].Shops[2].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "102$ShopDescription",
+    "original": "The Inscribed Tinkerer is delighted to make her unique designs available to discerning friends.",
+    "translation": "铭文工匠很高兴能将她的独特设计提供给有眼光的朋友。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=102 | Description | exchanges[27].Shops[0].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "102$ShopName",
+    "original": "The Inscribed Tinkerer",
+    "translation": "铭文工匠",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=102 | Name | exchanges[27].Shops[0].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "103$ShopDescription",
+    "original": "The wheezing, smoking, frequently burning, always energetic engine yard for the eccentric engineers of Portsmouth House.",
+    "translation": "蒸汽呼啸、烟尘滚滚、常有火光、总是精力充沛的朴茨茅斯厂里的古怪工程师们的所在地。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=103 | Description | exchanges[27].Shops[1].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "103$ShopName",
+    "original": "Portsmouth Engine Yard",
+    "translation": "朴茨茅斯机车厂",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=103 | Name | exchanges[27].Shops[1].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "104$ShopDescription",
+    "original": "Maintained by the Ministry, this yard for engine improvements and enhancements is a cut above.",
+    "translation": "这家专营机车改装的车厂由公德部管理，它比同类车厂要更胜一筹。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=104 | Description | exchanges[11].Shops[1].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "104$ShopName",
+    "original": "St Dominic's Augmentations",
+    "translation": "圣多米尼克的机车改装店",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=104 | Name | exchanges[11].Shops[1].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "105$ShopDescription",
+    "original": "A busy market, arched with glass and steel.",
+    "translation": "一座喧闹市集，笼罩在玻璃与钢铁织就的拱顶下。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=105 | Description | exchanges[11].Shops[2].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "105$ShopName",
+    "original": "Spitalfields Market",
+    "translation": "斯皮塔菲尔德市场",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=105 | Name | exchanges[11].Shops[2].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "106$ShopDescription",
+    "original": "A precarious shop sells the finest crockery in Albion, made from authentic Brabazon china. And at a rear door, captains can also purchase fuel mined among the dismal, stygian roots of the workworld.",
+    "translation": "一个岌岌可危的商店，他们出售阿尔比恩最好的碗碟，全是正宗的布拉巴宗瓷器。在它的后门，车长们还可以买到在工界那阴暗而潮湿的根部开采出的燃料。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=106 | Description | exchanges[15].Shops[0].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "106$ShopName",
+    "original": "Little Niceties",
+    "translation": "小奈斯的小礼",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=106 | Name | exchanges[15].Shops[0].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "106648$PlatName",
+    "original": "Titania",
+    "translation": "狄坦妮娅",
+    "context": "exchanges.bytes | Failbetter.Core.Exchange | ID=38 | Name | exchanges[0].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "106649$PlatName",
+    "original": "Leadbeater & Stainrod Nature Reserve",
+    "translation": "李德彼特&斯坦罗德自然保护区",
+    "context": "exchanges.bytes | Failbetter.Core.Exchange | ID=44 | Name | exchanges[1].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "106650$PlatName",
+    "original": "New Winchester",
+    "translation": "新温彻斯特",
+    "context": "exchanges.bytes | Failbetter.Core.Exchange | ID=34 | Name | exchanges[2].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "106651$PlatName",
+    "original": "Carillon",
+    "translation": "钟琴区",
+    "context": "exchanges.bytes | Failbetter.Core.Exchange | ID=43 | Name | exchanges[3].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "106652$PlatName",
+    "original": "Port Avon",
+    "translation": "埃文村",
+    "context": "exchanges.bytes | Failbetter.Core.Exchange | ID=42 | Name | exchanges[4].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "106653$PlatName",
+    "original": "Traitor's Wood",
+    "translation": "叛徒之林",
+    "context": "exchanges.bytes | Failbetter.Core.Exchange | ID=40 | Name | exchanges[5].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "106654$PlatName",
+    "original": "Polmear and Plenty's Inconceivable Circus",
+    "translation": "波尔梅尔&普伦蒂的不可思议马戏团",
+    "context": "exchanges.bytes | Failbetter.Core.Exchange | ID=41 | Name | exchanges[6].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "106655$PlatName",
+    "original": "Lustrum",
+    "translation": "伍载镇",
+    "context": "exchanges.bytes | Failbetter.Core.Exchange | ID=39 | Name | exchanges[7].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "106656$PlatName",
+    "original": "Port Prosper",
+    "translation": "兴荣港",
+    "context": "exchanges.bytes | Failbetter.Core.Exchange | ID=37 | Name | exchanges[8].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "106657$PlatName",
+    "original": "Magdalene's House of Small Comfort",
+    "translation": "抹大拉的小安乐窝",
+    "context": "exchanges.bytes | Failbetter.Core.Exchange | ID=36 | Name | exchanges[9].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "106658$PlatName",
+    "original": "Hybras",
+    "translation": "海波拉",
+    "context": "exchanges.bytes | Failbetter.Core.Exchange | ID=35 | Name | exchanges[10].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107$ShopDescription",
+    "original": "A cheerful signboard lists the goods on offer: Her Majesty's Finest Coal and Her Majesty's Finest Stained-Glass Sun-Proof Windows. No comestibles, though. Nothing edible grows here.",
+    "translation": "一个欢快的招牌列出了所提供的商品。女王陛下最优质的煤炭和女王陛下最优质的上色玻璃防晒窗。不过，没有美味佳肴。这里不生长食用作物。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=107 | Description | exchanges[17].Shops[0].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107$ShopName",
+    "original": "The Decommissary",
+    "translation": "驻外办事处",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=107 | Name | exchanges[17].Shops[0].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107012$PlatName",
+    "original": "London",
+    "translation": "伦敦",
+    "context": "exchanges.bytes | Failbetter.Core.Exchange | ID=45 | Name | exchanges[11].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107013$PlatName",
+    "original": "The Most Serene Mausoleum",
+    "translation": "圣宁墓",
+    "context": "exchanges.bytes | Failbetter.Core.Exchange | ID=46 | Name | exchanges[12].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107014$PlatName",
+    "original": "The Floating Parliament",
+    "translation": "浮空议会",
+    "context": "exchanges.bytes | Failbetter.Core.Exchange | ID=47 | Name | exchanges[13].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107015$PlatName",
+    "original": "Avid Horizon",
+    "translation": "渴求之地平线",
+    "context": "exchanges.bytes | Failbetter.Core.Exchange | ID=50 | Name | exchanges[14].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107016$PlatName",
+    "original": "Brabazon Workworld",
+    "translation": "布拉巴宗工作世界",
+    "context": "exchanges.bytes | Failbetter.Core.Exchange | ID=51 | Name | exchanges[15].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107017$PlatName",
+    "original": "Eagle's Empyrean",
+    "translation": "雄鹰之苍天上国",
+    "context": "exchanges.bytes | Failbetter.Core.Exchange | ID=48 | Name | exchanges[16].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107018$PlatName",
+    "original": "The Clockwork Sun",
+    "translation": "发条太阳",
+    "context": "exchanges.bytes | Failbetter.Core.Exchange | ID=52 | Name | exchanges[17].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107019$PlatName",
+    "original": "Worlebury-juxta-Mare",
+    "translation": "滨海沃伯瑞",
+    "context": "exchanges.bytes | Failbetter.Core.Exchange | ID=53 | Name | exchanges[18].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107020$PlatName",
+    "original": "Perdurance",
+    "translation": "琥珀宫",
+    "context": "exchanges.bytes | Failbetter.Core.Exchange | ID=54 | Name | exchanges[19].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107174$PlatName",
+    "original": "Combat Arena",
+    "translation": "斗竞场",
+    "context": "exchanges.bytes | Failbetter.Core.Exchange | ID=64 | Name | exchanges[20].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107259$PlatName",
+    "original": "Pan",
+    "translation": "潘城",
+    "context": "exchanges.bytes | Failbetter.Core.Exchange | ID=55 | Name | exchanges[21].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107260$PlatName",
+    "original": "Piranesi",
+    "translation": "皮拉内西",
+    "context": "exchanges.bytes | Failbetter.Core.Exchange | ID=60 | Name | exchanges[22].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107261$PlatName",
+    "original": "House of Rods and Chains",
+    "translation": "链杆之屋",
+    "context": "exchanges.bytes | Failbetter.Core.Exchange | ID=58 | Name | exchanges[23].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107262$PlatName",
+    "original": "Caduceus",
+    "translation": "商神宫",
+    "context": "exchanges.bytes | Failbetter.Core.Exchange | ID=57 | Name | exchanges[24].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107263$PlatName",
+    "original": "Achyls",
+    "translation": "埃克吕斯",
+    "context": "exchanges.bytes | Failbetter.Core.Exchange | ID=62 | Name | exchanges[25].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107264$PlatName",
+    "original": "Langley Hall",
+    "translation": "兰利厅",
+    "context": "exchanges.bytes | Failbetter.Core.Exchange | ID=61 | Name | exchanges[26].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107316$PlatName",
+    "original": "The Royal Society",
+    "translation": "皇家学会",
+    "context": "exchanges.bytes | Failbetter.Core.Exchange | ID=56 | Name | exchanges[27].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107743$PlatName",
+    "original": "Sky Barnet",
+    "translation": "空中巴尼特区",
+    "context": "exchanges.bytes | Failbetter.Core.Exchange | ID=63 | Name | exchanges[28].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107744$PlatName",
+    "original": "The Forge of Souls",
+    "translation": "灵魂铸炉",
+    "context": "exchanges.bytes | Failbetter.Core.Exchange | ID=66 | Name | exchanges[29].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107745$PlatName",
+    "original": "The White Well",
+    "translation": "白井",
+    "context": "exchanges.bytes | Failbetter.Core.Exchange | ID=65 | Name | exchanges[30].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107746$PlatName",
+    "original": "Death's Door",
+    "translation": "死亡之门",
+    "context": "exchanges.bytes | Failbetter.Core.Exchange | ID=67 | Name | exchanges[31].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107889$PlatName",
+    "original": "The Gentlemen",
+    "translation": "绅士帮",
+    "context": "exchanges.bytes | Failbetter.Core.Exchange | ID=69 | Name | exchanges[32].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107890$PlatName",
+    "original": "Wit & Vinegar",
+    "translation": "尖酸&狡黠公司",
+    "context": "exchanges.bytes | Failbetter.Core.Exchange | ID=68 | Name | exchanges[33].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "108$ShopDescription",
+    "original": "The Exasperated Butler sells copies of the gushing accounts of life at Perdurance – written by occupants and guests – which are so popular in London.",
+    "translation": "暴躁的管家出售大量关于琥珀宫中的生活的文章，它们由琥珀宫的住户与客人撰写，在伦敦广受欢迎。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=108 | Description | exchanges[19].Shops[0].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "108$ShopName",
+    "original": "The Butler's Discretion",
+    "translation": "管家秘辛",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=108 | Name | exchanges[19].Shops[0].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "109$ShopDescription",
+    "original": "This is the most cheerless gift-shop in all of Albion. They do sell commemorative Prince-Consort windows at a reasonable price, though. ",
+    "translation": "这是全阿尔比恩最冷清的礼品店。不过，此处的亲王纪念彩窗确实划算。 ",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=109 | Description | exchanges[12].Shops[0].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "109$ShopName",
+    "original": "Memorabilia",
+    "translation": "纪念品店",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=109 | Name | exchanges[12].Shops[0].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "110$ShopDescription",
+    "original": "Operating from a forgotten, cupboard-sized office, the once-esteemed official known as Black Rod now sells sandwiches from the parliamentary canteen. In addition, in order to raise funds, he can also be persuaded to part with exhibits from Parliament's extensive collections of crockery.",
+    "translation": "在一个被人遗忘的、巴掌大小的办公室里，这位曾被称为黑杆的议员正在出售议会食堂的三明治。此外，为了筹集资金，他还能从议会的大量陶器收藏中勉强拿出一些展品。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=110 | Description | exchanges[13].Shops[0].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "110$ShopName",
+    "original": "Black Rod's Boutique",
+    "translation": "黑杆精品店",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=110 | Name | exchanges[13].Shops[0].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "111$ShopDescription",
+    "original": "This little canteen has not seen much fresh stock in years; some of the tea has practically fossilised. ",
+    "translation": "这家小餐馆已有好些年没什么新鲜货物了：一些茶叶几乎变成了化石。 ",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=111 | Description | exchanges[14].Shops[0].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "111$ShopName",
+    "original": "The Hungry Traveller",
+    "translation": "饥饿旅者",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=111 | Name | exchanges[14].Shops[0].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "112$ShopDescription",
+    "original": "The Weary Quartermaster is willing to write off some of Portsmouth House's output, for a price.",
+    "translation": "疲倦的军需官愿意“报废”朴茨茅斯的一些产品——只要你付出一些代价。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=112 | Description | exchanges[27].Shops[2].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "112$ShopName",
+    "original": "Requisitions",
+    "translation": "征购处",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=112 | Name | exchanges[27].Shops[2].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "113$ShopDescription",
+    "original": "This collection of eclectic stalls is patrolled by sharp-eyed surveyors – each bearing a burning-book badge on their lapel. ",
+    "translation": "这片玲琅满目的摊位由眼力敏锐的检验员巡视，每个人的衣襟上都别着一个燃烧之书的徽章。 ",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=113 | Description | exchanges[18].Shops[0].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "113$ShopName",
+    "original": "Juxta-Mare Market",
+    "translation": "沃伯瑞市场",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=113 | Name | exchanges[18].Shops[0].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "114$ShopDescription",
+    "original": "They'll take anything here; anything and everything.",
+    "translation": "他们这儿接受任何商品，来者不拒。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=114 | Description | exchanges[21].Shops[1].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "114$ShopName",
+    "original": "The Night Market",
+    "translation": "夜市",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=114 | Name | exchanges[21].Shops[1].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "115$ShopDescription",
+    "original": "They sell two things: pre-human souls of exceptional quality and supplies: mostly blind, pale fish from the caves beneath Caduceus.",
+    "translation": "他们出售两样东西：补给与质量优异的人类灵魂，前者主要是来自商神宫山洞中的盲眼白鱼。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=115 | Description | exchanges[24].Shops[0].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "115$ShopName",
+    "original": "Trade with the Devils",
+    "translation": "与魔鬼交易",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=115 | Name | exchanges[24].Shops[0].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "116$ShopDescription",
+    "original": "One rubbery merchant accepts sovereigns instead of amber. Unfortunately, all they sell – apart from crabby, curdled meat and fuels piped from the gargantuan carcass' innermost organs – are writhing horrors. They do at least supply cages. ",
+    "translation": "这个软体商人愿意接受金镑而非琥珀。不幸的是，他们出售的除了蟹肉、团块和巨大的尸体中取出的燃料外，就是蠕动的怖物。至少他们还提供笼子。 ",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=116 | Description | exchanges[23].Shops[0].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "116$ShopName",
+    "original": "The Rubbery Souk",
+    "translation": "软体市集",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=116 | Name | exchanges[23].Shops[0].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "117$ShopDescription",
+    "original": "The Empyrean specialises in technology, electricity, and weaponry. Only the latter may be traded to those outside the Eagle Khan's military.",
+    "translation": "苍天上国人长于科技、电力和武器。除雄鹰汗军队以外者只能在这里交易武器。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=117 | Description | exchanges[16].Shops[0].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "117$ShopName",
+    "original": "The Blue Heaven Arsenal",
+    "translation": "碧空军火库",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=117 | Name | exchanges[16].Shops[0].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "118$ShopDescription",
+    "original": "The Chaplains sell handfuls of Navaratine gemstones recovered from the prison's knotty depths. No food or fuel can be bought, though: there's barely enough to keep the chaplains fed, and they have no interest in making it easier to leave. This is a prison, after all.",
+    "translation": "牧师们出售一把又一把从监狱结界深处找到的曩缚咤宝石。不过，这儿买不到补给或燃料：这里的食物甚至不足以让牧师们吃饱，而且他们也不想让人们轻松地离开。这里毕竟是一座监狱。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=118 | Description | exchanges[22].Shops[0].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "118$ShopName",
+    "original": "Trade with the Chaplains",
+    "translation": "与牧师的贸易",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=118 | Name | exchanges[22].Shops[0].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "119$ShopDescription",
+    "original": "Pay the checking fee and you can take whichever coat you like. It's unlikely anyone will mind. Provisions are also available, should, for some reason, you wish to leave.",
+    "translation": "付点登记费，你就可以拿走任何一件外套，不太可能会有人介意的。如果你出于某种原因想要离开的话，这儿也可以提供补给。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=119 | Description | exchanges[26].Shops[0].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "119$ShopName",
+    "original": "The Cloakroom",
+    "translation": "衣帽间",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=119 | Name | exchanges[26].Shops[0].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "120$ShopDescription",
+    "original": "Between the monastery and Murgatroyd, the tea trade here is firmly locked down. Sensing an opportunity, some Khanate merchants have started up an alternative trade.",
+    "translation": "修道院和穆氏之间的茶叶贸易被牢牢管控。一些汗国商人察觉到了机会，做起了这桩另类的买卖。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=120 | Description | exchanges[25].Shops[0].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "120$ShopName",
+    "original": "Midnight Lumberyard",
+    "translation": "午夜木材场",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=120 | Name | exchanges[25].Shops[0].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "121$ShopDescription",
+    "original": "Answerable to the Cypress King, these engineers work for all Pan's factions. They wear the emblem of the panpipes to proclaim their neutrality and in the hope that it might encourage the occasional free lunch.",
+    "translation": "这些受柏树王指派的工程师为潘城的所有势力服务。他们戴着潘城的徽章以示中立，并期望偶尔能藉此获得免费的午餐。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=121 | Description | exchanges[21].Shops[2].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "121$ShopName",
+    "original": "Daedalian Engineering",
+    "translation": "代达罗斯车间",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=121 | Name | exchanges[21].Shops[2].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "122$ShopDescription",
+    "original": "The Ambassador's sister is entrusted with the provisioning of armaments and equipment to visiting captains. There was, apparently, no one better suited to the task.",
+    "translation": "大使的妹妹负责为来访的车长提供军用设备和生活供给。显然，没有人比她更适合这项任务。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=122 | Description | exchanges[28].Shops[0].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "122$ShopName",
+    "original": "The Last Autumnal Slope",
+    "translation": "最后的秋日之坡",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=122 | Name | exchanges[28].Shops[0].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "123$ShopDescription",
+    "original": "The Empyrean engine yards produce one engine: the light, bright, sprightly Altani-Outrider. Available nowhere else, it is the pride of Empyrean technology and the finest weapon in the war against the Liberation of Night. (If your locomotive is damaged its sale value will be reduced to cover repairs.)",
+    "translation": "苍天上国的机车厂只生产一种机车：轻巧、明亮、灵活的阿勒塔泥级先锋机车。绝无仅有，是上国技术的骄傲，也是对抗夜之解放的战争中最好的武器。（如果你的机车有损伤，其售价将按维修费用折减。）",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=123 | Description | exchanges[16].Shops[1].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "123$ShopName",
+    "original": "Illuminated Engineering",
+    "translation": "华光机工",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=123 | Name | exchanges[16].Shops[1].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "124$ShopName",
+    "original": "Combat Arena Equipment Store",
+    "translation": "斗竞场武具店",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=124 | Name | exchanges[20].Shops[0].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "125$ShopName",
+    "original": "Combat Arena Engineyard",
+    "translation": "斗竞机车厂",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=125 | Name | exchanges[20].Shops[1].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "126$ShopDescription",
+    "original": "A beguilingly luxuriant engine-yard: where chassis gleam like starlight and both engines and engineers are coiffed, polished and meticulously upholstered. (If your locomotive has suffered more than 10 damage, its sale value will be reduced by 500 sovereigns.)",
+    "translation": "一家令人眼花缭乱的豪华机车厂：那里的机车底盘像星光一样闪亮，无论是工程师还是引擎都经过了抛光、打磨与精心装饰。（如果你的机车损坏超过10点，其售价将减少500金镑。）",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=126 | Description | exchanges[28].Shops[1].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "126$ShopName",
+    "original": "Pilgrim's Progress",
+    "translation": "朝圣之路",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=126 | Name | exchanges[28].Shops[1].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "127$ShopDescription",
+    "original": "A desperate attempt by London's Embassy to supplement funds. The Ambassador's smile is manic as she invites visiting captains to peruse the Embassy's wares.",
+    "translation": "伦敦大使馆为补充资金而作出的绝望尝试。大使笑容狰狞，邀请来访的车长们浏览大使馆的商品。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=127 | Description | exchanges[28].Shops[2].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "127$ShopName",
+    "original": "The Turret",
+    "translation": "角楼",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=127 | Name | exchanges[28].Shops[2].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "128$ShopDescription",
+    "original": "A market for the cast-offs of the prisoners held in the Well. The Graven who run the stalls regard you with alternately bafflement and contempt.",
+    "translation": "这里是井中囚犯的弃物市场。经营摊位的墓族时不时朝你投来莫名其妙和蔑视的眼光。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=128 | Description | exchanges[30].Shops[0].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "128$ShopName",
+    "original": "The Rag–and–Bone",
+    "translation": "废品收购",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=128 | Name | exchanges[30].Shops[0].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "129$ShopDescription",
+    "original": "One of the first Londoners to cross the Avid Horizon; the Venturer skulks by the Forge, collecting shards of Navaratine. He parts, reluctantly, with the least of these.",
+    "translation": "作为第一批穿越渴求之地平线的沦敦人之一，冒险家在铸炉旁兜兜转转，收集曩缚咤的碎片。他不情愿地将其中最小的那些卖给了你。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=129 | Description | exchanges[29].Shops[0].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "129$ShopName",
+    "original": "The Venturer's Request",
+    "translation": "冒险家的要求",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=129 | Name | exchanges[29].Shops[0].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "130$ShopDescription",
+    "original": "A masked, silent trio of spirits trade in souls here. Their motivations are obscure and they are forbidden from passing on. Their eye for quality, however, is impeccable.",
+    "translation": "三个戴着面具、沉默不语的鬼魂在此处交易灵魂。你无从得知它们的动机，只知道它们被禁止前往来世。然而，它们对灵魂质量的眼光是毋庸置疑的。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=130 | Description | exchanges[31].Shops[0].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "130$ShopName",
+    "original": "Trinity's Hoarding",
+    "translation": "三魂秘藏",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=130 | Name | exchanges[31].Shops[0].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131$ShopDescription",
+    "original": "Below the petals of Titania, hidden in the perfumed mists, lies the lair of the Midnight Rose: a coterie of bohemians that smuggle red honey to distant ports.",
+    "translation": "狄坦妮娅的花瓣下，香雾遮掩着午夜玫瑰的老巢，这里是波西米亚派艺术家的结社，向遥远的车站走私红蜂蜜。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=131 | Description | exchanges[0].Shops[4].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131$ShopName",
+    "original": "The Midnight Rose",
+    "translation": "午夜玫瑰",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=131 | Name | exchanges[0].Shops[4].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "132$ShopDescription",
+    "original": "A front for a more successful smuggling concern, the Wit & Vinegar Lumber Company has interests across Albion and the Reach. Its chief contraband is illicit literature, largely secured from malcontents in the University's English Department. ",
+    "translation": "作为一个更成功的走私公司的幌子，尖酸&狡黠木材公司在阿尔比恩和外野四处获利。它的主要走私品是非法文学作品，它们基本都是从大学英语系的不满者那里获得的。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=132 | Description | exchanges[33].Shops[0].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "132$ShopName",
+    "original": "Wit & Vinegar",
+    "translation": "尖酸&狡黠公司",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=132 | Name | exchanges[33].Shops[0].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "133$ShopDescription",
+    "original": "The Gentlemen are the skies' most notorious smugglers, an extensive gang unafraid of murder or the hangman. Their primary export is starshine: waters steeped in the far-travelled light of stars that once shone upon old earth.",
+    "translation": "绅士帮是天空中最臭名昭著的走私者，是一个无惧谋杀或绞刑的庞大团伙。他们的主要出口产品是星光酒——一种浸泡着曾经照耀过古老地球的遥远星光的液体。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=133 | Description | exchanges[32].Shops[0].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "133$ShopName",
+    "original": "The Gentlemen",
+    "translation": "绅士帮",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=133 | Name | exchanges[32].Shops[0].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "64$ShopDescription",
+    "original": "A thriving market beneath the soaring bridges.",
+    "translation": "高耸桥梁下的繁荣市场。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=64 | Description | exchanges[2].Shops[0].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "64$ShopName",
+    "original": "New Winchester Market",
+    "translation": "新温彻斯特市场",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=64 | Name | exchanges[2].Shops[0].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "65$ShopDescription",
+    "original": "Under the jurisdiction of the Assembly, this skyfaring shop provides the absolute bare minimum.",
+    "translation": "在大集会的管辖下，这家行天商店仅提供最低限度的服务。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=65 | Description | exchanges[2].Shops[1].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "65$ShopName",
+    "original": "Engine Provisions",
+    "translation": "机车运维所",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=65 | Name | exchanges[2].Shops[1].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "66$ShopDescription",
+    "original": "Ministry agents patrol the bridges. Their heavy boots thunder over the market, where trade is strictly licensed and monitored.  [This shop will only be open so long as the Windward Company have a hold in New Winchester.]",
+    "translation": "公德部人员在桥上巡逻，沉重的靴子声震慑着下方市场。此地交易需持牌照，且受到严密监管。[只要迎风公司在新温彻斯特尚有一席之地，此店就会持续营业。]",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=66 | Description | exchanges[2].Shops[2].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "66$ShopName",
+    "original": "Her Majesty's Emporium",
+    "translation": "御选百货",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=66 | Name | exchanges[2].Shops[2].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "67$ShopDescription",
+    "original": "A sprawling market under the arches, thronged with bustling crowds and peopled by unscrupulous merchants. [This shop will only be open so long as the Tacketies have a hold in New Winchester.]",
+    "translation": "拱廊之下，市场蔓延，人群熙熙攘攘，奸商混迹其间。[只要钉鞋党在新温彻斯特尚有一席之地，此店就会持续营业。]",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=67 | Description | exchanges[2].Shops[3].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "67$ShopName",
+    "original": "Free Winchester Bazaar",
+    "translation": "温彻斯特自由集市",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=67 | Name | exchanges[2].Shops[3].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "68$ShopDescription",
+    "original": "Captains pay a small fee for the Port Authorities' services in winnowing out the chaff. Only suitable skyfarers are allowed to sign-on.",
+    "translation": "车长可以支付小额费用，委托港务局筛查人选，只有合适的行天客才会被签下。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=68 | Description | exchanges[2].Shops[4].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "68$ShopName",
+    "original": "The Labour Exchange",
+    "translation": "劳工介绍所",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=68 | Name | exchanges[2].Shops[4].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "69$ShopDescription",
+    "original": "Mme. Lumière has established herself in a spacious garret over a vine bridge. When not upsetting her fellow citizens, she's on the look-out for curiosities captains might have acquired in their travels.",
+    "translation": "卢米埃尔夫人住在藤桥上的宽敞阁楼里。她要么惹得四邻不宁，要么忙着搜罗车长们从旅途中带回的奇物。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=69 | Description | exchanges[2].Shops[5].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "69$ShopName",
+    "original": "Mme. Lumière's",
+    "translation": "卢米埃尔夫人的百宝阁",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=69 | Name | exchanges[2].Shops[5].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "70$ShopDescription",
+    "original": "Fair Nance runs a comfortable if inefficient hostelry. She's always on the lookout for fresh ingredients, in exchange for some of her specialties. ",
+    "translation": "好人南斯经营着一家虽粗放却舒适的旅馆。她总是愿意用当地特产交换新鲜的食材。 ",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=70 | Description | exchanges[10].Shops[0].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "70$ShopName",
+    "original": "The Brendan",
+    "translation": "布伦丹",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=70 | Name | exchanges[10].Shops[0].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "71$ShopDescription",
+    "original": "The only things to buy at Hybras are edible mushrooms and seeds from the blotchy crops grown by the locals. ",
+    "translation": "在海波拉，你只能买到可食用蘑菇和带菌斑的本地作物所结的种子。 ",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=71 | Description | exchanges[10].Shops[1].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "71$ShopName",
+    "original": "Trade with the Locals",
+    "translation": "与当地人交易",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=71 | Name | exchanges[10].Shops[1].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "72$ShopDescription",
+    "original": "A perfumed glass-house near the station offers travelers all they might need on departure from the House of Small Comfort.",
+    "translation": "离开小安乐窝时，旅者所需的一切物资都可以在车站附近的芳香玻璃房找到。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=72 | Description | exchanges[9].Shops[0].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "72$ShopName",
+    "original": "The Needful Emporium",
+    "translation": "必需品商店",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=72 | Name | exchanges[9].Shops[0].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "73$ShopDescription",
+    "original": "An elderly attendant with a gleam in her eye manages the upkeep of Magdalene's. Hers is a continual battle against the encroachment of the Reach.",
+    "translation": "一位精神矍铄的侍者打理着抹大拉之家的上上下下，使它能够对抗外野的侵蚀。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=73 | Description | exchanges[9].Shops[1].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "73$ShopName",
+    "original": "Beatrice's Beatifications",
+    "translation": "碧翠丝的受福",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=73 | Name | exchanges[9].Shops[1].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "74$ShopDescription",
+    "original": "The only shop permitted to sell supplies to skyfarers in Port Prosper.",
+    "translation": "兴荣港中唯一被允许向行天客出售补给品的商店。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=74 | Description | exchanges[8].Shops[0].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "74$ShopName",
+    "original": "Fullbright's Necessaries ",
+    "translation": "明光牌必需品",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=74 | Name | exchanges[8].Shops[0].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "75$ShopDescription",
+    "original": "The adjoining shop to the famous cafe. The staff are renowned for their discretion, taste, and confidence in their complete superiority.",
+    "translation": "这家商店毗邻著名的咖啡馆。店员以谨慎、高雅品味和对自己卓越表现的自信而闻名。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=75 | Description | exchanges[8].Shops[1].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "75$ShopName",
+    "original": "Nelson's Emporium",
+    "translation": "纳尔逊的商店",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=75 | Name | exchanges[8].Shops[1].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "76$ShopDescription",
+    "original": "Locomotive plating, improvements and refurbishments. An estimable choice.",
+    "translation": "机车装甲、升级、翻新服务。亚伯拉罕，值得信赖。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=76 | Description | exchanges[2].Shops[6].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "76$ShopName",
+    "original": "Abraham's Engineering",
+    "translation": "亚伯拉罕机车间",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=76 | Name | exchanges[2].Shops[6].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "77$ShopDescription",
+    "original": "The Circus has to get by somehow.",
+    "translation": "马戏团总要讨生活。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=77 | Description | exchanges[6].Shops[0].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "77$ShopName",
+    "original": "The Big Top Shop",
+    "translation": "大帐篷商店",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=77 | Name | exchanges[6].Shops[0].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "78$ShopDescription",
+    "original": "A little shop by the station which is eager to provide provisions for departing captains. The shopkeep is amassing a fine collection of china saucers.",
+    "translation": "这是车站旁的一家小店，热心为即将启程的车长们补充物资。店主正在收集一批精美的瓷碟。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=78 | Description | exchanges[4].Shops[0].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "78$ShopName",
+    "original": "The Old Storehouse",
+    "translation": "老库房",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=78 | Name | exchanges[4].Shops[0].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "79$ShopDescription",
+    "original": "Port Avon is rich in lush greenery. They are proud of their allotments and lawns and are keen to share the fruits of their labour.",
+    "translation": "埃文村绿意葱茏。村民们为自家的菜圃与草坪感到自豪，也乐意分享耕耘所得。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=79 | Description | exchanges[4].Shops[1].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "79$ShopName",
+    "original": "The Little Orchard",
+    "translation": "小果园",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=79 | Name | exchanges[4].Shops[1].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "80$ShopDescription",
+    "original": "An austere shop near the station. Designed to operate as efficiently as possible, so that captains may free up space at the station as swiftly as they can.",
+    "translation": "这是车站附近的一个简朴店铺，设计得非常高效，方便车长尽快卸货，快速离站。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=80 | Description | exchanges[1].Shops[0].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "80$ShopName",
+    "original": "The Skyfaring Supplier",
+    "translation": "行天供应商",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=80 | Name | exchanges[1].Shops[0].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "81$ShopDescription",
+    "original": "A little shack which the researchers of Leadbeater & Stainrod use to declutter their cabins and barter for their necessaries.",
+    "translation": "李德彼特&斯坦罗德自然保护区的研究人员用这个小棚屋来存放杂物，并在此以物易物，换取生活用品。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=81 | Description | exchanges[1].Shops[1].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "81$ShopName",
+    "original": "The Researcher's Friend",
+    "translation": "研究者之友",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=81 | Name | exchanges[1].Shops[1].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "82$ShopDescription",
+    "original": "A quaint little shop on Petal Fall, that promotes friendly relationships with visiting captains. The proprietor does a thriving trade in Nectar to supplement her income.",
+    "translation": "花瓣谷的这家古雅小店乐于与来访的车长打好关系。店主靠售卖唱诗蜂蜜盈利，生意还算兴隆。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=82 | Description | exchanges[0].Shops[0].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "82$ShopName",
+    "original": "The Traveler's Return",
+    "translation": "旅人归栈",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=82 | Name | exchanges[0].Shops[0].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "83$ShopDescription",
+    "original": "The Mayor's Office runs a small business buying up building and artistic materials from visitors for use in Titania's construction projects.",
+    "translation": "市长办公室经营一门小本生意：向来访者收购建筑材料与艺术用品，用于狄坦妮娅的建设工程。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=83 | Description | exchanges[0].Shops[1].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "83$ShopName",
+    "original": "The Construction Fund",
+    "translation": "建设基金",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=83 | Name | exchanges[0].Shops[1].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "84$ShopDescription",
+    "original": "The Emporium offers visitors all that they might need to leave Carillon, as well as a few winning examples from their stained glass collection.",
+    "translation": "商店为来访者备齐了离开钟琴区所需的一切物资，亦展出了几件自家彩色玻璃藏品中的镇店之作。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=84 | Description | exchanges[3].Shops[0].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "84$ShopName",
+    "original": "The Visitor's Emporium",
+    "translation": "访客商店",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=84 | Name | exchanges[3].Shops[0].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "85$ShopDescription",
+    "original": "Titania's beleaguered citizens rummage through the ruins and sell off whatever they can find amidst the rubble.",
+    "translation": "狄坦妮娅的困顿公民在废墟中翻找，变卖他们能从中找到的任何东西。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=85 | Description | exchanges[0].Shops[2].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "85$ShopName",
+    "original": "All That Remains",
+    "translation": "残存之物",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=85 | Name | exchanges[0].Shops[2].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "86$ShopDescription",
+    "original": "The little accountancy firm on Lustrum buys fuel and Hours from desperate miners. It buys in food and illicit weaponry to provide for their needs in return.",
+    "translation": "伍载镇的小会计师事务所用食物和非法武器作交换，从绝望的矿工那里购买燃料和时间。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=86 | Description | exchanges[7].Shops[0].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "86$ShopName",
+    "original": "Sweet Jane's Supplies",
+    "translation": "蜜糖阿简补给店",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=86 | Name | exchanges[7].Shops[0].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "87$ShopDescription",
+    "original": "The distinguished official retailers of Summerset College have deigned to open a small outpost on Traitor's Wood. They conduct their business with a hearty disdain for the customer.",
+    "translation": "夏暮学院杰出的官方零售商屈尊在叛徒之林开设了一个小前哨。做生意时，他们对顾客的轻蔑可谓尽心竭力。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=87 | Description | exchanges[5].Shops[0].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "87$ShopName",
+    "original": "Ravenscourt & Stamford Outpost",
+    "translation": "雷文斯考特&斯坦福前哨",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=87 | Name | exchanges[5].Shops[0].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "88$ShopDescription",
+    "original": "The Cheery Arboriculturalist is studying the flora of the forest. She's keen to observe the effects of introducing species from the Wood into new ecologies.",
+    "translation": "愉快的树艺学家正在研究森林的植物群。她热衷于观察将森林中的物种引入新生态环境后的效果。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=88 | Description | exchanges[5].Shops[1].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "88$ShopName",
+    "original": "The Palewood Arboretum",
+    "translation": "白木植物园",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=88 | Name | exchanges[5].Shops[1].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "89$ShopDescription",
+    "original": "Here, Carillon offers for purchase immaculate souls, willingly divested by refined patients. The Bursary is also happy to receive lesser souls into its care.",
+    "translation": "钟琴区在此出售无垢灵魂，这种商品由有教养的患者“自愿捐赠”。财务室也乐于照料更平庸的灵魂。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=89 | Description | exchanges[3].Shops[1].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "89$ShopName",
+    "original": "The Bursary of Souls",
+    "translation": "灵魂财务室",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=89 | Name | exchanges[3].Shops[1].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "90$ShopDescription",
+    "original": "A notorious graveyard for unwanted, unloved or blasted-out-of-the-sky engines. Occasionally there are gems among the scrap. (If your locomotive is damaged its sale value will be reduced to cover repairs.)",
+    "translation": "这里是臭名昭著的机车坟场，堆放着那些无人需要、无人怜爱，或曾一度曝尸天野的机车。偶尔，废铁堆中也有遗珠。（如果你的机车有损伤，其售价将依据维修费用折减。）",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=90 | Description | exchanges[2].Shops[7].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "90$ShopName",
+    "original": "Wolvesey Engine Yard",
+    "translation": "伍夫塞废旧机车场",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=90 | Name | exchanges[2].Shops[7].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "91$ShopDescription",
+    "original": "Scrupulously regulated, the Crown & Misery Company takes pride in the engines it manufactures. Well, most of them. (If your locomotive is damaged its sale value will be reduced to cover repairs.)",
+    "translation": "皇冠与苦难公司对其出品的机车执行严格监管，并以此为傲。嗯，至少大多数时候是这样。（如果你的机车有损伤，其售价将按维修费用折减。）",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=91 | Description | exchanges[11].Shops[0].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "91$ShopName",
+    "original": "Crown & Misery Co. Yards",
+    "translation": "皇冠与苦难公司机车厂",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=91 | Name | exchanges[11].Shops[0].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "92$ShopDescription",
+    "original": "The Nightingale Yard, the gleaming pride of Pan, endeavours to outdo all its rivals, whether mortal or stellar. Price should be the only barrier to quality craftsmanship. (If your locomotive has suffered more than 10 damage, its sale value will be reduced by 500 sovereigns.)",
+    "translation": "南丁格尔机车场，潘城的骄傲。它睥睨着所有竞争者，无论是凡人还是群星。上佳工艺的唯一缺点只应该是价格。(如果你的机车目前承受了超过10点的伤害，其售价将减少500金镑。）",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=92 | Description | exchanges[21].Shops[0].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "92$ShopName",
+    "original": "Nightingale Engine Yard",
+    "translation": "南丁格尔机车场",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=92 | Name | exchanges[21].Shops[0].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "93$ShopDescription",
+    "original": "Gremory's tiny shop sells comestibles and several reliable vintages of chorister-nectar. It's said he retrieves a tithe of it from the nearest hive; devils have always got on with bees.",
+    "translation": "格雷莫里的小店售卖些许口粮，还有几款品质稳定、口碑不错的唱诗蜂蜜陈酿。据说这些蜜酒是他从最近的蜂巢里抽得的一小份——魔鬼与蜜蜂，素来相处融洽。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=93 | Description | exchanges[3].Shops[2].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "93$ShopName",
+    "original": "Gremory's",
+    "translation": "格雷莫里的小店",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=93 | Name | exchanges[3].Shops[2].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "94$ShopDescription",
+    "original": "A brisk, efficient shop at the station. So brisk, in fact, and so efficient, that it's almost as if they want to get rid of visitors as quickly as possible. ",
+    "translation": "车站里的一家忙碌、高效的商店。它是如此的忙碌与高效，就好像想赶快把顾客打发走一样。 ",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=94 | Description | exchanges[1].Shops[2].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "94$ShopName",
+    "original": "Skyfarer's Supplies",
+    "translation": "行天客补给站",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=94 | Name | exchanges[1].Shops[2].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "95$ShopDescription",
+    "original": "A bustling, family-run concern that supplies skyfarers, and trades in hours bought from local prospectors. ",
+    "translation": "这家热闹的家庭式企业为行天客提供补给，并交易从当地探矿者那里购买的时间。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=95 | Description | exchanges[7].Shops[1].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "95$ShopName",
+    "original": "Sweet Jane's Trading Post",
+    "translation": "蜜糖阿简贸易站",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=95 | Name | exchanges[7].Shops[1].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "96$ShopDescription",
+    "original": "An elderly proprietor with a steely gleam in her eye runs this trading post. She deals in engine supplies from the jumbled shop floor, and in unwanted souls in a smoky back room. ",
+    "translation": "一位精神矍铄的老业主经营着这个贸易站。她在杂乱无章的车间里交易机车用品，在烟雾缭绕的后屋里交易多余灵魂。 ",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=96 | Description | exchanges[9].Shops[2].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "96$ShopName",
+    "original": "Beatrice's Exchange",
+    "translation": "碧翠丝的零售店",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=96 | Name | exchanges[9].Shops[2].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "97$ShopDescription",
+    "original": "Stalls and shops; hawkers and brokers. You can sell practically anything at the Victoria Market. ",
+    "translation": "摊位与商店遍布，小贩和掮客云集。在维多利亚市场，几乎无物不可卖。 ",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=97 | Description | exchanges[2].Shops[8].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "97$ShopName",
+    "original": "Victoria Market",
+    "translation": "维多利亚市场",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=97 | Name | exchanges[2].Shops[8].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "98$ShopDescription",
+    "original": "You can buy supplies here, as long as your crew are content with circus food: roasted nuts, skewers of meat and veg, sticky honey-cakes. It also acts as a mournful outlet for the Wit and Vinegar Company, a modest London lumber concern.",
+    "translation": "你可以在这里购买补给，只要你的列车员能接受马戏团的伙食——烤坚果、烤肉蔬串、粘腻的蜂蜜蛋糕。这里同时也是尖酸&狡黠公司的一个萧条经销点，该公司在伦敦主营规模不大的木材生意。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=98 | Description | exchanges[6].Shops[1].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "98$ShopName",
+    "original": "The New Big Top Shop",
+    "translation": "新大帐篷商店",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=98 | Name | exchanges[6].Shops[1].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "99$ShopDescription",
+    "original": "A well-stocked provisioners, crammed with high shelves. If you can find the right corner, you can also find displays of the riches unearthed from the local ruins.",
+    "translation": "这是家现货充足的供应商，高高的架子上堆满了各种货物。若你眼光够尖，还能在某个不起眼的角落里，发现出土自当地遗迹的珍宝。",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=99 | Description | exchanges[4].Shops[2].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "99$ShopName",
+    "original": "Sharma & Sons",
+    "translation": "沙玛父子商店",
+    "context": "exchanges.bytes | Failbetter.Core.Shop | ID=99 | Name | exchanges[4].Shops[2].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  }
+]

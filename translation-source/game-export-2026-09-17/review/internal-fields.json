@@ -1,0 +1,1748 @@
+[
+  {
+    "file": "events.json",
+    "key": "271076$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "275808$DifficultyAdvanced",
+    "original": "70",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "295377$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "295633$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "295379$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "273678$DifficultyAdvanced",
+    "original": "[q:136790]*10",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "295635$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "275659$DifficultyAdvanced",
+    "original": "50+([q:137134]*10)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "308135$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "311050$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "333078$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "287726$DifficultyAdvanced",
+    "original": "50+(([q:138993]*2)-([q:139041]))",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "287739$DifficultyAdvanced",
+    "original": "40+(([q:138993]*2)-([q:139041]))",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "287741$DifficultyAdvanced",
+    "original": "40+(([q:138993]*2)-([q:139041]))",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "277028$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "274486$DifficultyAdvanced",
+    "original": "[q:131140]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "275068$DifficultyAdvanced",
+    "original": "[q:131140]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "275069$DifficultyAdvanced",
+    "original": "[q:131138]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "296972$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "300744$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "281887$DifficultyAdvanced",
+    "original": "2",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "281888$DifficultyAdvanced",
+    "original": "4",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "282057$DifficultyAdvanced",
+    "original": "([q:135650]*2)+([q:135652]*3)+([q:135651]*5)+([q:135653]*5)-([q:131235])",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "282060$DifficultyAdvanced",
+    "original": "([q:135650]*2)+([q:135652]*3)+([q:135651]*5)+([q:135653]*5)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "302503$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "302504$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "302854$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "302856$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "302858$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "302859$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "308187$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "288954$DifficultyAdvanced",
+    "original": "75-([q:139016]*10)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "302862$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "302864$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "302866$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "308189$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "303203$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "303204$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "303206$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "303207$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "303209$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "303210$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "303991$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "303680$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "304002$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "284136$DifficultyAdvanced",
+    "original": "10+(10*([q:138302]-[q:131235]))",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "284138$DifficultyAdvanced",
+    "original": "25+(([q:132352]-[q:131237])/2)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "288836$DifficultyAdvanced",
+    "original": "30+([q:138996]*5)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "288837$DifficultyAdvanced",
+    "original": "30+([q:138994]*5)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "288951$DifficultyAdvanced",
+    "original": "10+(10*([q:138302]-[q:131235]))",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "308194$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "308196$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "294769$DifficultyAdvanced",
+    "original": "40+([q:131232]/2)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "294775$DifficultyAdvanced",
+    "original": "20+(([q:132352]-[q:131237])/3)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "294777$DifficultyAdvanced",
+    "original": "20+(([q:132352]-[q:131237])/3)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "294779$DifficultyAdvanced",
+    "original": "30+([q:138284]*2)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "294789$DifficultyAdvanced",
+    "original": "30+([q:138284]*2)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "294790$DifficultyAdvanced",
+    "original": "20+([q:138284]*2)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "316233$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "319366$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "319368$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "319369$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "280532$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "286621$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "305502$ExoticEffects",
+    "original": "[CHARCREATE_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "305512$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "276738$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "313201$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "336562$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "278212$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "319635$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "319704$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "271279$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "271295$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "307938$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "307942$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "307953$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "275494$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "275503$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "308933$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "252148$DifficultyAdvanced",
+    "original": "100 / (1+ [q:133110])",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "252149$DifficultyAdvanced",
+    "original": "100 / (1+ [q:133110])",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "252150$DifficultyAdvanced",
+    "original": "100 / (1+ [q:133110])",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "252151$DifficultyAdvanced",
+    "original": "100 / (1+ [q:133110])",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "275840$DifficultyAdvanced",
+    "original": "70",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "256455$DifficultyAdvanced",
+    "original": "([q:133373]*10)+10",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "256454$DifficultyAdvanced",
+    "original": "([q:133373]*10)+10",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "256456$DifficultyAdvanced",
+    "original": "([q:133373]*10)+10",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "256457$DifficultyAdvanced",
+    "original": "([q:133373]*10)+10",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "256458$DifficultyAdvanced",
+    "original": "([q:133373]*10)+10",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "256459$DifficultyAdvanced",
+    "original": "([q:133373]*10)+10",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "256461$DifficultyAdvanced",
+    "original": "([q:133373]*10)+10",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "256462$DifficultyAdvanced",
+    "original": "([q:133373]*10)+10",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "256463$DifficultyAdvanced",
+    "original": "([q:133373]*10)+10",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "256464$DifficultyAdvanced",
+    "original": "([q:133373]*10)+10",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "256465$DifficultyAdvanced",
+    "original": "([q:133373]*10)+10",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "257200$DifficultyAdvanced",
+    "original": "50",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "257201$DifficultyAdvanced",
+    "original": "75-[q:136682]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "281892$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "257674$DifficultyAdvanced",
+    "original": "40+([q:134401]*10)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "259063$DifficultyAdvanced",
+    "original": "30+([q:134401]*10)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "257958$DifficultyAdvanced",
+    "original": "40+([q:134401]*10)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "257959$DifficultyAdvanced",
+    "original": "40+([q:134401]*10)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "257960$DifficultyAdvanced",
+    "original": "40+([q:134401]*10)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "257961$DifficultyAdvanced",
+    "original": "40+([q:134401]*10)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "257962$DifficultyAdvanced",
+    "original": "40+([q:134401]*10)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "257963$DifficultyAdvanced",
+    "original": "40+([q:134401]*10)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "257964$DifficultyAdvanced",
+    "original": "40+([q:134401]*10)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "257965$DifficultyAdvanced",
+    "original": "40+([q:134401]*10)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "260851$DifficultyAdvanced",
+    "original": "(80+[q:134346])-([q:131173]*3)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "260755$DifficultyAdvanced",
+    "original": "(80+[q:134346])-([q:131175]*3)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "260814$DifficultyAdvanced",
+    "original": "(80+[q:134346])-([q:131174]*3)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "286475$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "286635$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "313451$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "313454$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "313456$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "313457$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "264552$DifficultyAdvanced",
+    "original": "50-([q:135508]*5)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "264555$DifficultyAdvanced",
+    "original": "100-([q:135508]*5)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "289583$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "342399$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "297449$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "297471$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "290110$ExoticEffects",
+    "original": "[DEPART_THE_GRAVEYARD_OF_STARS]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "290111$ExoticEffects",
+    "original": "[DEPART_THE_GRAVEYARD_OF_STARS]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "290112$ExoticEffects",
+    "original": "[DEPART_THE_GRAVEYARD_OF_STARS]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "290578$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "291608$ExoticEffects",
+    "original": "[MOVE_TO_REGION],Albion",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "296890$ExoticEffects",
+    "original": "[MOVE_TO_REGION],Albion",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "291611$ExoticEffects",
+    "original": "[MOVE_TO_REGION],Albion",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "296892$ExoticEffects",
+    "original": "[MOVE_TO_REGION],Albion",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "291614$ExoticEffects",
+    "original": "[MOVE_TO_REGION],The Reach",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "296893$ExoticEffects",
+    "original": "[MOVE_TO_REGION],The Reach",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "291617$ExoticEffects",
+    "original": "[MOVE_TO_REGION],The Reach",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "296897$ExoticEffects",
+    "original": "[MOVE_TO_REGION],The Reach",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "299324$ExoticEffects",
+    "original": "[MOVE_TO_REGION],The Reach",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "299329$ExoticEffects",
+    "original": "[MOVE_TO_REGION],The Reach",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "291622$ExoticEffects",
+    "original": "[MOVE_TO_REGION],Eleutheria",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "296898$ExoticEffects",
+    "original": "[MOVE_TO_REGION],Eleutheria",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "299463$ExoticEffects",
+    "original": "[MOVE_TO_REGION],Eleutheria",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "299464$ExoticEffects",
+    "original": "[MOVE_TO_REGION],Eleutheria",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "291628$ExoticEffects",
+    "original": "[MOVE_TO_REGION],The Reach",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "296902$ExoticEffects",
+    "original": "[MOVE_TO_REGION],The Reach",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "299469$ExoticEffects",
+    "original": "[MOVE_TO_REGION],The Reach",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "299470$ExoticEffects",
+    "original": "[MOVE_TO_REGION],The Reach",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "291635$ExoticEffects",
+    "original": "[MOVE_TO_REGION],The Blue Kingdom",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "296900$ExoticEffects",
+    "original": "[MOVE_TO_REGION],The Blue Kingdom",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "308201$ExoticEffects",
+    "original": "[MOVE_TO_REGION],The Blue Kingdom",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "308202$ExoticEffects",
+    "original": "[MOVE_TO_REGION],The Blue Kingdom",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "308203$ExoticEffects",
+    "original": "[MOVE_TO_REGION],The Blue Kingdom",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "308204$ExoticEffects",
+    "original": "[MOVE_TO_REGION],The Blue Kingdom",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "291639$ExoticEffects",
+    "original": "[MOVE_TO_REGION],The Reach",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "296901$ExoticEffects",
+    "original": "[MOVE_TO_REGION],The Reach",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "300467$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "297689$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "294893$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "272970$DifficultyAdvanced",
+    "original": "60-([q:136719]*10)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "272971$DifficultyAdvanced",
+    "original": "60-([q:136719]*10)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "272975$DifficultyAdvanced",
+    "original": "60-([q:136719]*10)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "273070$DifficultyAdvanced",
+    "original": "60-([q:136719]*10)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "273068$DifficultyAdvanced",
+    "original": "60-([q:136719]*10)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "273069$DifficultyAdvanced",
+    "original": "60-([q:136719]*10)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "272818$DifficultyAdvanced",
+    "original": "60-([q:136719]*10)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "274490$DifficultyAdvanced",
+    "original": "65-([q:136719]*10)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "274496$DifficultyAdvanced",
+    "original": "65-([q:136719]*10)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "296505$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "295398$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "295622$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "295623$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "296205$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "275092$DifficultyAdvanced",
+    "original": "[q:131140]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "296677$ExoticEffects",
+    "original": "[DEPART_THE_GRAVEYARD_OF_STARS]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "296678$ExoticEffects",
+    "original": "[DEPART_THE_GRAVEYARD_OF_STARS]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "297620$ExoticEffects",
+    "original": "[VICTORY_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "299696$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "302494$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "282071$DifficultyAdvanced",
+    "original": "([q:135650]*2)+([q:135652]*3)+([q:135651]*5)+([q:135653]*5)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "302510$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "282072$DifficultyAdvanced",
+    "original": "([q:135650]*2)+([q:135652]*3)+([q:135651]*5)+([q:135653]*5)-10",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "282070$DifficultyAdvanced",
+    "original": "10+([q:135650]*2)+([q:135652]*3)+([q:135651]*5)+([q:135653]*5)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "284127$DifficultyAdvanced",
+    "original": "55-(15*[q:138077])",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "283044$DifficultyAdvanced",
+    "original": "55-(15*[q:138076])",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "305663$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "305677$ExoticEffects",
+    "original": "[CHARCREATE_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "305678$ExoticEffects",
+    "original": "[RETURN_TO_TUTORIAL]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "309707$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "287207$DifficultyAdvanced",
+    "original": "70-(15*[q:138078])",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "306270$ExoticEffects",
+    "original": "[DEPART_THE_GRAVEYARD_OF_STARS]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "306375$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "286367$DifficultyAdvanced",
+    "original": "44-(15*[q:138078])",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "306442$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "307194$ExoticEffects",
+    "original": "[DEPART_THE_GRAVEYARD_OF_STARS]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "309618$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "309619$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "307262$ExoticEffects",
+    "original": "[VICTORY_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "307263$ExoticEffects",
+    "original": "[VICTORY_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "307264$ExoticEffects",
+    "original": "[VICTORY_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "307265$ExoticEffects",
+    "original": "[VICTORY_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "288839$DifficultyAdvanced",
+    "original": "10+([q:139083]/3)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "288856$DifficultyAdvanced",
+    "original": "25+([q:139083]/3)+(([q:138993]-[q:139041])*5)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "287666$DifficultyAdvanced",
+    "original": "60+([q:139086]*10)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "287663$DifficultyAdvanced",
+    "original": "([q:139086]*10)+60",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "287662$DifficultyAdvanced",
+    "original": "([q:139086]*10)+30",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "287679$DifficultyAdvanced",
+    "original": "([q:139086]*10)+40",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "287681$DifficultyAdvanced",
+    "original": "([q:139086]*10)+50",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "307340$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "309026$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "289399$DifficultyAdvanced",
+    "original": "65 - ([q:139275]*6) + ([q:139277] * 10)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "289426$DifficultyAdvanced",
+    "original": "45 - [q:139278]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "289429$DifficultyAdvanced",
+    "original": "52 - [q:139278]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "289434$DifficultyAdvanced",
+    "original": "42 - [q:139278]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "309129$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "309147$ExoticEffects",
+    "original": "[VICTORY_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "309152$ExoticEffects",
+    "original": "[VICTORY_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "309283$ExoticEffects",
+    "original": "[VICTORY_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "309630$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "309655$ExoticEffects",
+    "original": "[VICTORY_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "309656$ExoticEffects",
+    "original": "[VICTORY_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "309702$ExoticEffects",
+    "original": "[VICTORY_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "309829$ExoticEffects",
+    "original": "[DEPART_THE_GRAVEYARD_OF_STARS]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "309830$ExoticEffects",
+    "original": "[DEPART_THE_GRAVEYARD_OF_STARS]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "292900$DifficultyAdvanced",
+    "original": "50-([q:139499]*10)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "292901$DifficultyAdvanced",
+    "original": "50-([q:139498]*10)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "310314$ExoticEffects",
+    "original": "[VICTORY_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "310315$ExoticEffects",
+    "original": "[VICTORY_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "310316$ExoticEffects",
+    "original": "[VICTORY_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "293133$DifficultyAdvanced",
+    "original": "40+([q:134401]*10)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "293135$DifficultyAdvanced",
+    "original": "30+([q:134401]*10)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "293136$DifficultyAdvanced",
+    "original": "40+([q:134401]*10)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "293138$DifficultyAdvanced",
+    "original": "40+([q:134401]*10)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "293140$DifficultyAdvanced",
+    "original": "40+([q:134401]*10)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "293142$DifficultyAdvanced",
+    "original": "40+([q:134401]*10)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "293144$DifficultyAdvanced",
+    "original": "40+([q:134401]*10)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "293146$DifficultyAdvanced",
+    "original": "40+([q:134401]*10)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "293148$DifficultyAdvanced",
+    "original": "40+([q:134401]*10)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "293150$DifficultyAdvanced",
+    "original": "40+([q:134401]*10)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "311979$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "294087$DifficultyAdvanced",
+    "original": "40+(2*[q:137043])",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "294089$DifficultyAdvanced",
+    "original": "40+(2*[q:137043])",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "294090$DifficultyAdvanced",
+    "original": "40+(2*[q:137043])",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "315881$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "297051$DifficultyAdvanced",
+    "original": "30+([q:131235]*4)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "314684$ExoticEffects",
+    "original": "[GAME_END_EFFECT]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "315894$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "315808$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "315884$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "316846$ExoticEffects",
+    "original": "[MOVE_TO_REGION],Eleutheria",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "316940$ExoticEffects",
+    "original": "[MOVE_TO_REGION],Eleutheria",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "316942$ExoticEffects",
+    "original": "[MOVE_TO_REGION],Eleutheria",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "316943$ExoticEffects",
+    "original": "[MOVE_TO_REGION],Eleutheria",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "316944$ExoticEffects",
+    "original": "[MOVE_TO_REGION],Eleutheria",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "316945$ExoticEffects",
+    "original": "[MOVE_TO_REGION],Eleutheria",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "316946$ExoticEffects",
+    "original": "[MOVE_TO_REGION],Eleutheria",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "301757$DifficultyAdvanced",
+    "original": "45+(([q:138993]-[q:139041])*5)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "316961$ExoticEffects",
+    "original": "[MOVE_TO_REGION],Albion",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "316962$ExoticEffects",
+    "original": "[MOVE_TO_REGION],Albion",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "316963$ExoticEffects",
+    "original": "[MOVE_TO_REGION],Albion",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "316964$ExoticEffects",
+    "original": "[MOVE_TO_REGION],Albion",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "316965$ExoticEffects",
+    "original": "[MOVE_TO_REGION],Albion",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "316966$ExoticEffects",
+    "original": "[MOVE_TO_REGION],Albion",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "301776$DifficultyAdvanced",
+    "original": "45+(([q:138993]-[q:139041])*5)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "304819$DifficultyAdvanced",
+    "original": "-2+([q:131235]-[q:131123])",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "304833$DifficultyAdvanced",
+    "original": "-1+((([q:131235]/4)-[q:131668])*2)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "305109$DifficultyAdvanced",
+    "original": "-2+((([q:131235]/7)-[q:131659])*3)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "273745$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "273849$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "252482$DifficultyAdvanced",
+    "original": "50-([q:133124]*5)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "280070$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "296232$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "275802$DifficultyAdvanced",
+    "original": "70",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "260801$DifficultyAdvanced",
+    "original": "([q:134545]*10)+60",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "275804$DifficultyAdvanced",
+    "original": "70",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "313279$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "299467$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "310694$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "275806$DifficultyAdvanced",
+    "original": "70",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "297713$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "267079$DifficultyAdvanced",
+    "original": "50+([q:135933]*5)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "287457$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "287491$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "293999$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "294000$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "298820$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "313212$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "287770$DifficultyAdvanced",
+    "original": "55-([q:138078]*20)",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "308808$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "events.json",
+    "key": "311006$ExoticEffects",
+    "original": "None",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "qualities.json",
+    "key": "131235$CapAdvanced",
+    "original": "[q:132353]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "qualities.json",
+    "key": "131237$CapAdvanced",
+    "original": "[q:132352]",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  },
+  {
+    "file": "qualities.json",
+    "key": "134084$CapAdvanced",
+    "original": "100",
+    "reason": "内部表达式/效果字段，不作为可翻译文本自动导入"
+  }
+]

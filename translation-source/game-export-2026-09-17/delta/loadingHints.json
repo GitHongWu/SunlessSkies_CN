@@ -1,0 +1,44 @@
+[
+  {
+    "key": "asset_1fd955ed488f653a2c78",
+    "original": "On long journeys, activate your locomotive's cruise control. ",
+    "translation": "",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=1460；已验证完整字符串数组的数量和逐项长度边界。；内容哈希键，无游戏词条 ID；原文改变时作为新增，不能据此判断旧词条已删除。；2026-09-15 快照中未收录此键。"
+  },
+  {
+    "key": "asset_34a8e9e695b21d363049",
+    "original": "You can purchase faster engines at certain major ports.",
+    "translation": "",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=3524；已验证完整字符串数组的数量和逐项长度边界。；内容哈希键，无游戏词条 ID；原文改变时作为新增，不能据此判断旧词条已删除。；2026-09-15 快照中未收录此键。"
+  },
+  {
+    "key": "asset_aa0067a37333ffcb7354",
+    "original": "Your progress is saved whenever you dock or undock from a station, platform or relay.",
+    "translation": "",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=3652；已验证完整字符串数组的数量和逐项长度边界。；内容哈希键，无游戏词条 ID；原文改变时作为新增，不能据此判断旧词条已删除。；2026-09-15 快照中未收录此键。"
+  },
+  {
+    "key": "asset_c01a9dc48242f94eb620",
+    "original": "More advanced engines enable Full Steam Mode, allowing you to go faster at an extra cost in fuel.",
+    "translation": "",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=3420；已验证完整字符串数组的数量和逐项长度边界。；内容哈希键，无游戏词条 ID；原文改变时作为新增，不能据此判断旧词条已删除。；2026-09-15 快照中未收录此键。"
+  },
+  {
+    "key": "asset_c4b4d7b47f51e5c8cf3c",
+    "original": "Your locomotive has a horn. You may toot it. It does nothing.",
+    "translation": "",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=3584；已验证完整字符串数组的数量和逐项长度边界。；内容哈希键，无游戏词条 ID；原文改变时作为新增，不能据此判断旧词条已删除。；2026-09-15 快照中未收录此键。"
+  },
+  {
+    "key": "asset_d012376b998e4da63092",
+    "original": "Locomotives with white running lights are not hostile. ",
+    "translation": "",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=1596；已验证完整字符串数组的数量和逐项长度边界。；内容哈希键，无游戏词条 ID；原文改变时作为新增，不能据此判断旧词条已删除。；2026-09-15 快照中未收录此键。"
+  },
+  {
+    "key": "asset_ea8a441160b1b861fc67",
+    "original": "Discovering a new port for the first time will reduce your Terror. ",
+    "translation": "",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=1736；已验证完整字符串数组的数量和逐项长度边界。；内容哈希键，无游戏词条 ID；原文改变时作为新增，不能据此判断旧词条已删除。；2026-09-15 快照中未收录此键。"
+  }
+]

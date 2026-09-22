@@ -1,0 +1,2354 @@
+[
+  {
+    "key": "1$Description",
+    "original": "\"hello\" blah de blah blah de blah blah de blah blah de blah blah de blah blah de blah blah de blah blah de blah blah de blah blah de blah blah de blah blah de blah blah de blah blah de blah blah de blah blah de blah blah de blah blah de blah blah de blah blah de blah blah de blah blah de blah blah de blah blah de blah blah de blah blah de blah blah de blah",
+    "translation": "“你好”吧啦嘚吧啦吧啦嘚吧啦吧啦嘚吧啦吧啦嘚吧啦吧啦嘚吧啦吧啦嘚吧啦吧啦嘚吧啦吧啦嘚吧啦吧啦嘚吧啦吧啦嘚吧啦吧啦嘚吧啦吧啦嘚吧啦吧啦嘚吧啦吧啦嘚吧啦吧啦嘚吧啦吧啦嘚吧啦吧啦嘚吧啦吧啦嘚吧啦吧啦嘚吧啦吧啦嘚吧啦吧啦嘚吧啦吧啦嘚吧啦吧啦嘚吧啦吧啦嘚吧啦吧啦嘚吧啦吧啦嘚吧啦吧啦嘚吧啦",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=1 | Description | prospects[0].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "1$Name",
+    "original": "[ALWAYS]Contraband Test",
+    "translation": "[ALWAYS]违禁品测试",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=1 | Name | prospects[0].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "10$Description",
+    "original": "<b>Magdalene's</b> provides comfort and sympathy to the weary skyfarer. Its hosts will tell you any lie you need to hear. Some of those lies require flowers. The Amenable Host wants up to <b>three sacks of Verdant Seeds</b>, and will pay eighty sovereigns for each. [dir:21004c53-ad6e-43e4-8df4-0230da3e87e6].",
+    "translation": "<b>抹大拉之家</b>为疲惫的行天客提供安慰和同情。它的主人们会告诉你任何想听的谎言。其中一些谎言需要用上鲜花。随和的主管需要至多<b>三袋青翠的种子</b>，并为每袋支付八十金镑。[dir:21004c53-ad6e-43e4-8df4-0230da3e87e6]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=10 | Description | prospects[9].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "10$Name",
+    "original": "[ALWAYS]Seeds for Magdalene's",
+    "translation": "[ALWAYS]送往抹大拉之家的种子",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=10 | Name | prospects[9].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "10$SatisfactionMessage",
+    "original": "A Superior Researcher has the barrels carried into a timbered laboratory. She hands over your pay. \"This is for your service,\" she says. \"And this for your silence.\" She deposits a serpentine plant in a clay pot in your hands. It purrs, gently.",
+    "translation": "一位高级研究员将桶子抬进一座原木搭建的实验室。她递给你报酬。\"这是服务费，\"她说。\"这是封口费。\"她把一株装在陶罐里的蛇形植物放在你的手中。它轻轻地发出呼噜声。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=10 | SatisfactionMessage | prospects[5].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "100$Description",
+    "original": "Word has spread to the Gentlemen that Bohemian groups in <b>Port Prosper</b> are developing a taste for shinney. But few smugglers can afford the <b>nine Hogsheads</b> their coteries demand, even with the promise of an impressive payday. [dir:6c1c3a55-b424-4bec-a969-31023ace58e7].",
+    "translation": "有消息传到了绅士帮那里，说<b>兴荣港</b>的波西米亚派艺术家们正开始沉迷于星光酒。但是，很少有走私者愿意往他们的小圈子送去<b>九桶</b>，即使报酬不菲。[dir:6c1c3a55-b424-4bec-a969-31023ace58e7]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=100 | Description | prospects[99].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "100$Name",
+    "original": "The New Astrology: Starshine to Prosper",
+    "translation": "全新的占星术：送往兴荣港的星光酒",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=100 | Name | prospects[99].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "100$SatisfactionMessage",
+    "original": "The hogsheads are discreetly wrapped in black, funereal cloth. A chaplain hands you a sombre black briefcase, clinking with coin. \"The Duchess Incarnadine appreciates your assistance,\" he says, as servants hurry to remove the contraband.",
+    "translation": "这些大啤酒桶被小心地包裹在黑色的丧葬布中。一位牧师递给你一个沉重黑色的公文包，里面的硬币叮当作响。“血色公爵夫人感谢你的帮助，”他说。仆人们匆忙取走了违禁品。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=100 | SatisfactionMessage | prospects[92].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "101$Description",
+    "original": "Now you've proven yourself a competent smuggler, the Gentlemen can offer more challenging and more rewarding prospects. They keep many of the details secret, but you deduce that one of the Deathless courtiers at the <b>Most Serene Mausoleum</b> operates a pipeline of contraband into London. They require <b>nine Hogsheads of Starshine</b>, and they need them within two months from the day you accept the prospect. [dir:358df020-9a27-47c3-8a80-6f1c836898df].",
+    "translation": "你证明了自己是一个合格的走私者，绅士帮可以为你提供更具挑战性和更有回报的机会。他们对其中的许多细节保密，但你推断出，<b>圣宁墓</b>的一个不死朝臣经营着一条进入伦敦的违禁品管道。他们需要<b>九桶星光酒</b>，而且需要在你接受机遇后的两个月内完成。[dir:358df020-9a27-47c3-8a80-6f1c836898df]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=101 | Description | prospects[100].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "101$Name",
+    "original": "Delusions Of Home: Starshine to the Mausoleum",
+    "translation": "家的错觉：送往圣宁墓的星光酒",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=101 | Name | prospects[100].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "101$SatisfactionMessage",
+    "original": "A stoic crew of ex-prospectors meet you at the station. You help them transport the starshine to a tangled knot of caves that burrows into the mountain. In each little cave a lamp hangs, spilling the glow of old, familiar stars. Limed in the faint light, miners sit and muse, or weep.",
+    "translation": "一队坚毅的前开拓者在车站迎接你。你帮他们把星光酒运到大山深处的一个纠结的山洞里。每个小山洞里都挂着一盏灯，洒下古老而熟悉的群星那微弱却稳定的辉光。矿工们沐浴在微光中，静坐、沉思或哭泣。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=101 | SatisfactionMessage | prospects[93].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "102$Description",
+    "original": "Though the relationship between London and the Eagle's Empyrean is strained, each is haunted by the other. The people of each city crave news of the other: its politics, its fads, its follies. The latest Empyreal fascination is with London's vices. Criminal families at the <b>Empyrean</b> require <b>nine Firkins of Red Honey</b>. Several smugglers have attempted this prospect before, and failed. Her Majesty's Customs and Excise have retasked several enduring dreadnoughts to comb the skies. [dir:dad2e4cc-5983-41db-8e20-d07104e92666].",
+    "translation": "虽然伦敦和鹰之苍天上国间关系紧张，但双方都留有彼此的影子。每个城市的人们都渴望得到对方的消息：它的政治、它的时尚、它的愚蠢。最近，上国人迷上了伦敦的恶习。在<b>苍天上国</b>的犯罪家族需要<b>九瓶红蜂蜜</b>。先前有几个走私者曾尝试过这个机遇，但都失败了。女王陛下的海关和税务局重新部署了几艘历战无畏机车，用以天空中仔细搜查。[dir:dad2e4cc-5983-41db-8e20-d07104e92666]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=102 | Description | prospects[101].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "102$Name",
+    "original": "Quid Pro Quo: Red Honey for the Empyrean",
+    "translation": "予与予求：送往苍天上国的红蜂蜜",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=102 | Name | prospects[101].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "102$SatisfactionMessage",
+    "original": "Your instructions are to come alone with the shinney. You ignore them, and just as well. One member of the gang had got it into his head to improve their bottom line by bringing knives rather than payment. There is a short fracas, during which you convince them of the benefits of fair dealing. The gang bring your payment, and as a token of goodwill, your quartermaster only demands one finger from each of them.",
+    "translation": "你收到的指示是要你单独带星光过来。你没有理会他们，这样也好。这伙人中的一个想通过持刀威胁，而非付款来提高他们的利润。你们双方发生过短暂的争吵，在此期间，你让他们相信了公平交易的好处。这帮人最终拿来了你的报酬，为了表示善意，你的军需官只要求他们每人额外付出一根手指的代价。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=102 | SatisfactionMessage | prospects[94].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "103$Description",
+    "original": "The Gloomy Middleman insists on speaking in person. \"I consider politics to be the refuge of the incapable, but my employer has decided to dabble. His interests in the Reach align with those of the Tacketies, who have agents in place at Port Prosper. They need revolutionary materials to spread their dissent. Can you get <b>eleven Trunks of Illicit Literature</b> into the port? Be wary: the Revenue Men have got wind of the endeavour, and have sent dreadnoughts to prevent it.\" [dir:6c1c3a55-b424-4bec-a969-31023ace58e7].",
+    "translation": "阴沉的中间商坚持与你当面对谈。“我认为政治是无能之人的避难所，但我的雇主已经决定涉足其中。他在外野的利益与在兴荣港有代理人的钉鞋党一致。钉鞋党需要革命的材料来传播他们的异议。你能把<b>十一箱非法文学作品</b>运进车站吗？要小心：税务局的人已经得知了风声，并派出了无畏机车来阻止它。”[dir:6c1c3a55-b424-4bec-a969-31023ace58e7]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=103 | Description | prospects[102].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "103$Name",
+    "original": "The Prosper Revolution: Illicit Literature to Port Prosper",
+    "translation": "兴荣革命：送往兴荣港的非法文学",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=103 | Name | prospects[102].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "103$SatisfactionMessage",
+    "original": "Your illicit delivery is just what the Indiscreet Undermanager wanted. \"It's not for us, you understand. In fact, we mean to give it away!\" He gives what he considers a cunning grin. \"The Tacketies' preposterous insurrection should be harder to sustain with a shinney-habit. Homesickness will take the fight out of them.\"",
+    "translation": "你的非法送货正是不谨慎的副经理想要的。“要知道，我们不需要这些东西。事实上，我们打算把它们送到别的地方去！”他露出一副自认为是狡猾的笑容，“有了它，钉鞋党荒谬的叛乱应该会难以为继。乡愁会让他们失去斗志。”",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=103 | SatisfactionMessage | prospects[95].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "104$Description",
+    "original": "The Ethereal Apiarist approaches you directly. \"There's little point going to anyone but the best for this. A client at Achlys requires an unusually large shipment of <b>Red Honey</b>:<b>thirteen Firkins!</b> A difficult prospect, to get so much past the Revenue Men. They'll no doubt have got wind something is afoot, and put some dreadnoughts on patrol.\"  She looks dreamily into the sky. \"I wonder who it is that needs it, and what for?\" [dir:9e91ea8e-3f0f-4a25-a400-2f451d91da81].",
+    "translation": "优雅的养蜂人径直向你走来。“这次的活儿得找真正的行家里手。埃克吕斯的一位客户需要一大批<b>红蜂蜜</b>：<b>整整十三瓶！</b>要把这么多东西从税务官眼皮底下运过去可并非易事。他们八成已经嗅到风声，不出意外会派无畏机车巡逻。”她出神地望向天空。“我倒好奇，究竟是谁需要它们，又是为了什么呢？”[dir:9e91ea8e-3f0f-4a25-a400-2f451d91da81]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=104 | Description | prospects[103].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "104$Name",
+    "original": "The Rose At Midnight: Red Honey to Achlys",
+    "translation": "午夜的玫瑰：送往埃克吕斯的红蜂蜜",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=104 | Name | prospects[103].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "104$SatisfactionMessage",
+    "original": "The client is attached to the London embassy. She avidly begins rummaging through the books. \"The Pages Collection contained works written during the heyday of the Khans; ones which might shed some truth on the Eagle's... unlikely account of his early family history. Your promptness is appreciated; I have a lot of reading to do.\"",
+    "translation": "客户隶属于伦敦大使馆。她热切地翻阅起这些书。“书页藏馆藏有写于可汗王朝全盛时期的作品，其中一些可能会删去某些真相，某些关于鹰的……关于他那些早期家族史的可疑叙述的真相。感谢你的迅速行动，我有许多东西要读。”",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=104 | SatisfactionMessage | prospects[96].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "105$Description",
+    "original": "The Devil requests a body of literature on alternate theories of labour, the values of idleness, and the merits of treating every day as the Sabbath. <b>Seven Trunks of Illicit Literature</b> are requested. [dir:1b331350-d950-4c06-94e0-38dd736859d7].",
+    "translation": "魔鬼要你提供一套关于劳动的替代理论、闲置的价值以及把每一天都当作安息日的好处的文献。 他总共需要<b>七箱非法文学作品</b>。[dir:1b331350-d950-4c06-94e0-38dd736859d7]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=105 | Description | prospects[104].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "105$Name",
+    "original": "A Demonstration of Folly: Illicit Literature for the Avid Horizon",
+    "translation": "愚行示范：送往渴求之地平线的非法文献",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=105 | Name | prospects[104].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "105$SatisfactionMessage",
+    "original": "The delivery goes to plan and arrives on time. You carry the honey through the Worlebury mists to an isolated barn near the shore. An enterprising villain is establishing a honey den. The animals are gone, and their stalls have been draped with red velvet. It all still smells of straw.",
+    "translation": "偷运工作顺风顺水，准时完成。你带着蜂蜜穿过沃伯瑞的迷雾，来到岸边一个孤零零的谷仓。一个雄心勃勃的恶棍正打算建立一个蜂蜜窝。这里什么动物都没有，畜栏被铺上了红丝绒。稻草的味道还未散去。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=105 | SatisfactionMessage | prospects[97].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "106$Description",
+    "original": "Your Devil requests 'fireworks' for a display he's planning at the Avid Horizon. \"Safety,\" he informs you in his missive, \"is the province of the parochial and the literal-minded.\" <b>Three Crates of Carefully-Packed Munitions</b> are requested. [dir:1b331350-d950-4c06-94e0-38dd736859d7].",
+    "translation": "你的魔鬼要你为他在渴求之地平线计划的表演提供“烟花”。“安全，”他在信中告诉你，“是狭隘和因循守旧之人的事。”他总共需要<b>三箱精心包装的弹药</b>。[dir:1b331350-d950-4c06-94e0-38dd736859d7]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=106 | Description | prospects[105].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "106$Name",
+    "original": "Fizz and Bang: Munitions for the Avid Horizon",
+    "translation": "咝咝声和砰砰声：送往渴求之地平线的弹药",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=106 | Name | prospects[105].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "106$SatisfactionMessage",
+    "original": "The Duchess' men unload the honey, and carry it onto a Necropolis Line engine idling at a nearby siding. The Necropolis Line carries London's dead for burial at the Mausoleum, and returns for more. A useful cover to allow the transport of contraband into the well-watched city. Apparently, the Duchess likes to keep busy in her dotage. ",
+    "translation": "公爵夫人的手下卸下蜂蜜，把它搬到一台在附近旁轨上空载的陵墓运输机车上。大墓地专线的机车一趟趟地将伦敦的死者运送到陵墓安葬。在这一有效掩护下，违禁品得以进入这座监视严密的城市。显然，公爵夫人在晚年闲不下来。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=106 | SatisfactionMessage | prospects[98].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107$Description",
+    "original": "A curt note from your Devil requests an 'excess' of Chorister Nectar for the practice of the entire seven act opera 'Pandemonia: the Flight from Heaven's Chariot and the Progress through Dream's Embrace'. \r\n\r\nThe Devil suggests the residents don't have anything better to be doing anyway.  <b>Three Gourds of Chorister Nectar</b> are requested. [dir:1b331350-d950-4c06-94e0-38dd736859d7].",
+    "translation": "你的魔鬼要你送来“过量”的唱诗蜂蜜，用以练习整个七幕歌剧《潘德摩尼亚：逃离天堂的战车和穿越梦境的怀抱》。\n\n魔鬼辩称，反正这里的官员也没有什么更好的事情可做。他们需要<b>三瓢唱诗蜂蜜</b>。[dir:1b331350-d950-4c06-94e0-38dd736859d7]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=107 | Description | prospects[106].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107$Name",
+    "original": "Choirs Ignite: Nectar for the Horizon",
+    "translation": "唱诗班燃烧：送往地平线的唱诗蜂蜜",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=107 | Name | prospects[106].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107$SatisfactionMessage",
+    "original": "You make your delivery, bit by bit, to a draughty manor. Eager bohemians pour each new hogshead into the garden's ornamental pond. When it is full, they gather around and kneel at the edge, their faces silver with the far-travelled light of Old Earth's stars. You watch as each of them sinks into childhood memories.",
+    "translation": "你一点一点地把东西运送到一个通风的庄园。急切的波西米亚派艺术家将每一桶酒倒入花园的观赏池塘。装满后，他们聚集在一起，跪在池边，脸被古地球上遥远的星光照得银亮。你看着他们每个人沉浸在童年的回忆中。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=107 | SatisfactionMessage | prospects[99].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "108$SatisfactionMessage",
+    "original": "You deliver the shinney to a gloomy, pillared hall where corpses are prepared for burial. Silent servants transfer the starshine into coffins, marked with the stamp of the Necropolis Line. ",
+    "translation": "你将星光酒运到一个阴暗的柱厅。尸体在这里等待着下葬。沉默的仆人将星光酒移入印有陵墓运输线图章的棺材里。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=108 | SatisfactionMessage | prospects[100].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "109$SatisfactionMessage",
+    "original": "The honey is snapped up at a secret auction attended by the Empyrean's most ambitious criminal families. What better way to understand the madness of Londoners, than by taking a spoonful of honey and living it? One of the factions, clearly hoping to win your future goodwill, pays you with casks of shimmering gems.",
+    "translation": "蜂蜜在一次秘密拍卖会上被抢购一空，参加拍卖的都是苍天上国最有野心的犯罪世家。有什么办法能比拿着一勺蜂蜜并沉溺其中更能了解伦敦人的疯狂呢？其中一个派系付给你一桶桶闪闪发光的宝石，显然希望赢得你的好感。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=109 | SatisfactionMessage | prospects[101].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "11$Description",
+    "original": "The astronomers at Nell's Tower are struggling to keep up with their increased workload. The Ministry has them at their great telescope every hour of the day. More time would be greatly appreciated. <b>Three Barrels of Unseasoned Hours</b> are requested. [dir:731c7b0d-d06d-4681-a3b3-d265eaea8d82].",
+    "translation": "内尔塔的天文学家们正在努力跟上新增的工作量。公德部指派他们每天每小时都在大望远镜前工作。如果有更多时间，他们将非常感激。需要 <b>三桶未加工的时间</b>。[dir:731c7b0d-d06d-4681-a3b3-d265eaea8d82]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=11 | Description | prospects[10].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "11$Name",
+    "original": "An Astronomical Opportunity: Hours for the Royal Society",
+    "translation": "天文学界的机会：送往皇家学会的时间",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=11 | Name | prospects[10].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "110$SatisfactionMessage",
+    "original": "You make the exchange in a gloomy alley behind a shabby tea-shop. Your contacts are hooded and jumpy: Prosper is firmly a Stovepipe port. The Tacketies plan to distribute the seditious tracts to a struggling local cell of sympathisers, and to any Company captains that might be willing to turn. The Blind Bruiser sends his regards, and recompense for your time.",
+    "translation": "你们在一家破旧茶馆后面的阴暗小巷里完成了交易。你的联系人戴着头套，神情紧张。兴荣港是一个坚定的高帽党地界。钉鞋党计划将这些煽动性的小册子分发给当地一个挣扎中的支持者群体，以及任何可能愿意转变倾向的公司派车长。他说，盲眼大汉向你问好，并对你的时间作了补偿。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=110 | SatisfactionMessage | prospects[102].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "111$SatisfactionMessage",
+    "original": "The mysterious customer is a successful tobacco trader, who insists on doing the handover deep in Achlys' poisoned marsh. In a grove of leaning trees, cowled men are constructing iron cages, while nearby a set of beehives drone, furiously. \"We'll have our own cage garden soon,\" the trader tells you. \"But first, we must create a market. You keep our little secret, and we'll help you keep yours.\" He swears a thief's oath to you, there amidst the dripping grove. You suspect he was not always a tobacco trader.",
+    "translation": "这位神秘的顾客是一位成功的烟草商，他坚持要在埃克吕斯的毒沼泽深处进行交接。在一片倾斜的树丛中，一群披着斗篷的人正在建造铁笼子，而附近有一组蜂箱传来愤怒地鸣声。“我们很快就会有自己的笼子花园，”商人告诉你，“但首先，我们必须创造一个市场。你保守我们的小秘密，我们就帮你保守你的秘密。”在滴水的小树林中，他向你发了一个小偷的誓言。你怀疑他并不总是个烟草交易商。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=111 | SatisfactionMessage | prospects[103].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "112$SatisfactionMessage",
+    "original": "One of Amberley Murgatroyd's maids collects the shipment. She is not pleased. \"You're late!\" she complains. \"We had to start sending out cyphers hidden in bibles. Bibles! Auditors aren't embarrassed to read bibles! It's only a matter of time before one of them notices the cyphers. I'm afraid this will affect your fee.\"",
+    "translation": "安伯利·穆加托德的一位女仆收取了这批货物。她很不高兴。\"你迟到了！\"她抱怨道。\"我们只好把密文藏在圣经里送出去。圣经！审计员可不会羞于看圣经！迟早会有某人注意到这些密文。恐怕这会影响你的报酬。\"",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=112 | SatisfactionMessage | prospects[85].Completions[1].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "113$SatisfactionMessage",
+    "original": "Despite the quality of your \"skyfarer's delight\", the crowds have packed up for the season. A new one will begin soon, but the honey will have gone off by then, and the memories grown woolly. You are forced to sell at less than you hoped.",
+    "translation": "你的“行天客之乐”质量很好，但这个季节即将结束，人们已经在打包离开了。很快就会迎来新的季节，但蜂蜜在那之前就会变质，记忆也将变得模糊不清。你只好以低于期望的价格出售货物。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=113 | SatisfactionMessage | prospects[88].Completions[1].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "114$SatisfactionMessage",
+    "original": "The collector thumbs through your delivery with a bored expression. \"You're late. I've already got most of these. I suppose there's a few that might still be worth a little...\"",
+    "translation": "收费员用翻看着你送来的书，脸上百无聊赖。“你来晚了。有其他人送来了其中大部分的书。我猜其中几本可能还有点价值……”",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=114 | SatisfactionMessage | prospects[96].Completions[1].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "115$SatisfactionMessage",
+    "original": "Your delay is not received happily. \"I had to make other arrangements. Expensive arrangements,\" the buyer growls. \"I can sell it, given time. But you'll not get our original price.\"",
+    "translation": "你的迟到令他们感到不快。“我不得不想其他的法子。价格高昂的法子。”买方咆哮道，“我可以卖掉它，只要有时间。但付你的钱要折去一点。”",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=115 | SatisfactionMessage | prospects[97].Completions[1].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "116$SatisfactionMessage",
+    "original": "The First Venturer receives your shipment eagerly. \"Good, good,\" he mutters, as he picks through the souls. \"They aren't fuel, exactly, but properly used, they help extract impurities, like carbon when making steel.\" His payment includes a selection of rather finer souls, which he says are too good to commit to the flames.",
+    "translation": "第一冒险家热切地收下了你的货物。“很好，很好，”他一边喃喃自语，一边在这堆灵魂里挑挑拣拣。“确切来说，它们算不上是燃料。但只要使用得当，就有除去杂质的功用，这就好比在炼钢时除碳。”他的报酬中包括了一些相当精细的灵魂，他说这些灵魂质地太好，烧了可惜。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=116 | SatisfactionMessage | prospects[72].Completions[1].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "117$SatisfactionMessage",
+    "original": "You deliver the shinney to a gloomy, pillared hall where corpses are prepared for burial. Unfortunately, you are late with your delivery, and the Deathless have made other arrangements. They reluctantly agree to take the shinny off your hands anyway, but for much less of a reward than you might have hoped for.",
+    "translation": "你将星光酒运到一个阴暗的柱厅。尸体在这里等待着下葬。不幸的是，你送达得太晚了，不死者已经做了其他安排。那人不情愿地从你手中接过星光酒，但报酬比你所希望的少得多。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=117 | SatisfactionMessage | prospects[100].Completions[1].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "118$SatisfactionMessage",
+    "original": "The Devil claps his hands with abject delight when he sees your troves of literature. \"London has consigned its workers to idleness and decay, leaving their minds free for all sorts of antediluvian notions.\"",
+    "translation": "看到你送来的那堆文学宝藏，魔鬼满脸邪笑，拍手称赞。“伦敦让工人陷入懒散和腐朽，让他们的思想自由地沉溺于各种过时的观念中。”",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=118 | SatisfactionMessage | prospects[104].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "119$SatisfactionMessage",
+    "original": "\"Oh yes,\" the Devil's expression would have done much for Caravaggio's career had he ever seen it. \"This will really lift the spirits here. And the roof.\"",
+    "translation": "“好得很。”魔鬼的表情如果被卡拉瓦乔看到的话，会对他的事业产生很大的影响。“这绝对能提升这里的士气，以及屋顶。”",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=119 | SatisfactionMessage | prospects[105].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "12$Description",
+    "original": "An Exuberant Architect at <b>Worlebury-juxta-Mare</b> intends to construct a glass hall to house a public exhibition of curiosities from across the heavens. He requires <b>five Panes of Stained Glass</b>. [dir:359b836b-864d-4587-8527-e2d2c360fdeb].",
+    "translation": "一位热情洋溢的建筑师打算在<b>滨海沃伯瑞</b>建造一座玻璃大厅，以举办一场来自天穹各地的奇珍异宝的公开展览。他需要<b>五块上色玻璃</b>。[dir:359b836b-864d-4587-8527-e2d2c360fdeb]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=12 | Description | prospects[11].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "12$Name",
+    "original": "The Celestial Exhibit: Glass to Worlebury",
+    "translation": "天界展览：送往滨海沃伯瑞的玻璃",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=12 | Name | prospects[11].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "12$SatisfactionMessage",
+    "original": "A butler receives the bottled souls at the servant's entrance to a grand townhouse. \"Thank you. And, please, accept this small additional sum, as an indication of how highly we value your discretion.\"",
+    "translation": "一位管家在一座宏伟的联排别墅的仆人出入口接过瓶装的灵魂。\"谢谢。还有，请接受这一小笔额外的款项，以示我们对你谨慎的高度重视。\"",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=12 | SatisfactionMessage | prospects[6].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "120$SatisfactionMessage",
+    "original": "The Devil takes the Nectar greedily, spiriting it away into the Home Bureau, where detainees lounge in varying stages of inebriation. \"Their vocal chords won't know what's hit them.\"",
+    "translation": "魔鬼贪婪地夺走蜂蜜，把它们带入了内政部，囚犯们醉醺醺地躺在里面。“他们的声带根本不会知道发生了什么。”",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=120 | SatisfactionMessage | prospects[106].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "13$Description",
+    "original": "The Luminous Cardinal is engaged in a struggle with the current dazzling glare of the <b>Clockwork Sun</b>. It is washing out the black drapes and disturbing the much-deserved sleep of the Deathless. <b>Bombazine</b> cloth drinks light. He will require <b>three rolls of it</b>, for starters. [dir:358df020-9a27-47c3-8a80-6f1c836898df].",
+    "translation": "耀眼的红衣主教陷入了与<b>发条太阳</b>当下耀眼光芒的斗争。它正将黑色的窗帘漂白，这扰乱了不死者们配得的睡眠。<b>邦巴辛布</b>能吞下光线。他需要至少<b>三卷邦巴辛布</b>。[dir:358df020-9a27-47c3-8a80-6f1c836898df]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=13 | Description | prospects[12].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "13$Name",
+    "original": "A Surfeit of Sunlight: Bombazine for the Mausoleum",
+    "translation": "阳光过量：送往圣宁墓的邦巴辛布",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=13 | Name | prospects[12].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "13$SatisfactionMessage",
+    "original": "A Silvered Captain pays your fee and has his crew takes the sacks away. \"For my retirement.\" While his crew work, he regales you with war stories about furtive clashes between Company engines and Tackety scouts. \"The sky keeps our secrets.\"",
+    "translation": "",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=13 | SatisfactionMessage | prospects[7].Completions[0].SatisfactionMessage；差异分类：内容变化；原文变化，译文留空等待复核。旧原文：A Silvered Captain pays your fee and has his crew take the sacks away. \"For my retirement.\" While his crew work, he regales you with war stories about furtive clashes between Company engines and Tackety scouts. \"The sky keeps our secrets.\"\n旧译文（仅参考）：一位满头白发的车长交付了货款，吩咐他的列车员把麻袋拎走。“为我的退休生活作准备。”他说。列车员干活时，他向你讲了些有关迎风公司和钉鞋党机车间隐秘斗争的故事。“天空保守着我们的秘密。”"
+  },
+  {
+    "key": "131115$Description",
+    "original": "A tale of the High Wilderness.\r\n(You can acquire these from Signal Boxes and Star-Maddened Explorers.)",
+    "translation": "天野的奇闻轶事。\n（你可以从信号箱和染星癫症的探险车那里获得此物。）",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131115 | Description | prospects[37].Request.Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131115$Name",
+    "original": "Sky-Story",
+    "translation": "高天轶事",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131115 | Name | prospects[37].Request.Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131115$PluralName",
+    "original": "Sky-Stories",
+    "translation": "高天轶事",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131115 | PluralName | prospects[37].Request.PluralName；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131117$Description",
+    "original": "'It is good to love many things, for therein lies the true strength, and whosoever loves much performs much, and can accomplish much, and what is done in love is well done.' (You can acquire these from Sweet Jane or the Toll-Tower.)",
+    "translation": "‘爱得很多是好的，因为真正的力量就在这里，凡是爱的多的人，就会有那么大的作为，能有那么大的成就，在爱中做的事就是好的。’(你可以从蜜糖阿简或渡灵塔获得此物。）",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131117 | Description | prospects[38].Request.Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131117$Name",
+    "original": "Moment of Inspiration",
+    "translation": "瞬间的灵感",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131117 | Name | prospects[38].Request.Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131117$PluralName",
+    "original": "Moments of Inspiration",
+    "translation": "瞬间的灵感",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131117 | PluralName | prospects[38].Request.PluralName；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131657$AvailableAt",
+    "original": "Undistinguished Souls can be reliably purchased at Magdalene's, Port Avon and the White Well. They can sometimes be salvaged from Eaters of the Dead and Spirifer Engines, or extracted from vaults in the Blue Kingdom.",
+    "translation": "平庸的灵魂总是可以在抹大拉之家、埃文村和白井买到，有时也可以从食死怪和猎魂机车中回收，或者从蓝色王国的地窖中提取。",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131657 | AvailableAt | prospects[6].Request.AvailableAt；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131657$Description",
+    "original": "The bottles are as ordinary as the souls that coil inside them.",
+    "translation": "这些瓶子和盘绕其中的灵魂一样普通。",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131657 | Description | prospects[6].Request.Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131657$Name",
+    "original": "Jumble of Undistinguished Souls",
+    "translation": "一堆平庸的灵魂",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131657 | Name | prospects[6].Request.Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131657$PluralName",
+    "original": "Jumbles of Undistinguished Souls",
+    "translation": "几堆平庸的灵魂",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131657 | PluralName | prospects[6].Request.PluralName；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131658$AvailableAt",
+    "original": "Immaculate Souls can be reliably purchased from Caduceus and Death's Door. They can often be salvaged from Spirifer Engines, or extracted from Blue Kingdom vaults – if you have assaying equipment.",
+    "translation": "无垢灵魂总是可以在商神宫和死亡之门处买到，也可以从猎魂机车中回收，或者从蓝色王国的地窖中提取，前提是你装备了勘查设备。",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131658 | AvailableAt | prospects[73].Request.AvailableAt；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131658$Description",
+    "original": "The rarest and most refined of souls, lovingly curated. ",
+    "translation": "这是最稀有、最精致的灵魂，精心擢选所得。",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131658 | Description | prospects[73].Request.Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131658$Name",
+    "original": "Selection of Immaculate Souls",
+    "translation": "一组无垢灵魂",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131658 | Name | prospects[73].Request.Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131658$PluralName",
+    "original": "Selections of Immaculate Souls",
+    "translation": "几组无垢灵魂",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131658 | PluralName | prospects[73].Request.PluralName；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131659$AvailableAt",
+    "original": "Caged Catches can be reliably purchased at the House of Rods & Chains. If you have butchery equipment, you can also catch squirmings in the mist sea of Albion and convert them to catches at St. Anthony's Lighthouse. You can sometimes salvage them from Bull Cantankeri.",
+    "translation": "笼中猎获总是可以在链杆之屋买到，也可以在阿尔比恩的雾海中捕捉蠕动之物，并在圣安东尼的灯塔将它们转化为猎获，前提是你装备了屠宰设备。有时，还能从健壮顽固虱身上捕获。",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131659 | AvailableAt | prospects[47].Request.AvailableAt；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131659$Description",
+    "original": "A wild sky-beast. Exotic. Contained. Furious.",
+    "translation": "野生的天空野兽。异乎寻常。关在笼中。怒气冲冲。",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131659 | Description | prospects[47].Request.Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131659$Name",
+    "original": "Caged Catch",
+    "translation": "笼中猎获",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131659 | Name | prospects[47].Request.Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131659$PluralName",
+    "original": "Caged Catches",
+    "translation": "笼中猎获",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131659 | PluralName | prospects[47].Request.PluralName；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131660$AvailableAt",
+    "original": "Glass can be reliably purchased at the Clockwork Sun and the Mausoleum, and often salvaged from Deranged Dreadnoughts.",
+    "translation": "彩色玻璃总是可以在发条太阳和圣宁墓买到，也可以从癫狂的无畏机车上回收。",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131660 | AvailableAt | prospects[11].Request.AvailableAt；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131660$Description",
+    "original": "The light of the High Wilderness can enchant and derange. Coloured glass helps keep it at bay. ",
+    "translation": "天野的光线令人痴狂。上色玻璃可以提供防护。",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131660 | Description | prospects[11].Request.Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131660$Name",
+    "original": "Pane of Stained Glass",
+    "translation": "一块彩色玻璃",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131660 | Name | prospects[11].Request.Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131660$PluralName",
+    "original": "Panes of Stained Glass",
+    "translation": "几块彩色玻璃",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131660 | PluralName | prospects[11].Request.PluralName；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131661$AvailableAt",
+    "original": "Caddies of Dried Tea can be reliably purchased at the Avid Horizon.",
+    "translation": "罐装干茶总是可以在渴求之地平线买到。",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131661 | AvailableAt | prospects[25].Request.AvailableAt；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131661$Description",
+    "original": "As British as crinoline. Or Lord Elgin's Marbles.",
+    "translation": "就像克里诺林裙撑或大英博物馆的埃尔金石雕那样源自不列颠。",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131661 | Description | prospects[25].Request.Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131661$Name",
+    "original": "Caddy of Dried Tea",
+    "translation": "一罐干茶",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131661 | Name | prospects[25].Request.Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131661$PluralName",
+    "original": "Caddies of Dried Tea",
+    "translation": "几罐干茶",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131661 | PluralName | prospects[25].Request.PluralName；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131662$AvailableAt",
+    "original": "Bronzewood can be reliably purchased at Polmear & Plenty's Circus, Traitor's Wood, and Achlys. It can also be mined in the Reach and salvaged from Scrive-Spinsters.",
+    "translation": "青铜木总是可以在波尔梅尔&普伦蒂马戏团、叛徒之森和埃克吕斯买到。它也可以在外野开采，或从纺书人身上取得。",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131662 | AvailableAt | prospects[4].Request.AvailableAt；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131662$Description",
+    "original": "Hollowed from the vast trees of the Reach, Bronzewood is prized for its durability and its gleaming resin.\r\n",
+    "translation": "青铜木由外野的大树上挖出，因其坚韧和闪亮的树脂而售价高昂。\n",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131662 | Description | prospects[4].Request.Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131662$Name",
+    "original": "Bronzewood",
+    "translation": "青铜木",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131662 | Name | prospects[4].Request.Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131662$PluralName",
+    "original": "Bronzewood",
+    "translation": "青铜木",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131662 | PluralName | prospects[4].Request.PluralName；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131663$AvailableAt",
+    "original": "Munitions can be reliably purchased at the Royal Society and the Empyrean, or sometimes salvaged from Tackety Liberators or from flotsam and jetsam.",
+    "translation": "弹药总是可以在皇家学会和苍天上国买到，有时也可以从钉鞋帮解放者机车或漂零杂物中回收。",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131663 | AvailableAt | prospects[13].Request.AvailableAt；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131663$Description",
+    "original": "Sometimes, a crewman pretends he's going to drop one. It's still not funny.",
+    "translation": "有时，一位列车员会假装他差点摔掉一箱。这可不好笑。",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131663 | Description | prospects[13].Request.Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131663$Name",
+    "original": "Carefully-Packed Crate of Munitions",
+    "translation": "包装严密的弹药",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131663 | Name | prospects[13].Request.Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131663$PluralName",
+    "original": "Carefully-Packed Crates of Munitions ",
+    "translation": "包装严密的弹药",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131663 | PluralName | prospects[13].Request.PluralName；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131664$AvailableAt",
+    "original": "Nectar can be reliably purchased at Titania and Carillon, or collected from Chorister-hives.",
+    "translation": "唱诗蜂蜜总是可以在狄坦妮娅和钟琴区买到，或从唱诗蜂巢中收集。",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131664 | AvailableAt | prospects[2].Request.AvailableAt；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131664$Description",
+    "original": "For tea-drinkers it's a sweetener; for poets an inebriant. For singers it's an enhancement, widening the vocal range by a valuable semi-tone or two.",
+    "translation": "它是茶客的甘饴，诗人的佳酿，歌唱家的灵药，可以让音域拓宽一两个宝贵的半音。",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131664 | Description | prospects[2].Request.Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131664$Name",
+    "original": "Gourd of Chorister Nectar",
+    "translation": "一瓢唱诗蜂蜜",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131664 | Name | prospects[2].Request.Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131664$PluralName",
+    "original": "Gourds of Chorister Nectar",
+    "translation": "几瓢唱诗蜂蜜",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131664 | PluralName | prospects[2].Request.PluralName；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131665$AvailableAt",
+    "original": "Hours can be reliably purchased at Port Prosper and Lustrum, and mined from sky-rocks in the Reach.",
+    "translation": "时间总是可以在兴荣港和伍载镇买到，也可以从外野的天石中开采。",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131665 | AvailableAt | prospects[3].Request.AvailableAt；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131665$Description",
+    "original": "A barrel, encased in beeswax and stamped with the Ministry's mark. Its contents sigh like the tide.",
+    "translation": "一个用蜂蜡封装的桶，上面印有着公德部的标记。里面的东西如潮水般叹息。",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131665 | Description | prospects[3].Request.Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131665$Name",
+    "original": "Barrel of Unseasoned Hours",
+    "translation": "一桶未加工的时间",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131665 | Name | prospects[3].Request.Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131665$PluralName",
+    "original": "Barrels of Unseasoned Hours",
+    "translation": "几桶未加工的时间",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131665 | PluralName | prospects[3].Request.PluralName；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131666$AvailableAt",
+    "original": "Crockery can be reliably purchased at Brabazon and the Floating Parliament, or sometimes retrieved from flotsam and jetsam.",
+    "translation": "瓷器总是可以在布拉巴宗和浮空议会买到，有时也可以从漂零杂物中找到。",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131666 | AvailableAt | prospects[24].Request.AvailableAt；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131666$Description",
+    "original": "Fine London china; porcelain plates bearing the Empress' face; cups and saucers, traced with roses.",
+    "translation": "精美的伦敦瓷器；印有女王面容的瓷盘；描有玫瑰花纹的杯碟。",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131666 | Description | prospects[24].Request.Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131666$Name",
+    "original": "Crate of Nostalgic Crockery",
+    "translation": "一箱引人怀旧的瓷器",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131666 | Name | prospects[24].Request.Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131666$PluralName",
+    "original": "Crates of Nostalgic Crockery",
+    "translation": "几箱引人怀旧的瓷器",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131666 | PluralName | prospects[24].Request.PluralName；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131667$AvailableAt",
+    "original": "Approved Literature can be reliably purchased at Perdurance and Worlebury-juxta-Mare.",
+    "translation": "已审批的文学作品总是可以在琥珀宫和滨海沃伯瑞买到。",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131667 | AvailableAt | prospects[14].Request.AvailableAt；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131667$Description",
+    "original": "It has been thoroughly censored. Nothing here is likely to startle your maiden aunt. Or make her cackle.",
+    "translation": "它已经过仔细的删减，恐怕里面的内容都连你的老处女姨妈都吓不着——或者逗乐了。",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131667 | Description | prospects[14].Request.Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131667$Name",
+    "original": "Ministry-Approved Literature",
+    "translation": "已审批的文学作品",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131667 | Name | prospects[14].Request.Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131667$PluralName",
+    "original": "Ministry-Approved Literature",
+    "translation": "已审批的文学作品",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131667 | PluralName | prospects[14].Request.PluralName；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131668$AvailableAt",
+    "original": "Verdant Seeds can be reliably purchased at Hybras or the Leadbeater & Stainrod Nature Reserve.",
+    "translation": "青翠的种子总是可以在海波拉，或者李德彼特&斯坦罗德自然保护区买到。",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131668 | AvailableAt | prospects[1].Request.AvailableAt；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131668$Description",
+    "original": "From which mighty trunks may grow. Or any number of other things. The flora of the High Wilderness is erratic.",
+    "translation": "从中可以长出强健的树干。或任何数量的其他东西。天野的植物极不稳定。",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131668 | Description | prospects[1].Request.Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131668$Name",
+    "original": "Sack of Verdant Seeds",
+    "translation": "一袋青翠的种子",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131668 | Name | prospects[1].Request.Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131668$PluralName",
+    "original": "Sacks of Verdant Seeds",
+    "translation": "几袋青翠的种子",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131668 | PluralName | prospects[1].Request.PluralName；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131669$AvailableAt",
+    "original": "Bombazine can be reliably purchased at Langley Hall, and can often be salvaged from Resurrectionists in Albion.",
+    "translation": "邦巴辛布总是可以在兰利厅买到，也经常可以从阿尔比恩的掘墓人机车上回收。",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131669 | AvailableAt | prospects[12].Request.AvailableAt；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131669$Description",
+    "original": "This midnight-hued fabric grows heavy with devoured light. The perfect adornment for ostentatious grief and clandestine activity.",
+    "translation": "这种午夜色的织物因吞噬了光线而变得沉重。作为炫耀悲伤和秘密活动的完美装饰品最合适不过了。",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131669 | Description | prospects[12].Request.Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131669$Name",
+    "original": "Roll of Thirsty Bombazine",
+    "translation": "一卷渴光的邦巴辛布",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131669 | Name | prospects[12].Request.Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131669$PluralName",
+    "original": "Rolls of Thirsty Bombazine",
+    "translation": "几卷渴光的邦巴辛布",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131669 | PluralName | prospects[12].Request.PluralName；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131740$AvailableAt",
+    "original": "Navaratine Gemstones can reliably be purchased at Piranesi and the Forge of Souls. They can also be mined from sky-rocks in the Blue Kingdom, or found in ruins if you have assaying equipment.",
+    "translation": "曩缚咤宝石总是可以在皮拉内西和灵魂铸炉购买，也可以从蓝色王国的天石中开采，还可以在漂浮的遗迹中找到，前提是你装备了勘查设备。",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131740 | AvailableAt | prospects[21].Request.AvailableAt；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131740$Description",
+    "original": "They say these are the ever-cooling sparks that fall from the Forge of Souls. ",
+    "translation": "他们说这是灵魂锻炉落下的逐渐冷却的火花。 ",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131740 | Description | prospects[21].Request.Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131740$Name",
+    "original": "Cask of Navaratine Gemstones",
+    "translation": "一桶曩缚咤宝石",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131740 | Name | prospects[21].Request.Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131740$PluralName",
+    "original": "Casks of Navaratine Gemstones",
+    "translation": "几桶曩缚咤宝石",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=131740 | PluralName | prospects[21].Request.PluralName；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "138994$AvailableAt",
+    "original": "Starshine can be acquired from the Gentlemen, near Pan.",
+    "translation": "星光酒可以从潘城附近的绅士团那里获得。",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=138994 | AvailableAt | prospects[82].Request.AvailableAt；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "138994$Description",
+    "original": "Star-rakers comb water from the glassy pools of Eleutheria into these mirrored jars. It is laced with familiar starlight, shed by stars visible from Old Earth.",
+    "translation": "摘星者们从把从厄琉忒里亚的玻璃水池中搜刮出的水灌进这些反光的罐子里。它被熟悉的星光点缀，那光是由旧地球上都能看见的星星洒下。",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=138994 | Description | prospects[82].Request.Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "138994$Name",
+    "original": "Hogshead of Starshine",
+    "translation": "一罐星光酒",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=138994 | Name | prospects[82].Request.Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "138994$PluralName",
+    "original": "Hogsheads of Starshine",
+    "translation": "几罐星光酒",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=138994 | PluralName | prospects[82].Request.PluralName；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "138995$AvailableAt",
+    "original": "Illicit Literature can reliably be acquired from Wit & Vinegar, near London.",
+    "translation": "非法文学作品总是可以从伦敦附近的尖酸&狡黠公司买到。",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=138995 | AvailableAt | prospects[80].Request.AvailableAt；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "138995$Description",
+    "original": "What censored sentiments are held within its pages? Are they seditious? Revolutionary? Lascivious? The Ministry of Public Decency would be horrified.",
+    "translation": "在它的字里行间中隐藏着何种受到审查的情感？它们有煽动性吗？革命性？还是会挑动情欲？公德部会被它吓坏的。",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=138995 | Description | prospects[80].Request.Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "138995$Name",
+    "original": "Trunk of Illicit Literature",
+    "translation": "一箱非法文学作品",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=138995 | Name | prospects[80].Request.Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "138996$AvailableAt",
+    "original": "Red Honey can be purchased from the Midnight Rose, in Titania.",
+    "translation": "红蜂蜜可以从狄坦妮娅的午夜玫瑰处购买。",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=138996 | AvailableAt | prospects[81].Request.AvailableAt；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "138996$Description",
+    "original": "One of Fallen London's earliest and most persistent sins. To taste red honey is to walk the corridors of another's heart. None of their secrets will be safe from you.",
+    "translation": "沦敦最古老也最悠久的罪孽之一。品尝红蜂蜜就如同在他人心中的走廊里漫步。他们的秘密在你面前无所遁形。",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=138996 | Description | prospects[81].Request.Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "138996$Name",
+    "original": "Firkin of Red Honey",
+    "translation": "一小桶红蜂蜜",
+    "context": "prospects.bytes | Failbetter.Core.Quality | ID=138996 | Name | prospects[81].Request.Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "14$Description",
+    "original": "The Parsimonious Chairman of the Windward Company is looking to outfit a dozen more engines with 'the appropriate precautions'. He requires guns in satisfactory quantities. (Deliver up to three <b>Carefully-Packed Crates of Munitions</b> to <b>Port Prosper</b>.) [dir:6c1c3a55-b424-4bec-a969-31023ace58e7].",
+    "translation": "迎风公司的吝啬鬼主席希望额外武装一打机车，以采取“适当的防范措施”。他需要大量枪支。(将至多三箱<b>包装严密的弹药</b>送往<b>兴荣港</b>。)[dir:6c1c3a55-b424-4bec-a969-31023ace58e7]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=14 | Description | prospects[13].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "14$Name",
+    "original": "Munitions for Port Prosper's Parsimonious Chairman",
+    "translation": "送给兴荣港吝啬鬼主席的弹药",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=14 | Name | prospects[13].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "14$SatisfactionMessage",
+    "original": "The engine yards are a riot of activity. A Stolid Clerk signs for the wood while hammers clang and foremen bellow. They're building new engines. \"The Company is grateful, captain,\" the clerk says, including a freshly-stamped permit with your payment.",
+    "translation": "机车厂里十分热闹。锤子敲打、工头吼叫，而一位固执的职员接受了木材。他们正在建造新的机车。\"公司感谢你，车长。\"书记员说，一边在你的报酬中夹上一张刚盖好章的许可证。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=14 | SatisfactionMessage | prospects[8].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "15$Description",
+    "original": "'Wanted: <b>up to five consignments of Literature</b>. Genre, literary merit and moral worth irrelevant. Deliver to: the Ringmaster, <b>Polmear & Plenty's Inconceivable Circus</b>, the Reach.' [dir:8fcc687f-1e9b-444a-a758-c402d0608733].",
+    "translation": "‘需要：<b>至多五批文学作品</b>。体裁、文学和道德价值均不限。交付给：团长，<b>波尔梅尔&普伦蒂的不可思议马戏团</b>，外野。’[dir:8fcc687f-1e9b-444a-a758-c402d0608733]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=15 | Description | prospects[14].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "15$Name",
+    "original": "Literature for Polmear & Plenty",
+    "translation": "送往波尔梅尔&普伦蒂的不可思议马戏团的文学作品",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=15 | Name | prospects[14].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "15$SatisfactionMessage",
+    "original": "The Amenable Host smiles. \"Just what we needed! Although I must admit, I do miss roses. And lilies. And bluebells. Still, these celestial blooms have their own virtues. Some of them weep, you know.\" He pays you a generous gratuity.",
+    "translation": "随和的主管露出微笑。“我们正需要这些！我承认自己很怀念玫瑰。还有百合。还有风铃草。不过，这些天上的花卉也有独特的美好。你知道吗，其中一些还会流泪。”他付给你一笔丰厚的酬金。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=15 | SatisfactionMessage | prospects[9].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "16$Description",
+    "original": "'Attention! The Annual Allotment Competition Looms on <b>Port Avon</b>. <b>Up to three Sacks of Verdant Seeds</b> required urgently! Deliver to the vicar at the Nowhere Inn as soon as possible, if not before!' [dir:89aff93f-4b2e-4e03-bb41-d6054a84c5ee].",
+    "translation": "'注意!<b>埃文村一年一度的租借园地竞赛即将开始</b>。急需<b>至多三袋青翠的种子</b>！尽快交付给无处旅馆的牧师，最好再快点！'[dir:89aff93f-4b2e-4e03-bb41-d6054a84c5ee]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=16 | Description | prospects[15].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "16$Name",
+    "original": "Seeds for Port Avon",
+    "translation": "送往埃文村的种子",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=16 | Name | prospects[15].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "16$SatisfactionMessage",
+    "original": "The Supercilious Bursar takes your delivery with unfeigned delight. \"Thank you! Thank you! I'll have the loom spin these forthwith!\"",
+    "translation": "傲慢无礼的法务官带着无尽的喜悦接过你的包裹。\"谢谢你！谢谢！我马上让织布机把这些纺上！\"",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=16 | SatisfactionMessage | prospects[10].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "17$Description",
+    "original": "'An Opportunity for Fearless Captains: Sweet Jane's Counting House on <b>Lustrum</b> requires <b>five Crates of Munitions</b> in order to enforce a claim against the Windward Company. Remuneration generous.' [dir:c22807a9-7c42-41b5-823a-cc02f15c3f63].",
+    "translation": "‘给英勇无畏的车长们准备的机会：位于<b>伍载镇</b>的蜜糖阿简会计室需要<b>五箱弹药</b>，以实行对迎风公司的复仇。报酬丰厚。’[dir:c22807a9-7c42-41b5-823a-cc02f15c3f63]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=17 | Description | prospects[16].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "17$Name",
+    "original": "Monetary Munitions: Explosives for Lustrum",
+    "translation": "财政弹药：送往伍载镇的炸药",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=17 | Name | prospects[16].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "17$SatisfactionMessage",
+    "original": "The Exuberant Architect claps his hands with glee. \"Oh, marvellous. Marvellous. We shall know glory yet. Do you think it'll get rather warm inside the hall? Ah, no matter. I'm sure we can stand a little heat!\"",
+    "translation": "精力旺盛的建筑师高兴地拍起手来。“哦，太棒了。妙不可言。我们会沐浴在荣光中。你觉得大厅里会不会变得太暖和？啊，不要紧。我相信我们都可以忍受一点点热量的！”",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=17 | SatisfactionMessage | prospects[11].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "18$Description",
+    "original": "The Summerset students camped in the dark wood require fresh material for their continued studies, entertainment, and occasionally, roughage. They've requested <b>five consignments of Ministry-Approved Literature</b>. [dir:660ff730-50ea-4190-8210-a232c6e7b087].",
+    "translation": "在黑森林中扎营的夏暮学院学生们需要新鲜的精神食粮来继续学习娱乐，同时偶尔也需要吃点粗粮。他们需求<b>五批已审批的文学作品</b>。[dir:660ff730-50ea-4190-8210-a232c6e7b087]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=18 | Description | prospects[17].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "18$Name",
+    "original": "Literature for Traitor's Wood",
+    "translation": "送往叛徒之林的文学作品",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=18 | Name | prospects[17].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "18$SatisfactionMessage",
+    "original": "The Luminous Cardinal holds your delivery to the light. The cloth drinks the sunlight thirstily, darkening to an even more resplendent black.  \"This will serve. The Macabre Counsellor will, regrettably, be very pleased.\"",
+    "translation": "光辉红衣主教把你的包裹放在光线下。这块布饥渴地饮下阳光，逐渐变暗成更加闪亮的黑色。  “这就可以了。恐怖顾问会很高兴的。”",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=18 | SatisfactionMessage | prospects[12].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "19$Description",
+    "original": "The devils of <b>Carillon</b> are experimenting with a new penance involving close-harmony singing. They request <b>up to five Gourds of Chorister Nectar</b>, which is considered a vocal panacea by opera singers and actors. [dir:f3ca7b9d-a6ba-4d2a-bbd1-b12d4ec25036].",
+    "translation": "<b>钟琴区</b>的魔鬼们正在试验一种新的忏悔方法，其中需要演唱密集和声。他们需要<b>至多五瓢唱诗蜂蜜</b>，它被歌剧演员们视为保养嗓音的灵丹妙药。[dir:f3ca7b9d-a6ba-4d2a-bbd1-b12d4ec25036]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=19 | Description | prospects[18].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "19$Name",
+    "original": "A Polyphonic Penance: Nectar for Carillon ",
+    "translation": "复调忏悔：送往钟琴区的蜂蜜",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=19 | Name | prospects[18].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "19$SatisfactionMessage",
+    "original": "The Parsimonious Chairman is apparently delighted, and pours you both an almost but not quite indecent measure of brandy. \"So good to do business with a sky-captain with an eye to the future.\"",
+    "translation": "吝啬的主席显然很高兴，并给你们俩各倒了一杯满到几乎可称为不体面的白兰地。\"和着眼于未来的车长做生意真是令人愉悦。\"",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=19 | SatisfactionMessage | prospects[13].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "2$Description",
+    "original": "A Florid Landscapist is planning a modest floral garden in <b>Titania</b> to commemorate the birthday of whatever dead artist, composer or poet is currently in vogue. She requires <b>Verdant Seeds</b>, and lots of them. <b>Five sacks</b>, to be exact. [dir:7f7247f1-34b4-4f57-95d8-d482105edcb2].",
+    "translation": "一位浮夸的的景观设计师正在<b>狄坦妮娅</b>规划一个朴素的花圃，以纪念目前流行的随便哪位艺术家、作曲家或诗人的生日。她需要<b>青翠的种子</b>，而且要很多。确切地说，是<b>五袋</b>。[dir:7f7247f1-34b4-4f57-95d8-d482105edcb2]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=2 | Description | prospects[1].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "2$Name",
+    "original": "Flowers for Titania",
+    "translation": "送往狄坦妮娅的花",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=2 | Name | prospects[1].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "20$Description",
+    "original": "'The Governor of <b>Brabazon Workworld</b> requires <b>five Crates of Munitions</b>. Immediately, if not sooner. Trouble brewing. Malcontents. Ingrates. Workers.' [dir:86643f84-680c-415a-bf00-d4dceb891189].",
+    "translation": "‘<b>布拉巴宗工作世界</b>的总督需要<b>五箱弹药</b>。立刻马上，或更早。事态正在恶化。异见者。叛徒。工人。’[dir:86643f84-680c-415a-bf00-d4dceb891189]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=20 | Description | prospects[19].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "20$Name",
+    "original": "Cordite and Order: Munitions for Brabazon",
+    "translation": "硝烟与秩序：送往布拉巴宗的弹药",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=20 | Name | prospects[19].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "21$Description",
+    "original": "The Dazzled Sequencer requires <b>five consignments of Ministry-Approved Literature</b> for the engineers who maintain the <b>Clockwork Sun</b>, to remind them of the culture that their hard work sustains. [dir:bfc72a01-6af5-4c74-9354-74848b97c35d].",
+    "translation": "炫目的新秩序者需要<b>五批已审批的文学作品</b>，供维护<b>发条太阳</b>的工程师们阅览，以让他们牢记自己辛勤工作支撑的文化。[dir:bfc72a01-6af5-4c74-9354-74848b97c35d]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=21 | Description | prospects[20].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "21$Name",
+    "original": "The Fruits of Labour: Literature for the Clockwork Sun",
+    "translation": "劳动的果实：送往发条太阳的文学作品",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=21 | Name | prospects[20].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "21$SatisfactionMessage",
+    "original": "The Ringmaster beams with delight as he inspects your final volume. \"Looks dreadful,\" he says cheerily. \"Just the thing to invigorate our next performance.\"",
+    "translation": "团长在检查到你送来的最后一卷时高兴地笑了。\"看起来糟透了，\"他高兴地说。\"正适合为我们下一次的表演注入活力。\"",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=21 | SatisfactionMessage | prospects[14].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "22$Description",
+    "original": "Her Renewed Majesty has ordered the construction of a memorial chapel for the labourers who, during the Promised Days, gave their lives to lay the foundations of Albion. <b>Five Casks of Navaratine Gemstones</b> are required for its grand mural, to depict the blood, the sweat and the tears. [dir:358df020-9a27-47c3-8a80-6f1c836898df].",
+    "translation": "新生的女王陛下已下令为那些在应许之日献出生命奠定阿尔比恩基石的劳动者们建造一座纪念教堂。 其宏伟的壁画要用到<b>五桶曩缚咤宝石</b>，用于描绘血汗和泪水。[dir:358df020-9a27-47c3-8a80-6f1c836898df]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=22 | Description | prospects[21].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "22$Name",
+    "original": "In Memoriam: Gemstones for the Mausoleum",
+    "translation": "纪念堂筹备中：圣宁墓需要曩缚咤宝石",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=22 | Name | prospects[21].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "23$Description",
+    "original": "'Required: <b>five consignments of good Bronzewood</b>, for vital restoration works to the Parliamentary undercroft.' [dir:b301a570-2040-44e9-b679-aca62bac89f7].",
+    "translation": "'需求：<b>五批上好的青铜木</b>，用于议会大厦地下室的关键修复工程。'[dir:b301a570-2040-44e9-b679-aca62bac89f7] 。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=23 | Description | prospects[22].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "23$Name",
+    "original": "Upkeep in the Undercroft: Bronzewood for Parliament",
+    "translation": "地下室的维护：送往议会的青铜木",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=23 | Name | prospects[22].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "23$SatisfactionMessage",
+    "original": "The vicar is delighted. \"Hah! Shan't be the laughing stock of the village this year. I shall even put the carpenter's marrows to shame. Thank you for recognising the importance of our competition.\"",
+    "translation": "牧师很高兴。\"哈！今年不会成为村里的笑柄了。我甚至会让木匠的葫芦自愧不如。谢谢你尊重我们比赛的重要性。\"",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=23 | SatisfactionMessage | prospects[15].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "24$Description",
+    "original": "Those who remain at the <b>Avid Horizon</b> are desperate for diversion, distraction or escape. The authorities will pay for <b>three consignments of more recent Ministry-Approved Literature</b> to keep their charges content. [dir:1b331350-d950-4c06-94e0-38dd736859d7].",
+    "translation": "滞留在<b>渴求之地平线</b>的人们急切地需求消遣，转移注意力的事物或逃跑的机会。当局将付钱购买<b>三批较新的已审批的文献</b>，以让他们收押的犯人满足。[dir:1b331350-d950-4c06-94e0-38dd736859d7]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=24 | Description | prospects[23].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "24$Name",
+    "original": "Words in the Wind: Literature  for the Avid Horizon",
+    "translation": "风中的话语：送往渴求之地平线的文学",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=24 | Name | prospects[23].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "24$SatisfactionMessage",
+    "original": "Sweet Jane takes the munitions herself, hauling the crates into the backroom with surprising speed. She refuses to be drawn on why she needs them, but she does throw in a significant bonus when the subject comes up.",
+    "translation": "蜜糖阿简自己扛上弹药，以惊人的速度把箱子拖进了密室。她拒绝说明为什么需要这些东西，但当你提及这个问题时，她确实塞给你了一大笔额外报酬。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=24 | SatisfactionMessage | prospects[16].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "25$Description",
+    "original": "The Macabre Counsellor's afternoon teas at the <b>Most Serene Mausoleum</b> are notorious for their sepulchral decor and clinical dissection of political events. She insists on appropriately sombre tableware to accompany them, and if a single saucer is chipped she replaces the entire set. Her staff require <b>three sets of Nostalgic Crockery</b>, in case of future breakages. [dir:358df020-9a27-47c3-8a80-6f1c836898df].",
+    "translation": "<b>圣宁墓</b>的恐怖顾问的下午茶因其阴森的装饰和对政治事件诊断般精准的剖析而闻名。她坚持使用适当阴郁的餐具，而只要有一个碟子破损，她就会更换整套。她的员工需要<b>三套引人怀旧的瓷器</b>，以备将来再有损坏。[dir:358df020-9a27-47c3-8a80-6f1c836898df]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=25 | Description | prospects[24].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "25$Name",
+    "original": "Somber Ceramics: Crockery for the Macabre Counsellor",
+    "translation": "忧郁的陶瓷：送给恐怖顾问的瓷器",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=25 | Name | prospects[24].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "25$SatisfactionMessage",
+    "original": "The classicists are delighted, but you can't please the theologians. Too fanciful, apparently. The medievalists cannot seem to come to a definitive conclusion. You're paid well all the same and invited to go star-gazing in the Palewood.",
+    "translation": "古典学者们很高兴，但你无法取悦那些神学家。显然，这些东西太虚幻了。中世纪学者们似乎无法得出一个明确的定论。你收到一大笔工资，还被邀请去苍木林观星。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=25 | SatisfactionMessage | prospects[17].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "26$Description",
+    "original": "The Clockwork Sun does not, of course, run on tea. But the battalion of engineers who maintain it surely must. Every month, a new tender for <b>three Caddies of Dried Tea</b> is offered. Regular as – yes – clockwork. [dir:bfc72a01-6af5-4c74-9354-74848b97c35d].",
+    "translation": "当然，发条太阳并不靠茶叶运行。但是，维护它的工程师军团却靠它生存。每个月，他们都会进行一次招标，内容是<b>三罐干茶</b>。就像——没错——时钟一样规律。[dir:bfc72a01-6af5-4c74-9354-74848b97c35d]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=26 | Description | prospects[25].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "26$Name",
+    "original": "Enough Tea to Fuel the Sun",
+    "translation": "足够为太阳提供燃料的茶叶",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=26 | Name | prospects[25].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "26$SatisfactionMessage",
+    "original": "The Presiding Deviless takes the gourds herself. \"Fabulous. We would hate for the limitations of the penitents' vocal chords to obstruct their treatment.\"",
+    "translation": "女魔鬼主管亲自签收蜂蜜。“好极了。我们不希望忏悔者们的声带拖累他们的疗程。”",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=26 | SatisfactionMessage | prospects[18].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "27$Description",
+    "original": "A Zealous Undersecretary is already planning next year's Guy Fawkes' Night: a vital celebration of parliamentary democracy and high explosives. He wants the festivities' fireworks to be seen (and heard) all the way in London, and is prepared to pay well for <b>three Carefully-Packed Crates of sufficiently dangerous Munitions</b>. [dir:b301a570-2040-44e9-b679-aca62bac89f7].",
+    "translation": "一位热心的副部长已在计划明年的篝火之夜：这是一场关于议会民主制和高爆炸药的重要庆典。他希望在伦敦的所有地方都能看到（和听到）庆祝的烟花，并准备高价购买<b>三箱小心包装且足够危险的弹药</b>。[dir:b301a570-2040-44e9-b679-aca62bac89f7]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=27 | Description | prospects[26].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "27$Name",
+    "original": "Fulminous Festivities: Fireworks for Parliament",
+    "translation": "不祥的节庆活动：议会的烟花",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=27 | Name | prospects[26].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "27$SatisfactionMessage",
+    "original": "Two overseers are on hand to haul away your crates. They open a heavy iron door, and place the crates inside, to rest amongst dozens of similar crates. You are thanked for your trouble.",
+    "translation": "两名监督者将你的箱子拖走。他们打开一扇厚重的铁门，将板条箱放在几十个类似的箱子中间。他们对你的辛劳表示感谢。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=27 | SatisfactionMessage | prospects[19].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "28$Description",
+    "original": "The Tacketies, dominant in the Reach, intend to further their hold on the hours-mining industry, and demand better rates from Windward Company refineries. Prospectors are organising, in order to employ more intensive digging methods. One such mining association at <b>Lustrum</b> requires <b>up to nine Crates of Munitions</b>, and will pay 135 sovereigns for each. [dir:c22807a9-7c42-41b5-823a-cc02f15c3f63]. \r\n[Completing this prospect will award you an Unlicensed Chart.]",
+    "translation": "统治外野的钉鞋党打算进一步控制时间矿业，以迫使迎风公司的精炼厂提供更好的价格。勘探者们正筹划着采用更激进的挖掘方法。在<b>伍载镇</b>有这么一个采矿协会需要<b>至多九箱弹药</b>，并为每箱支付135金镑。[dir:c22807a9-7c42-41b5-823a-cc02f15c3f63]。\n[完成这个机会后，你将获得一张未经许可的航图。］",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=28 | Description | prospects[27].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "28$Name",
+    "original": "Munitions for the Lustrum Mines",
+    "translation": "送往伍载镇矿区的弹药",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=28 | Name | prospects[27].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "28$SatisfactionMessage",
+    "original": "The Dazzled Sequencer thumbs through the books with little interest. \"I'm sure these will do. Although some of them seem frivolous. I prefer hymns, myself.\"",
+    "translation": "炫目的新秩序者兴趣寥寥地翻阅书本。“这些肯定够用了。不过其中一些似乎太过轻浮。我本人更喜欢赞美诗。”",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=28 | SatisfactionMessage | prospects[20].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "29$Description",
+    "original": "With the Tacketies on the run, and the trade routes from London secure, the Stovepipes are growing accustomed to certain luxuries. A prosperous Company shareholder at <b>Port Prosper</b> is prepared to pay 210 sovereigns each for <b>up to nine Caddies of Dried Tea</b>. \r\n[Completing this prospect will earn you a Cryptic Benefactor.]",
+    "translation": "随着钉鞋党潜逃，以及来自伦敦的商路得到保障，高帽开始逐渐习惯于消费奢侈品。迎风公司在<b>兴荣港</b>的一位富裕的股东准备以每罐210金镑的价格购买<b>多达九罐干茶</b>。\n[完成这个机会后，你将获得一个隐秘的人脉。］",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=29 | Description | prospects[28].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "29$Name",
+    "original": "All the Comforts of Home",
+    "translation": "吃穿用度",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=29 | Name | prospects[28].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "29$SatisfactionMessage",
+    "original": "The Direful Chamberlain takes your consignment with customary gloom. \"Serviceable. Which is, let's face it, all that we can really hope for.\" High praise.",
+    "translation": "可怕的管家以惯有的阴沉态度接受了你交付的货物。\"可堪一用。还是面对现实吧，我们也只能指望这些。\"这可是高度的赞扬。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=29 | SatisfactionMessage | prospects[21].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "3$Description",
+    "original": "'<b>Magdalene's</b>, the House of Small Comfort, requires up to <b>three Gourds of Chorister Nectar</b>. Only respectable businesspersons need apply.' [dir:21004c53-ad6e-43e4-8df4-0230da3e87e6].",
+    "translation": "‘<b>抹大拉之家</b>的小安乐窝需要最多<b>三瓢唱诗蜂蜜</b>。仅限正派商人申请。’[dir:21004c53-ad6e-43e4-8df4-0230da3e87e6]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=3 | Description | prospects[2].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "3$Name",
+    "original": "Nectar for Magdalene's",
+    "translation": "送往抹大拉之家的蜂蜜",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=3 | Name | prospects[2].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "30$Description",
+    "original": "A mob, allegedly sponsored by the Windward Company, recently shattered some of the stained glass windows of Victory Hall, seat of the Colonial Assembly. A renowned glazier at <b>Titania</b> has been commissioned to manufacture a replacement, even more magnificent than the last. She will pay for <b>up to five Panes of Stained Glass</b>. [dir:7f7247f1-34b4-4f57-95d8-d482105edcb2]. \r\n[Completing this prospect will aid the Tackety war effort.]",
+    "translation": "最近，据称由迎风公司赞助的一群暴徒打碎了殖民地大议会所在地——常胜厅的一些彩色玻璃窗。<b>狄坦妮娅</b>的一位著名玻璃工匠被委托制造比之前更加华丽的替代品。她将付钱购买<b>至多五块彩色玻璃板</b>。[dir:7f7247f1-34b4-4f57-95d8-d482105edcb2]。\n[完成这个机遇将使钉鞋党在战争中得利。］",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=30 | Description | prospects[29].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "30$Name",
+    "original": "The Winchester Windows",
+    "translation": "温彻斯特的窗户",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=30 | Name | prospects[29].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "30$SatisfactionMessage",
+    "original": "The Member is beside herself with glee. \"Oh, wonderful. We'll be able to stock the good wines from Pan again.\" She coughs. \"I mean. Re-open an important forum for facilitating bi-partisan camaraderie.\"",
+    "translation": "议会成员在旁边欣喜若狂。\"哦，太好了。我们又能存放潘城运来的好酒了。\"她咳嗽了一声。\"我是说。重新开放一座促进两党友爱的重要论坛。\"",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=30 | SatisfactionMessage | prospects[22].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "31$Description",
+    "original": "The Windward Company have been unable to break the Tacketies' hold on hours-mining. To keep their refineries busy, they have recruited representatives to purchase hours from unaligned captains. A Pensive Devil at <b>Carillon</b> will pay 150 sovereigns each for <b>up to five Barrels of Unseasoned Hours</b>.\r\n[Completing this prospect will aid the Company's war effort.]",
+    "translation": "迎风公司一直无法打破钉鞋党对时间矿业的控制。为了让他们的精炼厂保持忙碌，他们招募了一些代表，从保持中立的车长那里购买时间。<b>钟琴区</b>的一位忧伤的魔鬼将以150金镑每桶的价格收购<b>至多五桶未加工的时间</b>。\n[完成这个机会将使公司在战争中得利。］",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=31 | Description | prospects[30].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "31$Name",
+    "original": "The Carillon Connection",
+    "translation": "钟琴区的人脉",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=31 | Name | prospects[30].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "31$SatisfactionMessage",
+    "original": "The planetary romances of the Turbulent Fabulist are notably popular among the denizens of the Horizon, as is Botheridge's 'A Tour of Heaven'. An amateur engineer gratefully offers to repair your engine before you depart.",
+    "translation": "狂乱的寓言家所著的的行星浪漫小说在地平线的居民中大受欢迎，博瑟里奇的《天堂之旅》也是如此。一位业余工程师在你出发前出于感激提出为你修理机车。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=31 | SatisfactionMessage | prospects[23].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "32$Description",
+    "original": "The Curator of <i>Titania's</i> new Library is stocking it with as robust a collection as he can manage. But to avoid trouble with the Ministry, he needs <b>five crates of Ministry-Approved Literature</b>, to fill the lower, more visible shelves. If you complete this Prospect, you will gain Savage Secrets.",
+    "translation": "<i>狄坦妮娅</i>新图书馆的馆长正在尽他所能地为其储备大量藏书。但为了避免与公德部发生纠纷，他需要<b>五箱已审批的文学作品</b>，以填充更下等、更显眼的书架。如果你完成这个机遇，将获得残酷的秘密。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=32 | Description | prospects[31].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "32$Name",
+    "original": "Literature for the Titanian Library",
+    "translation": "送往狄坦妮娅图书馆的文学作品",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=32 | Name | prospects[31].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "32$SatisfactionMessage",
+    "original": "A Doddery Butler painstakingly counts out your payment. \"The Counsellor is grateful,\" he wheezes, and hands it over with a receipt of goods. Later, you realise he also accidentally gave you something else. ",
+    "translation": "一位步履蹒跚的管家煞有介事地清点你的工资。他喘着粗气说：“顾问很感激，”然后递给你钱和一张货物收据。后来，你意识到他还不经意地给了你别的东西。 ",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=32 | SatisfactionMessage | prospects[24].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "33$Description",
+    "original": "The Rhapsodic Mayor of Titania seeks interesting plants for her new nature reserve. The more colourful, the better. She seeks <b>five Sacks of Verdant Seeds</b>, to be delivered to <b>Titania</b>.",
+    "translation": "狄坦妮娅热情洋溢的市长正为她新建的自然保护区寻找有趣的植物。颜色越丰富越好。她需要<b>五袋青翠的种子</b>，送到<b>狄坦妮娅</b>。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=33 | Description | prospects[32].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "33$Name",
+    "original": "Seeds for Titania",
+    "translation": "送往狄坦妮娅的种子",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=33 | Name | prospects[32].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "33$SatisfactionMessage",
+    "original": "A Solitary Foreman asks you to wheel the tea through empty corridors to a storeroom. It is stacked with identical, unopened, dust-covered crates. Either the Sun's engineers don't like tea (unthinkable!) or there are fewer of them than is presumed.",
+    "translation": "一位孤独的工头请你把茶叶运过一条空荡的走廊，推进储藏室。里面堆放着一模一样的、未开封的、布满灰尘的箱子。要么是太阳的工程师们不喜欢茶叶（难以想象！），要么是他们的数量比推测的少。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=33 | SatisfactionMessage | prospects[25].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "34$Description",
+    "original": "An awkwardly written note claims that 'the grate hose of cavy' requires munitions for its defence. There is a large paw-print in the corner. The guinea pigs require <b>five Carefully-Packed Crate of Munitions</b> to be dropped off – carefully – at <b>Titania</b>. If you complete this Prospect you will gain a Moment of Inspiration.",
+    "translation": "一张文法拙劣的纸条声称，“韦大的卡维家族”需要军火来自卫。角落里有个大爪印。豚鼠们需要你将<b>五箱小心包装的弹药</b>小心翼翼地送到<b>狄坦妮娅</b>。如果完成这个机会，你会获得一份瞬间的灵感。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=34 | Description | prospects[33].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "34$Name",
+    "original": "Defending the Titanian Outpost of the House of Cavy",
+    "translation": "保卫豚鼠之家的狄坦妮娅前哨站",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=34 | Name | prospects[33].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "34$SatisfactionMessage",
+    "original": "The undersecretary asks probing, inexpert questions about the yield, lumens, and decibels of your delivery. \"I want them to rattle Her Majesty's china,\" he admits, savagely.",
+    "translation": "副部长就你们货物的产能、流明和分贝问一些探究性的、不专业的问题。他粗鲁地承认：“我希望它们能把女王陛下的瓷器震上一震。”",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=34 | SatisfactionMessage | prospects[26].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "35$Description",
+    "original": "A recent visitation by the Candlewind has withered the orchards that grow in <b>Titania's</b> nature reserve. The mayor will pay an excellent price for <b>five Barrels of Unseasoned Hours</b> which they can use to encourage the growth of new trees. If you complete this Prospect you will receive Visions of the Heavens.",
+    "translation": "烛风最近一次的拜访使生长在<b>狄坦妮娅</b>自然保护区的果园枯萎了。市长将以极高的价格购买<b>五桶未加工的时间</b>，他们可以用它来催生新树成长。如果你完成这个展望，可以获得天界风景。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=35 | Description | prospects[34].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "35$Name",
+    "original": "Extra Time for Titania",
+    "translation": "送往狄坦妮娅的额外时间",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=35 | Name | prospects[34].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "35$SatisfactionMessage",
+    "original": "Two overseers rush to haul away your crates. 'Thank you!' one shouts over his shoulder. They seem anxious.",
+    "translation": "两个监督者急忙把你的板条箱拖走。'谢谢！'其中一位回头喊道。他们似乎很着急。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=35 | SatisfactionMessage | prospects[19].Completions[1].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "36$Description",
+    "original": "Titania's tea-salon is starting to receive high-class guests unwilling to eat with wooden spoons. A few pieces of high-quality silverware would be welcome. They have requested <b>five</b> <b>Crates of Nostalgic Crockery</b>, to be delivered to <b>Titania</b>.",
+    "translation": "狄坦妮娅的茶室开始接待到不愿用木勺吃饭的高级客人。它希望能有几件高质量的银器。他们要求<b>五</b><b>箱引人怀旧的瓷器</b>，送到<b>狄坦妮娅</b>。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=36 | Description | prospects[35].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "36$Name",
+    "original": "Fine Cutlery for Titanian High Tea",
+    "translation": "用于狄坦妮娅下午茶的精美餐具",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=36 | Name | prospects[35].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "36$SatisfactionMessage",
+    "original": "Pleased, the head of the mining association throws in a barrel of freshly-dug hours, and a chart from her days in a Tackety scouting militia.",
+    "translation": "采矿协会的负责人很高兴，她赠送你一桶新挖出的时间，以及一张她在钉鞋党侦察民兵队时期的航图。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=36 | SatisfactionMessage | prospects[27].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "37$Description",
+    "original": "The owner of the Erlking's Head in Titania needs to expand his establishment, and only premium-grade wood will do. He asks for a captain to drop off <b>five</b> slabs of <b>Bronzewood</b>. Completing this Prospect will award Otherworldly Artefacts.",
+    "translation": "狄坦妮娅魔王之颅的老板需要扩大他的店面，而且必须要用上高级木材。他将雇佣车长为他送来<b>五块</b><b>青铜木</b>板。完成这个机会将获得异界遗物。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=37 | Description | prospects[36].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "37$Name",
+    "original": "Carving the Erlking's Head",
+    "translation": "雕刻魔王之颅",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=37 | Name | prospects[36].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "37$SatisfactionMessage",
+    "original": "The Company shareholder is hosting a party to celebrate the publication of a set of pamphlets on the Company's successes. Your delivery arrives just in time. ",
+    "translation": "公司股东正在举办一个聚会，庆祝一套关于公司成功的小册子的出版。你的货物恰好到达。 ",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=37 | SatisfactionMessage | prospects[28].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "38$Description",
+    "original": "A storyteller in Titania finds himself without any new stories to tell. He requests inspiration, and discretion. Bring <b>five</b> <b>Sky-Stories</b> to him in <b>Titania</b>.",
+    "translation": "狄坦妮娅的一个故事述说者发现自己没有任何新故事可讲。他要求获得灵感，以及对灵感的酌处权。把<b>5个</b><b>高天轶事</b>带到<b>狄坦妮娅</b>给他。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=38 | Description | prospects[37].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "38$Name",
+    "original": "RETIRED Second Hand Sky-Stories for Titania",
+    "translation": "RETIRED 狄坦妮娅的二手高天轶事",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=38 | Name | prospects[37].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "38$SatisfactionMessage",
+    "original": "The glazier frowns. \"It's one thing to squabble over politics. It's another thing entirely to destroy art.\" She looks at the pile you've brought her and nods, tersely. \"This will do. I suppose I should thank you.\"",
+    "translation": "玻璃工匠皱起眉头。\"政治争论是一回事。破坏艺术则完全是另一回事。\"她看了看你给她带来的那堆东西，严厉地点了点头。\"这就可以了。我想我应该感谢你。\"",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=38 | SatisfactionMessage | prospects[29].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "39$Description",
+    "original": "A would-be playwright currently working backstage at the Great Theatre is looking for the perfect subject for his next 'masterpiece'. He needs <b>one Moment of Inspiration</b> to be delivered to him at <b>Titania</b>.",
+    "translation": "一个目前在大剧院后台工作的未来剧作家正在为他的下一部“杰作”寻找完美的主题。他需要<b>一个瞬间的灵感</b>，在<b>狄坦妮娅</b>交给他。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=39 | Description | prospects[38].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "39$Name",
+    "original": "RETIRED Inspiration for Titania's Theatre",
+    "translation": "RETIRED 狄坦妮娅剧院的灵感",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=39 | Name | prospects[38].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "39$SatisfactionMessage",
+    "original": "The Pensive Devil asks you many questions – about your journey, your engine, your crew, your cargo, your past – before he is satisfied and hands over your payment. \"I'm sure our Stovepipe friends will be pleased.\"",
+    "translation": "忧伤的魔鬼问了许多关于你的旅程、你的机车、你的列车员、你的货物、你的过去的问题，然后他才满意地递上你的报酬。“相信我们的高帽党朋友会很高兴。”",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=39 | SatisfactionMessage | prospects[30].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "4$Description",
+    "original": "'Wanted: <b>up to five Barrels of Unseasoned Hours</b>. Deliver to: the Ringmaster, <b>Polmear & Plenty's Inconceivable Circus</b>, the Reach.' [dir:8fcc687f-1e9b-444a-a758-c402d0608733].",
+    "translation": "‘急需：<b>至多五桶未加工的时间</b>。交付给：团长，<b>波尔梅尔&普伦蒂的不可思议马戏团</b>，外野。’[dir:8fcc687f-1e9b-444a-a758-c402d0608733]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=4 | Description | prospects[3].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "4$Name",
+    "original": "Hours for the Circus' Ringmaster",
+    "translation": "送至马戏团团长的时间",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=4 | Name | prospects[3].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "4$SatisfactionMessage",
+    "original": "A fuel filled ending!",
+    "translation": "一个燃满的结局！",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=4 | SatisfactionMessage | prospects[0].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "40$Description",
+    "original": "The Great Exhibition at <b>Titania</b> is already starting to look slightly run-down. Some new windows will help restore its former beauty. The Titanian branch of the Royal Society have requested that someone deliver <b>five</b> <b>Panes of Stained Glass</b>. Completing this Prospect will grant a Moment of Inspiration.",
+    "translation": "位于<b>狄坦妮娅</b>的大展会已经显得有些破旧了。几块新窗户可以帮它恢复从前的美丽。皇家学会狄坦妮娅分会需求<b>五块</b><b>上色玻璃板</b>。完成这个机遇将获得一个瞬间的灵感。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=40 | Description | prospects[39].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "40$Name",
+    "original": "Glass for the Titanian branch of the Royal Society",
+    "translation": "送往皇家学会狄坦妮娅分会的玻璃",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=40 | Name | prospects[39].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "40$SatisfactionMessage",
+    "original": "\"Ah, these are splendid!\" declares the Curator, looking at the Ministry-approved books. \"Yes, cozy, unchallenging and anodyne. These will be the rough in which we can hide our diamonds.\" He indicates another pile of books on his desk – entirely uncensored works.",
+    "translation": "\"啊，这些都很很棒！\"馆长看着已审批的书籍宣称。\"是的，闲适，不挑衅，不得罪人。这些将是我们用来隐藏钻石的毛坯。\"他指了指他桌子上的另一堆书——全是未经审查的作品。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=40 | SatisfactionMessage | prospects[31].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "41$Description",
+    "original": "The Royal Society Enclave in <b>Titania</b> gets through much stained glass, with both its telescopes and experiments aimed at the dangers of the Wilderness. They require more. <b>Five</b> <b>Panes of Stained Glass</b>, to be precise. Completing this Prospect will grant a Condemned Experiment.",
+    "translation": "位于<b>狄坦妮娅</b>的皇家学会分会，其望远镜和实验都面向着高野的重重危险，因此会经手许多上色玻璃。他们还需要更多。确切地说，是<b>五块</b><b>上色玻璃板</b>。完成这个机遇将获得一个违背伦理的实验品。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=41 | Description | prospects[40].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "41$Name",
+    "original": "Experiment-Grade Glass for Titania",
+    "translation": "送往狄坦妮娅的实验级玻璃",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=41 | Name | prospects[40].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "41$SatisfactionMessage",
+    "original": "You find the Mayor taking a bracing early morning swim. While you avert your gaze, she emerges from the water and dons a towelling robe that satisfies the needs of decorum. \"Excellent. Thank you. I'll set someone sprouting these immediately.\"",
+    "translation": "你发现市长正在兴奋地晨泳。你移开视线，而她从水中出来，穿上了符合礼仪要求的浴袍。\"很好。谢谢你。我马上派人给这些东西发芽。\"",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=41 | SatisfactionMessage | prospects[32].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "42$Description",
+    "original": "Is poetry rooted in the soul? If it is, could a lesser poet be inspired by the soul of a greater one? A circle of Titanian aesthetes at the Eleutherian Academy is willing to try. They want <b>five</b> <b>Jumbles of Undistinguished Souls</b> to be delivered to <b>Titania</b>. Completing this Prospect will grant a Cryptic Benefactor.",
+    "translation": "诗歌扎根于灵魂吗？若是如此，一位小诗人能不能从另一位大诗人的灵魂中得到启发？狄坦妮娅厄琉忒里亚学院的一群审美家愿意加以尝试。他们需求<b>五堆</b><b>平庸的灵魂</b>，送往<b>狄坦妮娅</b>。完成这个机遇将获得一个隐秘的人脉。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=42 | Description | prospects[41].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "42$Name",
+    "original": "Souls for the Titanian Poets",
+    "translation": "送给狄坦妮娅诗人们的灵魂",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=42 | Name | prospects[41].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "42$SatisfactionMessage",
+    "original": "Midnight. A cloaked guinea pig, the representative of the House of Cavy, meets you at the station. While a work-team of his comrades struggle to unload the munitions, he sees to your payment. \"Every nation has the right to defend its holdfast!\" he proclaims, and launches into a short but inspiring speech.",
+    "translation": "午夜。一只披斗篷的豚鼠，也就是卡维家族的代表，在车站迎接你。当他的同志们组成的一个工作小组努力卸下弹药时，他负责支付你的报酬。“每个国家都有权捍卫国土！”他宣称，然后开始发表一篇简短但鼓舞人心的演讲。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=42 | SatisfactionMessage | prospects[33].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "43$Description",
+    "original": "The retired Corporal in charge of Titania's Imperial Museum is running low on gunpowder for his cannons. His neighbours sometimes suggest it might be better if he didn't fire them on the hour, every hour. Few of them, though, dare to suggest it twice. He requires <b>five</b> <b>Carefully-Packed Crates of Munitions</b> to be sent to him in <b>Titania</b>. Completing this Prospect will grant Ministry-Stamped Permits.",
+    "translation": "负责狄坦妮娅帝国博物馆的退役下士已经没剩多少火药给他的大炮用了。邻居们有时会建议他最好不要每小时都开炮。但很少有人敢建议两次。他需要<b>五箱</b><b>小心包装的弹药</b>，送到<b>狄坦妮娅</b>他那里去。完成这个机遇可以获得公德部盖章的许可证。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=43 | Description | prospects[42].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "43$Name",
+    "original": "Things That Go Bang in Titania",
+    "translation": "送往狄坦妮娅的火药",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=43 | Name | prospects[42].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "43$SatisfactionMessage",
+    "original": "The Rhapsodic Mayor breathes a sigh of relief when you deliver the hours. \"Wonderful. We'll dig these into the soil to mature the new trees.\" The old trees, gnarled and grey, with candle-flames still dancing on their dead twigs, are being felled and dragged away.",
+    "translation": "当你交付时间时，热情洋溢的市长松了口气。\"太好了。我们会把这些埋到土壤里，让新树长成。\"老树参差不齐，灰头土脸，烛火还在枯枝上跳舞。它们被砍倒拖走。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=43 | SatisfactionMessage | prospects[34].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "44$Description",
+    "original": "A sculptor from <b>Titania</b> is looking to complete a statue of the Captivating Princess with some freshly cut gems. Only the finest will do, so he needs <b>three<b> <b>Casks of Navaratine Gemstones</b>. Completing this Prospect will grant a Moment of Inspiration.",
+    "translation": "一位来自<b>狄坦妮娅</b>的雕塑家希望用一些新切割的宝石来完成一座迷人公主的雕像。必须用最好的才行，所以他需要<b>三桶</b><b>曩缚咤宝石</b>。完成这个机遇可以获得一个瞬间的灵感。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=44 | Description | prospects[43].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "44$Name",
+    "original": "Eyes for a Princess of Titania",
+    "translation": "狄坦妮娅某位公主的眼睛",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=44 | Name | prospects[43].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "44$SatisfactionMessage",
+    "original": "The waitress at the tea-shop admires a silver spoon. \"Just right for our toff crowd. Got to be perfect. That's why I huff twice on their glasses before rubbing 'em clean.\"",
+    "translation": "茶室的女服务员欣赏着一把银制勺子。\"正好适合我们的富佬顾客们。必须得完美无缺。所以我才要在擦他们的杯子之前往上面吹两口气。\"",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=44 | SatisfactionMessage | prospects[35].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "45$Description",
+    "original": "The beleaguered Tacketies need to build sympathy for their cause. Word has reached you that the Whiskered Evangelist in <b>Lustrum</b> requires <b>up to five crates of Ministry-Approved Literature</b>. No one knows why. \r\n[Completing this prospect will aid the Tacketies' war efforts.]",
+    "translation": "陷入困境的钉鞋党需要为他们的事业争取人心。有消息说，<b>伍载镇</b>一位大胡子传道者需要<b>至多五箱的已审批的文学作品</b>。没人知道原因。\n[完成这个机会将使钉鞋党在战争中得利。］",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=45 | Description | prospects[44].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "45$Name",
+    "original": "Dust-Jackets of Deceit: Literature for Lustrum",
+    "translation": "欺骗的封皮：送往伍载镇的文学作品",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=45 | Name | prospects[44].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "45$SatisfactionMessage",
+    "original": "The owner of the Erlking's Head slaps his hand on the Bronzewood. \"That's a right beaut of a piece. If I can find summat that'll carve it, the sign'll last forever.\"",
+    "translation": "魔王之颅的主人用手拍打青铜木。“这东西真是漂亮。如果能我能找到可以雕刻它的家伙，招牌就永能永远流传了。”",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=45 | SatisfactionMessage | prospects[36].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "46$Description",
+    "original": "London's Erratic Admiral is a tactical genius, but perilously fragile. Unless his daily routine adheres to exact specifications his inspiration abandons him, and the loss of his tea set in a recent engagement has rendered him entirely ineffective. His batman, currently recuperating at <b>Port Avon</b>, seeks an exact replacement. He will pay 110s for each of <b>up to five Crates of Nostalgic Crockery</b>. [dir:89aff93f-4b2e-4e03-bb41-d6054a84c5ee]. \r\n[Completing this prospect will aid the Stovepipes war efforts.]",
+    "translation": "伦敦那位反复无常的海军上将是一个战术天才，但其人却非常脆弱。若他的日常工作不能遵循精确的规范，就会失却灵感。最近的一次交战中，他丢失了茶具，因而将才尽失。他在<b>埃文村</b>休养的仆人正在寻找毫无差别的替代品。他将以每箱110金镑的价格购买<b>至多五箱引人怀旧的瓷器</b>。[dir:89aff93f-4b2e-4e03-bb41-d6054a84c5ee]。\n[完成这个机会将使高帽党在战争中得利。］",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=46 | Description | prospects[45].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "46$Name",
+    "original": "The Admiral's China: Crockery for Port Avon",
+    "translation": "海军上将的瓷器：送往埃文村的餐具",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=46 | Name | prospects[45].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "46$SatisfactionMessage",
+    "original": "\"Just in time!\" The storyteller flicks through your anecdotes, occasionally scribbling notes. \"This can't be true, right? And this? Amazing...\"",
+    "translation": "“来得正是时候！”故事述说者翻阅着你的轶事，偶尔潦草地做着笔记。“这不可能是真的，对吗？那这个呢？太神奇了……”",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=46 | SatisfactionMessage | prospects[37].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "47$Description",
+    "original": "His absent Lordship's servants have put out an urgent request for high-quality building materials. The old library was mere mahogany and gold. His Lordship is no pauper! <b>Three consignments of bronzewood</b> should suffice. [dir:418df4ef-902a-4ae9-9673-31e2978ce7b7].",
+    "translation": "缺席的大人的仆人们急需高质量的建材。旧图书馆只用了桃花心木和黄金。大人可不是穷光蛋！<b>三批青铜木</b>应该足够了。[dir:418df4ef-902a-4ae9-9673-31e2978ce7b7].",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=47 | Description | prospects[46].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "47$Name",
+    "original": "Lord Langley's New Library: Bronzewood for Langley Hall",
+    "translation": "兰利勋爵的新图书馆：送往兰利厅的青铜木",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=47 | Name | prospects[46].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "47$SatisfactionMessage",
+    "original": "The playwright is so delighted he almost kisses you. \"That's it. I know what I need to write about! Now, comedy or tragedy? Should there be singing?\"",
+    "translation": "剧作家非常高兴，几乎要吻你。“就是这样。我知道我需要写什么了！现在，喜剧还是悲剧？要不要加入歌曲？”",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=47 | SatisfactionMessage | prospects[38].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "48$Description",
+    "original": "A hastily scratched note claims that the Chaplains at Piranesi will pay good money for fresh seafood. They do not seem to mind whether or not it is identifiable. <b>Three Caged Catches</b> should be a good start. [dir:06401842-00d7-463c-8d6b-6fdd41b2edae].",
+    "translation": "一张匆匆写下的的纸条声称，皮拉内西的牧师们会为新鲜的海产品支付高价。他们似乎并不介意它是否能被分类。 <b>三只笼中猎获</b>作为开头应该刚好。[dir:06401842-00d7-463c-8d6b-6fdd41b2edae].",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=48 | Description | prospects[47].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "48$Name",
+    "original": "Let Them Eat Squid: Caged Catches for Piranesi",
+    "translation": "让他们吃鱿鱼：送往皮拉内西的笼中猎获",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=48 | Name | prospects[47].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "48$SatisfactionMessage",
+    "original": "\"Careful with that, it's fragile!\" The Royal Society engineer turns to you. \"Beautiful craftsmanship, Captain. Can't wait to see the light burst through it.\"",
+    "translation": "\"小心点，很脆弱的！\"皇家学会的工程师转向你。\"漂亮的工艺品，车长。我迫不及待地想看到光线透过它迸发出来。\"",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=48 | SatisfactionMessage | prospects[39].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "49$Description",
+    "original": "The London Embassy in the Eagle's Empyrean has a need for <b>Navarantine Gemstones</b>, to bribe officials who cannot be swayed with mere Sovereigns. <b>Three Casks</b> should suffice. [dir:dad2e4cc-5983-41db-8e20-d07104e92666].",
+    "translation": "伦敦驻雄鹰之苍天上国大使馆需要<b>曩缚咤宝石</b>来贿赂那些无法只用金镑动摇的官员。 <b>三桶</b>应该足够了。[dir:dad2e4cc-5983-41db-8e20-d07104e92666]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=49 | Description | prospects[48].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "49$Name",
+    "original": "The Diplomatic Bag: Gemstones for Eagle's Empyrean",
+    "translation": "外交口袋：送往鹰汗上国的宝石",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=49 | Name | prospects[48].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "49$SatisfactionMessage",
+    "original": "The scientists of the Enclave pounce upon the glass, already assigning colours and thicknesses to their experiments. \"Perfect quality, Captain. This will do nicely.\"",
+    "translation": "分会的科学家们扑向玻璃，已经开始为他们的实验指定所需的颜色和厚度。\"质量完美，车长。这能很好地满足需求。\"",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=49 | SatisfactionMessage | prospects[40].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "5$Description",
+    "original": "'Cricket season is nigh! Mr Sharma of <b>Port Avon</b> will pay for <b>five consignments of Bronzewood</b> to furnish the village team with bats, bials, stumps, shin-pads and protective cups to minimise damage to delicate areas.' [dir:89aff93f-4b2e-4e03-bb41-d6054a84c5ee].",
+    "translation": "",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=5 | Description | prospects[4].Description；差异分类：内容变化；原文变化，译文留空等待复核。旧原文：'Cricket season is nigh! Mr Sharma of <b>Port Avon</b> will pay for <b>five consignments of Bronzewood</b> to furnish the village team with bats, bails, stumps, shin-pads and protective cups to minimise damage to delicate areas.' [dir:89aff93f-4b2e-4e03-bb41-d6054a84c5ee].\n旧译文（仅参考）：“板球赛季将至！<b>埃文村</b>的夏尔马先生订购了<b>五批青铜木</b>，以便为村代表队打造球棒、横木、球墩、护胫和护裆，保护要害部位。”[dir:89aff93f-4b2e-4e03-bb41-d6054a84c5ee]。"
+  },
+  {
+    "key": "5$Name",
+    "original": "Bronzewood for Port Avon",
+    "translation": "送往埃文村的青铜木",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=5 | Name | prospects[4].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "5$SatisfactionMessage",
+    "original": "\"That should do it!\" the Florid Landscapist declares. She stores the sacks carefully away from any sources of water, for the flora of the Reach is dangerously ebullient when nourished. \"Impeccable service. Please accept this additional compensation.\"",
+    "translation": "\"这应该够了！\"浮夸的的景观设计师宣布。她小心翼翼地将麻袋存放在远离任何水源的地方，因为外野的植被一旦得到滋养，会爆发出危险的热情。\"无可挑剔的服务。请收下这份额外的补贴。\"",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=5 | SatisfactionMessage | prospects[1].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "50$Description",
+    "original": "A shady figure beckons you into the shadows. \"You have the <b>bombazine</b>? For the Empyrean?\" He realises you are not his contact and bolts. But you already have the information. <b>Three rolls</b> should be worth something to the Eagle's many enemies. [dir:dad2e4cc-5983-41db-8e20-d07104e92666].",
+    "translation": "一个可疑的身影示意你到阴影中去。\"你带了<b>邦巴辛布</b>吗？送到上国的？\"他意识到你不是他的联络人，于是闪人了。但你已经知道了个消息。鹰汗敌手众多，<b>三卷</b>布对他们来说应该很有价值。[dir:dad2e4cc-5983-41db-8e20-d07104e92666].",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=50 | Description | prospects[49].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "50$Name",
+    "original": "Under Cover of Darkness: Bombazine to the Eagle",
+    "translation": "在黑夜的掩护下：送往上国的邦巴辛布",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=50 | Name | prospects[49].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "50$SatisfactionMessage",
+    "original": "A student poet meets you quietly on the docks and pays for the souls. \"Surely one of these must have been a poet,\" she mutters, sorting through the souls. Her circle will be pleased.",
+    "translation": "一位诗人学生在码头上悄悄地和你碰面，并买下这些灵魂。\"这些里面肯定会有一位诗人，\"她喃喃自语着整理这些灵魂。她圈子里的人们会很高兴。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=50 | SatisfactionMessage | prospects[41].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "51$Description",
+    "original": "A retired zee captain beckons you over. \"Birdie in my ear says someone at the <b>House of Rods and Chains</b> is looking for nice material for new cloaks. <b>Three rolls</b> should do it.\" [dir:b14c0b6b-839c-4311-bfd5-518edeea28ad].",
+    "translation": "一位退休的地海船长示意你过去。\"小小鸟们告诉我说，<b>链杆之屋</b>那里有人在寻找制作新斗篷的好材料。 <b>三卷</b>应该够了。\"[dir:b14c0b6b-839c-4311-bfd5-518edeea28ad]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=51 | Description | prospects[50].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "51$Name",
+    "original": "The Master's New Cloak: Bombazine to the House of Rods and Chains",
+    "translation": "领主的新斗篷：送往链杆之屋的邦巴辛布",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=51 | Name | prospects[50].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "51$SatisfactionMessage",
+    "original": "\"Jolly good!\" The Corporal shakes your hand. \"Damn shame the cantankeri don't fly near, what? Would make for good target practice!\" As an additional thank you, he hands over a small subsection of the permits he obtained to own and fire the cannons.",
+    "translation": "“很好！”下士与你握手。\"真可惜，顽固虱不会飞来这附近，什么？它们用来练习射击正合适！\"为表示额外的感谢，他送给你一小段他手头上准许拥有和发射大炮的许可证。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=51 | SatisfactionMessage | prospects[42].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "52$Description",
+    "original": "A Battle-Scarred Youth waters a patch of soil. \"Nothing yet,\" they say, smiling. \"When I was a Ringbreaker on <b>Achlys</b>, we tried starting a garden in the marsh. Didn't take. Could have been beautiful though. I'm sure Sigrid would love to try again.\" <b>Five Sacks of Verdant Seeds</b> would be a good start. [dir:9e91ea8e-3f0f-4a25-a400-2f451d91da81].",
+    "translation": "一位伤痕累累的年轻人正给一小块地浇水。\"现在还什么都没有，\"他微笑着说。\"当我还是<b>埃克吕斯</b>上的破戒者时，我们试过在沼泽地开辟花园。但没做成。不然会很美的。我相信西格里德会很乐意再试一次。\" <b>五袋青翠的种子</b>会是个好开头。[dir:9e91ea8e-3f0f-4a25-a400-2f451d91da81].",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=52 | Description | prospects[51].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "52$Name",
+    "original": "Flowers In The Dark: Seeds to Achlys",
+    "translation": "黑暗中的花朵：送往埃克吕斯的种子",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=52 | Name | prospects[51].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "52$SatisfactionMessage",
+    "original": "The sculptor has almost finished his work. It's has captured the Princess uncannily: the beauty, the poise, the danger. He begins digging through the casks of gemstones, discarding each in turn: \"Too dull, too flawed, too lurid, too characterless...\" You leave him to it.",
+    "translation": "雕塑家已几乎完成了他的作品。它准确无误地捕捉到了公主的形象：美貌、姿态、危险。他开始在一桶桶宝石中挖掘，将每颗依次丢弃。\"太沉闷，瑕疵太多，太过浮夸，太没个性......\"你放他不管。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=52 | SatisfactionMessage | prospects[43].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "53$Description",
+    "original": "Port rumours say that Lord Langley's staff is running short on tableware. <b>Five Crates of Nostalgic Crockery</b> should be more than enough to keep them going. [dir:418df4ef-902a-4ae9-9673-31e2978ce7b7].",
+    "translation": "港口里有传言说，兰利勋爵的手下缺少餐具。 <b>五箱引人怀旧的瓷器</b>应该足够让他们继续工作了。[dir:418df4ef-902a-4ae9-9673-31e2978ce7b7].",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=53 | Description | prospects[52].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "53$Name",
+    "original": "A Sip Of Nostalgia: Crockery To Langley Hall",
+    "translation": "酌一口怀旧的酒：送往兰利厅的瓷器",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=53 | Name | prospects[52].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "53$SatisfactionMessage",
+    "original": "The Whiskered Evangelist pays promptly. He has a plan for the books: to replace the middle pages with pro-independence pamphlets and distribute them to schools and workworlds.",
+    "translation": "大胡子传道者按约付款。他计划好了这些书的用途：用宣传独立的小册子替换中间的书页，然后将它们分发到学校和工作世界。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=53 | SatisfactionMessage | prospects[44].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "54$Description",
+    "original": "A cloaked figure from the Ministry patrols the market, looking for skyfarers. '\"Would you be interested in some patriotic work?\" he asks. \"The Khan is poisoning the minds of <b>Eagle's Empyrean</b> with spiteful stories about life in Albion. Worse, most of them are true. We plan to balance the books with some <b>Ministry-Approved Literature</b>. Shall we say <b>five good volumes?</b>\" [dir:dad2e4cc-5983-41db-8e20-d07104e92666].",
+    "translation": "一个穿着斗篷的公德部人员在市场上转悠，寻找行天客。'\"有没有兴趣做点爱国工作？\"他问道。\"大汗正在用关于阿尔比恩人民生活的那些邪恶故事毒害<b>天鹰汗国</b>人们的思想。更坏的是，故事大部分都是真的。我们计划用一些<b>已审批的文学作品</b>来制衡那些书。<b>五卷书</b>怎么样呢？\" [dir:dad2e4cc-5983-41db-8e20-d07104e92666] 。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=54 | Description | prospects[53].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "54$Name",
+    "original": "Propaganda on Parade: Literature to Eagle's Empyrean",
+    "translation": "肆意的政治宣传：送往天鹰汗国的文学作品",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=54 | Name | prospects[53].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "54$SatisfactionMessage",
+    "original": "The Admiral's batman rummages through the crockery with increasing excitement. \"Some of these might do! We'll soon have the Admiral back in the thick of things!\"",
+    "translation": "海军上将的仆人越发兴奋地翻找着陶器。\"这里面可能有些能用！上将很快就能重新投入工作！\"",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=54 | SatisfactionMessage | prospects[45].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "55$Description",
+    "original": "A frustrated devil waits outside the gates, barred entry by the Rose-Binders. \"I miss Old London. Your people were so much freer with your souls. I have to bring back something to lure—\" He stops abruptly. \"I don't suppose you have <b>five Jumbles of Undistinguished Souls</b>, do you? For now, I crave quantity over quality.\" [dir:44773c30-e3dd-4ce4-a8bd-fec7b55bb463].",
+    "translation": "一位沮丧的魔鬼被合玫者挡在了门外。“我真想念旧伦敦。那时你们这些人对待自己的灵魂可随意多了。我必须带回一些东西来引诱——”他突然停下来，“你手头不会刚好有<b>五堆平庸的灵魂</b>吧？现在我已经重量不重质了。”[dir:44773c30-e3dd-4ce4-a8bd-fec7b55bb463]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=55 | Description | prospects[54].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "55$Name",
+    "original": "A Gift for the Thorn Maiden: Souls to Caduceus",
+    "translation": "给荆棘处女的礼物：送往商神宫的灵魂",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=55 | Name | prospects[54].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "55$SatisfactionMessage",
+    "original": "Guests hurry to unload the wood. \"About time you got here. We've got it all built, save the roof. Would've been just our luck if it had rained. Here. Take this as a bonus. Found it in the gardens.\"",
+    "translation": "客人们赶紧把木头卸下来。\"你也该来了。我们已经全部建好了，只剩下屋顶。如果下雨的话，只能自认倒霉。给你。这个是奖金。在花园里找到的。\"",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=55 | SatisfactionMessage | prospects[46].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "56$Description",
+    "original": "A merchant waits for rescue by a still-smoking locomotive. \"We were running tea to the Murgatroyd family in <b>Achlys</b> when we got hit by the Candle-wind. It devoured the cargo and most of our supplies. Had to turn back.\" You ask a few delicate questions. It seems the Murgatroyds are still waiting for <b>five Caddies of Dried Tea</b>. [dir:9e91ea8e-3f0f-4a25-a400-2f451d91da81].",
+    "translation": "一位商人在一辆仍在冒烟的机车旁边等待救援。\"我们为<b>埃克吕斯</b>的穆加托德一家运送茶叶时，撞上了蜡烛风。它吞掉了货物和我们的大部分物资。只好掉头回来。\"你问了几个微妙的问题。看来穆氏还在等待<b>五罐干茶</b>运来。[dir:9e91ea8e-3f0f-4a25-a400-2f451d91da81].",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=56 | Description | prospects[55].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "56$Name",
+    "original": "The Murgatroyd Run: Tea for Achlys",
+    "translation": "穆氏商路：送往埃克吕斯的茶叶",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=56 | Name | prospects[55].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "57$Description",
+    "original": "Amberley Murgatroyd's assistant flags you down. \"That tea you brought to Achlys. It was meant to have information hidden in it for us to trade with visitors. It didn't. But Mr Murgatroyd can't know that. Help the mistress out. Take <b>seven rolls of Bombazine</b> to her sister in Lustrum and pack it full of any old secrets you might know.\" In exchange, she offers a Cryptic Benefactor. [dir:c22807a9-7c42-41b5-823a-cc02f15c3f63]. \r\n[You unlocked this Prospect through your previous dealings.]",
+    "translation": "安伯利·穆加托德的助手拦停了你的车。“是你带去埃克吕斯那批茶叶的事。本来那里头应该是要藏着一些情报的，我们得靠它和游客做生意——结果情报不在里面。但我们不能让穆加托德先生知道这事。帮帮女主人吧。把<b>七卷邦巴辛布</b>带给她在伍载镇的姐姐，并用你知道的任何旧秘密把它装满。”作为交换，她愿意为你提供一个隐秘的人脉。[dir:c22807a9-7c42-41b5-823a-cc02f15c3f63]。\n[你通过之前的交易解锁了这个机会。]",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=57 | Description | prospects[56].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "57$Name",
+    "original": "[ALWAYS]The Murgatroyd Files: Secrets within Bombazine",
+    "translation": "[ALWAYS]穆氏档案：一卷邦巴辛布中的秘密",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=57 | Name | prospects[56].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "57$SatisfactionMessage",
+    "original": "The Chaplain assigned to the kitchen takes the fresh meat, makes a small incision, and peels off the fur. He hangs it ready to be smoked, dried, and served to the prisoners as a special treat.",
+    "translation": "被分配到厨房的牧师手提鲜肉，切了个小口，并剥掉了毛。他把这些肉挂起来，准备熏制、晾干，然后作为特别伙食提供给囚犯。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=57 | SatisfactionMessage | prospects[47].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "58$Description",
+    "original": "[SPECIAL PROSPECT] An urchin from Achlys is selling seeds from their new garden. \"Most of them we sell to the Mausoleum,\" they tell you. \"Can't get enough of them there. More than we can supply, if you get my meaning.\" [dir:358df020-9a27-47c3-8a80-6f1c836898df].",
+    "translation": "[SPECIAL PROSPECT]一个来自埃克吕斯的顽童正在出售他们新花园的种子。\"大部分种子都卖给圣宁墓了，\"他们告诉你。\"他们总是还要更多。我们的供应都跟不上了，你懂的。\"[dir:358df020-9a27-47c3-8a80-6f1c836898df].",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=58 | Description | prospects[57].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "58$Name",
+    "original": "In Loving Tribute: Seeds to the Mausoleum",
+    "translation": "为爱致敬：送往圣宁墓的种子",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=58 | Name | prospects[57].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "58$SatisfactionMessage",
+    "original": "\"Not a moment too soon,\" says the junior diplomat deemed expendable enough to handle such a flagrantly illegal transaction. \"The fellow who handles smuggling is getting nosy. If he found out about this before we slipped them to him...\" He shudders.",
+    "translation": "\"一点也不早，\"看起来足够廉价，甚至可以负责这种公然的非法交易的初级外交官说。\"那个处理走私的家伙越来越爱管闲事了。如果他在我们没把这东西交给他时发现了......\"他颤抖了一下。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=58 | SatisfactionMessage | prospects[48].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "59$Description",
+    "original": "[SPECIAL PROSPECT] An angry member of the Neonocturnals approaches you. \"The Brazen Brigade keeps interfering with our deliveries. How about you show those devils a thing or two, perhaps at that spa of theirs. <b>Carillon.</b>\" They explain their scheme. It involves <b>seven Caged Catches</b>. [dir:f3ca7b9d-a6ba-4d2a-bbd1-b12d4ec25036].",
+    "translation": "[SPECIAL PROSPECT]一位愤怒的新夜郎派诗人接近你。\"黄铜大队总在干扰我们交货。要不你给他们点颜色瞧瞧，或许就在他们那个疗养院。<b>钟琴区</b>。\"他们解释起他们的谋划。其中要用到七只<b>笼中猎获</b>。[dir:f3ca7b9d-a6ba-4d2a-bbd1-b12d4ec25036]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=59 | Description | prospects[58].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "59$Name",
+    "original": "Brazen Acts of Reprisal: Caged Catches for Carillon",
+    "translation": "大胆的报复行为：送往钟琴区的笼中猎获",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=59 | Name | prospects[58].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "59$SatisfactionMessage",
+    "original": "Your crew unloads the cargo onto the dock while you ponder where to take it. The clattering of a stone distracts you. When you look back, the crates are gone. In their place, your payment, delicately wrapped and finished with a bow.",
+    "translation": "列车员们把货物卸上码头，而你在考虑把货搬到哪里。石头落地的响声引起了你的注意。等你回头看时，那些箱子已经不见了。取而代之的是你的货款，包得很精致，还打上了蝴蝶结。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=59 | SatisfactionMessage | prospects[49].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "6$Description",
+    "original": "'Captain required to supply <b>up to five Barrels of Hours</b> to the <b>Leadbeater & Stainrod Nature Reserve</b>. Please report to Capability's Cabins on arrival. Discretion prioritised.' [dir:a3e0d4ac-b595-42b6-8b10-349478fc7874].",
+    "translation": "“需要车长向<b>李德彼特&斯坦罗德自然保护区</b>提供<b>至多五桶时间</b>。抵达后请到万能布朗木屋报到。注意保密。”[dir:a3e0d4ac-b595-42b6-8b10-349478fc7874]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=6 | Description | prospects[5].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "6$Name",
+    "original": "Hours for the Leadbeater & Stainrod Nature Reserve",
+    "translation": "送往李德彼特&斯坦罗德自然保护区的时间",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=6 | Name | prospects[5].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "60$Description",
+    "original": "Thanks to your earlier efforts, subversive Albiophile book groups are spreading across the <b>Eagle's Empyrean</b>. The gatherings like to drink milky, sugary tea while they read, in the London fashion. A Nimble Trafficker is confident she can sell <b>seven Caddies of Dried Tea</b> at an elevated price. [dir:dad2e4cc-5983-41db-8e20-d07104e92666]. \r\n[You unlocked this Prospect through your previous dealings.]",
+    "translation": "拜你先前的努力所赐，颠覆分子组成的亲阿尔比恩读书会势力正在<b>雄鹰之苍天上国</b>遍地开花。读书会上，他们喜欢一边看书，一边喝加了奶和糖的红茶——这是伦敦的时尚。一位机灵的倒卖贩子有信心以高价卖给他们<b>七罐干茶</b>。[dir:dad2e4cc-5983-41db-8e20-d07104e92666]。\n[你通过之前的交易解锁了这个机会。］",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=60 | Description | prospects[59].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "60$Name",
+    "original": "A Taste of London: Tea for the Eagle's Empyrean",
+    "translation": "伦敦之味: 送往鹰汗上国的茶叶",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=60 | Name | prospects[59].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "60$SatisfactionMessage",
+    "original": "The zee-captain who advised you of this opportunity is waiting outside the towering obsidian spire, his shirt open and revealing a blinking eye embedded in his flesh. \"Now I can make the master a worthy gift. Maybe then he'll free me.\"",
+    "translation": "提议你这份机会的地海船长正在黑曜石高塔外面等你。他的衬衫敞开，露出一颗嵌在肉中的眨动的眼睛。\"这样我就能给主人做一份好礼物了。也许那时他就会放了我。\"",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=60 | SatisfactionMessage | prospects[50].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "61$Description",
+    "original": "A researcher from the Royal Society investigates a chunk of amber. \"Fascinating stuff. So many colours. I'm working with them to see what happens when I mix it with other things. I don't suppose you could track down, say, <b>five Casks of Navaratine Gemstones</b> to help with my alchemy?\" [dir:b14c0b6b-839c-4311-bfd5-518edeea28ad].",
+    "translation": "皇家学会的一名研究人员在调查一大块琥珀。“真是迷人。如此多彩。我正在研究将它和其他东西混合时会发生什么。会不会你刚好能找到，呃，<b>五桶曩缚咤宝石</b>来协助我的研究？”[dir:b14c0b6b-839c-4311-bfd5-518edeea28ad]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=61 | Description | prospects[60].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "61$Name",
+    "original": "Taking A Shine: Gemstones to the House of Rods and Chains",
+    "translation": "颇有好感：送往链杆之屋的宝石",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=61 | Name | prospects[60].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "61$SatisfactionMessage",
+    "original": "Achlys is a thick, poisonous marsh, lit only by the cancerous light of its sun. Still, the urchins of the port plant the seeds. One nicks a finger in the process; a drop of blood falls on the grey soil. A green shoot creeps up into the air.",
+    "translation": "埃克吕斯是一片深厚的沼泽地，毒瘴横行，只被这里太阳致病的光线照亮。但港口的流浪儿们仍在播种。其中一个在播种时划破了手指；一滴血落在灰色的土壤上。一颗绿芽破土而出。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=61 | SatisfactionMessage | prospects[51].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "62$Description",
+    "original": "The Bohemians of Achlys prize a blend of tea called Midnight's Favour. But that's hard to come by. \"The local blends are very bitter,\" admits a past visitor. \"Someone should take them <b>a gourd or three of Chorister Nectar</b> to sweeten them up.\" [dir:9e91ea8e-3f0f-4a25-a400-2f451d91da81].",
+    "translation": "埃克吕斯的艺术家们十分看重一种叫\"午夜宠儿\"的混合茶。但它十分稀有。\"本地的混合茶太苦，\"曾拜访那里的游客说，\"得有人带去<b>一瓢唱诗蜂蜜——或三瓢</b>，给它们加点甜味。\"[dir:9e91ea8e-3f0f-4a25-a400-2f451d91da81]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=62 | Description | prospects[61].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "62$Name",
+    "original": "Sweetening The Deal: Nectar for Achlys",
+    "translation": "甜蜜的交易：送往埃克吕斯的蜂蜜",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=62 | Name | prospects[61].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "62$SatisfactionMessage",
+    "original": "\"Ah, excellent.\" The staff quickly gathers up the crockery and carries it to the garden, where His Lordship's guests await with hunting rifles. \"Throw!\" calls one, aiming skyward. Shards of crockery rain down from on high.",
+    "translation": "“啊，太好了。”工作人员们迅速收起瓷器，把它们拿到花园。勋爵的客人们正拿着猎枪在那等待。\"扔！\"一个人喊道，并向天空瞄准。瓷器的碎片从空中纷纷落下。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=62 | SatisfactionMessage | prospects[52].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "63$Description",
+    "original": "A member of London's diplomatic corps is hunting for loyal Captains. \"It's hard to bribe the Empyrean. They already have more than enough of most we could offer. Except Hours. That's about the only thing they need. <b>Five barrels</b> would be a good start.\" [dir:dad2e4cc-5983-41db-8e20-d07104e92666].",
+    "translation": "伦敦使团的一名成员正在寻找忠诚的车长。\"上国人很难贿赂。我们能提供的东西，他们都不缺。除了时间。那大概是他们唯一需要的东西。 <b>五桶</b>会是个好开头。\"[dir:dad2e4cc-5983-41db-8e20-d07104e92666].",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=63 | Description | prospects[62].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "63$Name",
+    "original": "Time Off For Bad Behaviour: Hours to Eagle's Empyrean",
+    "translation": "用于行恶的时间：鹰之苍天上国",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=63 | Name | prospects[62].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "63$SatisfactionMessage",
+    "original": "A representative from the London Embassy meets you at the agreed drop-off point near the Lane of Lions and Unicorns. \"Five volumes of poems by Mrs Frontispiece?\" They sigh. \"It'll do for now.\"",
+    "translation": "伦敦大使馆的一名代表在狮子与独角兽小巷附近约好的交货点与你会面。\"五卷芙兰蒂必斯女士的诗集？\"他们叹了口气。\"暂时够用了。\"",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=63 | SatisfactionMessage | prospects[53].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "64$Description",
+    "original": "Whispers amongst your contacts say that revolutionaries sent by the old Khan are working to bring down the Eagle. Anyone who can slide <b>five Carefully-Packed Crates of Munitions</b> into <b>Eagle's Empyrean</b> can expect to be richly rewarded. [dir:dad2e4cc-5983-41db-8e20-d07104e92666].",
+    "translation": "你的线人们传出消息说，老可汗派来的革命者们正在努力扳倒老鹰。若能把<b>五箱小心包装的弹药</b>运进<b>鹰汗上国</b>，将获得丰厚的报酬。[dir:dad2e4cc-5983-41db-8e20-d07104e92666]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=64 | Description | prospects[63].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "64$Name",
+    "original": "Season of Liberation: Munitions to Eagle's Empyrean",
+    "translation": "解放的季节：送往鹰汗上国的弹药",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=64 | Name | prospects[63].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "64$SatisfactionMessage",
+    "original": "The Thorn-Maiden accepts your offering and tells you where to place them. Silver mirrors surround the hoard, multiplying your reflections into infinity. Some of your reflections are slower to react than others.",
+    "translation": "荆棘处女接受了你的奉献，并告诉你将它们放在哪里。银色的镜子围绕着堆积的货物，映出你的无数个镜像。其中几个比其他的反应更慢。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=64 | SatisfactionMessage | prospects[54].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "65$Name",
+    "original": "REUSE THIS",
+    "translation": "REUSE THIS",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=65 | Name | prospects[64].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "65$SatisfactionMessage",
+    "original": "Amberley Murgatroyd's assistant looks irritable as she digs through the tea with her hands. \"I don't understand. Where are the microfilms, the manilla folders?\" She sighs. \"Never mind. We'll sell it anyway, I'm sure.\"",
+    "translation": "安伯利·穆加托德的助手看起来很烦躁，她用手翻找茶叶。“我不明白。微缩胶卷和牛皮纸文件夹都在哪里？”她叹了口气。“不要紧。反正我们还会卖掉它的，我很确定。”",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=65 | SatisfactionMessage | prospects[55].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "66$Description",
+    "original": "Your service to Eagle's Empyrean has been recognised. The Bespectacled Official sends word that if you can bring him some Ministry-Approved Literature as a cover story, he will offer you suitable reward. \"<b>Five</b> bundles should be enough.\"",
+    "translation": "你对鹰汗上国的服务得到了认可。戴眼镜的事务官传话说，如果你能给他带一些已审批的文学作品来打掩护，他将付给你适当的报酬。“<b>五</b>捆应该足够了。”",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=66 | Description | prospects[65].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "66$Name",
+    "original": "The Eagle's Gratitude: Literature to the Empyrean",
+    "translation": "雄鹰汗的感激：送往上国的文学作品",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=66 | Name | prospects[65].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "66$SatisfactionMessage",
+    "original": "You deliver the cargo to Murgatroyd's daughter Melusine, who raises her unburned eyebrow in surprise. \"Amberley's been busy,\" she says. \"I'll make sure Father gets these. And you've made a friend in our family.\"",
+    "translation": "你把货物交给穆加托德的女儿梅露辛，她惊讶地扬起未被烧毁的眉毛。\"安伯利一直很忙，\"她说。\"我会确保父亲拿到这些。而你在我们家交了朋友。\"",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=66 | SatisfactionMessage | prospects[56].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "67$Name",
+    "original": "REUSE",
+    "translation": "REUSE",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=67 | Name | prospects[66].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "67$SatisfactionMessage",
+    "original": "A flower seller happily purchases your seeds to grow in his garden. \"Many people want to leave tribute here. They come from many places. Let me tell you about some of them.\"",
+    "translation": "一个花商高兴地买下了你的种子，准备种在他的花园里。\"有许多人想在这里留下纪念。他们从各地而来。我来和你讲讲其中一些吧、\"",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=67 | SatisfactionMessage | prospects[57].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "68$Description",
+    "original": "Your contacts at the London Embassy in the Empyrean send word that your services have warranted a bonus. Bring them <b>five crates of Nostalgic Crockery</b> and they will 'adjust' the paperwork to slide it past the Rose-Without-Thorns.",
+    "translation": "你在伦敦驻上国大使馆的联系人发来消息说，你的服务为你赢得了一份额外的奖赏。带给他们<b>五箱引人怀旧的瓷器</b>，他们会在文件上“作些修正”，使其能够通过无刺玫瑰的审核。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=68 | Description | prospects[67].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "68$Name",
+    "original": "London's Gratitude: Crockery to the Empyrean",
+    "translation": "伦敦的感激：送往苍天上国的瓷器",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=68 | Name | prospects[67].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "69$Description",
+    "original": "testing",
+    "translation": "testing",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=69 | Description | prospects[68].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "69$Name",
+    "original": "New prospect",
+    "translation": "New prospect",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=69 | Name | prospects[68].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "69$SatisfactionMessage",
+    "original": "Your crew unleashes the foul creatures into Carillon's water. Screams echo through the halls. Unfortunately, the devils just smile, appreciating the assistance. The Presiding Deviless even gives you a bonus.",
+    "translation": "列车员们将这些肮脏的生物释放到钟琴区的水中。尖叫声在大厅里回荡。可惜，魔鬼们只是笑着感谢你的协助。女魔鬼主管甚至奖励了你。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=69 | SatisfactionMessage | prospects[58].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "7$Description",
+    "original": "'Lord _______ of <b>Port Prosper</b> requires <b>three consignments of souls</b> for an infernally-themed party to celebrate his diamond wedding anniversary. The quality of the souls is immaterial; their function will be purely decorative. God save the Queen, etc.' [dir:6c1c3a55-b424-4bec-a969-31023ace58e7].",
+    "translation": "“<b>兴荣港</b>的_______大人需要<b>三批灵魂</b>，用于一个以地狱为主题的派对，以庆祝他的钻石婚。灵魂的质量并不重要，它们将只被用于装饰。上帝保佑女王，下略。”[dir:6c1c3a55-b424-4bec-a969-31023ace58e7]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=7 | Description | prospects[6].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "7$Name",
+    "original": "Souls for Port Prosper",
+    "translation": "送往兴荣港的灵魂",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=7 | Name | prospects[6].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "7$SatisfactionMessage",
+    "original": "The Attendant takes the gourds from you. \"Thank you. Many here need to speak in voices that are not our own, and chorister nectar works wonders upon the vocal chords.\" He smiles warmly. \"Why don't you stay a while? Enjoy the facilities?\"",
+    "translation": "侍者从你手中接过容器。“多谢。这里有许多人需要用不属于自己的声音说话，而唱诗蜂蜜对保养声带很有帮助。”他热情地微笑着。“何不再待一会呢？享受一下这里的设施？”",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=7 | SatisfactionMessage | prospects[2].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "70$Description",
+    "original": "An enterprising hawker has constructed a makeshift hour loom to make the wait to enter the Stone-Faced Court seem less, or to prolong the time before spirits are pronounced dead, if they wish to linger. He needs hours to feed it. <b>Five Barrels of Unseasoned Hours</b> should do. The White Well is north-west of Sky Barnet.",
+    "translation": "一位有心的摊贩搭建了一个临时的时织机，如此，进入石面法庭就不需要再等上这么久。至于那些鬼魂，它们也得以在被宣告死亡之前再多停留片刻。他需要向时织机供给一些时间。 <b>五桶未加工的时间</b>应该就够了。白井位于空中巴尼特区的西北方。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=70 | Description | prospects[69].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "70$Name",
+    "original": "Passing the Time: Hours to the White Well",
+    "translation": "消磨时光：送往白井的时间",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=70 | Name | prospects[69].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "70$SatisfactionMessage",
+    "original": "The Nimble Trafficker unloads the crates into a shadowy warehouse. Soon, Albiophiles within the Empyrean will be meeting in secret, reading forbidden London texts, and making the increasingly familiar raised pinky-finger sign to identify each other.",
+    "translation": "灵活的倒卖贩子将板条箱卸到一个阴暗的仓库。很快，上国内部的亲阿尔比恩派将秘密会面，阅读被禁止的伦敦书籍，并做出越来越被熟知的的翘起小指的手势来识别对方。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=70 | SatisfactionMessage | prospects[59].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "71$Description",
+    "original": "A servitor has been set cataloguing the various species of the sky by the Lamentation of Mists. She wishes to know which beasts are descended from the Forge's creations. The servitor cannot leave its post at the <b>Forge of Souls</b>, and will pay for up to <b>five Caged Catches</b> to be delivered there. The Forge of Souls is east-north-east of Sky Barnet.",
+    "translation": "一位仆从受命于迷雾哀歌，负责为天空的诸多物种分门别类。她想要知道，有哪些野兽是铸炉所造之物的后嗣。这位仆人不能擅离<b>灵魂铸炉</b>给她的岗位，因此她希望有人能将至多<b>五只笼中猎获</b>送往该处，并为其提供报酬。灵魂铸炉位于铸炉东北偏东的方向。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=71 | Description | prospects[70].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "71$Name",
+    "original": "The Lamentation's Encyclopedia: Caged Catches for the Forge of Souls",
+    "translation": "哀歌的百科全书：送往灵魂铸炉的笼中猎获",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=71 | Name | prospects[70].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "71$SatisfactionMessage",
+    "original": "The Royal Society alchemist experiments with the gems and a Rubbery shapeling vat. It bubbles and overflows, hardening into strings of jewelled amber. From the sounds they make, the Rubbery Men seem pleased. Or confused. Or excited.",
+    "translation": "皇家学会的炼金术士在宝石和一个变成桶的橡胶人塑型者上进行实验。它冒出气泡，满溢而出，硬化成一串串镶嵌宝石的琥珀。从他们发出的声音来看，橡胶人们似乎很高兴。或困惑。或兴奋。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=71 | SatisfactionMessage | prospects[60].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "72$Description",
+    "original": "Fats and oils from certain sky-beasts are needed to perform the Test of Substance, which shades must pass to approach <b>Death's Door</b>. The Sequestrator requires <b>Five Caged Catches</b> to be delivered to her there. Death's Door is north from the Transit Relay, on the other side of the Blue Kingdom.",
+    "translation": "进行本质的检验时，需要用到某些天兽的脂肪和油类，而只有通过检验的遗魂才能接近<b>死亡之门</b>。剥面者要求你把<b>五个笼中猎获</b>送到她那里。死亡之门在中转站的北边，在蓝色王国的另一侧。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=72 | Description | prospects[71].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "72$Name",
+    "original": "Ritual Oils: Caged Catches for Death's Door",
+    "translation": "祭祀用油：送往死亡之门的笼中猎获",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=72 | Name | prospects[71].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "72$SatisfactionMessage",
+    "original": "The Bohemians invite you to join them in their revels, sipping honey tea laced with the hallucinogenic spores of the marsh. Together, you whisper the secret truths of your dreams.",
+    "translation": "放荡艺术家们邀请你加入他们的狂欢，喝掺有沼泽地致幻孢子的蜂蜜茶。你们一起低声谈论你们梦中隐藏的秘密真相。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=72 | SatisfactionMessage | prospects[61].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "73$Description",
+    "original": "An unnamed individual at the <b>Forge of Souls</b> requires shipments of bottled souls. They only need ones of meagre quality –  <b>five Jumbles of Undistinguished Souls</b> should be sufficient. In the Blue Kingdom it's usually exceptional souls that are in demand, for use as gifts or bribes. What does someone want with so many unremarkable specimens? The Forge of Souls is east-north-east of Sky Barnet.",
+    "translation": "<b>灵魂铸炉</b>的某位不知名人士希望有人能将瓶装灵魂运到他那里。它的要求不高——<b>五团平庸的灵魂</b>就足够了。在蓝色王国，优质灵魂向来抢手：可以用来送礼，也可用来行贿。但这么多不起眼的标本又有何用？灵魂铸炉在空中巴尼特区东北偏东方向。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=73 | Description | prospects[72].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "73$Name",
+    "original": "Feeding the Flames: Undistinguished Souls for the Forge",
+    "translation": "喂养火焰：送往铸炉的平庸灵魂",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=73 | Name | prospects[72].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "73$SatisfactionMessage",
+    "original": "The Embassy representative sifts a hand through the barrel of Hours, watching with fascination as time literally slips through his fingers. \"Yes. These will help the wheels of diplomacy turn smoothly.\"",
+    "translation": "大使馆的代表把手插进装着时间的桶里，着迷地看着时间从他的手指缝里溜走。\"没错。这将让外交的车轮顺利转动。\"",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=73 | SatisfactionMessage | prospects[62].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "74$Description",
+    "original": "A discreet request: <b>five Selections of Immaculate Souls</b> are required at the White Well for 'political reasons'. The White Well is north-west of Sky Barnet.",
+    "translation": "一个措辞谨慎的请求：出于“政治原因”，请向白井提供<b>五组无垢灵魂</b>。白井在空中巴尼特区的西北方。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=74 | Description | prospects[73].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "74$Name",
+    "original": "The Wheels of Diplomacy: Immaculate Souls for the White Well",
+    "translation": "外交的车轮：送往白井的无垢灵魂",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=74 | Name | prospects[73].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "74$SatisfactionMessage",
+    "original": "Shadowy figures gather on the dock to receive your munitions, several of them with London accents. \"You've kept our secret. Here's one for you, comrade.\"",
+    "translation": "模糊的人影聚集在码头上接收你的弹药，其中几个操伦敦口音。\"你守住了我们的秘密。这份给你，同志。\"",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=74 | SatisfactionMessage | prospects[63].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "75$Description",
+    "original": "One of the Graven – the skull-headed lawyers of the <b>White Well</b> – requests <b>five Casks of Navaratine Gemstones</b> be delivered there. His position has recently advanced, and the stones decorating his skull are no longer of a lustre or quantity suitable to his rank. He intends to supplement them with his pick of the gems you deliver. The White Well is north-west of Sky Barnet.",
+    "translation": "一位墓族——也就是<b>白井</b>那些骷髅头律师中的一员——要求将<b>五桶曩缚咤宝石</b>送到该处。他近来得到了晋升，正因如此，那些装点在他头骨之上的宝石也与他的职级不再相称了——无论是光泽还是数目。他打算从你送来的宝石之中搜寻一些新的点缀。白井在空中巴尼特区的西北方。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=75 | Description | prospects[74].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "75$Name",
+    "original": "Accoutrements and Adornments: Gemstones for the White Well",
+    "translation": "披挂与缀点：送往白井的宝石",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=75 | Name | prospects[74].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "76$Description",
+    "original": "A young member of the London embassy is hoping to win an audience with the Daughter of the Sun. He has travelled to Death's Door but not managed to cross the Endless Furrows. The Shadow of the Sun – the garden palace where the Daughter resides – is closed to him. He hopes a gift might change the situation. <b>Five Casks of Navaratine Gemstones</b> should do it. <b>Death's Door</b> is north from the Transit Relay, on the far side of the Blue Kingdom.",
+    "translation": "伦敦大使馆的一名年轻成员希望能赢得太阳之女的接见。他一度抵达过死亡之门，但却未能穿越无尽沟壑。日影殿——太阳之女居住的花园宫殿——对他紧紧闭锁。他希望一份礼物能让事情出现转机。 <b>五桶曩缚咤宝石</b>也许堪当其用。 <b>死亡之门</b>在蓝色王国的另一头，坐落在中转站的北面。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=76 | Description | prospects[75].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "76$Name",
+    "original": "Burning Aspirations: Gemstones for Death's Door",
+    "translation": "燃烧的愿望：送往死亡之门的宝石",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=76 | Name | prospects[75].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "76$SatisfactionMessage",
+    "original": "The Bespectacled Official happily flicks through his new collection. \"And so, we both benefit from our relationship. If only all exchanges could be so equitable. How much did you declare on the customs form? Oh dear. Let me adjust that for you.\"",
+    "translation": "戴眼镜的事务官高兴地翻阅着他的新藏书。“这样，我们都能从这份关系中受益。如果所有交易都能如此公平就好了。你在海关表格上申报了多少？哦，天哪。我给你调整一下。”",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=76 | SatisfactionMessage | prospects[65].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "77$Description",
+    "original": "An obsessed scholar is seeking permission to enter the library that is now housed in the Forge of Souls. It is said to contain records of every law, past and current, that the suns have decreed. Unfortunately, the scholar's entry has been denied, and he requires <b>seven consignments of Bronzewood</b> to win the favour of its keeper: the Lamentation of Mists. The Forge of Souls is east-north-east of Sky Barnet.",
+    "translation": "一位痴迷的学者正在寻求进入图书馆的许可——如今它坐落在铸炉之内。据说那里收藏着太阳所颁布的每一条法律的记录，由古至今，无所不包。不幸的是，这位学者被拒之门外，他需要<b>七批青铜木</b>来赢得图书管理员：迷雾哀歌的青睐。灵魂铸炉位于空中巴尼特区东北偏东方向。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=77 | Description | prospects[76].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "77$Name",
+    "original": "The Price of Knowledge: Bronzewood for the Forge of Souls",
+    "translation": "知识的代价：送往灵魂铸炉的青铜木",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=77 | Name | prospects[76].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "77$SatisfactionMessage",
+    "original": "The delivery boy drops the crockery. Loudly. \"Never mind,\" sighs the Ambassador. \"Ah, yes, I promised a bonus. Have you visited Perdurance? I have a standing invitation, but alas, so much to do. Perhaps you would like to go in my stead?\"",
+    "translation": "送货员放下瓷器，它发出一声巨响。“不要紧。”大使叹了口气，“啊，对了，我答应过的奖励。你去过琥珀宫吗？我有一张长期邀请函，但可惜，要干的活太多了。也许你愿意代我去？”",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=77 | SatisfactionMessage | prospects[67].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "78$Description",
+    "original": "'<b>Seven Rolls of Thirsty Bombazine</b> to be delivered to the Pilgrims of Progress at the <b>Forge of Souls</b>.' The Pilgrims are a small movement of bohemian mendicants intent on seeing the Blue Kingdom from the bottom rungs. To this end, they dress themselves in Bombazine like the shades of the Invisible caste, so few of the Kingdom's bureaucracy will deign to trouble them. The Forge of Souls is east-north-east of Sky Barnet.",
+    "translation": "“请将<b>七卷渴光的邦巴辛布</b>送到<b>灵魂铸炉</b>的进步朝圣者处。”朝圣者是由波西米亚派修行者发起的一起小规模运动，旨在以社会底层的视角洞察蓝色王国。为此，他们身着邦巴辛布，一副遗魂的样子，还是无形灵阶层的那种。如此一来，王国的官僚们也就不大乐意去找他们的麻烦。灵魂铸炉位于空中巴尼特区东北偏东方向。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=78 | Description | prospects[77].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "78$Name",
+    "original": "The Art of Adventure: Bombazine for the Forge of Souls",
+    "translation": "冒险的艺术：送往灵魂铸炉的邦巴辛布",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=78 | Name | prospects[77].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "79$Description",
+    "original": "Your establishment connections have recommended you for an opportunity. The request is written in brusque capitals: 'LITERATURE REQUIRED TO REMEDY UNACCEPTABLE SPIRITUAL SITUATION'. The requester needs <b>seven boxes of Ministry-Approved Literature</b>, to be delivered to them at <b>Death's Door</b>. Death's Door is north from the Transit Relay, on the other side of the Blue Kingdom.",
+    "translation": "你结识的权贵为你引荐了一次机遇。请求书上写着粗犷的大字：“急需文学作品，以矫治神志危殆之亡魂群体。”客户需要<b>七箱已审批的文学作品</b>，在<b>死亡之门</b>交付。死亡之门在蓝色王国的另一边，位于中转站以北。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=79 | Description | prospects[78].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "79$Name",
+    "original": "The Last Last Rites: Literature for Death's Door",
+    "translation": "最后的告别仪式：送往死亡之门的文学作品",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=79 | Name | prospects[78].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "8$Description",
+    "original": "An enthusiastic notice reads: 'An OPPORTUNITY for captains of INDEPENDENT SPIRIT! Generous payment offered for <b>up to SEVEN SACKS of VERDANT SEEDS</b> to be delivered to the HANGED MAN at <b>LUSTRUM</b>.' [dir:c22807a9-7c42-41b5-823a-cc02f15c3f63].",
+    "translation": "一份热情洋溢的公告写道：'给富有独立精神的车长们的机会！将<b>至多七袋青翠的种子</b>送至<b>伍载镇</b>，以换取丰厚的报酬。'[dir:c22807a9-7c42-41b5-823a-cc02f15c3f63]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=8 | Description | prospects[7].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "8$Name",
+    "original": "Seeds for Lustrum's Free Colonists",
+    "translation": "送往伍载镇自由殖民者的种子",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=8 | Name | prospects[7].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "8$SatisfactionMessage",
+    "original": "\"A gentleman must prepare for his retirement,\" the Ringmaster says. \"I intend mine to be long and indolent.\" You join him at the fire to drink cups of chorister-nectar and watch the stars wheel.",
+    "translation": "“一个体面人必须为自己的退休做好准备，”团长说，“我打算让我的退休生活变得漫长而悠闲。”你和他一起在火堆旁喝唱诗蜂蜜，观赏群星轮转。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=8 | SatisfactionMessage | prospects[3].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "80$Description",
+    "original": "You have received a furtive request via your contacts in the underworld (specifically the criminal underworld, which it pays to be clear about in the Blue Kingdom). Someone waiting at <b>the White Well</b> wants to buy up to <b>seven Panes of Stained Glass</b>. Their reasons are undisclosed. The White Well is north-west of Sky Barnet.",
+    "translation": "你通过你在地下社会（犯罪的地下社会，在蓝色王国明确这一点很重要）的联系人收到一个秘密的请求：某人想要购买<b>七块彩色玻璃</b>，而原因未被披露。此人正在<b>白井</b>等待。白井位于空中巴尼特区西北方。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=80 | Description | prospects[79].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "80$Name",
+    "original": "Hidden from the Eye of God: Stained Glass for the White Well",
+    "translation": "藏身于上帝的全知之眼下：送往白井的彩色玻璃",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=80 | Name | prospects[79].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "80$SatisfactionMessage",
+    "original": "The Lamentation's servitor loiters by the dock. It is one of the yoked dead, its face concealed behind a porcelain mask. After examining your caged specimens and making several notes on a yellowing scroll, it pushes a small cask of gems into your hands. Perhaps it is pleased?",
+    "translation": "哀歌的仆从在码头边徘徊。它是缚链灵的一员，面容隐藏在瓷制面具后面。在检查了你笼子里的标本，并在发黄的卷轴上做了些记录后，它把一小桶宝石推到你手中。也许它满意了？",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=80 | SatisfactionMessage | prospects[70].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "81$Description",
+    "original": "Word has come to the Blind Bruiser from the Gentlemen, the merciless gang of smugglers who operate in Eleutheria. A Bohemian Baronet, exiled for a string of scandals, has led his coterie to the spice-port of Achlys. He considers himself a poet-philosopher, and a devotee of the unspoiled word. \r\n\r\nAs a result, he and his followers refuse to read works censored by the Ministry. They want only unadulterated originals and will pay for <b>seven Trunks of Illicit Literature</b> to be delivered to them at <b>Achlys</b>. [dir:9e91ea8e-3f0f-4a25-a400-2f451d91da81].",
+    "translation": "消息已传到了盲眼大汉的耳中。他是绅士帮的人，那是一个在厄琉忒里亚活动、手段狠辣的走私团伙。有一名因一连串丑闻而被流放的波西米亚男爵，领着他的小圈子来到了埃克吕斯的香料港。他将自己视作一位诗人兼哲学家、一名致力于捍卫文字纯洁性的信徒。\n\n因此，他和他的追随者拒绝阅读经公德部审查过的作品，他们只想要未经污染的原作。如果有谁能够把<b>七箱非法文学作品</b>送到<b>埃克吕斯</b>，他们愿意出资收购。[dir:9e91ea8e-3f0f-4a25-a400-2f451d91da81]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=81 | Description | prospects[80].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "81$Name",
+    "original": "[ALWAYS]Them that ask no questions isn't told a lie",
+    "translation": "[ALWAYS]不发问，就不用听到谎言",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=81 | Name | prospects[80].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "81$SatisfactionMessage",
+    "original": "\"Marvellous!\" The hawker rolls the barrels under his rattling, clanking hour-loom. Business is brisk. Many shades, it seems, want to make their final journey pass more quickly, or crave a few moments more to indulge their last regrets. The hawker rewards your efficiency with a generous tip.",
+    "translation": "“好极了！”小贩滚动起桶子，时间织机在他上方嘎吱作响。生意很红火。似乎，许多遗魂都想让最后一程快点过去，或者渴望着多花一点时间来放纵他们最后的遗憾。小贩为你的效率支付了丰厚的小费。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=81 | SatisfactionMessage | prospects[69].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "82$Description",
+    "original": "Testing the new smuggling tech",
+    "translation": "测试新的走私技术",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=82 | Description | prospects[81].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "82$Name",
+    "original": "Test Smuggling Prospect",
+    "translation": "Test Smuggling Prospect",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=82 | Name | prospects[81].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "82$SatisfactionMessage",
+    "original": "The Sequestrator sends a servant to arrange the exchange. It is one of the yoked dead: the shade of a lumbering creature resembling something between a lobster and a whale. It strings each cage onto its back, oblivious to the bites and scratches from the occupants. With a complicated bow, it drops something at your feet. Thank you?",
+    "translation": "剥面者派了一个仆人来交换货物。它是缚链灵的一员：一个介于龙虾和鲸鱼之间的迟缓生物的遗魂。它把每个笼子串在自己的背上，全然不顾笼中生物的噬咬和抓挠。它用古怪的姿势鞠了一躬，把什么东西丢到你的脚下。谢谢？",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=82 | SatisfactionMessage | prospects[71].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "83$Description",
+    "original": "Again, testing the new smuggling tech",
+    "translation": "再次测试新的走私技术",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=83 | Description | prospects[82].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "83$Name",
+    "original": "Test Smuggling Prospect Two",
+    "translation": "测试走私的前景二",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=83 | Name | prospects[82].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "83$SatisfactionMessage",
+    "original": "The First Venturer, masked to disguise himself as one of the shades of the dead, meets you at your engine. What does he need the souls for? \"Nothing yet,\" he says, \"but should the forge ever be restored, they will be most useful.\" He includes with your payment a sack of blazing gemstones. \"I found them clogging one of the under-furnaces,\" he says.",
+    "translation": "第一冒险家戴着面具，把自己伪装成死者的遗魂之一，并在你的机车里与你会面。他需要这些灵魂做什么？“现在还没什么，”他说，“但假使铸炉得以恢复，它们就大有用处。”他在你的报酬之外又附赠了一袋炽热的宝石。“我发现它们的时候，它们正堵在一个下层的炉子里，”他说道。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=83 | SatisfactionMessage | prospects[72].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "84$Description",
+    "original": "Again, again, testing the new smuggling tech",
+    "translation": "再次，再次，测试新的走私技术",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=84 | Description | prospects[83].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "84$Name",
+    "original": "Test Smuggling Prospect Three",
+    "translation": "测试走私的前景三",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=84 | Name | prospects[83].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "84$SatisfactionMessage",
+    "original": "The red-robed Graven who collects the souls is, perhaps, pleased. It's hard to tell, since he has meticulously stripped the flesh from his skull. \"This should soothe the Judge,\" he says, and supplements the agreed-upon amount with a couple of curios which he promises have use here in the Blue Kingdom.",
+    "translation": "收集灵魂的红袍墓族对此感到满意，大概吧。这很难看出来，毕竟他头骨上的肉已经被一丝不苟地剥去了。“这应当能抚慰法官，”他说。在商定的报酬之外，他又附上了几件古玩。他向你保证，这些玩意一定能在蓝色王国派上用场。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=84 | SatisfactionMessage | prospects[73].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "85$Description",
+    "original": "Not even the King James' Bible is safe from the purgative pens of the Ministry of Public Decency. You receive a tip-off from your benefactor: an Intractable Reverend in <b>Lustrum</b> is willing to pay well for unedited, uncensored religious texts. <b>Five Trunks of Illicit Literature</b> should suffice. [dir:c22807a9-7c42-41b5-823a-cc02f15c3f63].",
+    "translation": "即使是钦定版的《圣经》也无法在公德部大清洗的笔头下幸免。你从线人那里得到消息：<b>伍载镇</b>一个难缠的教士愿意为未经编辑和审查的宗教书籍支付高价。 <b>五箱非法文学</b>应该足够了。[dir:c22807a9-7c42-41b5-823a-cc02f15c3f63].",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=85 | Description | prospects[84].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "85$Name",
+    "original": "Light In The Darkness: Illicit Literature for Lustrum",
+    "translation": "黑暗中的光明：送往伍载镇的非法文学",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=85 | Name | prospects[84].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "85$SatisfactionMessage",
+    "original": "The Graven awaits your arrival at the station, twitching its robes in irritation. It has pulled a hood close about its bone face, clearly ashamed of the meagre handful of gems that gleam there. As its clerks carry your delivery away, the Graven expresses its gratitude and promises to return the favour some day.",
+    "translation": "那位墓族在车站等待你的到来。出于不耐烦，它不时地拉拽自己的长袍。它用头巾紧紧裹起了它的骨脸——那张脸上仅有区区几粒宝石在发光，显然它是为此感到羞愧。在它的职员们将你的货物搬走后，墓族对你表示了感谢，并承诺有朝一日会回报这份恩惠。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=85 | SatisfactionMessage | prospects[74].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "86$Description",
+    "original": "The Murgatroyd family: humble purveyors of fungal crackers to those unacquainted with the Great Game of spies and nations, and of espionage to those who are. Their outpost in <b>Achlys</b> requires <b>seven Trunks of Illicit Literature</b> (the spicier the better), and they <b>need it within one month</b> of you accepting the prospect. [dir:9e91ea8e-3f0f-4a25-a400-2f451d91da81].",
+    "translation": "穆加托德家族：对于不了解间谍和国家的大博弈的人，他们是卑微的真菌饼干供应商，而对于那些了解的人，他们提供的是谍报。他们在<b>埃克吕斯</b>的前哨站需要<b>七箱非法文献</b>（越下流越好），且要求在你接受这份机遇的<b>一个月内</b>送达。[dir:9e91ea8e-3f0f-4a25-a400-2f451d91da81].",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=86 | Description | prospects[85].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "86$Name",
+    "original": "Scribbles and Cyphers: Illicit Literature for Achlys",
+    "translation": "潦草的字迹和密文：送往埃克吕斯的非法文学作品",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=86 | Name | prospects[85].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "86$SatisfactionMessage",
+    "original": "The diplomat is grateful, though this is only a start. To impress the Daughter of the Sun he will need far more gems than these. He passes you several permits as thanks. \"I am permitted to give out a few at my discretion. It's entirely legitimate.\"",
+    "translation": "外交官很感激，尽管这只是一个开始。要打动太阳之女，他会需要比这些多得多的宝石。他递给了你几张许可证以表谢意。“我获准视情况发放一些许可。这是完全合规的。”",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=86 | SatisfactionMessage | prospects[75].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "87$Description",
+    "original": "A Bespectacled Official at the Eagle's Empyrean wants authentic, unadulterated insights onto London culture, and the Ministry's censored versions of prose and poetry are too curated for his needs. He requests <b>five Trunks of Illicit Literature</b> that represent London's warts as well as her glory. [dir:dad2e4cc-5983-41db-8e20-d07104e92666].",
+    "translation": "鹰汗上国一位戴眼镜的事务官想要深入了解真实的、不掺杂质的伦敦文化，而经过公德部审查的散文和诗歌太过谨慎，无法满足他的需求。他需要<b>五箱非法文学</b>，要能同时反映出伦敦的污点和她的荣光。[dir:dad2e4cc-5983-41db-8e20-d07104e92666].",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=87 | Description | prospects[86].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "87$Name",
+    "original": "The Eagle's Education: Illicit Literature for the Empyrean",
+    "translation": "老鹰的修养：送往上国的非法文学",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=87 | Name | prospects[86].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "87$SatisfactionMessage",
+    "original": "The scholar's tattered gown makes him look like a bedraggled bat. \"This should be enough for a visit or two,\" he says, gleefully examining your delivery. \"I was told the Lamentation likes Bronzewood. So Bronzewood she must have!\" As an additional thanks, he hands over some of his old research notes. Flicking through them, you suspect it is probably for the best he is far, far from London.",
+    "translation": "学者的破旧长袍使他看起来像一只衣衫褴褛的蝙蝠。“这应该够我逛上一两次了，”他一边说着，一边兴高采烈地检查着你送来的货。“有人告诉我，哀歌喜欢青铜木。这就是说她一定会收下这些青铜木！”作为额外的谢礼，他递上了他的一些旧研究笔记。看过这些笔记之后，你暗暗庆幸此人身在一个离伦敦有够远的地方。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=87 | SatisfactionMessage | prospects[76].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "88$Description",
+    "original": "A Prim Dowager lingers, out-of-place, near the platform. As soon as she sees you she hurries forward brandishing an umbrella. \r\n\r\n\"Ah, Captain. No, you need not explain your presence here; I can see at a glance that your character is above reproach. I am here to stop the most awful smuggling to <b>Port Prosper</b>. \r\n\r\n\"Why, they say that anyone with, oh, say <b>seven Trunks of Illicit Literature</b> could just swan along there and sell their smut and scandal for a startling and entirely inappropriate sum. Shocking. I must insist you tell the ruffians here to cease this appallingly profitable trade, at once!\" Her gaze is level; her expression carefully arranged. \r\n\r\n[dir:6c1c3a55-b424-4bec-a969-31023ace58e7].",
+    "translation": "一位端庄的寡妇在月台附近徘徊，显得格格不入。她一看到你，就急匆匆地挥舞着雨伞快步走来。\n\n“啊，车长。不，你无需解释你为何会在这里——我一眼就看出你的品格无可指摘。我是来阻止一起将会在<b>兴荣港</b>发生的，最可怕的走私活动的。”\n\n“他们竟然说，随便哪个人只要拿到，比如，<b>七箱非法文学作品</b>，就能大摇大摆地把这些下流文字和丑闻以极不合理的价格卖出去。真是令人震惊。我必须坚持要求你让本地的流氓立即停止这种合算得惊人的交易！”她目光平静：经过了充分排练的表情。\n\n[dir:6c1c3a55-b424-4bec-a969-31023ace58e7]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=88 | Description | prospects[87].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "88$Name",
+    "original": "A Spring In Their Step: Illicit Literature for Port Prosper",
+    "translation": "昂首阔步：送往兴荣港的非法文学",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=88 | Name | prospects[87].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "88$SatisfactionMessage",
+    "original": "The Pilgrims meet you before the walls of the Forge, where they have been begging for petrichor, the food of the dead, from visitors. They are malnourished and fever-eyed. Their spokeswoman whispers their motto (\"In humility, truth\") in your ear as she hands over the payment in sovereigns she has found all-but useless here. ",
+    "translation": "于铸炉的城墙前，朝圣者和你碰了面。他们一直在那里向过往的游客乞求石之灵液，也即死者的食物；他们营养不良，眼睛发烫；他们的女发言人在你耳边轻声传述着他们的座右铭（“谦逊、真理”），与此同时她递上了她找到的全部金镑作为报酬——尽管在此地这东西没什么用。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=88 | SatisfactionMessage | prospects[77].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "89$Description",
+    "original": "A recent fad among the holiday-makers at <b>Worlebury-juxta-Mare</b> is red honey gathered from the memories of skyfarers and exiles. Those who have travelled far and lived hard. \"Their memories are honeycombed with madness,\" the Ethereal Apiarist observes. \"Perhaps that adds to their allure.\" Can you deliver <b>seven Firkins of Red Honey</b> to Worlebury before the season ends in a month? [dir:359b836b-864d-4587-8527-e2d2c360fdeb].",
+    "translation": "最近，在<b>滨海沃伯瑞</b>度假的人们中间流行起一种红色蜂蜜——它采自那些漂泊天际、颠沛流离的行天客和流亡者的记忆。“他们的记忆里布满了疯狂，”优雅的养蜂人说道，“或许正因如此，更叫人着迷。”你能在本季结束之前，也就是一个月内，将<b>七桶红蜂蜜</b>送到沃伯瑞吗？[dir:359b836b-864d-4587-8527-e2d2c360fdeb]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=89 | Description | prospects[88].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "89$Name",
+    "original": "All Across the Sky: Red Honey for Worlebury-juxta-Mare",
+    "translation": "布满天际：送往滨海沃伯瑞的红蜂蜜",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=89 | Name | prospects[88].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "89$SatisfactionMessage",
+    "original": "Your client is a New Sequence preacher, fresh from London and simmering with zeal. She is attempting to convert the dead before they pass through Death's Door, and means to hand out the pamphlets you delivered to those that look like they might waver. \"This is not the light that was promised!\" she bellows at a hesitant spirit, before reassuring you that her superiors will hear of your assistance.",
+    "translation": "你的客户是一个新秩序的传教士，刚从伦敦来，满怀热情。她试图在死者通过死亡之门前改变他们的信仰，并打算向那些看起来摇摆不定的人分发你送来的小册子。“这不是应许的光！”她对一个犹豫不决的鬼魂吼道。接着她向你保证，她的上级将会得知你提供的援助。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=89 | SatisfactionMessage | prospects[78].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "9$Description",
+    "original": "The notice reads: 'Loyal captains! The General Manager of the Windward Company is prepared to pay handsomely for up to <b>7 consignments of Bronzewood</b> to be delivered to the <b>Port Prosper</b> engine yards as soon as possible.' It ends with the Company's motto: 'Progress marches on!' [dir:6c1c3a55-b424-4bec-a969-31023ace58e7].",
+    "translation": "该公告写道：'忠诚的车长们！迎风公司的总经理将为尽快送往<b>兴荣港</b>机车厂的至多<b>七批青铜木</b>支付丰厚的报酬。'它以迎风公司的座右铭结尾：'步履不停！'[dir:6c1c3a55-b424-4bec-a969-31023ace58e7]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=9 | Description | prospects[8].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "9$Name",
+    "original": "Bronzewood for the Prosper Engine Yards",
+    "translation": "送往兴荣港机车厂的青铜木",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=9 | Name | prospects[8].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "9$SatisfactionMessage",
+    "original": "Delighted by your arrival, the villagers invite you to afternoon tea on the green. There is an alarming surfeit of scones, and you are pressed to take rather a lot of them away with you.",
+    "translation": "村民们为你的到来感到高兴，邀请你到绿地喝下午茶。那里烤饼多得惊人，你被逼着带走了很多。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=9 | SatisfactionMessage | prospects[4].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "90$Description",
+    "original": "The Ethereal Apiarist teases a thorn from her hand. Blood beads on her palm. \"I received a letter from a dead man today. Well, officially dead. Ceremonially dead. One of the Deathless aristocrats of the <b>Most Serene Mausoleum</b>. They are planning a revel. What else will you do with eternity, I suppose? They want <b>five Firkins of Red Honey.</b>\" [dir:358df020-9a27-47c3-8a80-6f1c836898df].",
+    "translation": "优雅的养蜂人从手上拨下一根荆棘，掌中渗出几点血珠。“我今天收到了一封死人的来信。呃，严格来说，是‘程序上’的死人——一位经过了葬礼的人。<b>圣宁墓</b>里的一位不死贵族。”她轻笑一声：“那人打算烂醉一场。毕竟，永恒的岁月里一个人还能做什么呢？那人想要<b>五桶红蜂蜜。</b>”[dir:358df020-9a27-47c3-8a80-6f1c836898df]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=90 | Description | prospects[89].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "90$Name",
+    "original": "Tribute to the Unquiet Dead: Red Honey to the Mausoleum",
+    "translation": "向尚未安息的死者致敬：送往圣宁墓的红蜂蜜",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=90 | Name | prospects[89].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "90$SatisfactionMessage",
+    "original": "The well-winds howl as a cloaked conclave of spirifers approach your engine. These unlicensed soul-traders are unwelcome in the Kingdom, and use thick layers of stained glass to hide what goes on in their locomotives from the Sapphire'd King and his servants. Satisfied you have comprehensively fulfilled their requirements, the chief spirifer slides you a roll of paper. A chart, detailing hidden routes through the sky.",
+    "translation": "井中狂风呼啸，一群身披斗篷的灵贩聚向你的机车。在这个王国中，无牌的灵魂商人并不受人待见。他们用了好几层厚厚的上色玻璃来隐藏在那机车内部的勾当，以躲避蓝宝石之王和他的耳目。确认你完全满足了他们的要求后，灵贩首领对此十分满意。此人把一张纸从桌上推了过来——那是一张空图，上面详尽标注了穿越天空的各种隐藏路线。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=90 | SatisfactionMessage | prospects[79].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "91$Description",
+    "original": "A visitor from <b>Achlys</b>, marked with the tattoo of a cinnamon trader, wishes to arrange a supply of <b>Red Honey</b>. To begin with, they require <b>seven Firkins</b>, and suggest that more opportunities might be forthcoming. [dir:9e91ea8e-3f0f-4a25-a400-2f451d91da81].",
+    "translation": "一位来自<b>埃克吕斯</b>，纹着肉桂商人纹身的访客希望获取<b>红蜂蜜</b>的供应。他们首先需要<b>七小桶</b>，并暗示以后可能有更多机会。[dir:9e91ea8e-3f0f-4a25-a400-2f451d91da81].",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=91 | Description | prospects[90].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "91$Name",
+    "original": "A New Flavour: Red Honey for Achlys",
+    "translation": "全新口味：送往埃克吕斯的红蜂蜜",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=91 | Name | prospects[90].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "91$SatisfactionMessage",
+    "original": "The Bohemian Baronet has installed himself in a stilted, smokey salon at the end of a long jetty. His coterie pay you with the last of his inheritance, collections of expurgated literature they no longer want, and a number of insightful secrets. ",
+    "translation": "放荡的准男爵在一条长码头尽头的一家呆板而烟雾缭绕的沙龙里安家。他的小圈子用他最后的遗产、他们不再需要的文集和一些有见地的秘密来回报你。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=91 | SatisfactionMessage | prospects[80].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "92$Description",
+    "original": "You find the Ethereal Apiarist dreamily taming a rosebush with her secateurs. \"Are you acquainted with the <b>Empyrean's</b> 'diplomatic corps'? Their Rose-without-Thorns?\" she laughs, delightedly, at the name. \"I suppose it's a prettier title than 'secret police'. Well, they want <b>seven Firkins of Red Honey</b>, for reasons of their own. London, meanwhile, is determined to prevent them. How exciting!\" [dir:dad2e4cc-5983-41db-8e20-d07104e92666].",
+    "translation": "你找到优雅的养蜂人时，她正心不在焉地用修枝剪刀修建一丛玫瑰花。“你认识<b>苍天上国的</b>‘外交团’吗？他们的“无刺玫瑰”？”她被这个名字逗乐了，“我想这比‘秘密警察’好听多了。这么说吧，他们不知为何想要<b>七瓶红蜂蜜</b>。而伦敦决意要阻止他们。真刺激！”[dir:dad2e4cc-5983-41db-8e20-d07104e92666]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=92 | Description | prospects[91].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "92$Name",
+    "original": "A Rose by Another Name: Red Honey for the Empyrean",
+    "translation": "异名的玫瑰：送往上国的红蜂蜜",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=92 | Name | prospects[91].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "92$SatisfactionMessage",
+    "original": "A frost-bitten priest thumbs eagerly through an unexpurgated Bible. \"The first winter here was a bad one, and the settlers burned all their books to stay warm. We've been preaching the Word According To The Windward Company ever since.\" He snaps the book shut. \"These will help put an end to that.\"",
+    "translation": "一位冻伤的牧师急切地翻阅着一本崭新的圣经。“开拓者们在这里的第一个冬天过得很艰难，为了取暖，他们把所有书都烧掉了。此后我们就只能依照《迎风公司之辞》传道。”他合上书本。“这些书会结束我们的窘境。”",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=92 | SatisfactionMessage | prospects[84].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "93$Description",
+    "original": "Certain august funerals at <b>the Most Serene Mausoleum</b> have begun to hang lamps of starshine during the ceremonies. The soft silver glow evokes memories of distant times that will never come again, and can move even the most stolid mourners to melancholy. Can you deliver <b>five Hogsheads of Starshine</b> for a series of upcoming burials? [dir:358df020-9a27-47c3-8a80-6f1c836898df].",
+    "translation": "在<b>圣宁墓</b>举行的某些庄严葬礼上，有人正打算悬挂星光灯，柔和的银色光芒会唤人回忆那些荏苒光阴、永远逝去的往事，甚至，能唤起那最为迟钝吊唁者的忧郁惆怅。你能为即将举行的一系列葬礼提供<b>五桶星光酒</b>吗？[dir:358df020-9a27-47c3-8a80-6f1c836898df]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=93 | Description | prospects[92].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "93$Name",
+    "original": "Melancholy Memorials: Starshine for the Mausoleum",
+    "translation": "忧郁的纪念品：送往圣宁墓的星光酒",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=93 | Name | prospects[92].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "93$SatisfactionMessage",
+    "original": "One of Amberley Murgatroyd's maids thanks you for your prompt delivery and collects the shipment of scandalous literature. \"The mistress likes hiding her cyphers in these. The Ministry doesn't usually look too closely before chucking them in the fire.\" ",
+    "translation": "安伯利·穆尔加特罗伊德的一位女仆对你及时的交付表示感谢，并收下了这批充斥丑闻的文学作品。\"女主人喜欢把她的密文藏在这些里面。公德部在把它们扔进火里之前通常不会看得太仔细。\"",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=93 | SatisfactionMessage | prospects[85].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "94$Description",
+    "original": "One of the Gentlemen, Pan's notorious smugglers, claims to have an opportunity for you. However, getting details out of him is difficult. He seems distracted by old memories. Has he been sampling the shinney? Eventually, you're able to get extract the necessaries: <b>five Hogsheads of Starshine</b> to be delivered to a shinney-joint at <b>Lustrum</b>. [dir:c22807a9-7c42-41b5-823a-cc02f15c3f63].",
+    "translation": "潘城臭名昭著的走私团伙——绅士团的一位成员声称，他给你准备了一个机会。然而，很难从他口中套出详情。他似乎被以前的记忆所困扰。他是不是一直在偷偷品尝星光酒？最终，你还是获取了必要的信息：<b>五罐星光酒</b>，送到<b>伍载镇</b>的一个交易点。[dir:c22807a9-7c42-41b5-823a-cc02f15c3f63]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=94 | Description | prospects[93].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "94$Name",
+    "original": "A Thought Of Home: Starshine For Lustrum",
+    "translation": "思乡之情：送往伍载镇的星光酒",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=94 | Name | prospects[93].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "94$SatisfactionMessage",
+    "original": "The Bespectacled Official is satisfied with your delivery. \"I spent some time in London, you know.\" he tells you, flipping through an uncensored Wilde. \"But somehow I don't recognise this city the Ministry of Public Decency tell me it is.\" He pays you in crisp sovereign-notes in high denominations.",
+    "translation": "戴眼镜的事务官对你交付的货物很满意。\"你知道吗，我在伦敦呆过一段时间。\"他告诉你，一边翻阅一本未经审查的王尔德。\"但不知何故，我对公德部向我描述的那座城市感到陌生。\"他付给你崭新的大额金镑。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=94 | SatisfactionMessage | prospects[86].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "95$Description",
+    "original": "Two gangs are feuding over the shinney-trade at <b>Worlebury-juxta-Mare</b>. The endless tide of holiday-makers represents a lucrative market, and one of the gangs wants <b>seven Hogsheads of starshine</b> to corner it. The scarred Gentleman from whom you learn of the prospect, though, warns you to take care. The gangs haven't been subtle, and the Revenue Men's dreadnoughts are on high alert. [dir:359b836b-864d-4587-8527-e2d2c360fdeb].",
+    "translation": "两个帮派正在为<b>滨海沃伯瑞</b>的星光酒贸易而争执不休。络绎不绝的度假者是一个有利可图的市场，其中一个帮派想要依靠<b>七桶星光酒</b>来占领它。你从伤痕累累的绅士那里得知了这个机遇，不过他警告你要小心。这些帮派做事一直都不麻利，税务局的无畏舰正处于高度警戒状态。[dir:359b836b-864d-4587-8527-e2d2c360fdeb]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=95 | Description | prospects[94].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "95$Name",
+    "original": "Forbidden Light: Starshine to Worlebury-juxta-Mare",
+    "translation": "禁忌之光：送往滨海沃伯瑞的星光酒",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=95 | Name | prospects[94].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "95$SatisfactionMessage",
+    "original": "Your Illicit Literature is avidly received in Port Prosper. The local paper puffs and tuts about the sudden influx of 'gentleman's relish', even as servants from well-heeled families crowd your locomotive, offering bulging purses for paper-wrapped samples of your cargo. The handmaid of a certain Prim Dowager purchases several of the most scandalous volumes, while giving you a wicked wink.",
+    "translation": "你的非法文学作品在兴荣港受到热捧。当地报纸大肆吹嘘突然涌入的“绅士乐”，甚至来自富裕家庭的仆人也挤向你的机车，拿着鼓囊的钱包购买你纸包的货物。某位富贵遗孀的女仆购买了几本其中最丑恶的书，还向你使了一个邪恶的眼色。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=95 | SatisfactionMessage | prospects[87].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "96$Description",
+    "original": "An undermanager of the Windward Company has sent word to the Gentlemen of Pan that their branch in <b>Port Prosper</b> has use for starshine, but nobody seems willing to sell the <b>five Hogsheads</b> they require. At least, not openly. [dir:6c1c3a55-b424-4bec-a969-31023ace58e7].",
+    "translation": "迎风公司的一名副经理向潘城的绅士帮传话说，他们在<b>兴荣港</b>的分部需要星光酒，但似乎没有人愿意出售他们需要的那<b>五桶</b>。至少，没人愿意公开出售。[dir:6c1c3a55-b424-4bec-a969-31023ace58e7]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=96 | Description | prospects[95].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "96$Name",
+    "original": "Revolution and Homesickness: Starshine for Port Prosper",
+    "translation": "革命与乡愁：送往兴荣港的星光酒",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=96 | Name | prospects[95].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "96$SatisfactionMessage",
+    "original": "Intrigued holidays makers sidle, furtively, to your locomotive, eager for a taste of 'skyfarer's delight'. Later, they will clamber through someone else's memories: of distant nooks of the sky, of little-trod heavenly roads, of star-madness encroaching like the tide.",
+    "translation": "着迷的度假者们鬼鬼祟祟地溜进你的机车，渴望着品尝“行天客之乐”。随后，他们会在某人的记忆中游历：天空中遥远的角落，人迹罕至的天路，侵袭如潮水的星癫症。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=96 | SatisfactionMessage | prospects[88].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "97$Description",
+    "original": "The Gloomy Middleman has an opportunity for which someone has specifically requested you. A private collector in <b>the Eagle's Empyrean</b> seeks books from the notorious 'Pages Collection' of Old London, which was said to contain copies of works assumed to be mythical. \"I rarely read myself,\" the Middleman confides, \"on account of my deep mistrust of writers, whom I consider perfidious. The odds of finding something from the Pages Collection is vanishingly small, of course, but to an optimist any haystack might hide a needle. <b>Nine Trunks of Illicit Literature</b> should do in this case. Within <b>two months</b>, if you please.\" [dir:dad2e4cc-5983-41db-8e20-d07104e92666].",
+    "translation": "阴沉的中间商有一个机遇，有人指名要你来替他办事。<b>雄鹰之苍天上国</b>的一位私人收藏家正在寻找旧伦敦臭名昭著的“书页藏馆”的书籍，据说里面包含被认为是神话的作品的副本。“我自己很少读书，”中间人坦白道，“因为我对作家极不信任，我认为他们没有义气。当然，从书页藏馆中找到东西的几率很小，但对一个乐观主义者来说，在哪片大海里都能捞得着针。 <b>九箱非法文学</b>应该就够了。如果你愿意的话，在<b>两个月内</b>送到我这里来。”[dir:dad2e4cc-5983-41db-8e20-d07104e92666]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=97 | Description | prospects[96].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "97$Name",
+    "original": "The Pages Vault: Illicit Literature to the Empyrean",
+    "translation": "书页宝库：送往苍天上国的非法文学作品",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=97 | Name | prospects[96].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "97$SatisfactionMessage",
+    "original": "Little attempt is made to hide your transaction, for the Deathless do as they please. After all, if you are exempt from the laws of time, why should you be subject to those of customs and excise? A haunted footman hands over your payment, along with the Macabre Counsellor's thanks for a job well done, and an invitation to Perdurance's Half-Light Masque.",
+    "translation": "几乎没有人试图掩盖你的交易，因为不死者可以为所欲为。既然你已能逍遥于时间法则之外，为什么还要受海关和消费税的约束？一个满面愁容的男仆交给你报酬、恐怖顾问对你出色完成工作的感谢，以及参加琥珀宫明暗假面舞会的的邀请函。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=97 | SatisfactionMessage | prospects[89].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "98$Description",
+    "original": "Another smuggler has been caught while attempting to complete a prospect. Even now, they take the stand before a judge renowned for his lack of mercy. In the meantime, their opportunity could be yours. Time is now of the essence. <b>Nine Firkins of Red Honey</b> must be delivered to <b>Worlebury-juxta-Mare</b> within <b>two months</b> of you accepting the prospect. [dir:359b836b-864d-4587-8527-e2d2c360fdeb].",
+    "translation": "又是一个在试图完成机会时被抓的走私者。即便是现在，那人也要在一个以无情闻名的法官面前作证。在此期间，这个人的机遇可以为你所用。必须在<b>两个月内</b>将<b>九瓶红蜂蜜</b>送到<b>滨海沃伯瑞</b>，你接受了这个机会。[dir:359b836b-864d-4587-8527-e2d2c360fdeb]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=98 | Description | prospects[97].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "98$Name",
+    "original": "Repaying a Debt: Red Honey to Worlebury",
+    "translation": "偿还债务：送往沃伯瑞的红蜂蜜",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=98 | Name | prospects[97].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "98$SatisfactionMessage",
+    "original": "Mr Pipes, proprietor of the House of Silks, makes a rare personal appearance outside its establishment to acquire your entire delivery of red honey. \"The precise nature of your product is not well known here,\" it tells you. \"Let us not concern these fine people with the truth.\"",
+    "translation": "烟管先生是丝之家的老板，它亲自到店外来接收你全部的红蜂蜜，实属罕见。它告诉你：\"这里鲜有人了解红蜂蜜的本质，就别让真相困扰那些上等人了吧。\"",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=98 | SatisfactionMessage | prospects[90].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "99$Description",
+    "original": "An envelope reaches you. Inside is a simple note, offering the opportunity to provide <b>nine Firkins of Red Honey</b> to a specific platform at the <b>Most Serene Mausoleum</b>. It is marked with a stamp: a mark of the Duchess Incarnadine, one of the Deathless courtiers who served Her Majesty and were permitted to retire with an eternity of hours. [dir:358df020-9a27-47c3-8a80-6f1c836898df].",
+    "translation": "一个信封送到你手中。里面是一张简单的纸条，为你带来向<b>圣宁墓</b>的一个特定平台提供<b>九瓶红蜂蜜</b>的机会。纸条上有一个印章：血色公爵夫人的标记，她是为女王陛下服务的不死朝臣之一，被允许以永恒的时间退休。[dir:358df020-9a27-47c3-8a80-6f1c836898df]。",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=99 | Description | prospects[98].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "99$Name",
+    "original": "Dead Man's Drop: Red Honey to the Mausoleum",
+    "translation": "死者的甘露：送往圣宁墓的红蜂蜜",
+    "context": "prospects.bytes | Failbetter.Core.Prospect | ID=99 | Name | prospects[98].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "99$SatisfactionMessage",
+    "original": "The Rose-Without-Thorns slip you into the Empyrean via hidden tunnels, and into a cavernous cellar. From behind one door you can hear singing. From behind another, sobbing. But a stern official explains you can, in fact, not hear either of those things. In fact you can hear nothing, because people who hear nothing are very well paid. The payment is produced: a pouch of bright, freshly-minted sovereigns, several rolls of bombazine, and a caged sky-beast they have no further use for.",
+    "translation": "无刺玫瑰引导你经过隐匿的通道溜进上国，然后开进一间空洞的地窖。你可以其中一扇门后传来歌声。另一扇门后则是啜泣。但一位严厉的官员解释说，其实你没听见这两种声音。其实你根本就是聋子，因为聋子报酬优厚。他们拿出酬金：一袋闪亮崭新的金镑，几卷邦巴辛布，以及一只他们不再使用的笼中天兽。",
+    "context": "prospects.bytes | Failbetter.Core.Completion | ID=99 | SatisfactionMessage | prospects[91].Completions[0].SatisfactionMessage；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  }
+]

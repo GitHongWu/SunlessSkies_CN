@@ -1,0 +1,75 @@
+{
+  "areas": {
+    "unchanged": 224,
+    "total": 224
+  },
+  "bargains": {
+    "unchanged": 376,
+    "changed": 6,
+    "content_changed": 5,
+    "formatting_or_escaping_only": 1,
+    "total": 382
+  },
+  "domiciles": {
+    "new": 2,
+    "total": 2
+  },
+  "events": {
+    "unchanged": 28776,
+    "changed": 918,
+    "formatting_or_escaping_only": 864,
+    "new": 834,
+    "content_changed": 54,
+    "total": 30528
+  },
+  "exchanges": {
+    "unchanged": 172,
+    "total": 172
+  },
+  "landmarks": {
+    "unchanged": 43,
+    "new": 409,
+    "total": 452
+  },
+  "loadingHints": {
+    "unchanged": 33,
+    "new": 7,
+    "total": 40
+  },
+  "logEntries": {
+    "unchanged": 433,
+    "new": 494,
+    "total": 927
+  },
+  "personas": {
+    "new": 4,
+    "total": 4
+  },
+  "prospects": {
+    "unchanged": 390,
+    "changed": 2,
+    "content_changed": 2,
+    "total": 392
+  },
+  "qualities": {
+    "unchanged": 5516,
+    "changed": 77,
+    "formatting_or_escaping_only": 65,
+    "content_changed": 12,
+    "new": 47,
+    "total": 5640
+  },
+  "settings": {
+    "unchanged": 47,
+    "total": 47
+  },
+  "ui": {
+    "new": 726,
+    "unchanged": 308,
+    "total": 1034
+  },
+  "z_shipnames": {
+    "unchanged": 139,
+    "total": 139
+  }
+}

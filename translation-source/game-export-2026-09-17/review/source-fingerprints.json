@@ -1,0 +1,326 @@
+[
+  {
+    "path": "Managed\\Assembly-CSharp.dll",
+    "size": 2514944,
+    "sha256": "aace01c5a0cd432d8feccdcfd6098bc6a4a5b7704c21679b87270fb881d852d2"
+  },
+  {
+    "path": "StreamingAssets\\BuildInStorage\\data\\areas.bytes",
+    "size": 19120,
+    "sha256": "057390b5ab4044fafb34048c265d195719a64d1ae4375f0067e9516473a34c3b"
+  },
+  {
+    "path": "StreamingAssets\\BuildInStorage\\data\\bargains.bytes",
+    "size": 114158,
+    "sha256": "cdece29dc7ec3afa59fea92738b0fe9ec7e6e4208f09bba146d8e6cd34977696"
+  },
+  {
+    "path": "StreamingAssets\\BuildInStorage\\data\\domiciles.bytes",
+    "size": 87,
+    "sha256": "b2f8b21f6a92ecf2b4d0cf596cb2c38ab742e6f2cdb0f4fbe006071343064a97"
+  },
+  {
+    "path": "StreamingAssets\\BuildInStorage\\data\\events.bytes",
+    "size": 9603770,
+    "sha256": "f61210c2aac017da971b2a8a56cf576c6932449044ebfecaf5966533970eba54"
+  },
+  {
+    "path": "StreamingAssets\\BuildInStorage\\data\\exchanges.bytes",
+    "size": 105282,
+    "sha256": "afbb591cfdd09fc9a5e4d4228fae0942605311588315104f3c18d956955656a6"
+  },
+  {
+    "path": "StreamingAssets\\BuildInStorage\\data\\personas.bytes",
+    "size": 7862,
+    "sha256": "6ea9e97ebea16eec5ca51cdd3c8dc98e57b639bf6a389d40b4275de48b7e825c"
+  },
+  {
+    "path": "StreamingAssets\\BuildInStorage\\data\\prospects.bytes",
+    "size": 189210,
+    "sha256": "3a370b315cf78cf5978f28853661af30a902ceb6f72ee8d135807785317c311e"
+  },
+  {
+    "path": "StreamingAssets\\BuildInStorage\\data\\qualities.bytes",
+    "size": 1401345,
+    "sha256": "c1feeb2bd6b20774cf1e8890e826c2b2f2fbd705184932415ccc0de765a3708a"
+  },
+  {
+    "path": "StreamingAssets\\BuildInStorage\\data\\settings.bytes",
+    "size": 10492,
+    "sha256": "48c175708f744544762b4383897a8358889fc00761622c82c4bf736e22e2089f"
+  },
+  {
+    "path": "globalgamemanagers.assets",
+    "size": 469368,
+    "sha256": "b88cfa4388a9fc7f9d310e72b069b4726cea1376ce260566f6f7f472776b652a"
+  },
+  {
+    "path": "resources.assets",
+    "size": 61427456,
+    "sha256": "914c646da773ba01c34f9dd8c1c20c6d0291224620bb476fd5b5a8d005745332"
+  },
+  {
+    "path": "sharedassets0.assets",
+    "size": 2467212,
+    "sha256": "68dd3186b1a2161ccc27bce7a396899397e4ddcde3adfb2b43497134bef3010d"
+  },
+  {
+    "path": "sharedassets1.assets",
+    "size": 4145,
+    "sha256": "679ca8110907f10f85e5470a051db1ac573f85098e288733b37ccbc5ae192933"
+  },
+  {
+    "path": "sharedassets10.assets",
+    "size": 809056,
+    "sha256": "16ba5e5665aab9475160f809a41a2c7ea22d6753fcaecdfddfbba13d967b1d11"
+  },
+  {
+    "path": "sharedassets11.assets",
+    "size": 736468,
+    "sha256": "6c7e362455c5cb3db3f324bed834e3b53357cba0bda3e18d70b9dcd9d1c063e1"
+  },
+  {
+    "path": "sharedassets12.assets",
+    "size": 589316,
+    "sha256": "3ef01aa0b7f4712d905f3ef6aa815cebbd0bad146d25572c73176fb7ab7d3eaf"
+  },
+  {
+    "path": "sharedassets13.assets",
+    "size": 271620,
+    "sha256": "b4841b9cca0ea83e44f95684607857c844f0c924a3a73cbbc1e5caee97d9189b"
+  },
+  {
+    "path": "sharedassets14.assets",
+    "size": 515696,
+    "sha256": "133b76297691d75f8536774b0a7d9b129df53c4efe6d6a67ab6edc5a87cafeba"
+  },
+  {
+    "path": "sharedassets15.assets",
+    "size": 12752,
+    "sha256": "8673579fabf22bfc655c0fdd94fdc35b9ea1fdfc71c8d502ae3ebce534418346"
+  },
+  {
+    "path": "sharedassets16.assets",
+    "size": 1111300,
+    "sha256": "93795732c1f873a1f96471953233d1c0026a39eba2c961dca3ef43b63ac4cc97"
+  },
+  {
+    "path": "sharedassets17.assets",
+    "size": 17836,
+    "sha256": "ea0fa2a85a25d438e8d4276b7f0f3e6a0a3c4112b4e007301f365dfe3552e930"
+  },
+  {
+    "path": "sharedassets18.assets",
+    "size": 12304,
+    "sha256": "7f8f4dff1f1b82e1afb5cad97519cce831980ca232957f5f1632d9c143bfaa40"
+  },
+  {
+    "path": "sharedassets19.assets",
+    "size": 15896,
+    "sha256": "e82ba94d38e2d7d37785ae4e9662d62d55aad3a790de4f4602ec0c1db658f186"
+  },
+  {
+    "path": "sharedassets2.assets",
+    "size": 5501,
+    "sha256": "13f6dc2f32b8ef7a10cf77e1f3441b456c9d52766f42912eca1760e5429f5841"
+  },
+  {
+    "path": "sharedassets20.assets",
+    "size": 656420,
+    "sha256": "53b2a90466473d996cc793391572ce2e10a29e876ca12eadade075bfa7af0cab"
+  },
+  {
+    "path": "sharedassets21.assets",
+    "size": 917212,
+    "sha256": "c3e400ec0d6d0278a310e6d59315b889f0d86902ecbbd86b74a340a056dd6628"
+  },
+  {
+    "path": "sharedassets22.assets",
+    "size": 3696116,
+    "sha256": "7c118e75b7e224ca3699d0f7cc080eceddd6a19a1674210bd95426c43905fd1d"
+  },
+  {
+    "path": "sharedassets23.assets",
+    "size": 1346116,
+    "sha256": "10471c11f9a4b22b134d71ccf0ba978d51a19834d870cbdfbf4aee2801347ca0"
+  },
+  {
+    "path": "sharedassets24.assets",
+    "size": 494356,
+    "sha256": "e5211103a4115873452cb8a7db1fc7a4a9a6872d45074952e2e60a23430224bf"
+  },
+  {
+    "path": "sharedassets25.assets",
+    "size": 25056,
+    "sha256": "4e2775d809a6e60fff30aa45401b33452cf40f0f2f940eba18c1b71d01991ab8"
+  },
+  {
+    "path": "sharedassets3.assets",
+    "size": 717548,
+    "sha256": "503c12d1703d4a085ac0b83b8a1243f9e311f727bd4c5c1af71951f3d5f9c85b"
+  },
+  {
+    "path": "sharedassets4.assets",
+    "size": 3618136,
+    "sha256": "df33b68c90955ccd905b6928b6741723ee8229c762db81c673a4ab3b692e4e06"
+  },
+  {
+    "path": "sharedassets5.assets",
+    "size": 371088,
+    "sha256": "4fbac90e172de77fc3d8a843df8baa2b685ec9f98279bd5a111f60d4c21271c9"
+  },
+  {
+    "path": "sharedassets6.assets",
+    "size": 777704,
+    "sha256": "9bc608850c3fc8fa9c1055dd6a6656e995a138721396dd0eed255edb3144ef2b"
+  },
+  {
+    "path": "sharedassets7.assets",
+    "size": 243092,
+    "sha256": "36b7d6aa3af2557d12eb716279785d402d616a0223165eeaba3337a47ab9e3c2"
+  },
+  {
+    "path": "sharedassets8.assets",
+    "size": 18208,
+    "sha256": "e1df8012df0d48263d1818860f1ab683a33bee0712c4649d71994799db8946b3"
+  },
+  {
+    "path": "sharedassets9.assets",
+    "size": 962496,
+    "sha256": "ed511d6bced7e4505eaee37ee8123990bcf5d5d516089dd181825d8f907dd107"
+  },
+  {
+    "path": "level0",
+    "size": 69920,
+    "sha256": "83096ae8e50e742c59b2a8f24ee3008b0f315d50fdba2501f81295923138e5e1"
+  },
+  {
+    "path": "level1",
+    "size": 4900,
+    "sha256": "5ca6533e4f45d2b284c16e8fdc0ab978ae0d540c2023e0a2110ab8fe7cf0584e"
+  },
+  {
+    "path": "level10",
+    "size": 1546980,
+    "sha256": "79326fa8b624c3ef28277833c6c99ca997e5a33d6dd0deb1c2c74d23e085a039"
+  },
+  {
+    "path": "level11",
+    "size": 2767732,
+    "sha256": "5f192c0e1ea78cec4aedc1e9e851566259a36b39805983afeb55f8bec8122c1a"
+  },
+  {
+    "path": "level12",
+    "size": 2312212,
+    "sha256": "31d0764363d9cb751f756ef143e3077e67f8b33c1c04ae6ba1baf73d62e30941"
+  },
+  {
+    "path": "level13",
+    "size": 3098716,
+    "sha256": "4c24efc2576f591f8c87826fa6c7cd86b71508adaef6e799b3012a7f0d42aee5"
+  },
+  {
+    "path": "level14",
+    "size": 3286500,
+    "sha256": "121ba3ccbe1152506d85e54cb1a42bdc044595922c3ce88a8c77b320f6c4e549"
+  },
+  {
+    "path": "level15",
+    "size": 24376,
+    "sha256": "c150a8eef50990d97ed5610235d443ca43dee3269aa5659774aaada689cbba20"
+  },
+  {
+    "path": "level16",
+    "size": 4205748,
+    "sha256": "60493acee0f364438b86d731c37e2dcf4b9830ff9e0456c4aa4b0c49b760e004"
+  },
+  {
+    "path": "level17",
+    "size": 470424,
+    "sha256": "482ed933b42c73b936aad68a007ca68c69e24be645c61ebcb197a899be17f27d"
+  },
+  {
+    "path": "level18",
+    "size": 10832,
+    "sha256": "8523f768e3bb08c4369a4167ac8b564ad0cb9fed7c83ff30bd84764cc2b5bdef"
+  },
+  {
+    "path": "level19",
+    "size": 29840,
+    "sha256": "29eaf80deb3c100747cfd62d9f5fa8cb371d081e5b96c4033a6396c8240095a2"
+  },
+  {
+    "path": "level2",
+    "size": 5368,
+    "sha256": "9d473f340a776587eda848786a21c2468ae06d439fa04630a9dd4029382f197a"
+  },
+  {
+    "path": "level20",
+    "size": 2332652,
+    "sha256": "3d8ea9ccf54df7e5d1197d7817ec854d15e93212eab2d550495973240013e417"
+  },
+  {
+    "path": "level21",
+    "size": 5222468,
+    "sha256": "18582934a532f2b306e1f4e73046c14519dc5e656bd253a036842d441c3f8c3e"
+  },
+  {
+    "path": "level22",
+    "size": 3431168,
+    "sha256": "f2ebc8cdf1beb5bde0a6f1d7c395a5e612c1d0fbd76ee3b77ade10cf89e51bc1"
+  },
+  {
+    "path": "level23",
+    "size": 4678828,
+    "sha256": "ab17e6ef56993e5c5c91b0d33ac85918af4426203ff4cf70b74ef6197716c91e"
+  },
+  {
+    "path": "level24",
+    "size": 4029564,
+    "sha256": "8703633663c318f1cd73c5797d233e77c373e9b8ed4d4765666812dce6d7ab50"
+  },
+  {
+    "path": "level25",
+    "size": 53784,
+    "sha256": "2b9dbcfe39fa99200add9ac6c8dc0aa802332097ced3f846ca087134395bb983"
+  },
+  {
+    "path": "level3",
+    "size": 6690652,
+    "sha256": "3337fff638d5d675edcc7b982f8ce727b7f96bf10d4fea8825d5b10d21b15a16"
+  },
+  {
+    "path": "level4",
+    "size": 5412932,
+    "sha256": "075d6c2d0ca585b68d45f2a55bb5afaad660ccdbd496d8f41631a030a0a983a1"
+  },
+  {
+    "path": "level5",
+    "size": 7463396,
+    "sha256": "54f908009050f6c966228997bfd608c2e22aaeb9ddf65a2f593235372b1e344f"
+  },
+  {
+    "path": "level6",
+    "size": 2964524,
+    "sha256": "4e95cbff38d50fa7caa44d014588198c02be9dbc46e05a59204f4ba1dc52f54f"
+  },
+  {
+    "path": "level7",
+    "size": 1831076,
+    "sha256": "ab5d8ea43162c415b9b0fe32ea33c3306a522cdf74c54f147df18731c2c18a02"
+  },
+  {
+    "path": "level8",
+    "size": 25672,
+    "sha256": "9a286e921633b65cae7ad2a423916fbdd11e32e3a62795873a73e6d0081b8310"
+  },
+  {
+    "path": "level9",
+    "size": 3064560,
+    "sha256": "9469a68d24cd4752d3e7495aa4c265bfdd23e2eacf6b2d9f28162a5a94f91913"
+  },
+  {
+    "path": "ParaTranz-5731.zip",
+    "sha256": "aaaf9787247132e5b5c9c571c0b7099970a32b039eda2b329f9116708136f859"
+  }
+]

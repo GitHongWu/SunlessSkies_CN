@@ -1,0 +1,14 @@
+[
+  {
+    "key": "8580$Description",
+    "original": "AlgernonBaroque default domicile",
+    "translation": "",
+    "context": "domiciles.bytes | Failbetter.Core.Domicile | ID=8580 | Description | domiciles[0].Description；2026-09-15 快照中未收录此键。"
+  },
+  {
+    "key": "8580$Name",
+    "original": "AlgernonBaroque default domicile",
+    "translation": "",
+    "context": "domiciles.bytes | Failbetter.Core.Domicile | ID=8580 | Name | domiciles[0].Name；2026-09-15 快照中未收录此键。"
+  }
+]

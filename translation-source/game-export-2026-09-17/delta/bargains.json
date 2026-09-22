@@ -1,0 +1,38 @@
+[
+  {
+    "key": "12$Description",
+    "original": "A Dishevelled Research Associate sells caddies of dried tea from an oak chest. \"Due to an unfortunate but entirely understandable administrative error, the professor's entire research budget has been spent on tea,\" she explains, shuffling her feet awkwardly. \"Please buy some.\"",
+    "translation": "",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=12 | Description | bargains[10].Description；差异分类：内容变化；原文变化，译文留空等待复核。旧原文：A Dishevelled Research Associate has briefly docked while on an arduous research expedition. She sells caddies of dried tea from an oak chest. \"Due to an unfortunate but entirely understandable administrative error, the professor's entire research budget has been spent on tea,\" she explains, shuffling her feet awkwardly. \"Please buy some.\"\n旧译文（仅参考）：一位衣衫褴褛的研究助理在一次艰苦的研究考察途中短暂停靠。她售卖橡木箱子里的干茶叶。“由于一次不幸但完全可以理解的管理失误，教授的研究预算全都花在了茶叶上，”她解释说，一边尴尬地来回挪脚。“请买一些吧。”"
+  },
+  {
+    "key": "12$Teaser",
+    "original": "A Dishevelled Research Associate sells caddies of dried tea from an oak chest...",
+    "translation": "",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=12 | Teaser | bargains[10].Teaser；差异分类：内容变化；原文变化，译文留空等待复核。旧原文：A Dishevelled Research Associate has briefly docked while on an arduous research expedition...\n旧译文（仅参考）：一位衣衫褴褛的研究助理在一次艰苦的研究考察途中短暂停靠……"
+  },
+  {
+    "key": "131662$Description",
+    "original": "Hollowed from the vast trees of the Reach, Bronzewood is prized for its durability and its gleaming resin.\r\n",
+    "translation": "",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131662 | Description | bargains[14].Offer.Description；差异分类：仅空白/换行转义不同（保守起见仍待复核）；原文变化，译文留空等待复核。旧原文：Hollowed from the vast trees of the Reach, Bronzewood is prized for its durability and its gleaming resin.\r\\n\n旧译文（仅参考）：青铜木自外野的参天大树上挖出，因其坚韧的质地和闪亮的树脂而售价高昂。\\n"
+  },
+  {
+    "key": "50$Name",
+    "original": "An expulsion of problematic materiel",
+    "translation": "",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=50 | Name | bargains[47].Name；差异分类：内容变化；原文变化，译文留空等待复核。旧原文：An expulsion of problematic material\n旧译文（仅参考）：驱逐有害材料"
+  },
+  {
+    "key": "85$Name",
+    "original": "Name Achlys' Gift",
+    "translation": "",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=85 | Name | bargains[82].Name；差异分类：内容变化；原文变化，译文留空等待复核。旧原文：Achlys' Gift\n旧译文（仅参考）：埃克吕斯的礼物"
+  },
+  {
+    "key": "89$Description",
+    "original": "An Experimental Horticulturist is selling a mountain of seeds. Yes, she is very pleased with how well they turned out. No, she will not tell you what she treats her crops with\r\n",
+    "translation": "",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=89 | Description | bargains[86].Description；差异分类：内容变化；原文变化，译文留空等待复核。旧原文：An Experimental Horticulturist is selling a mountain of seeds. Yes, she is very pleased with how well they turned out. No, she will not tell you what she treats her crops with.\r\n\n旧译文（仅参考）：一位实验园艺师正在出售堆积如山的种子。是的，她对它们的生长情况非常满意。不，她不会告诉你她用什么来处理她的作物。\n"
+  }
+]

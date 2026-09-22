@@ -1,0 +1,2294 @@
+[
+  {
+    "key": "1$Description",
+    "original": "bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo",
+    "translation": "bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=1 | Description | bargains[0].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "1$Name",
+    "original": "TestBargain ",
+    "translation": "TestBargain ",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=1 | Name | bargains[0].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "1$Teaser",
+    "original": "bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo ...",
+    "translation": "bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo bloo ...",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=1 | Teaser | bargains[0].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "100$Description",
+    "original": "In recent years, over-eager Scrive-Spinsters have picked reams of London literature from the wrecks of engines they have destroyed, and taken it to the Forge. A yoked servitor spirit is selling it off by the pound. He indicates that it's starting to clog up shelves that could be dedicated to more interesting and important subjects.",
+    "translation": "近年来，急于求成的纺书人从他们破坏的机车残骸中挑出成堆的伦敦文献，并将其带到铸炉。一个身份为缚链灵的仆从鬼魂正在把它按磅出售。他表示，这些东西已经开始堵塞书架，而这些书架可以用来摆放更多有趣和重要的主题。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=100 | Description | bargains[97].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "100$Name",
+    "original": "Clogging up the stacks",
+    "translation": "堵塞堆积物",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=100 | Name | bargains[97].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "100$Teaser",
+    "original": "In recent years, over-eager Scrive-Spinsters have picked reams of London literature from the wrecks of engines they have destroyed, and taken it to the Forge...",
+    "translation": "近年来，急于求成的纺书人从他们破坏的机车残骸中挑出成堆的伦敦文献，并将其带到铸炉...",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=100 | Teaser | bargains[97].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "101$Description",
+    "original": "A gloomy spirit sells folds of black cloth. These are the robes customarily worn by shades of the Invisible class, and are wrought of light-drinking bombazine to prevent them from offending the eye of their king. What became of the specific shades who wore these robes? The vendor will not say.",
+    "translation": "一个阴沉的鬼魂在卖叠起来的黑布。这些是不可视者的遗魂们习惯穿的长袍，是用渴光的邦巴辛布织成的，以防止他们冒犯国王的眼睛。穿着这种长袍的那些遗魂变成了什么？卖家缄口不言。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=101 | Description | bargains[98].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "101$Name",
+    "original": "Robes of Bombazine",
+    "translation": "邦巴辛布的长袍",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=101 | Name | bargains[98].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "101$Teaser",
+    "original": "A gloomy spirit sells folds of black cloth...",
+    "translation": "一个阴郁的鬼魂在卖叠起来的黑布……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=101 | Teaser | bargains[98].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "102$Description",
+    "original": "A theologian who travelled here from London is selling his bibles, his prayer-books, and his hymnals. Having witnessed the afterlife firsthand, he has come to regard them as works of naive fiction.",
+    "translation": "一位从伦敦来到这里的神学家正在出售他的圣经、他的祈祷书和他的圣歌。在亲眼目睹了来世之后，他已经把它们视为天真的小说作品。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=102 | Description | bargains[99].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "102$Name",
+    "original": "A crisis of faith",
+    "translation": "信仰危机",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=102 | Name | bargains[99].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "102$Teaser",
+    "original": "A theologian who travelled here from London is selling his bibles, his prayer-books, and his hymnals...",
+    "translation": "一位从伦敦来到这里的神学家正在出售他的圣经、他的祈祷书和他的赞美诗...",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=102 | Teaser | bargains[99].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "103$Description",
+    "original": "This glassmaker came to the Blue Kingdom in order to capture the gold of its sun and the blue awe of its sky. But he has looked too long and too closely. The light sears his eyes; his vision fades. But still he makes pane after pane, spending the last of his sight in attempts to trap the things he has seen in prisons of glass.",
+    "translation": "这位玻璃匠来到蓝色王国，是为了捕捉太阳的金色和天空的蓝色威严。但他看得太久、太仔细。光线灼伤了他的眼睛——他的视力逐渐减退。但他仍然制作了一块又一块的玻璃，用他最后的视力试图把他所看到的东西困在玻璃的监狱里。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=103 | Description | bargains[100].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "103$Name",
+    "original": "His last works",
+    "translation": "他的最后作品",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=103 | Name | bargains[100].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "103$Teaser",
+    "original": "This glassmaker came to the Blue Kingdom in order to capture the gold of its sun and the blue awe of its sky...",
+    "translation": "这位玻璃匠来到蓝色王国，是为了捕捉太阳的金色和天空的蓝色威严……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=103 | Teaser | bargains[100].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "104$Description",
+    "original": "A visiting London aristocrat has become besotted with the scale and splendour and sequence of the Blue Kingdom. He sees no point in delaying his return here as one of the dead, and is selling his pension of hours in order to accelerate his end.",
+    "translation": "一位来访的伦敦贵族迷上了蓝色王国的巨构、壮景与格差。他认为自己已无需等待死后重返此地。他目前正在出售自己的抚恤金来加速生命的终结。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=104 | Description | bargains[101].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "104$Name",
+    "original": "Hastening the end",
+    "translation": "加速终结",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=104 | Name | bargains[101].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "104$Teaser",
+    "original": "A visiting London aristocrat has become besotted with the scale and splendour and sequence of the Blue Kingdom...",
+    "translation": "一位来访的伦敦贵族迷上了蓝色王国的巨构、壮景与格差……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=104 | Teaser | bargains[101].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "105$Description",
+    "original": "He moves in stuttering starts, like a rabbit who knows a dog is about. Some call him a grave-robber, but he prefers 'archaeologist'. He's in no hurry, he professes, none at all, to shift these gemstones. Of <i>course</i> they're from a legitimate source: he plundered the vault himself.",
+    "translation": "他的动作磕磕巴巴，就像一只知道有狗来的兔子。有人叫他盗墓者，但他更喜欢“考古学家”这一说法。他说，他不急于转移这些宝石，一点都不急。<i>当然</i>，这些宝石的来源是合法的：他亲自掠夺的金库。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=105 | Description | bargains[102].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "105$Name",
+    "original": "A liberator of Navaratine Gemstones",
+    "translation": "曩缚咤宝石的解放者",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=105 | Name | bargains[102].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "105$Teaser",
+    "original": "He moves in stuttering starts, like a rabbit who knows a dog is about...",
+    "translation": "他的动作磕磕巴巴，就像一只知道有狗来的兔子……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=105 | Teaser | bargains[102].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "106$Description",
+    "original": "While excavating ice to build their homes at the well's edge, the Psalmists unearthed a number of large, sinuous creatures frozen within it. The beasts thaw slowly. Still trapped, this one flicks a lazy eyelid. For a fee, you may take the monsters off the Psalmists hands.",
+    "translation": "在井边掘冰建屋时，诗篇信徒们发现了几只封冻的巨大怪蛇，它们正慢慢解冻。眼前这头仍被困在冰中，眨着惺忪的眼睛。只要出钱，你就可以把这些怪物从诗篇信徒们的手上买走。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=106 | Description | bargains[103].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "106$Name",
+    "original": "On ice",
+    "translation": "冰上",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=106 | Name | bargains[103].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "106$Teaser",
+    "original": "While excavating ice to build their homes at the well's edge, the Psalmists unearthed a number of large, sinuous creatures frozen within it...",
+    "translation": "在井边掘冰建屋时，诗篇信徒们发现了几只封冻的巨大怪蛇……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=106 | Teaser | bargains[103].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107$Description",
+    "original": "Some say that Navaratine gemstones are cooled sparks that once fell from the Forge of Souls during its heyday. The shades that watch over the Forge occasionally find a new trove of them glimmering among the mounds of ash and slag. One of the spirits, a Scorched Servitor, furtively sells handfuls of the gems in the shadow of the port's gate. It does not say what it wants with London currency.",
+    "translation": "有人说，曩缚咤宝石是从全盛时期的灵魂铸炉落下后冷却的火花。看守铸炉的遗魂们偶尔在成堆的灰烬和矿渣中发现微亮的宝石。其中一个鬼魂，一个烧焦的灵仆，正在车站大门的阴影下鬼鬼祟祟地售卖一把宝石。它没有说它想用伦敦的货币买什么。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=107 | Description | bargains[104].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107$Name",
+    "original": "The residue of creation",
+    "translation": "创造的残渣",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=107 | Name | bargains[104].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107$Teaser",
+    "original": "Some say that Navaratine gemstones are cooled sparks that once fell from the Forge of Souls during its heyday...",
+    "translation": "有人说，曩缚咤宝石是从全盛时期的灵魂铸炉落下后冷却的火花……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=107 | Teaser | bargains[104].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "108$Description",
+    "original": "Only a minority of the shades of the Blue Kingdom are human, or even human-like. Here, between Death's Doorstop and the Endless Furrows, a group of pachydermous spirits congregate. Their thick legs, and the prehensile trunks that hang from behind their huge porcelain death-masks, are caked with the local grey mud. They will exchange souls – possibly theirs, possibly not – in exchange for sovereigns, which they eat one by one before taking the next. It is a slow transaction.",
+    "translation": "蓝色王国的遗魂中只有少数是人类，就连看着像人的都很少。在这里，在死之门关和无尽沟壑之间，聚集着一群长颈鹿的鬼魂。它们粗壮的腿，以及挂在巨大的瓷质死亡面具后面的长脖子，都覆盖上了这里的灰色泥浆。它们会出售灵魂——可能是它们自己的，也可能不是——以换取金镑。收款时，它们会把钱币一个一个地吃掉。这是一场缓慢的交易。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=108 | Description | bargains[105].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "108$Name",
+    "original": "Souls for silver",
+    "translation": "灵魂换白银",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=108 | Name | bargains[105].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "108$Teaser",
+    "original": "Only a minority of the shades of the Blue Kingdom are human, or even human-like...",
+    "translation": "蓝色王国的遗魂中只有少数是人类，就连看着像人的……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=108 | Teaser | bargains[105].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "109$Description",
+    "original": "\"Grandmother doesn't want these ones.\" One of the Widows, a cadaverous woman, holds a knot of sorrow-spiders in her arms. They have been woven intricately together: a braid of jointed legs and faceted eyes. She thrusts it towards you. \"You may purchase them.\"",
+    "translation": "“祖母不想要这些。”一个形容枯槁的寡妇怀里抱着一结悲伤蜘蛛。它们被错综复杂地编织在一起：一条满是节肢和复眼的辫子。她把它到你面前。“你可以买下它们。”",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=109 | Description | bargains[106].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "109$Name",
+    "original": "A hissed offer",
+    "translation": "嘶哑的报价",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=109 | Name | bargains[106].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "109$Teaser",
+    "original": "\"Grandmother doesn't want these ones...",
+    "translation": "“祖母不想要这些……”",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=109 | Teaser | bargains[106].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "11$Description",
+    "original": "A spirifer is an unlicensed dealer in souls. This one has a perpetual sniffle. He finds a quiet corner to show you a sample of grubby bottles. Wispy shapes coil inside. \"See?\" he sniffs. \"Fine as porcelain. I swears every one of 'em was teetotal or church-goin'.\"",
+    "translation": "灵贩就是没有执照的灵魂商人。这位的鼻涕流个不停。他找到一个安静的角落，给你展示了一瓶肮脏的样品。飘渺的形体在其中盘旋。“看到了吗？”他擤了擤。“像陶瓷一样精致。我敢发誓，他们生前都不喝酒，也不信教。”",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=11 | Description | bargains[9].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "11$Name",
+    "original": "The Snivelling Spirifer is selling souls",
+    "translation": "吸着鼻子的灵贩正在出售灵魂",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=11 | Name | bargains[9].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "11$Teaser",
+    "original": "A spirifer is an unlicensed dealer in souls...",
+    "translation": "灵贩就是没有执照的灵魂商人……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=11 | Teaser | bargains[9].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "110$Description",
+    "original": "A many-legged spirit paws at your arm and pulls you towards a trove of hours it has piled in a ditch. These are hours shed by spirits intending to pass through Death's Door. Their quality is as good as any dug from a sky-rock, or from the Mother of Mountains.",
+    "translation": "一个多足的鬼魂用爪子抓着你的胳膊，把你带到它放在沟壑里的一堆时间面前。这些是打算通过死亡之门的鬼魂所留下的时间。它们的质量不亚于从天石上，或者从山之母那里挖出来的。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=110 | Description | bargains[107].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "110$Name",
+    "original": "Unneeded, abandoned",
+    "translation": "不需要的，被遗弃的",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=110 | Name | bargains[107].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "110$Teaser",
+    "original": "A many-legged spirit paws at your arm and pulls you towards a trove of hours it has piled in a ditch...",
+    "translation": "一个多足的鬼魂用爪子抓着你的胳膊，把你带到它放在沟壑里的一堆时间面前……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=110 | Teaser | bargains[107].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "111$Description",
+    "original": "The Devil is pleased to have done great work at the Home Bureau. \"See what one can accomplish when one sees idleness as potential, London's detritus as opportunity, not waste, and tedium as the crucible of perfection.\" He offers a selection of scrupulously refined souls.",
+    "translation": "魔鬼很高兴能在内政部发光发热。“看看当一个人把游手好闲看作是潜力，把伦敦的垃圾看作机遇而非浪费，把乏味看作是完美的熔炉时，他能取得什么成就。”他为你提供了一批堪称精良的灵魂。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=111 | Description | bargains[108].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "111$Name",
+    "original": "Souls from the Horizon",
+    "translation": "来自地平线的灵魂",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=111 | Name | bargains[108].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "111$Teaser",
+    "original": "The Devil is pleased to have done great work at the Home Bureau...",
+    "translation": "魔鬼很高兴能在内政部发光发热……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=111 | Teaser | bargains[108].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "12$Description",
+    "original": "A Dishevelled Research Associate sells caddies of dried tea from an oak chest. \"Due to an unfortunate but entirely understandable administrative error, the professor's entire research budget has been spent on tea,\" she explains, shuffling her feet awkwardly. \"Please buy some.\"",
+    "translation": "",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=12 | Description | bargains[10].Description；差异分类：内容变化；原文变化，译文留空等待复核。旧原文：A Dishevelled Research Associate has briefly docked while on an arduous research expedition. She sells caddies of dried tea from an oak chest. \"Due to an unfortunate but entirely understandable administrative error, the professor's entire research budget has been spent on tea,\" she explains, shuffling her feet awkwardly. \"Please buy some.\"\n旧译文（仅参考）：一位衣衫褴褛的研究助理在一次艰苦的研究考察途中短暂停靠。她售卖橡木箱子里的干茶叶。“由于一次不幸但完全可以理解的管理失误，教授的研究预算全都花在了茶叶上，”她解释说，一边尴尬地来回挪脚。“请买一些吧。”"
+  },
+  {
+    "key": "12$Name",
+    "original": "\"Tea for sale! Buy tea! Everyone likes tea! Please?\"",
+    "translation": "“卖茶叶咯！来买茶叶吧！没人不爱喝茶！请买一份吧？”",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=12 | Name | bargains[10].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "12$Teaser",
+    "original": "A Dishevelled Research Associate sells caddies of dried tea from an oak chest...",
+    "translation": "",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=12 | Teaser | bargains[10].Teaser；差异分类：内容变化；原文变化，译文留空等待复核。旧原文：A Dishevelled Research Associate has briefly docked while on an arduous research expedition...\n旧译文（仅参考）：一位衣衫褴褛的研究助理在一次艰苦的研究考察途中短暂停靠……"
+  },
+  {
+    "key": "13$Description",
+    "original": "A Starving Poet is selling collections of his latest work. He seems to have rather a lot of it. \"A minor printing error,\" he explains. \"A simple matter of a misplaced 'u' that rather dramatically changes the... ah... tone of a sentence. Also its probity. But if the Ministry of Public Decency didn't spot it, I'm sure hardly anyone will.\"",
+    "translation": "一位饥肠辘辘的诗人正在出售他最新的作品集。数量似乎相当多。“一个小小的印刷错误，”他解释说，“只是一个放错位置的‘u’，不过相当显著地改变了句子的……嗯……腔调。还有它的完整性。不过如果公德部没有发现它，那别人应该也不会发现。”",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=13 | Description | bargains[11].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "13$Name",
+    "original": "A sale of Ministry-approved poetry",
+    "translation": "有人在出售已审批的诗集",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=13 | Name | bargains[11].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "13$Teaser",
+    "original": "A Starving Poet is selling collections of his latest work...",
+    "translation": "一位饥肠辘辘的诗人正在出售他最新的作品集……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=13 | Teaser | bargains[11].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131657$AvailableAt",
+    "original": "Undistinguished Souls can be reliably purchased at Magdalene's, Port Avon and the White Well. They can sometimes be salvaged from Eaters of the Dead and Spirifer Engines, or extracted from vaults in the Blue Kingdom.",
+    "translation": "平庸的灵魂总是可以在抹大拉之家、埃文村和白井买到，有时也可以从食死怪和猎魂机车中回收，或者从蓝色王国的地窖中提取。",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131657 | AvailableAt | bargains[9].Offer.AvailableAt；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131657$Description",
+    "original": "The bottles are as ordinary as the souls that coil inside them.",
+    "translation": "这些瓶子和盘绕其中的灵魂一样普通。",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131657 | Description | bargains[9].Offer.Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131657$Name",
+    "original": "Jumble of Undistinguished Souls",
+    "translation": "一堆平庸的灵魂",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131657 | Name | bargains[9].Offer.Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131657$PluralName",
+    "original": "Jumbles of Undistinguished Souls",
+    "translation": "几堆平庸的灵魂",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131657 | PluralName | bargains[9].Offer.PluralName；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131658$AvailableAt",
+    "original": "Immaculate Souls can be reliably purchased from Caduceus and Death's Door. They can often be salvaged from Spirifer Engines, or extracted from Blue Kingdom vaults – if you have assaying equipment.",
+    "translation": "无垢灵魂总是可以在商神宫和死亡之门处买到，也可以从猎魂机车中回收，或者从蓝色王国的地窖中取出，前提是你装备了勘查设备。",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131658 | AvailableAt | bargains[28].Offer.AvailableAt；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131658$Description",
+    "original": "The rarest and most refined of souls, lovingly curated. ",
+    "translation": "这是最稀有、最精致的灵魂，精心擢选所得。",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131658 | Description | bargains[28].Offer.Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131658$Name",
+    "original": "Selection of Immaculate Souls",
+    "translation": "一组无垢灵魂",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131658 | Name | bargains[28].Offer.Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131658$PluralName",
+    "original": "Selections of Immaculate Souls",
+    "translation": "几组无垢灵魂",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131658 | PluralName | bargains[28].Offer.PluralName；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131659$AvailableAt",
+    "original": "Caged Catches can be reliably purchased at the House of Rods & Chains. If you have butchery equipment, you can also catch squirmings in the mist sea of Albion and convert them to catches at St. Anthony's Lighthouse. You can sometimes salvage them from Bull Cantankeri.",
+    "translation": "笼中猎获总是可以在链杆之屋买到，也可以在阿尔比恩的雾海中捕捉蠕动之物，并在圣安东尼的灯塔将它们转化为猎获，前提是你装备了屠宰设备。有时，还能从健壮顽固虱身上捕获。",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131659 | AvailableAt | bargains[35].Offer.AvailableAt；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131659$Description",
+    "original": "A wild sky-beast. Exotic. Contained. Furious.",
+    "translation": "天空野兽。诡形怪状、披枷带锁、暴跳如雷。",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131659 | Description | bargains[35].Offer.Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131659$Name",
+    "original": "Caged Catch",
+    "translation": "笼中猎获",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131659 | Name | bargains[35].Offer.Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131659$PluralName",
+    "original": "Caged Catches",
+    "translation": "笼中猎获",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131659 | PluralName | bargains[35].Offer.PluralName；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131660$AvailableAt",
+    "original": "Glass can be reliably purchased at the Clockwork Sun and the Mausoleum, and often salvaged from Deranged Dreadnoughts.",
+    "translation": "彩色玻璃总是可以在发条太阳和圣宁墓买到，也可以从癫狂的无畏机车上回收。",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131660 | AvailableAt | bargains[16].Offer.AvailableAt；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131660$Description",
+    "original": "The light of the High Wilderness can enchant and derange. Coloured glass helps keep it at bay. ",
+    "translation": "天野的光线令人痴狂。上色玻璃可以提供防护。",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131660 | Description | bargains[16].Offer.Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131660$Name",
+    "original": "Pane of Stained Glass",
+    "translation": "一块彩色玻璃",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131660 | Name | bargains[16].Offer.Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131660$PluralName",
+    "original": "Panes of Stained Glass",
+    "translation": "几块彩色玻璃",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131660 | PluralName | bargains[16].Offer.PluralName；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131661$AvailableAt",
+    "original": "Caddies of Dried Tea can be reliably purchased at the Avid Horizon.",
+    "translation": "罐装干茶总是可以在渴求之地平线买到。",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131661 | AvailableAt | bargains[10].Offer.AvailableAt；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131661$Description",
+    "original": "As British as crinoline. Or Lord Elgin's Marbles.",
+    "translation": "就像克里诺林裙撑或大英博物馆的埃尔金石雕那样源自不列颠。",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131661 | Description | bargains[10].Offer.Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131661$Name",
+    "original": "Caddy of Dried Tea",
+    "translation": "一罐干茶",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131661 | Name | bargains[10].Offer.Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131661$PluralName",
+    "original": "Caddies of Dried Tea",
+    "translation": "几罐干茶",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131661 | PluralName | bargains[10].Offer.PluralName；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131662$AvailableAt",
+    "original": "Bronzewood can be reliably purchased at Polmear & Plenty's Circus, Traitor's Wood, and Achlys. It can also be mined in the Reach and salvaged from Scrive-Spinsters.",
+    "translation": "青铜木总是可以在波尔梅尔&普伦蒂马戏团、叛徒之林，和埃克吕斯买到，也可以在外野开采，或从纺书人身上回收。",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131662 | AvailableAt | bargains[14].Offer.AvailableAt；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131662$Description",
+    "original": "Hollowed from the vast trees of the Reach, Bronzewood is prized for its durability and its gleaming resin.\r\n",
+    "translation": "",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131662 | Description | bargains[14].Offer.Description；差异分类：仅空白/换行转义不同（保守起见仍待复核）；原文变化，译文留空等待复核。旧原文：Hollowed from the vast trees of the Reach, Bronzewood is prized for its durability and its gleaming resin.\r\\n\n旧译文（仅参考）：青铜木自外野的参天大树上挖出，因其坚韧的质地和闪亮的树脂而售价高昂。\\n"
+  },
+  {
+    "key": "131662$Name",
+    "original": "Bronzewood",
+    "translation": "青铜木",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131662 | Name | bargains[14].Offer.Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131662$PluralName",
+    "original": "Bronzewood",
+    "translation": "青铜木",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131662 | PluralName | bargains[14].Offer.PluralName；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131663$AvailableAt",
+    "original": "Munitions can be reliably purchased at the Royal Society and the Empyrean, or sometimes salvaged from Tackety Liberators or from flotsam and jetsam.",
+    "translation": "弹药总是可以在皇家学会和苍天上国买到，有时也可以从钉鞋帮解放者机车或漂零杂物中回收。",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131663 | AvailableAt | bargains[13].Offer.AvailableAt；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131663$Description",
+    "original": "Sometimes, a crewman pretends he's going to drop one. It's still not funny.",
+    "translation": "有时，一位列车员会假装他差点摔掉一箱。这可不好笑。",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131663 | Description | bargains[13].Offer.Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131663$Name",
+    "original": "Carefully-Packed Crate of Munitions",
+    "translation": "包装严密的弹药",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131663 | Name | bargains[13].Offer.Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131663$PluralName",
+    "original": "Carefully-Packed Crates of Munitions ",
+    "translation": "包装严密的弹药",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131663 | PluralName | bargains[13].Offer.PluralName；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131664$AvailableAt",
+    "original": "Nectar can be reliably purchased at Titania and Carillon, or collected from Chorister-hives.",
+    "translation": "唱诗蜂蜜总是可以在狄坦妮娅和钟琴区买到，或从唱诗蜂巢中收集。",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131664 | AvailableAt | bargains[3].Offer.AvailableAt；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131664$Description",
+    "original": "For tea-drinkers it's a sweetener; for poets an inebriant. For singers it's an enhancement, widening the vocal range by a valuable semi-tone or two.",
+    "translation": "它是茶客的甘饴，诗人的佳酿，歌唱家的灵药，可以让音域拓宽一两个宝贵的半音。",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131664 | Description | bargains[3].Offer.Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131664$Name",
+    "original": "Gourd of Chorister Nectar",
+    "translation": "一瓢唱诗蜂蜜",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131664 | Name | bargains[3].Offer.Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131664$PluralName",
+    "original": "Gourds of Chorister Nectar",
+    "translation": "几瓢唱诗蜂蜜",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131664 | PluralName | bargains[3].Offer.PluralName；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131665$AvailableAt",
+    "original": "Hours can be reliably purchased at Port Prosper and Lustrum, and mined from sky-rocks in the Reach.",
+    "translation": "时间总是可以在兴荣港和伍载镇买到，也可以从外野的天石中开采。",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131665 | AvailableAt | bargains[6].Offer.AvailableAt；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131665$Description",
+    "original": "A barrel, encased in beeswax and stamped with the Ministry's mark. Its contents sigh like the tide.",
+    "translation": "一个用蜂蜡封装的桶，上面印有着公德部的标记。里面的东西如潮水般叹息。",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131665 | Description | bargains[6].Offer.Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131665$Name",
+    "original": "Barrel of Unseasoned Hours",
+    "translation": "一桶未加工的时间",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131665 | Name | bargains[6].Offer.Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131665$PluralName",
+    "original": "Barrels of Unseasoned Hours",
+    "translation": "几桶未加工的时间",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131665 | PluralName | bargains[6].Offer.PluralName；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131666$AvailableAt",
+    "original": "Crockery can be reliably purchased at Brabazon and the Floating Parliament, or sometimes retrieved from flotsam and jetsam.",
+    "translation": "瓷器总是可以在布拉巴宗和浮空议会买到，有时也可以从漂零杂物中找到。",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131666 | AvailableAt | bargains[4].Offer.AvailableAt；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131666$Description",
+    "original": "Fine London china; porcelain plates bearing the Empress' face; cups and saucers, traced with roses.",
+    "translation": "精美的伦敦瓷器；印有女王面容的瓷盘；描有玫瑰花纹的杯碟。",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131666 | Description | bargains[4].Offer.Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131666$Name",
+    "original": "Crate of Nostalgic Crockery",
+    "translation": "一箱引人怀旧的瓷器",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131666 | Name | bargains[4].Offer.Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131666$PluralName",
+    "original": "Crates of Nostalgic Crockery",
+    "translation": "几箱引人怀旧的瓷器",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131666 | PluralName | bargains[4].Offer.PluralName；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131667$AvailableAt",
+    "original": "Approved Literature can be reliably purchased at Perdurance and Worlebury-juxta-Mare.",
+    "translation": "已审批的文学作品总是可以在琥珀宫和滨海沃伯瑞买到。",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131667 | AvailableAt | bargains[1].Offer.AvailableAt；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131667$Description",
+    "original": "It has been thoroughly censored. Nothing here is likely to startle your maiden aunt. Or make her cackle.",
+    "translation": "已经过仔细删减的作品。里面的内容，恐怕既吓不着，也逗不乐你那老处女姨妈。",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131667 | Description | bargains[1].Offer.Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131667$Name",
+    "original": "Ministry-Approved Literature",
+    "translation": "已审批的文学作品",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131667 | Name | bargains[1].Offer.Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131667$PluralName",
+    "original": "Ministry-Approved Literature",
+    "translation": "已审批的文学作品",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131667 | PluralName | bargains[1].Offer.PluralName；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131668$AvailableAt",
+    "original": "Verdant Seeds can be reliably purchased at Hybras or the Leadbeater & Stainrod Nature Reserve.",
+    "translation": "青翠的种子总是可以在海波拉，或者李德彼特&斯坦罗德自然保护区买到。",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131668 | AvailableAt | bargains[7].Offer.AvailableAt；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131668$Description",
+    "original": "From which mighty trunks may grow. Or any number of other things. The flora of the High Wilderness is erratic.",
+    "translation": "从中可以长出强健的树干，或任何数量的其他东西。天野的植物极不稳定。",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131668 | Description | bargains[7].Offer.Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131668$Name",
+    "original": "Sack of Verdant Seeds",
+    "translation": "一袋青翠的种子",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131668 | Name | bargains[7].Offer.Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131668$PluralName",
+    "original": "Sacks of Verdant Seeds",
+    "translation": "几袋青翠的种子",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131668 | PluralName | bargains[7].Offer.PluralName；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131669$AvailableAt",
+    "original": "Bombazine can be reliably purchased at Langley Hall, and can often be salvaged from Resurrectionists in Albion.",
+    "translation": "邦巴辛布总是可以在兰利厅买到，也经常可以从阿尔比恩的掘墓人机车上回收。",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131669 | AvailableAt | bargains[15].Offer.AvailableAt；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131669$Description",
+    "original": "This midnight-hued fabric grows heavy with devoured light. The perfect adornment for ostentatious grief and clandestine activity.",
+    "translation": "这种午夜色的织物因吞噬了光线而变得沉重。作为炫耀悲伤和秘密活动的完美装饰品最合适不过了。",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131669 | Description | bargains[15].Offer.Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131669$Name",
+    "original": "Roll of Thirsty Bombazine",
+    "translation": "一卷渴光的邦巴辛布",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131669 | Name | bargains[15].Offer.Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131669$PluralName",
+    "original": "Rolls of Thirsty Bombazine",
+    "translation": "几卷渴光的邦巴辛布",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131669 | PluralName | bargains[15].Offer.PluralName；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131740$AvailableAt",
+    "original": "Navaratine Gemstones can reliably be purchased at Piranesi and the Forge of Souls. They can also be mined from sky-rocks in the Blue Kingdom, or found in ruins if you have assaying equipment.",
+    "translation": "曩缚咤宝石总是可以在皮拉内西和灵魂铸炉购买，也可以从蓝色王国的天石中开采，还可以在漂浮的遗迹中找到，前提是你装备了勘查设备。",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131740 | AvailableAt | bargains[69].Offer.AvailableAt；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131740$Description",
+    "original": "They say these are the ever-cooling sparks that fall from the Forge of Souls. ",
+    "translation": "他们说这是灵魂锻炉落下的逐渐冷却的火花。 ",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131740 | Description | bargains[69].Offer.Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131740$Name",
+    "original": "Cask of Navaratine Gemstones",
+    "translation": "一桶曩缚咤宝石",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131740 | Name | bargains[69].Offer.Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "131740$PluralName",
+    "original": "Casks of Navaratine Gemstones",
+    "translation": "几桶曩缚咤宝石",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=131740 | PluralName | bargains[69].Offer.PluralName；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "132096$Description",
+    "original": "Your engine is always hungry.",
+    "translation": "你的机车永无餍足。",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=132096 | Description | bargains[2].Offer.Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "132096$Name",
+    "original": "Fuel",
+    "translation": "燃料",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=132096 | Name | bargains[2].Offer.Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "132096$PluralName",
+    "original": "Fuel",
+    "translation": "燃料",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=132096 | PluralName | bargains[2].Offer.PluralName；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "132306$Description",
+    "original": "A fragment of evidence that points to the sleeping king's identity as that of St John the Evangelist.",
+    "translation": "一份证据的残片，表明沉睡的国王正是传道者圣约翰本尊。",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=132306 | Description | bargains[5].Offer.Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "132306$Name",
+    "original": "A Wooden Disc",
+    "translation": "一个木制圆盘",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=132306 | Name | bargains[5].Offer.Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "132306$PluralName",
+    "original": "Wooden Discs",
+    "translation": "木质圆盘",
+    "context": "bargains.bytes | Failbetter.Core.Quality | ID=132306 | PluralName | bargains[5].Offer.PluralName；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "14$Description",
+    "original": "The recent death of a well-to-do widower has triggered an unseemly family squabble over the disposition of his estate. An Indifferent Solicitor has been charged with auctioning off various of the deceased's unwanted belongings in order to cover the death duty.",
+    "translation": "一位富裕的鳏夫最近去世，引发了一场关于处置其遗产的不体面的家庭争吵。一位冷漠的律师被指控拍卖死者的各种无用物品，以支付死亡税。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=14 | Description | bargains[12].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "14$Name",
+    "original": "An auction of blue-painted crockery",
+    "translation": "一场青花瓷拍卖会",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=14 | Name | bargains[12].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "14$Teaser",
+    "original": "The recent death of a well-to-do widower has triggered an unseemly family squabble over the disposition of his estate...",
+    "translation": "一个富裕的鳏夫最近去世，引发了一场关于其遗产处置的不体面的家庭争吵……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=14 | Teaser | bargains[12].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "15$Description",
+    "original": "A Doleful Fence lifts the corner of a tarpaulin to show you the wares underneath. \"Davy's Dust,\" he intones, like a vicar at a funeral. \"Chivs, irons, barkers, bulldogs-with-six-teeth.\" You translate his criminal argot into plain English: gunpowder, knives, guns, guns, guns.",
+    "translation": "一个忧郁的销赃者掀开防水布的一角，向你展示下面的商品。“硝土，”他用丧仪牧师的腔调念叨，“家伙什，铁皮的，撸子，六音子。”你把他的黑话转成白话：火药、刀子、枪、枪、枪。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=15 | Description | bargains[13].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "15$Name",
+    "original": "A furtive sale of less-than-legal armaments",
+    "translation": "有人在偷偷摸摸地出售不太合法的军火",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=15 | Name | bargains[13].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "15$Teaser",
+    "original": "A Doleful Fence lifts the corner of a tarpaulin to show you the wares underneath...",
+    "translation": "一个忧郁的销赃者掀开防水布的一角，向你展示下面的商品……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=15 | Teaser | bargains[13].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "16$Description",
+    "original": "The oldest bronzewoods – tall as mesas and broad as cathedrals – are too grand to fell. Instead, tree-borers mine into the trunks in search of the gleaming heart-wood. A wiry borer is selling bundles of resinous splinters, each taller than he.",
+    "translation": "最古老的那些青铜树高如山丘，广若圣堂，宏伟至极，难以采伐。钻树者们转而深入树干中挖掘，寻找泛光的心材。一个精瘦的钻树者正在出售成捆的树脂碎片，里面每片都比他的身子还高。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=16 | Description | bargains[14].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "16$Name",
+    "original": "A boring of Bronzewood",
+    "translation": "一份青铜木钻伐碎片",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=16 | Name | bargains[14].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "16$Teaser",
+    "original": "The oldest bronzewoods – tall as mesas and broad as cathedrals – are too grand to fell...",
+    "translation": "最古老的那些青铜树高如山丘，广若圣堂，宏伟至极，难以采伐......",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=16 | Teaser | bargains[14].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "17$Description",
+    "original": "Bombazine is worked in the dark, in candleless rooms with boarded windows. A milk-eyed weaver sells rolls of the cloth she has made in her cellar. It is black and splendid, drinking the starlight thirstily.",
+    "translation": "邦巴辛布在黑暗中织就：房间不点蜡烛，窗户封上木板。一位双眼白翳的织工出售她在地窖中生产的布卷。它漆黑、华丽，饥渴地吸收着星光。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=17 | Description | bargains[15].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "17$Name",
+    "original": "Bales of cellar-woven Bombazine",
+    "translation": "几捆在暗窖织就的邦巴辛布",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=17 | Name | bargains[15].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "17$Teaser",
+    "original": "Bombazine is worked in the dark, in candleless rooms with boarded windows...",
+    "translation": "邦巴辛布在黑暗中织就：房间不点蜡烛，窗户封上木板……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=17 | Teaser | bargains[15].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "18$Description",
+    "original": "They have sandwiched the panes between wooden boards, and wrapped them in rags. When a passing costermonger asks where they got the glass, a Sooty Vagabond snaps \"Never you mind!\" and throws his coat over the baleful glass angel adorning the pane they had on display.",
+    "translation": "他们把玻璃板夹在两块木板间，用布条缠了起来。当一个路过的服装商问他们从哪里得到这些玻璃时，一个煤灰帮成员厉声说道“跟你没关系！”，然后扔出他的外套，盖住了他们展示的板材，还有那块碎玻璃上的天使画。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=18 | Description | bargains[16].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "18$Name",
+    "original": "A gang of grubby urchins are selling Stained Glass",
+    "translation": "一群肮脏的顽童正在出售彩色玻璃",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=18 | Name | bargains[16].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "18$Teaser",
+    "original": "They have sandwiched the panes between wooden boards, and wrapped them in rags...",
+    "translation": "他们把玻璃板夹在两块木板间，用布条缠了起来……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=18 | Teaser | bargains[16].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "2$Description",
+    "original": "A consignment of recent publications have arrived from London. Journals of Her Enduring Majesty's courtiers, recounting her wisest judgements. Mournful memorial poetry written at the Most Serene Mausoleum. Accounts of the eternally-youthful debutantes at Perdurance, and their unending revels.",
+    "translation": "一批新近的出版物刚从伦敦运来。有的是不朽的女王陛下麾下群臣的日志，其中记录着她的明智决断；有的是在圣宁墓写下的悲伤挽诗；还有的是对琥珀宫那些青春永驻的闺秀和她们无尽狂欢的记录。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=2 | Description | bargains[1].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "2$Name",
+    "original": "A bibliophile's bargain: the latest literature from London",
+    "translation": "藏书家的交易：伦敦最新的文学作品",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=2 | Name | bargains[1].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "2$Teaser",
+    "original": "A consignment of recent publications have arrived from London...",
+    "translation": "一批新近的出版物刚从伦敦运来……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=2 | Teaser | bargains[1].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "20$Description",
+    "original": "\"Fresh from the gardens of the Reach!\" This green-thumbed captain buys crops for a pittance from the region's scattered farmsteads, then sells the yield at larger ports.",
+    "translation": "“来自外野花园的新鲜货！”这位善于园艺的车长从附近散布的农庄中廉价收购作物，然后在较大的车站转销。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=20 | Description | bargains[18].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "20$Name",
+    "original": "The captain of a greenhouse-engine is selling seeds",
+    "translation": "温室机车的车长正在出售种子",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=20 | Name | bargains[18].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "20$Teaser",
+    "original": "\"Fresh from the gardens of the Reach! - ",
+    "translation": "“来自外野花园的新鲜货！ - ",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=20 | Teaser | bargains[18].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "21$Description",
+    "original": "A Buoyant Broker sells barrels full of geode-like hours.\"'Dug fresh from the shapely flanks of the Mother of Mountains by rugged but well-mannered prospectors!\" He cries. \"Put 'em to your ears, m'dears, and hear 'em call.\"",
+    "translation": "一位活跃的中介商在出售满满一桶晶洞一样的时间。“群山之母山脊上来的新鲜货！壮小伙子们现挖现卖的嘞！”他吆喝着，“放耳朵边儿上，来来来，听听这声儿。”",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=21 | Description | bargains[19].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "21$Name",
+    "original": "\"Fresh hours! Get your fresh hours here!\"",
+    "translation": "“新鲜的时间！现挖的时间！瞧一瞧看一看啊！”",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=21 | Name | bargains[19].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "21$Teaser",
+    "original": "A Buoyant Broker sells barrels full of geode-like hours...",
+    "translation": "一个活跃的中介商在出售满满一桶晶洞一样的时间……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=21 | Teaser | bargains[19].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "22$Description",
+    "original": "A rangy captain employed by the Wit & Vinegar company – a struggling lumber-concern – is selling bronzewood offcuts. The bark gleams where it was cut by her engine's saw.",
+    "translation": "一位身材修长的车长受几近破产的尖酸&狡黠公司雇用，正在出售青铜木的边角料。树皮上，被她机车上电锯锯开的裂口正闪闪发光。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=22 | Description | bargains[20].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "22$Name",
+    "original": "Bargain Bronzewood",
+    "translation": "低价待售青铜木",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=22 | Name | bargains[20].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "22$Teaser",
+    "original": "A rangy captain employed by the Wit & Vinegar company – a struggling lumber-concern – is selling bronzewood offcuts...",
+    "translation": "一位身材修长的车长受几近破产的尖酸&狡黠公司雇用，正在出售青铜木的边角料……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=22 | Teaser | bargains[20].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "23$Description",
+    "original": "A hawker sells the latest London potboilers: flimsy, mass-printed books with wood pulp paper, lurid covers, and fresh, gleaming Ministry stamps.",
+    "translation": "一个小贩兜售着伦敦运来的最新款垃圾畅销书，这种书印量大，纸张粗糙廉价，封面艳俗惹眼，却带着公德部新近盖下的闪亮戳记。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=23 | Description | bargains[21].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "23$Name",
+    "original": "A half-price stack of penny-dreadfuls",
+    "translation": "一堆打折甩卖的低俗怪谈",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=23 | Name | bargains[21].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "23$Teaser",
+    "original": "A hawker sells the latest London potboilers: flimsy, mass-printed books with wood pulp paper, lurid covers, and fresh, gleaming Ministry stamps...",
+    "translation": "一个小贩兜售着伦敦运来的最新款垃圾畅销书，这种书印量大，纸张粗糙廉价，封面艳俗惹眼，却带着公德部新近盖下的闪亮戳记......",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=23 | Teaser | bargains[21].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "24$Description",
+    "original": "A crow-like captain sells used, but functional, armaments scavenged from the cold wreckage of a sky-battle. \"Good pickings when the Tacketies and Stovepipes fight,\" he observes, professionally.",
+    "translation": "一位貌若乌鸦的车长正在出售二手但功能完好的武器，它们皆是从一场空战后的冰冷残骸中打捞得来。他洞见到：“当钉鞋党和高帽党打仗时，收获总是不错。”",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=24 | Description | bargains[22].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "24$Name",
+    "original": "A sale of shot and shell",
+    "translation": "枪炮有售",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=24 | Name | bargains[22].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "24$Teaser",
+    "original": "A crow-like captain sells used, but functional, armaments scavenged from the cold wreckage of a sky-battle...",
+    "translation": "一位貌若乌鸦的车长正在出售武器...",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=24 | Teaser | bargains[22].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "25$Description",
+    "original": "An amateur enthusiast has passed away. Hers was an obscure field of scholarship, and her family are selling off her books by the bundle. Stacks of pamphlets, tomes and journals teeter behind the stall.",
+    "translation": "一位业余爱好者去世了。她生前曾热衷于钻研某个冷门的学科，而她家人现在成捆地出售她的藏书。一摞摞的小册子、厚重书卷以及期刊堆放在摊位后面，摇摇欲坠。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=25 | Description | bargains[23].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "25$Name",
+    "original": "An auction of dusty literature",
+    "translation": "尘封文献的拍卖",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=25 | Name | bargains[23].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "25$Teaser",
+    "original": "An amateur enthusiast has passed away...",
+    "translation": "一位业余爱好者去世了......",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=25 | Teaser | bargains[23].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "26$Description",
+    "original": "Until recently, decorating your parlour with bottled souls was a fad in Bohemian circles. Now, fashion has moved on, and souls are out.",
+    "translation": "曾几何时，用瓶装灵魂装饰客厅还是艺术家圈子里的时尚。现如今，潮流已然转变，而灵魂就此落伍。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=26 | Description | bargains[24].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "26$Name",
+    "original": "A line on a cheap collection of souls",
+    "translation": "一条抛售灵魂的消息",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=26 | Name | bargains[24].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "26$Teaser",
+    "original": "Until recently, decorating your parlour with bottled souls was a fad in Bohemian circles...",
+    "translation": "曾几何时，用瓶装灵魂装饰客厅还是艺术家圈子里的时尚……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=26 | Teaser | bargains[24].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "27$Description",
+    "original": "A retired Commander has tipped you off to the sale of a substantial amount of admiralty surplus. Shot and shell. Rifle and revolver.",
+    "translation": "一位退役的司令向你透露，海军有大量过剩物资待售，包括子弹、炮弹、步枪、左轮。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=27 | Description | bargains[25].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "27$Name",
+    "original": "An opportunity to bid on Admiralty munitions",
+    "translation": "机遇：拍卖海军部过剩弹药",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=27 | Name | bargains[25].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "27$Teaser",
+    "original": "A retired Commander has tipped you off to the sale of a substantial amount of admiralty surplus...",
+    "translation": "一位退役的司令向你透露，海军有大量过剩物资待售......",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=27 | Teaser | bargains[25].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "28$Description",
+    "original": "What a lot of tea. Why is this scarred gentleman selling it so cheap? He picks at his teeth. ''D'you want to ask questions, or d'you want to buy a load of cheap tea that may or may not have recently been used to conceal other substances of less certain legality?\"",
+    "translation": "好多茶叶啊。不过为什么这位疤脸大汉的出价这么低？他剔了剔牙，说道：“你是想就这么傻站着问，还是想便宜收点茶叶？它们吗……‘也许’曾经藏过点不那么合法的玩意，谁知道呢。”",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=28 | Description | bargains[26].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "28$Name",
+    "original": "The shady sale of an unlikely amount of tea",
+    "translation": "非法交易巨量茶叶",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=28 | Name | bargains[26].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "28$Teaser",
+    "original": "What a lot of tea...",
+    "translation": "好多茶叶啊......",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=28 | Teaser | bargains[26].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "29$Description",
+    "original": "The Punctilious Excavator is selling precisely-labelled lenses dug from one of the ruins of the Reach. You hold a lens up to the distant light and see a soul – wispy and restless – stir within. \"There's a soul trapped in every one,\" the Excavator murmurs, as if unwilling to intrude.",
+    "translation": "吝啬的挖掘者正在出售从外野的一个废墟中挖出的棱镜，每片都有着精确的编号。你拿起一块正对远处的光芒，看到一个飘渺而不安的灵魂在里面颤动。“每片都困有一个灵魂。”挖掘者喃喃着，似乎不想打扰它们。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=29 | Description | bargains[27].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "29$Name",
+    "original": "A supply of souls, prised from frosty ruins",
+    "translation": "一批从霜冻废墟中取出的灵魂",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=29 | Name | bargains[27].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "29$Teaser",
+    "original": "The Punctilious Excavator is selling precisely-labelled lenses dug from one of the ruins of the Reach...",
+    "translation": "吝啬的挖掘者正在出售从外野的一个废墟中挖出的棱镜，每片都有着精确的编号……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=29 | Teaser | bargains[27].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "3$Name",
+    "original": "TestAnother",
+    "translation": "TestAnother",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=3 | Name | bargains[2].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "30$Description",
+    "original": "A Congenial Vagabond sells bottled souls in the shadows between the tents. He unwraps one. It blazes! This is no parson's soul; no milkmaid's! Not even a prophet's soul burns so brightly! Where did he get it? The Vagabond smiles.",
+    "translation": "兴致相投的流浪者躲在帐篷之间的阴影中，出售瓶装的灵魂。他解封了一个。它在猛烈地燃烧!这绝不是牧师的灵魂，也不可能是挤奶女工的灵魂，就连先知的灵魂也从未燃烧得如此明亮!他从哪里搞来的？流浪者微微一笑。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=30 | Description | bargains[28].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "30$Name",
+    "original": "A Congenial Vagabond, and a sale of sublime souls",
+    "translation": "一个兴致相投的流浪者，和一笔崇高灵魂的买卖",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=30 | Name | bargains[28].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "30$Teaser",
+    "original": "A Congenial Vagabond sells bottled souls in the shadows between the tents...",
+    "translation": "兴致相投的流浪者躲在帐篷之间的阴影中，出售瓶装的灵魂......",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=30 | Teaser | bargains[28].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "31$Description",
+    "original": "The crew of a passing mining-locomotive have been engaging in some unlicensed excavation of Port Avon's ruins. They're keen to sell what they found. Quietly. And quickly.",
+    "translation": "有辆采矿机车暂停此处，某位列车员一直在偷偷挖掘埃文村的废墟。此人愿意出售赃物，交易暗中进行、干脆利落。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=31 | Description | bargains[29].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "31$Name",
+    "original": "A clandestine transaction: souls for sovereigns",
+    "translation": "私相授受：灵魂换金镑",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=31 | Name | bargains[29].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "31$Teaser",
+    "original": "The crew of a passing mining-locomotive have been engaging in some unlicensed excavation of Port Avon's ruins...",
+    "translation": "有辆采矿机车暂停此处，某位列车员一直在偷偷挖掘埃文村的废墟...",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=31 | Teaser | bargains[29].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "32$Description",
+    "original": "Is it tea? Is it really? Is tea that malachite shade of green? Are tea leaves usually so serrated? Certainly it's tea-ish. That's probably good enough out here.",
+    "translation": "这是茶吗？这真是茶吗？茶叶是那种孔雀石一样的绿色吗？茶叶会有这么多锯齿吗？当然，它还是有些像茶的。在这儿，这恐怕已经算不错的茶了。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=32 | Description | bargains[30].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "32$Name",
+    "original": "A researcher is selling 'tea'",
+    "translation": "一位研究人员正在出售 \"茶叶\"",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=32 | Name | bargains[30].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "32$Teaser",
+    "original": "Is it tea?",
+    "translation": "这是茶吗？",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=32 | Teaser | bargains[30].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "33$Description",
+    "original": "An ambitious local family planned to extend their townhouse. But space in Port Prosper is at a premium, and the governor demanded they abandon the work before it was complete. Now, they're trying to recoup their losses by selling a number of splendid, unused panes of stained glass.",
+    "translation": "一家当地人企图扩建他们的联排公寓，但兴荣港寸土寸金，在完工前，州长要求他们放弃工程。现在，他们正试图通过出售玻璃窗格来挽回损失，这些上色玻璃崭新而绚丽。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=33 | Description | bargains[31].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "33$Name",
+    "original": "A fortunate misfortune: a sale of stained glass",
+    "translation": "因祸得福：交易彩窗玻璃",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=33 | Name | bargains[31].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "33$Teaser",
+    "original": "An ambitious local family planned to extend their townhouse...",
+    "translation": "一家当地人企图扩建他们的联排公寓......",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=33 | Teaser | bargains[31].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "34$Description",
+    "original": "A hive-harrower – a well-plated locomotive that hunts chorister-bees for their nectar – has called at Lustrum. The nectar-scent uncoils down the mountain slope, sweet as Turkish delight.",
+    "translation": "一辆蜂巢耙车——一种装潢精美，用于从唱诗蜂处猎取蜂蜜的机车——正在伍载镇停靠。蜜香在山坡上弥漫，香甜如土耳其软糖。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=34 | Description | bargains[32].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "34$Name",
+    "original": "An ambrosial acquisition: chorister-nectar, going cheap!",
+    "translation": "芬芳交易：唱诗蜂蜜，特价出售!",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=34 | Name | bargains[32].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "34$Teaser",
+    "original": "A hive-harrower – a well-plated locomotive that hunts chorister-bees for their nectar – has called at Lustrum...",
+    "translation": "一辆蜂巢耙车——一种装潢精美，用于从唱诗蜂处猎取蜂蜜的机车——正在伍载镇停靠......",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=34 | Teaser | bargains[32].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "35$Description",
+    "original": "A handful of tangle-haired recluses dwell in the wood, growing food in their glade-gardens. Sometimes they visit the bazaar, selling their wares silently.",
+    "translation": "少数蓬头散发的隐士住在林间，在空地上种植粮食作物。有时，他们会到集市上，默默出售余粮。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=35 | Description | bargains[33].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "35$Name",
+    "original": "An arboreal opportunity: seeds from the forest",
+    "translation": "绿荫机遇：林中余粮",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=35 | Name | bargains[33].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "35$Teaser",
+    "original": "A handful of tangle-haired recluses dwell in the wood, growing food in their glade-gardens...",
+    "translation": "几位蓬头散发的隐士住在林间，在空地上种植粮食……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=35 | Teaser | bargains[33].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "36$Description",
+    "original": "The Buoyant Broker has been trying to sell hours to devils. \"They just ain't interested,\" he complains. \"Suspicious, ain't it? Who'd turn down a little more time, eh? Show me a contented man and I'll show you a lunatic.\"",
+    "translation": "活跃的中介商一直在试图向魔鬼们推销时间。\"他们就是没兴趣，\"他抱怨道，\"非常可疑，不是吗？谁会回绝更多的时间呢？再安于当下的人都能为之疯狂。\"",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=36 | Description | bargains[34].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "36$Name",
+    "original": "The Buoyant Broker: a trove of unwanted hours",
+    "translation": "活跃的中介商：滞销的时间库存",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=36 | Name | bargains[34].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "36$Teaser",
+    "original": "The Buoyant Broker has been trying to sell hours to devils...",
+    "translation": "活跃的中介商一直在试图向魔鬼们推销时间...",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=36 | Teaser | bargains[34].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "37$Description",
+    "original": "A mangled hunter is selling his catch outside his sleek, gun-bristling engine. A Cantankeri grumbles in its cage. A tangle of pardoner-eels thrash. Something fungal and livid oozes gently.",
+    "translation": "一位伤痕累累的猎人正在他那光滑锃亮、全副武装的机车外出售自己的猎获。一只顽固虱在笼子里咕咕作响。纠缠在一起的赦免者鳗鱼挣扎不停。真菌状的苍白异物正从容器中缓缓渗出。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=37 | Description | bargains[35].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "37$Name",
+    "original": "A Hunter's Hoard: a choice of Caged Catch",
+    "translation": "猎人的秘藏：笼中猎获，任君掇选",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=37 | Name | bargains[35].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "37$Teaser",
+    "original": "A mangled hunter is selling his catch outside his sleek, gun-bristling engine...",
+    "translation": "一位伤痕累累的猎人正在他那光滑锃亮、全副武装的机车外出售自己的猎获...",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=37 | Teaser | bargains[35].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "38$Description",
+    "original": "Seasonal cycles are unpredictable in the Reach. A settler's crop ripened suddenly, and he's selling the seeds while he can. You examine one, and find it both feathery as a dandelion seed and winged, like that of a sycamore.",
+    "translation": "外野的时节轮替难以预料。一个移民的庄稼突然成熟，他因此在趁机出售种子。你检查了一颗，发现它既像蒲公英的种子一样有羽毛，又像梧桐树的种子一样有翅膀。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=38 | Description | bargains[36].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "38$Name",
+    "original": "An agricultural windfall: a sudden crop of seeds",
+    "translation": "意外收获：乍现的作物种子",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=38 | Name | bargains[36].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "38$Teaser",
+    "original": "Seasonal cycles are unpredictable in the Reach...",
+    "translation": "外野的时节轮替难以预料...",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=38 | Teaser | bargains[36].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "39$Description",
+    "original": "The flora of the Reach is dangerously fecund. Plant a seed, water it, give it a little light and it'll sprout overnight. During transport, it is vital the sacks be stored in a cool, dark, dry place – or your hold is likely to become an impromptu shrubbery.",
+    "translation": "外野的植物长势骇人。种下种子，给它浇水与一点光照，它就会在一夜之间破土而出。运输种子时必须将麻袋存放在阴凉、黑暗而干燥的地方——如若不然，你的船舱就可能会骤然成为一片树丛。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=39 | Description | bargains[37].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "39$Name",
+    "original": "[ALWAYS]An 'orticultural Opportunity: a Buoyant Broker is selling Sacks of Verdant Seeds",
+    "translation": "[AlWAYS]园艺机遇：活跃的中介商正在出售几袋青翠的种子",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=39 | Name | bargains[37].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "39$Teaser",
+    "original": "The flora of the Reach is dangerously fecund...",
+    "translation": "外野的植物长势骇人...",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=39 | Teaser | bargains[37].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "4$Description",
+    "original": "Run of the mill bargareeno",
+    "translation": "平平无奇的合算交易",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=4 | Description | bargains[3].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "4$Name",
+    "original": "Just another bargain",
+    "translation": "又一个便宜货",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=4 | Name | bargains[3].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "4$Teaser",
+    "original": "Run of the mill bargareeno",
+    "translation": "平平无奇的合算交易",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=4 | Teaser | bargains[3].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "41$Description",
+    "original": "A soot-besmirched chemist peddles panes of coloured glass from the back of her workshop. \"Unexpected side-effect,\" she explains. \"Had a small fumes leak – nothing to worry about! Completely safe! But it did turn all my windows these different colours. Striking, eh?\"",
+    "translation": "一位被煤烟熏黑的化学家在她的工坊后方贩卖上色玻璃。\"预期之外的副作用。\"她解释道，“稍微泄露了一点烟雾——但没什么好担心的！绝对安全！不过它确实把我所有的窗户都变成了这些不同的颜色。十分惊人，嗯？\"",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=41 | Description | bargains[38].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "41$Name",
+    "original": "A chemical confoundment",
+    "translation": "混杂的化学物质",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=41 | Name | bargains[38].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "41$Teaser",
+    "original": "A soot-besmirched chemist peddles panes of coloured glass from the back of her workshop...",
+    "translation": "一位被煤烟熏黑的化学家在她的工坊后方贩卖上色玻璃...",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=41 | Teaser | bargains[38].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "42$Description",
+    "original": "Ravenscourt & Stamford make a healthy profit selling academic robes for graduation ceremonies. They insist that only light-drinking bombazine cloth is acceptable at such occasions. Bombazine is splendid but expensive, so there's a bustling second-hand market in used robes among impoverished scholars. One such secret market is taking place now. ",
+    "translation": "雷文斯考特&斯坦福通过出售毕业长袍赚取了丰厚的利润。他们坚持认为在这样的场合必须使用渴光的邦巴辛布。邦巴辛布很华丽，但价格昂贵，因此在拮据的学者中有一个热闹的二手长袍市场。现在就有一个这样的秘密市场在举行。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=42 | Description | bargains[39].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "42$Name",
+    "original": "A bombazinous bargain",
+    "translation": "出售邦巴辛布",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=42 | Name | bargains[39].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "42$Teaser",
+    "original": "Ravenscourt & Stamford make a healthy profit selling academic robes for graduation ceremonies...",
+    "translation": "雷文斯考特&斯坦福通过出售毕业长袍赚取了丰厚的利润...",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=42 | Teaser | bargains[39].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "43$Description",
+    "original": "He has been ejected from his choir following what the papers are only calling 'a recent Incident'. He will have no need of his nectar now, nor of its beneficial effects on his vocal range. If you give him the slightest chance, he will recount the details of his recent scandal bitterly, his melodious voice contrasting vividly with his profane language.",
+    "translation": "在那起仅仅被报道为 \"近期事故 \"的事件之后，他被赶出了唱诗班。他不再需要蜂蜜，也不再需要蜂蜜来滋润声带了。只要你给了他一丁点机会，他就会痛苦地讲述那起丑闻的种种细节，悦耳的声音言说出亵渎的词句。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=43 | Description | bargains[40].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "43$Name",
+    "original": "A Disgraced Chorister is selling his store of nectar",
+    "translation": "一位无地自容的唱诗歌手正在出售他珍藏的蜂蜜",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=43 | Name | bargains[40].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "43$Teaser",
+    "original": "He has been ejected from his choir following what the papers are only calling 'a recent Incident'...",
+    "translation": "在那起仅仅被报道为 \"近期事故 \"的事件之后，他被赶出了唱诗班...",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=43 | Teaser | bargains[40].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "44$Description",
+    "original": "A Bashful Showman is selling tall panes of coloured glass. \"We had to dismantle the Maze of Mirrors,\" he explains. \"Following a number of... well, 'disappearances' is a very strong word, isn't it? Anyway, as long as you keep them away from silver, they should be entirely safe.\"\r\n",
+    "translation": "一个腼腆的马戏团艺人正在出售高大的上色玻璃板。“我们不得不拆除镜子迷宫，”他解释说，“在发生了一些……嗯，‘失踪’这说法就过了，不是吗？总之，只要你让它们离银远点，应该就是绝对安全的。”",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=44 | Description | bargains[41].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "44$Name",
+    "original": "An Unfortunance of Glass",
+    "translation": "玻璃之祸",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=44 | Name | bargains[41].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "44$Teaser",
+    "original": "A Bashful Showman is selling tall panes of coloured glass...",
+    "translation": "一个腼腆的表演者正在出售高大的上色玻璃板...",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=44 | Teaser | bargains[41].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "45$Description",
+    "original": "Frobishers, who supply tea to the Admiral Nelson in Port Prosper, are offering selected clientele an opportunity to purchase their latest loose leaf. They will not, however, be drawn on rumours of a deal gone bad with the Nelson.",
+    "translation": "为兴荣港的纳尔逊上将餐厅提供茶叶的弗罗比舍公司，正在为优质客户提供购买其最新散装茶叶的机会。然而，他们不会对与纳尔逊号交易失败的传言作出解释。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=45 | Description | bargains[42].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "45$Name",
+    "original": "The cut-throat tea-trade",
+    "translation": "残酷的茶叶贸易",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=45 | Name | bargains[42].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "45$Teaser",
+    "original": "Frobishers, who supply tea to the Admiral Nelson in Port Prosper, are offering selected clientele an opportunity to purchase their latest loose leaf...",
+    "translation": "为兴荣港的纳尔逊上将餐厅提供茶叶的弗罗比舍公司，正在为优质客户提供购买其最新散装茶叶的机会……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=45 | Teaser | bargains[42].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "46$Description",
+    "original": "A prominent and tedious poet offers copies of his latest epic to 'the right sort of person'. At 10,000 lines, it is a sequel to Spencer's 'Faerie Queen', depicting Her Enduring Majesty as a second Gloriana. There are few reviews – no one has thus far managed to remain conscious to the end.",
+    "translation": "一位著名而乏味的诗人向 \"合适的人 \"提供他最新史诗的印本。这部万行的作品续写自斯宾塞的《仙后》，将不朽的女王陛下描绘成第二个格罗丽亚娜。书评非常之少——迄今为止，没有人能够清醒地读完它。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=46 | Description | bargains[43].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "46$Name",
+    "original": "'Of Faerie knights and fairest Tanaquill'",
+    "translation": "《仙灵骑士与至高的塔纳奎莉》",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=46 | Name | bargains[43].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "46$Teaser",
+    "original": "A prominent and tedious poet offers copies of his latest epic to 'the right sort of person'...",
+    "translation": "一位著名而乏味的诗人向 \"合适的人 \"提供他最新史诗的印本...",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=46 | Teaser | bargains[43].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "47$Description",
+    "original": "The hawker smiles a little too brightly. \"No hurry. Got all the time in the world, me.\" His eyes dart nervously about the station, as though anticipating the inclement hand of the law upon his shoulder at any minute. \"Brabazon's finest here!\"",
+    "translation": "小贩笑得有点太灿烂了。“不着急。我这里的时间可多的是，”他贼眉鼠眼，左顾右盼，仿佛无情的法律之手随时会伸向他的肩膀。“布拉巴宗最好的那批都在我这儿！”",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=47 | Description | bargains[44].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "47$Name",
+    "original": "An improbable abundance of hours",
+    "translation": "时间堆积成山",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=47 | Name | bargains[44].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "47$Teaser",
+    "original": "The hawker smiles a little too brightly...",
+    "translation": "小贩笑得有点太灿烂了...",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=47 | Teaser | bargains[44].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "48$Description",
+    "original": "The Jolly Collector is doing the rounds. What's he got this time? A pilfered collection of silverware? The complete set of commemorative plates from the Captivating Princess' latest wedding? No. Instead he seems to have branched out into taxidermy. No, wait – that one moved. Zoology, then. Where'd did he get these specimens? His eyes sparkle as he taps the side of his nose.",
+    "translation": "欢乐的收藏家正在举办巡展。这次他拿到了什么？偷来的银器收藏？迷人公主最近婚礼上的全套纪念餐盘？不，不对，他似乎最近在涉足标本制作。不，等等，那东西动了。那看来涉足的就是动物学了。他从哪里得到这些活物的？他轻拍鼻子的侧面，眼睛闪闪发光。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=48 | Description | bargains[45].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "48$Name",
+    "original": "A mercantile menagerie",
+    "translation": "一个商业化的动物园",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=48 | Name | bargains[45].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "48$Teaser",
+    "original": "The Jolly Collector is doing the rounds...",
+    "translation": "欢乐的收藏家正在举办巡展……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=48 | Teaser | bargains[45].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "49$Description",
+    "original": "The Governor has discovered a secret stash of hours that had been squirrelled away by a gang of refinery workers. He has seen fit to sell them on the open market, in order to raise funds for 'programmes to improve the moral character of inmates.'",
+    "translation": "总督收缴了一帮精炼工人私藏的时间矿。他打算在公开市场上出售它们，以便为“囚犯道德品质改善法案”筹集资金。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=49 | Description | bargains[46].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "49$Name",
+    "original": "A seizure of hours",
+    "translation": "被没收的时间",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=49 | Name | bargains[46].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "49$Teaser",
+    "original": "The Governor has discovered a secret stash of hours that had been squirrelled away by a gang of refinery workers...",
+    "translation": "总督收缴了一帮精炼工人私藏的时间矿……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=49 | Teaser | bargains[46].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "5$Description",
+    "original": "An irritable footman is taking whatever he can for the crockery. The dinnerware seems in mint condition; why is his master selling it? He indicates the geometric pattern. \"Last season, innit? It's all wistful featherin' now.\"",
+    "translation": "一个暴躁的男仆正不论价格地卖出餐具。餐具似乎是全新的，为什么他的主人要卖掉它？他指指上面装饰的几何图案。“这不是上一季度的吗？现在都流行花哨的羽毛了。”",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=5 | Description | bargains[4].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "5$Name",
+    "original": "\"Crockery for sale! Nearly new! Cups! Saucers! Gravy boats!\"",
+    "translation": "“卖餐具啰！几乎全新！杯子！碟子！肉汁盘！”",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=5 | Name | bargains[4].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "5$Teaser",
+    "original": "An irritable footman is taking whatever he can for the crockery...",
+    "translation": "一个暴躁的男仆正不论价格地卖出餐具……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=5 | Teaser | bargains[4].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "50$Description",
+    "original": "The Dazzled Sequencer sells buckets full of armaments retrieved from Azimuth. \"Terrible hazard, all these instruments of lethality lying about the place. And most untidy. Keen to get them off the sun. Very keen.\"",
+    "translation": "目眩的新秩序者正在出售从方位厅回收的桶装军备。“可怕的危险品，这里堆着的全是杀人工具。而且场面乱糟糟的。我想从太阳上把这些东西弄走。非常想。”",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=50 | Description | bargains[47].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "50$Name",
+    "original": "An expulsion of problematic materiel",
+    "translation": "",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=50 | Name | bargains[47].Name；差异分类：内容变化；原文变化，译文留空等待复核。旧原文：An expulsion of problematic material\n旧译文（仅参考）：驱逐有害材料"
+  },
+  {
+    "key": "50$Teaser",
+    "original": "The Dazzled Sequencer sells buckets full of armaments retrieved from Azimuth...",
+    "translation": "目眩的新秩序者正在出售从方位厅回收的桶装军备……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=50 | Teaser | bargains[47].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "51$Description",
+    "original": "A Sombre Footman offers discerning visitors a chance to admire (and procure) samples from Perdurance's collection of souls. \"A recent and exceptional donation,\" he says, showing you a set that burn fiercely in their fluted bottles, \"to accompany the arrival of a Duke's daughter. A gift of souls is considered good luck.\"",
+    "translation": "忧郁的男仆为眼光敏锐的游客提供了一个欣赏（和采购）琥珀宫灵魂藏品的机会。“这是最近的一次特殊捐赠，”他向你展示一套凹纹瓶，里面的灵魂猛烈地燃烧着，“用来祝贺一位公爵女儿的出生。据说以灵魂作为赠礼会带来好运。”",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=51 | Description | bargains[48].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "51$Name",
+    "original": "An immaculate opportunity",
+    "translation": "完美的机会",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=51 | Name | bargains[48].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "51$Teaser",
+    "original": "A Sombre Footman offers discerning visitors a chance to admire (and procure) samples from Perdurance's collection of souls...",
+    "translation": "忧郁的男仆为眼光敏锐的游客提供了一个欣赏（和采购）琥珀宫灵魂藏品的机会……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=51 | Teaser | bargains[48].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "52$Description",
+    "original": "Sable-liveried footmen are cutting up vast rolls of midnight fabric for sale. These are the cast offs from the Macabre Counsellor's latest tableaux, rejected for being insufficiently direful.",
+    "translation": "穿着貂皮衣服的男仆们正在裁剪大卷的午夜布料，用以出售。这些是恐怖顾问的新作中的残次品，它们因为不够可怕而被拒绝。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=52 | Description | bargains[49].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "52$Name",
+    "original": "A Tableaux Mort",
+    "translation": "静滞的死",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=52 | Name | bargains[49].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "52$Teaser",
+    "original": "Sable-liveried footmen are cutting up vast rolls of midnight fabric for sale...",
+    "translation": "穿着貂皮衣服的男仆们正在裁剪大卷的午夜布料，用以出售……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=52 | Teaser | bargains[49].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "53$Description",
+    "original": "A recent by-law pushed through by the Restorationists' Committee has outlawed the drinking of tea in Parliament, on the grounds that it is 'an undemocratic and imperialist beverage'. Port has been recommended instead. The law will no doubt be overturned soon, but for now it creates an opportunity.",
+    "translation": "维新派委员会最近通过的一项附则规定禁止在议会中喝茶，理由是茶乃“非民主与帝国主义的饮料”。有人建议饮用波特酒作为代替。毫无疑问，这项法律很快就会被推翻，但现在它创造了一个牟利之机。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=53 | Description | bargains[50].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "53$Name",
+    "original": "The benefits of a bilious by-law",
+    "translation": "恶意附例的益处",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=53 | Name | bargains[50].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "53$Teaser",
+    "original": "A recent by-law pushed through by the Restorationists' Committee has outlawed the drinking of tea in Parliament, on the grounds that it is 'an undemocratic and imperialist beverage'...",
+    "translation": "维新派委员会最近通过的一项附则规定禁止在议会中喝茶，理由是茶乃“非民主与帝国主义的饮料”……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=53 | Teaser | bargains[50].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "54$Description",
+    "original": "The Acting Senior Probiter has raided the backrooms for unused consignments of Hours. \"The last thing anybody wants,\" he says, \"is to spend even more time here.\"",
+    "translation": "不久前，代理高级检察官突袭了一处后房，搜出了不少未交付的时间。“在这里浪费的时间已经够多了。”他说。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=54 | Description | bargains[51].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "54$Name",
+    "original": "A squandering of time",
+    "translation": "挥霍时间",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=54 | Name | bargains[51].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "54$Teaser",
+    "original": "The Acting Senior Probiter has raided the backrooms for unused consignments of Hours...",
+    "translation": "不久前，代理高级检察官突袭了一处后房，搜出了不少未交付的时间。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=54 | Teaser | bargains[51].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "55$Description",
+    "original": "Engineers are clearing out a wing of Portsmouth House to make room for an exciting new experiment. While doing so, they unearthed a trove of Lord Rochester's poetry, written during his race around Pan. It substitutes volume for elegance, but readers are hungry for glimpses of the wild and unlikely wastes of Eleutheria.",
+    "translation": "工程师们正在清理朴茨茅斯工厂的一个侧翼，以便为一个激动人心的新实验腾出空间。过程中，他们发现了一处罗切斯特勋爵的诗歌库，这些诗歌都是他驾车驰骋潘城期间创作的。这些诗作数量众多，但质量欠佳。不过，总有读者渴望一睹厄琉忒里亚的荒野和奇异的荒漠。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=55 | Description | bargains[52].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "55$Name",
+    "original": "The Racer's Muse",
+    "translation": "赛车手的灵感",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=55 | Name | bargains[52].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "55$Teaser",
+    "original": "Engineers are clearing out a wing of Portsmouth House to make room for an exciting new experiment...",
+    "translation": "工程师们正在清理朴茨茅斯工厂的一个侧翼，以便为一个激动人心的新实验腾出空间……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=55 | Teaser | bargains[52].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "56$Description",
+    "original": "The things that glide through Worlebury's ghostly sea of mist are not – let's face it – fish. But if we call them 'fish' we don't have to think about what they actually are. Recently, a school of them was found grounded on the port's pebbled beach. \"What a sight it was,\" a local remarks, wistfully. \"The stars a-shinin' on their membranous wing-fins, their mouths all gulpin' for the vapours.\"",
+    "translation": "在滨海沃伯瑞鬼魅般薄雾中滑翔的生物——让我们面对现实吧——不是鱼。但如果称其为“鱼”，我们就不必费心思考它们到底是什么。最近，一大群鱼搁浅在港口的鹅卵石海滩上。“真是壮观，”一位当地人若有所思地说，“它们膜质的翅膀上闪耀着星光，所有的嘴都在大口地吞入雾气。”",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=56 | Description | bargains[53].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "56$Name",
+    "original": "Fruits of the sea",
+    "translation": "海洋的果实",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=56 | Name | bargains[53].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "56$Teaser",
+    "original": "The things that glide through Worlebury's ghostly sea of mist are not – let's face it – fish...",
+    "translation": "在滨海沃伯瑞鬼魅般薄雾中滑翔的生物——让我们面对现实吧——不是鱼……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=56 | Teaser | bargains[53].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "57$Description",
+    "original": "The Luminous Cardinal is prepared to part with some of his early illuminations. They depict the Reach as the celestial Paradise, before the Fall of the Rebel Angels.",
+    "translation": "光辉红衣主教打算出售一批他早期写就的启明作品。那些文本将外野描绘成于叛逆天使堕落之前的天国乐园。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=57 | Description | bargains[54].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "57$Name",
+    "original": "The Word in the Sky",
+    "translation": "天上的文字",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=57 | Name | bargains[54].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "57$Teaser",
+    "original": "The Luminous Cardinal is prepared to part with some of his early illuminations...",
+    "translation": "光辉红衣主教打算出售一批他早期写就的启明作品……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=57 | Teaser | bargains[54].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "58$Description",
+    "original": "The Macabre Counsellor has gathered a cluster of lesser souls by some stratagem or other. She has grown bored with them, and would happily exchange them for coinage, which she prefers as a method of influence.",
+    "translation": "恐怖顾问先前入手了一批低等灵魂。如今她已对它们感到厌倦，乐得将它们换作金钱——她更喜欢用钱开路。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=58 | Description | bargains[55].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "58$Name",
+    "original": "Poor unfortunates",
+    "translation": "可怜人",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=58 | Name | bargains[55].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "58$Teaser",
+    "original": "The Macabre Counsellor has gathered a cluster of lesser souls by some stratagem or other...",
+    "translation": "恐怖顾问先前入手了一批低等灵魂……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=58 | Teaser | bargains[55].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "59$Description",
+    "original": "The Engraved Mourner has recently put a halt to a proposed fourth window in the Upper Gallery. It was intended to depict Her Renewed Majesty thundering through Albion on a chariot emblazoned with the colours of Empire. The Mourner put a stop to it on grounds of 'good taste'. He now has a lot of glass on his hands.",
+    "translation": "铭刻送葬者最近叫停了在上层画廊增设第四扇窗的提案。在那扇窗上，原本要描绘女王陛下驾驶印有帝国色彩的战车，雷霆万钧般驰骋阿尔比恩的场景。送葬者以“缺乏品味”为由否决了此事，如今他的手头堆满了玻璃。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=59 | Description | bargains[56].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "59$Name",
+    "original": "The Queen's Good Servant",
+    "translation": "女王的好仆人",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=59 | Name | bargains[56].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "59$Teaser",
+    "original": "The Engraved Mourner has recently put a halt to a proposed fourth window in the Upper Gallery...",
+    "translation": "铭刻送葬者最近叫停了在上层画廊增设第四扇窗的提案……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=59 | Teaser | bargains[56].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "6$Description",
+    "original": "Another bargain for testing",
+    "translation": "测试",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=6 | Description | bargains[5].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "6$Name",
+    "original": "Testsome Bargains",
+    "translation": "测试",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=6 | Name | bargains[5].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "6$Teaser",
+    "original": "Another bargain for testing",
+    "translation": "测试",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=6 | Teaser | bargains[5].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "60$Description",
+    "original": "The Duchess Incarnadine is willing to trade various of her menagerie — those deemed 'insufficient', 'lacklustre', 'unfortunately taxidermied', 'regrettable', and 'sobbing'.",
+    "translation": "血色公爵夫人打算出售她的动物收藏。据她所说，它们皆属“欠佳”、“乏味”、“不幸的标本”、“令人遗憾”以及“正在抽泣”。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=60 | Description | bargains[57].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "60$Name",
+    "original": "A Miserable Bestiary",
+    "translation": "糟糕的兽群",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=60 | Name | bargains[57].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "60$Teaser",
+    "original": "The Duchess Incarnadine is willing to trade various of her menagerie — those deemed 'insufficient', 'lacklustre', 'unfortunately taxidermied', 'regrettable', and 'sobbing'...",
+    "translation": "血色公爵夫人打算出售她的动物收藏。据她所说，它们皆属“欠佳”、“乏味”、“不幸的标本”、“令人遗憾”以及“正在抽泣”……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=60 | Teaser | bargains[57].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "61$Description",
+    "original": "The Engraved Mourner is happy to trade Hours with his favoured friends. \"After all, I hardly need them, what with being made of clay. My previous master was just as thoughtlessly beneficient too.\"",
+    "translation": "铭刻送葬者很乐意与他的好友交易时间。“毕竟，我根本不需要它们，我是粘土做的。我以前的主人也是这样随意地施恩。”",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=61 | Description | bargains[58].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "61$Name",
+    "original": "An Abandon of Hours",
+    "translation": "废弃的时间",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=61 | Name | bargains[58].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "61$Teaser",
+    "original": "The Engraved Mourner is happy to trade Hours with his favoured friends...",
+    "translation": "铭刻送葬者很乐意与他的好友交易时间……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=61 | Teaser | bargains[58].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "62$Description",
+    "original": "The new Chorister Hive is producing more nectar than Titania can manage. The Rhapsodic Mayor is almost desperate to export it before the port drowns.",
+    "translation": "新的唱诗蜂蜂巢所生产的花蜜远超狄坦妮娅所能管理。热情洋溢的市长使尽浑身解数，要在港口被其淹没之前将蜂蜜出口。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=62 | Description | bargains[59].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "62$Name",
+    "original": "Fresh nectar! Guaranteed no bits of bee hair!",
+    "translation": "新鲜花蜜！保证没有一根蜂毛！",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=62 | Name | bargains[59].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "62$Teaser",
+    "original": "The new Chorister Hive is producing more nectar than Titania can manage...",
+    "translation": "新的唱诗蜂蜂巢所生产的花蜜远超狄坦妮娅所能管理......",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=62 | Teaser | bargains[59].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "63$Description",
+    "original": "The Curator of Albion's Museum has a stack of unwanted novels and volumes of poetry – they are superfluous to demand. Many bear the name 'Mrs Frontispiece'.",
+    "translation": "阿尔比恩博物馆的馆长有一堆闲置的小说和诗集，远远多于所需要的数量。当中许多的作者是“卷首夫人”。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=63 | Description | bargains[60].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "63$Name",
+    "original": "A Selection of Fine Books",
+    "translation": "精品图书出售",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=63 | Name | bargains[60].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "63$Teaser",
+    "original": "The Curator of Albion's Museum has a stack of unwanted novels and volumes of poetry – they are superfluous to demand...",
+    "translation": "阿尔比恩博物馆的馆长有一堆闲置的小说和诗集……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=63 | Teaser | bargains[60].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "64$Description",
+    "original": "The flower-port is in bloom. The Rhapsodic Mayor has arranged a sale of some of the prettiest seeds.",
+    "translation": "花港正在盛开。热情洋溢的市长已经安排好了部分最漂亮的种子的贸易。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=64 | Description | bargains[61].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "64$Name",
+    "original": "Seeds of Titania",
+    "translation": "狄坦妮娅的种子",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=64 | Name | bargains[61].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "64$Teaser",
+    "original": "The flower-port is in bloom...",
+    "translation": "花港正在盛开……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=64 | Teaser | bargains[61].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "65$Description",
+    "original": "An up-and-coming poet requires additional funds to support to sustain them while they work on their magnum opus.",
+    "translation": "一个新晋诗人需要额外的资金支持，以便在他（她?）创作巨作时维持生活。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=65 | Description | bargains[62].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "65$Name",
+    "original": "Looking for Patron",
+    "translation": "寻找赞助人",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=65 | Name | bargains[62].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "65$Teaser",
+    "original": "An up-and-coming poet requires additional funds to support to sustain them while they work on their magnum opus...",
+    "translation": "一个新晋诗人需要额外的资金支持...",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=65 | Teaser | bargains[62].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "66$Description",
+    "original": "The Royal Society of Titania has several... one looks like a crustacean, another a bit like a jellyfish, another... they aren't sure, but they're all starting to smell. They're welcome to a good home. Or a bad home. Or anywhere else, really.",
+    "translation": "狄坦妮娅皇家学会有几头……一个看起来像甲壳类动物，另一个有点像水母，另一个……他们不确定，但它们都开始发臭了。学会的人急于为它们寻找一个好家。或者糟糕的家。或者其他随便什么地方。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=66 | Description | bargains[63].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "66$Name",
+    "original": "Wriggling Miracles of Science",
+    "translation": "蠕动的科学奇迹",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=66 | Name | bargains[63].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "66$Teaser",
+    "original": "The Royal Society of Titania has several...",
+    "translation": "狄坦妮娅皇家学会有几头……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=66 | Teaser | bargains[63].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "67$Description",
+    "original": "With the Windward Company's recent troubles, the independent miners have been free to step up their endeavours. One mining association, which has begun strip-mining the lower slopes, recently struck a huge trove of hours. Lustrum is flooded with them.",
+    "translation": "由于迎风公司最近的麻烦，独立的矿工可以开始自由地加大开采强度了。一个采矿协会已经开始在低山坡上进行剥离式开采，并且新近发现了一个巨大的时间矿藏。伍载镇里满是这些时间。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=67 | Description | bargains[64].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "67$Name",
+    "original": "An abundance of hours",
+    "translation": "充裕的时间",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=67 | Name | bargains[64].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "67$Teaser",
+    "original": "With the Windward Company's recent troubles, the independent miners have been free to step up their endeavours...",
+    "translation": "由于迎风公司最近的麻烦，独立的矿工可以开始自由地加大开采强度了...",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=67 | Teaser | bargains[64].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "68$Description",
+    "original": "The Tacketies are on the run, and independence for the Reach – once discussed openly on the streets of New Winchester – is now only whispered of in dingy back rooms. Exuberant, the Windward Company have commissioned a serious of political cartoons and essays mocking the independence movement via a satirical embodiment of it: the big-booted, buffoonish, gap-toothed Tackety Jack.",
+    "translation": "钉鞋党正在逃亡，曾经可以在新温彻斯特的街道上公开讨论的外野独立，现在只能在肮脏的密室里低声窃语。得意洋洋的迎风公司委托制作了大量的政治漫画和文章，用讽刺性的笔触来嘲弄和刻画独立运动：一个皮靴宽大、滑稽可笑、满嘴胡言的小丑钉鞋杰克。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=68 | Description | bargains[65].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "68$Name",
+    "original": "'The Follies and Fooleries of Tackety Jack'",
+    "translation": "《钉鞋杰克愚行集》",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=68 | Name | bargains[65].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "68$Teaser",
+    "original": "The Tacketies are on the run, and independence for the Reach – once discussed openly on the streets of New Winchester – is now only whispered of in dingy back rooms...",
+    "translation": "钉鞋党正在逃亡，曾经可以在新温彻斯特的街道上公开讨论的外野独立，现在只能在肮脏的密室里低声窃语...",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=68 | Teaser | bargains[65].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "69$Description",
+    "original": "The Winchester War – the endless scuffles between London-loving Stovepipes and rebellious Tacketies – is locked in a stalemate. Demand for guns and ammunition is high, but supply is even higher. An Enraptured Arms-Dealer can be found in the audience at Polmear & Plenty's circus each night, willing to make a deal.",
+    "translation": "温彻斯特战争......热爱伦敦的高帽党和反叛的钉鞋党人之间无休止的混战暂时僵持不下。枪支弹药的需求量巨大，但供应量更大。在波尔梅尔&普伦蒂马戏团里，每晚都能在观众席上找到一位陶醉的军火商，他也乐于做笔交易。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=69 | Description | bargains[66].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "69$Name",
+    "original": "The fortunes of war",
+    "translation": "战争财",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=69 | Name | bargains[66].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "69$Teaser",
+    "original": "The Winchester War – the endless scuffles between London-loving Stovepipes and rebellious Tacketies – is locked in a stalemate...",
+    "translation": "温彻斯特战争……热爱伦敦的高帽党和反叛的钉鞋党之间的无休止的混战暂时僵持不下...",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=69 | Teaser | bargains[66].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "7$Description",
+    "original": "The captain of a battered mining-locomotive is selling unrefined hours quarried from drifting sky-rocks. Each is a walnut-sized geode, within which an hour grows like salt-crystals. The captain dabs discreetly at his eye with a handkerchief. Being close to this much time makes one melancholy.",
+    "translation": "一辆破旧的采矿机车的车长正在出售从漂流的天石中开采的、未提炼的时间。每颗晶洞都如核桃般大小，时间在其中像盐晶一样生长。车长小心翼翼地用手帕擦拭着双眼。离这么多的时间过近会让人倍感忧郁。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=7 | Description | bargains[6].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "7$Name",
+    "original": "Hours, mined from the sky",
+    "translation": "从天空中开采的时间",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=7 | Name | bargains[6].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "7$Teaser",
+    "original": "The captain of a battered mining-locomotive is selling unrefined hours quarried from drifting sky-rocks...",
+    "translation": "一辆破旧的采矿机车的车长正在出售从漂流的天石中开采的、未提炼的时间。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=7 | Teaser | bargains[6].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "70$Name",
+    "original": "RE-USE THIS",
+    "translation": "RE-USE THIS",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=70 | Name | bargains[67].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "71$Description",
+    "original": "The mirror-waters of Eleutheria are smooth on the surface, but often turbulent and dangerous below. A Scarred Fisherman offers some of his more unusual catches for sale, advising customers of a nervous disposition not to peek into the cages.",
+    "translation": "厄琉忒里亚的水面光滑如镜，但其下暗流涌动，危机四伏。一位伤痕累累的渔夫在出售一些非同寻常的渔获，并建议性格紧张的顾客不要偷看笼子里的东西。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=71 | Description | bargains[68].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "71$Name",
+    "original": "A fisherman's strange catches",
+    "translation": "奇特渔获",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=71 | Name | bargains[68].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "71$Teaser",
+    "original": "The mirror-waters of Eleutheria are smooth on the surface, but often turbulent and dangerous below...",
+    "translation": "厄琉忒里亚的水面光滑如镜，但其下暗流涌动，危机四伏...",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=71 | Teaser | bargains[68].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "72$Description",
+    "original": "A fellow skyfarer in urgent need of money for repairs offers sparkling Navaratine Gemstones looted from the Curator that damaged his locomotive.",
+    "translation": "一个急需资金来维修机车的行天客正在售卖从收藏家那里抢来的，闪闪发光的曩缚咤宝石，这些宝石正是导致他机车损坏的原因。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=72 | Description | bargains[69].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "72$Name",
+    "original": "A Curator's treasure trove",
+    "translation": "一只收藏家的宝库",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=72 | Name | bargains[69].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "72$Teaser",
+    "original": "A fellow skyfarer in urgent need of money for repairs offers sparkling Navaratine Gemstones looted from the Curator that damaged his locomotive...",
+    "translation": "一个急需资金来维修机车的行天客正在售卖从收藏家那里抢来的，闪闪发光的曩缚咤宝石……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=72 | Teaser | bargains[69].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "73$Description",
+    "original": "A scrap merchant is selling off plating from a wrecked locomotive. A plaque on one of the larger plates reads GUINEVERE. \"Her lights failed,\" the scrap merchant explains. \"So she crashed. One of Eleutheria's little tricks.\"",
+    "translation": "一个废品商正在出售失事机车的装甲板。其中一块较大的板子上的牌子写着GUINEVERE。废品商解释说，“她的大灯坏了，所以坠毁了。这就是厄琉忒里亚的一个潜规则。”",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=73 | Description | bargains[70].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "73$Name",
+    "original": "What remains of the Guinevere",
+    "translation": "桂妮薇儿号的残躯",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=73 | Name | bargains[70].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "73$Teaser",
+    "original": "A scrap merchant is selling off plating from a wrecked locomotive...",
+    "translation": "一个废品商正在出售失事机车的装甲板……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=73 | Teaser | bargains[70].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "74$Description",
+    "original": "Various loners have tried to establish homesteads in Eleutheria. Almost all fail. A Muttering Scavenger seeks out these abandoned homes and strips them of planks of bronzewood, which he sells to skyfarers like yourself – skyfarers with ready cash and limited scruples.",
+    "translation": "总有独行者试图在厄琉忒里亚建立宅地。他们几乎都失败了。一个咕哝着的清道夫寻找这些被遗弃的家园，把它们的青铜木板剥下来，卖给像你这样手有余钱，心无顾虑的行天客。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=74 | Description | bargains[71].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "74$Name",
+    "original": "Hearth and Home",
+    "translation": "炉灶与家",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=74 | Name | bargains[71].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "74$Teaser",
+    "original": "Various loners have tried to establish homesteads in Eleutheria...",
+    "translation": "总有独行者试图在厄琉忒里亚建立宅地……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=74 | Teaser | bargains[71].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "75$Description",
+    "original": "A Ragged Revolutionary shows you three crates of mixed munitions, some of which look distressingly home-made. He is selling them cheaply; today, he needs money more than murder.",
+    "translation": "一位衣衫褴褛的革命者向你展示三箱混装弹药，其中掺杂着一些成色糟糕的土制版本。这些弹药价格低廉：这年头，他更需要钱而不是杀招。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=75 | Description | bargains[72].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "75$Name",
+    "original": "A revolutionary surplus",
+    "translation": "革命者的余货",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=75 | Name | bargains[72].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "75$Teaser",
+    "original": "A Ragged Revolutionary shows you three crates of mixed munitions, some of which look distressingly home-made...",
+    "translation": "一位衣衫褴褛的革命者向你展示三箱混装弹药，其中掺杂着一些成色糟糕的土制版本……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=75 | Teaser | bargains[72].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "76$Description",
+    "original": "Bombazine cloth drinks light. In brighter domains, it quickly becomes soaked and impossible to work. But in Eleutheria's soft gloom it is pliant and delicate. Weaving is a common vocation here, and Bombazine can often be found cheaply.",
+    "translation": "邦巴辛布饮尽光明。在比较明亮的地方，它很快就会被光浸湿，无法工作。但在厄琉忒里亚的柔和阴暗中，它却柔韧而细腻。纺织是这里常见的行当，常有廉价的邦巴辛布出售。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=76 | Description | bargains[73].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "76$Name",
+    "original": "The Weavers of Eleutheria",
+    "translation": "厄琉忒里亚的织者",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=76 | Name | bargains[73].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "76$Teaser",
+    "original": "Bombazine cloth drinks light...",
+    "translation": "邦巴辛布饮尽光明……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=76 | Teaser | bargains[73].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "77$Description",
+    "original": "A Tight-Lipped Devil sells impeccable souls in the shadow of Caduceus' temple. Where did he acquire them? Has he been plucking them from the Bohemian celebrants? No. You examine their elegant angles, their spasmodic movements. These souls were never human.",
+    "translation": "在商神宫神庙的阴影下，一个守口如瓶的魔鬼正在出售质量无可挑剔的灵魂。他从哪里获得的这些灵魂？是从波西米亚派艺术家的庆祝者那里摘取了它们吗？不，细看它们优雅的角度，痉挛的动作，你发觉这些灵魂根本不是人类。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=77 | Description | bargains[74].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "77$Name",
+    "original": "Souls on the mountain-slope",
+    "translation": "山坡上的灵魂",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=77 | Name | bargains[74].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "77$Teaser",
+    "original": "A Tight-Lipped Devil sells impeccable souls in the shadow of Caduceus' temple...",
+    "translation": "在商神宫神庙的阴影下，一个守口如瓶的魔鬼正在出售质量无可挑剔的灵魂……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=77 | Teaser | bargains[74].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "78$Description",
+    "original": "Distressing shapes bob to the surface of the Rubbery Chef's cauldron. He scoops one out for you to taste, and it wriggles delicate antennae at you. Well, it's certainly fresh. The Rubbery Man indicates that he will happily serve them dead or alive. He even has cages ready.",
+    "translation": "凹凸不平的块状物在软体人厨师的大锅表面晃动。他舀出一个让你品尝，那东西向你蠕动着精致的触角。嗯，这当然是新鲜的。软体人表示，他很乐意为你提供这种食物，无论死活。他甚至还准备了笼子。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=78 | Description | bargains[75].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "78$Name",
+    "original": "Meals fit for Rubbery Men",
+    "translation": "适合软体人的餐食",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=78 | Name | bargains[75].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "78$Teaser",
+    "original": "Distressing shapes bob to the surface of the Rubbery Chef's cauldron...",
+    "translation": "凹凸不平的块状物在软体人厨师的大锅表面晃动……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=78 | Teaser | bargains[75].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "79$Description",
+    "original": "A London trader is suspected of espionage, and needs to raise funds quickly to leave the Empyrean. His extensive collection of coronation crockery is a particular bargain. But he would like you to decide quickly. The Khan's guards are getting closer.",
+    "translation": "一个伦敦商人被怀疑从事间谍活动，急于筹集资金来离开苍天上国。他收藏的大量加冕陶器售价非常划算。但他希望你能尽快达成交易。大汗的卫兵正越来越近。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=79 | Description | bargains[76].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "79$Name",
+    "original": "The shadow of suspicion",
+    "translation": "怀疑的阴影",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=79 | Name | bargains[76].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "79$Teaser",
+    "original": "A London trader is suspected of espionage, and needs to raise funds quickly to leave the Empyrean...",
+    "translation": "一个伦敦商人被怀疑从事间谍活动，急于筹集资金来离开苍天上国……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=79 | Teaser | bargains[76].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "8$Description",
+    "original": "A syndicate of allotment-owners are selling seeds. The vegetation of the Reach grows boisterously, even violently, and the sacks are strapped tight with leather belts.",
+    "translation": "菜园主联合会正在出售种子。在外野，植物的生长速度更加疯狂，麻袋的袋口被皮带紧紧绑住。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=8 | Description | bargains[7].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "8$Name",
+    "original": "A good price for Verdant Seeds",
+    "translation": "低价出售的青翠种子",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=8 | Name | bargains[7].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "8$Teaser",
+    "original": "A syndicate of allotment-owners are selling seeds...",
+    "translation": "菜园主联合会正在出售种子……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=8 | Teaser | bargains[7].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "80$Description",
+    "original": "A Chaplain of Piranesi offers you some of the treasures that once belonged to the prison's longer-serving guests. The jewels are, he points out, no good to them in Piranesi, and – if the prison is doing its work – unlikely to be of interest when they leave.",
+    "translation": "皮拉内西的一位牧师向你提供了一些这里的长期囚犯们的宝物。他指出，在皮拉内西，这些珠宝对他们来说不会带来任何好处。况且，如果监狱的改造工作顺利，囚犯离开时也不可能对它们感兴趣。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=80 | Description | bargains[77].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "80$Name",
+    "original": "Wages of sinful lives",
+    "translation": "罪恶生活的代价",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=80 | Name | bargains[77].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "80$Teaser",
+    "original": "A Chaplain of Piranesi offers you some of the treasures that once belonged to the prison's longer-serving guests...",
+    "translation": "皮拉内西的一位牧师向你提供了一些这里的长期囚犯们的宝物……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=80 | Teaser | bargains[77].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "81$Description",
+    "original": "Most of Achlys is constructed from trees gathered in the marsh. They're soggy. They take time to dry. But while technically not Bronzewood, they're close enough to it that most Londoners can't tell. Today, the merchants have a surplus. Either they sell it, or it has to go back in the mud.",
+    "translation": "埃克吕斯的大部分建筑都由沼泽地中采伐的树木建造而成。它们总是湿漉漉的，需要花时间来干燥。虽然严格来说这不是青铜木，但与之足够相似，大多数伦敦人都无法分辨。现在，商人们有些多余存货。他们要么把木头卖掉，要么就得把它们丢回到泥泞中去。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=81 | Description | bargains[78].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "81$Name",
+    "original": "Treasures of the marsh",
+    "translation": "沼泽地的宝藏",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=81 | Name | bargains[78].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "81$Teaser",
+    "original": "Most of Achlys is constructed from trees gathered in the marsh...",
+    "translation": "埃克吕斯的大部分建筑都由沼泽地中采伐的树木建造而成……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=81 | Teaser | bargains[78].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "82$Description",
+    "original": "A Stammering Eelmonger has a brother who captains one of the Empyrean Outriders. Sometimes, the brother ensures crates of ammunition go missing. And then a skyfarer like yourself gets a very good deal on crates of munitions.",
+    "translation": "口吃的鳗鱼贩子有个在苍天上国的先锋机车上当车长的兄弟。有时，这位兄弟会丢失成箱的弹药。然后，像你这样的行天客就能非常划算地买到那样的弹药。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=82 | Description | bargains[79].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "82$Name",
+    "original": "Slipping through the Eagle's grip",
+    "translation": "取自鹰爪",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=82 | Name | bargains[79].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "82$Teaser",
+    "original": "A Stammering Eelmonger has a brother who captains one of the Empyrean Outriders...",
+    "translation": "口吃的鳗鱼贩子有个在苍天上国的先锋机车上当车长的兄弟……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=82 | Teaser | bargains[79].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "83$Description",
+    "original": "One of Pan's recent Cypress Kings was a poet of the Neonocturnal school, who wrote this slim volume during and after his brief reign. The book is, in fact, in no way Ministry-Approved, but the forged stamps are exceptionally convincing.",
+    "translation": "潘城最近的一位柏树王是一位新夜行派诗人，他在短暂的统治期间和结束后写了这本薄薄的书。事实上，这本书根本没经过公德部审批，但其伪造的印章却异常令人信服。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=83 | Description | bargains[80].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "83$Name",
+    "original": "'Poems of the Cypress King'",
+    "translation": "《柏树王的诗篇》",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=83 | Name | bargains[80].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "83$Teaser",
+    "original": "One of Pan's recent Cypress Kings was a poet of the Neonocturnal school, who wrote this slim volume during and after his brief reign...",
+    "translation": "潘城最近的一位柏树王是一位新夜行派诗人，他在短暂的统治期间和结束后写了这本薄薄的书……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=83 | Teaser | bargains[80].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "84$Description",
+    "original": "The prisoners of Piranesi cannot leave until they have become someone else. If they do, they often leave the things that were associated with their old selves behind. Sometimes, those things are souls.\r\n\r\n",
+    "translation": "皮拉内西的囚犯们在成为另一个人之前不能离开。如果有人将自己变得面目全非，他们往往会把与自己的前身有关的东西留下。有时，那些东西就是灵魂。\n\n",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=84 | Description | bargains[81].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "84$Name",
+    "original": "Prisoner's dilemmas",
+    "translation": "囚徒的困境",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=84 | Name | bargains[81].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "84$Teaser",
+    "original": "The prisoners of Piranesi cannot leave until they have become someone else...",
+    "translation": "皮拉内西的囚犯们在成为另一个人之前不能离开……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=84 | Teaser | bargains[81].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "85$Description",
+    "original": "Deep in the Achlean marsh lies a garden of beauty and poison. Braver traders visit it to gather seeds for the market. Those that cannot be turned into spice or incense, they sell at cost.",
+    "translation": "在埃克利沼泽的深处，有一片生长着芳卉与毒草的花园。勇敢的商人去那里为市场收集种子。那些不能变成香料或熏香的种子则在这里以成本价出售。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=85 | Description | bargains[82].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "85$Name",
+    "original": "Name Achlys' Gift",
+    "translation": "",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=85 | Name | bargains[82].Name；差异分类：内容变化；原文变化，译文留空等待复核。旧原文：Achlys' Gift\n旧译文（仅参考）：埃克吕斯的礼物"
+  },
+  {
+    "key": "85$Teaser",
+    "original": "Deep in the Achlean marsh lies a garden of beauty and poison...",
+    "translation": "在埃克利沼泽的深处，有一片生长着芳卉与毒草的花园……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=85 | Teaser | bargains[82].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "86$Description",
+    "original": "A drunken expedition of partygoers has returned from the furthest corridors of the house with salvaged curtains and tapestries. They are keen to find a buyer:  steps like this have to be taken if Langley House's wine-cellars are to be kept stocked.",
+    "translation": "一支酩酊大醉的派对客探险队刚从巨屋中最远的走廊返回，身上带着搜刮来的窗帘和挂毯。他们很想为它们找一个买家：这是为充实兰利厅酒窖库存的必要之举。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=86 | Description | bargains[83].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "86$Name",
+    "original": "Langley's upholstery",
+    "translation": "兰利的装潢",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=86 | Name | bargains[83].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "86$Teaser",
+    "original": "A drunken expedition of partygoers has returned from the furthest corridors of the house with salvaged curtains and tapestries...",
+    "translation": "一支酩酊大醉的派对客探险队刚从巨屋中最远的走廊返回，身上带着搜刮来的窗帘和挂毯……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=86 | Teaser | bargains[83].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "87$Description",
+    "original": "A 'spirifer' is an unlicensed trader in souls. It is not a popular profession. Recently, a spirifer was the victim of a fatal case of seller's regret. He left behind an impressive stash, which his associates are now trying to dispose of quickly.",
+    "translation": "“灵贩”指的是未经许可的灵魂交易商。这不是一个受欢迎的职业。最近，一位灵贩因坑骗了卖家而死。此人留下了一个令人印象深刻的藏品，他的同伙现在正试图迅速处理掉它。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=87 | Description | bargains[84].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "87$Name",
+    "original": "A spirifer's accident",
+    "translation": "灵贩的事故",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=87 | Name | bargains[84].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "87$Teaser",
+    "original": "A 'spirifer' is an unlicensed trader in souls...",
+    "translation": "“灵贩”指的是未经许可的灵魂交易商……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=87 | Teaser | bargains[84].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "88$Description",
+    "original": "A Dubious Fence has an offer for you: several casks of Navaratine gemstones for an exceptional price. This must have been a month's work for a whole gang of burglars.",
+    "translation": "一个可疑的销赃犯打算和你做笔交易：几桶曩缚咤宝石，特价出售。这么多的宝石，得要一大帮窃贼工作一个月才能偷走。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=88 | Description | bargains[85].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "88$Name",
+    "original": "A burglar's bargain",
+    "translation": "窃贼的交易",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=88 | Name | bargains[85].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "88$Teaser",
+    "original": "A Dubious Fence has an offer for you: several casks of Navaratine gemstones for an exceptional price...",
+    "translation": "一个可疑的销赃犯打算和你做笔交易：几桶曩缚咤宝石，特价出售……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=88 | Teaser | bargains[85].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "89$Description",
+    "original": "An Experimental Horticulturist is selling a mountain of seeds. Yes, she is very pleased with how well they turned out. No, she will not tell you what she treats her crops with\r\n",
+    "translation": "",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=89 | Description | bargains[86].Description；差异分类：内容变化；原文变化，译文留空等待复核。旧原文：An Experimental Horticulturist is selling a mountain of seeds. Yes, she is very pleased with how well they turned out. No, she will not tell you what she treats her crops with.\r\n\n旧译文（仅参考）：一位实验园艺师正在出售堆积如山的种子。是的，她对它们的生长情况非常满意。不，她不会告诉你她用什么来处理她的作物。\n"
+  },
+  {
+    "key": "89$Name",
+    "original": "Experimental seeds for a song",
+    "translation": "一首歌的实验性种子",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=89 | Name | bargains[86].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "89$Teaser",
+    "original": "An Experimental Horticulturist is selling a mountain of seeds...",
+    "translation": "一位实验园艺师正在出售堆积如山的种子……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=89 | Teaser | bargains[86].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "9$Description",
+    "original": "A Whistling Apiarist is selling fresh (or at least recent) chorister-nectar. A versatile substance used, variably, as a sweetener, an intoxicant, and a tonic for the vocal chords. The Apiarist seems jolly, though his tune is not.",
+    "translation": "一个吹着口哨的养蜂人正在出售新鲜的（或至少是近期生产的）唱诗蜂蜜。这种物质用途广泛，可作为甜味剂、麻醉剂和润喉补品。养蜂人看起来很高兴，但他的调子却不尽然。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=9 | Description | bargains[8].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "9$Name",
+    "original": "\"Chorister-nectar! Going cheap!\"",
+    "translation": "“唱诗蜂蜜！特价出售！”",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=9 | Name | bargains[8].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "9$Teaser",
+    "original": "A Whistling Apiarist is selling fresh (or at least recent) chorister-nectar...",
+    "translation": "一个吹着口哨的养蜂人正在出售新鲜的（或至少是近期生产的）唱诗蜂蜜……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=9 | Teaser | bargains[8].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "90$Description",
+    "original": "An Aristocratic Celestozoologist captures and studies the creatures of the High Wilderness. Now, he is selling some of his menagerie to fund his next hunting expedition. This time, he intents to hunt Grievers and Undeparted in Eleutheria. ",
+    "translation": "一位贵族天界动物学家致力于捕捉并研究天野的诸多生物。现在，他正在出售他的一些动物收藏，用来为他的下一次狩猎探险提供资金。这一次，他打算在厄琉忒里亚猎杀哀恸者和形影不离。 ",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=90 | Description | bargains[87].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "90$Name",
+    "original": "Horrors of the heavens",
+    "translation": "天界恐怖",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=90 | Name | bargains[87].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "90$Teaser",
+    "original": "An Aristocratic Celestozoologist captures and studies the creatures of the High Wilderness...",
+    "translation": "一位贵族天界动物学家致力于捕捉并研究天野的诸多生物……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=90 | Teaser | bargains[87].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "91$Description",
+    "original": "\"Wordsworth? Keats? Whitman? Amateurs!\" The Snivelling Spirifer wipes his nose. \"Friends, here are the souls of true poets, who learned pentameter in Pan and alliteration in Achlys! Perfect for budding writers! An unparalleled conversation-starter! A paperweight! A doorstep!\" You can't verify whether they come from poets, of course, but the souls seem to be of very high quality indeed.",
+    "translation": "“华兹华斯？济慈？惠特曼？都是业余！”流鼻涕的灵贩擦了擦鼻子，“朋友们，这里有真正诗人的灵魂，他们在潘城学会五音步，在埃克吕斯学会用典！初出茅庐作家的绝配！一个无可比拟的话头！一个镇纸！一块门板！”当然，你无法证实它们是否来自诗人，但这些灵魂似乎确实质量很高。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=91 | Description | bargains[88].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "91$Name",
+    "original": "The souls of the peerless Eleutherian poets",
+    "translation": "无与伦比的厄琉忒里亚诗人的灵魂",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=91 | Name | bargains[88].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "91$Teaser",
+    "original": "\"Wordsworth?",
+    "translation": "华兹华斯？",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=91 | Teaser | bargains[88].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "92$Description",
+    "original": "A Poetical Prospector is selling barrels of hours to an interested crowd of Bohemians. \"Hours of melancholy, hours of wonder! Hours of optimism and tragedy! Buy a barrel, and spin yourself a day of your choosing! Inspiration is only an hour away!\" Yes – you're not sure it quite works like that, but the price is a good one.",
+    "translation": "一个诗意的探矿者正在向一群感兴趣的波西米亚派艺术家出售桶装时间。“忧郁的时间，奇景的时间！喜剧和悲剧的时间！买一桶吧，为自己带来你想要的一天！灵感和你只差一小时的距离！”不错——你觉得这东西的功效和宣传有所出入，但价格倒是不错。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=92 | Description | bargains[89].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "92$Name",
+    "original": "Hours for inspiration",
+    "translation": "激发灵感的时间",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=92 | Name | bargains[89].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "92$Teaser",
+    "original": "A Poetical Prospector is selling barrels of hours to an interested crowd of Bohemians...",
+    "translation": "一个诗意的探矿者正在向一群感兴趣的波西米亚派艺术家出售桶装时间……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=92 | Teaser | bargains[89].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "93$Description",
+    "original": "An Auditor is looking for you. Fortunately, you're not in trouble. Although you're an independent agent, your establishment friends speak highly of you, and you have been selected to receive a special deal on armaments. \"Protecting our investment,\" the Auditor says.",
+    "translation": "一个审计员正在找你，好在不是坏消息。虽然你是一个独立的代理人，但你的权贵朋友对你评价十分青睐，你因此被选中来进行军备方面的特殊交易。“以此为我们的投资项目提供保障，”审计员说。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=93 | Description | bargains[90].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "93$Name",
+    "original": "Firepower for the favoured",
+    "translation": "受宠者的军火",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=93 | Name | bargains[90].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "93$Teaser",
+    "original": "An Auditor is looking for you...",
+    "translation": "一个审计员正在找你……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=93 | Teaser | bargains[90].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "94$Description",
+    "original": "A notorious smuggler's recent arrest is the excise-man's gain. The glittering contents of the smuggler's cargo hold are being auctioned off quickly, to raise money for the department. Only 'the right sort' of bidders are invited, and most purchases are negotiated in advance to avoid ruinous bidding-wars. How civilised.",
+    "translation": "一个臭名昭著的走私犯被捕后，税务员便有钱可赚。走私者货舱里那些闪亮物什正以最快的速度取出拍卖，为部门筹集资金。只有“合适的”竞标者才会被邀请来拍卖会，而且大多数购买都已在早早决定，以避免破坏性的竞标战争。多么文明。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=94 | Description | bargains[91].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "94$Name",
+    "original": "An auction of seized goods",
+    "translation": "拍卖扣押货物",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=94 | Name | bargains[91].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "94$Teaser",
+    "original": "A notorious smuggler's recent arrest is the excise-man's gain...",
+    "translation": "在一个臭名昭著的走私犯被捕后，税务员便有钱可赚……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=94 | Teaser | bargains[91].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "95$Description",
+    "original": "testing",
+    "translation": "testing",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=95 | Description | bargains[92].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "95$Name",
+    "original": "New bargain",
+    "translation": "新便宜货",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=95 | Name | bargains[92].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "95$Teaser",
+    "original": "testing",
+    "translation": "testing",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=95 | Teaser | bargains[92].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "96$Description",
+    "original": "A plucky archaeologist is selling souls of savage brightness. \"Found these in a vault only a few days away. Didn't need them all, but I could hardly just leave them there.\" She considers you for a moment. \"I'll offer you a good deal if you take them off my hands. I'll need the space – I'm bound to pass more vaults on the way back to Albion. There'll be plenty left for the museum.\"",
+    "translation": "一位大胆的考古学家正出售几瓶散发着炽烈光芒的灵魂。“几天前在一个金库里发现的，”她说，“我用不上那么多，但又实在不忍心把它们留在那里。”她打量了你片刻，“如果愿意接手，我可以给你个好价钱。我得给车上腾出空间——回阿尔比恩的路上肯定还会路过更多金库。那里面多得是博物馆的展品。”",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=96 | Description | bargains[93].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "96$Name",
+    "original": "The archaeologist's game",
+    "translation": "考古学家的游戏",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=96 | Name | bargains[93].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "96$Teaser",
+    "original": "A plucky archaeologist is selling souls of savage brightness...",
+    "translation": "一位大胆的考古学家正出售几瓶散发着炽烈光芒的灵魂……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=96 | Teaser | bargains[93].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "97$Description",
+    "original": "They say in New Winchester that the skies of the Blue Kingdom are hung with diamonds the size of cows. A few gullible miners have made their way here, only to learn that the tales are exaggerated. This miner, for example, has yet to discover one larger than his head.",
+    "translation": "在新温彻斯特，人们常说蓝色王国的空域中漂浮着牛一样大的钻石。一些容易受骗的矿工来到这里，才知道这些传说被夸大了。就比如说这位矿工，他目前还没有发现过比他的头更大的钻石。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=97 | Description | bargains[94].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "97$Name",
+    "original": "A grinning miner is selling gems",
+    "translation": "一位笑眯眯的矿工正在出售宝石",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=97 | Name | bargains[94].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "97$Teaser",
+    "original": "They say in New Winchester that the skies of the Blue Kingdom are hung with diamonds the size of cows...",
+    "translation": "在新温彻斯特，人们常说蓝色王国的空域中漂浮着牛一样大的钻石……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=97 | Teaser | bargains[94].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "98$Description",
+    "original": "A ragged tribe of scavengers, claiming to be exiles from the Graven who rule the White Well, pick through the churned mud. They sell wan, listless souls; all that remains of shades who failed the tests at Death's Door too many times.",
+    "translation": "一个衣衫褴褛的拾荒者部落，自称是统治白井的墓族的流亡者，在搅动的泥浆中挑拣。他们出售枯萎的、无精打采的灵魂：那些在死亡之门前失败了太多次的遗魂所剩下的一切。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=98 | Description | bargains[95].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "98$Name",
+    "original": "All that remains",
+    "translation": "剩下的一切",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=98 | Name | bargains[95].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "98$Teaser",
+    "original": "A ragged tribe of scavengers, claiming to be exiles from the Graven who rule the White Well, pick through the churned mud...",
+    "translation": "一个衣衫褴褛的拾荒者部落，自称是统治白井的墓族的流亡者，在搅动的泥浆中挑拣...",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=98 | Teaser | bargains[95].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "99$Description",
+    "original": "Spirifers – traders in unlicensed souls – flock to the Blue Kingdom. Is it just the temptation of its sealed stores of souls and hapless, exploitable spirits? Or are they drawn to it, like pilgrims at Christmas or sparrows in summer? This Spirifer is selling her recent bounty, in order to raise capital for a secretive new venture.",
+    "translation": "贩卖无证灵魂的灵贩蜂拥蓝色王国。他们仅仅是受到尘封的灵魂仓库和易被坑骗的倒霉鬼魂的诱惑吗？还是他们被某种东西吸引到这里，就像圣诞节的朝圣者抑或夏天的麻雀？这名灵贩正在出售她最近的获物，来为新的秘密冒险筹集资金。",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=99 | Description | bargains[96].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "99$Name",
+    "original": "The spirifer's supply",
+    "translation": "灵贩的存货",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=99 | Name | bargains[96].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "99$Teaser",
+    "original": "Spirifers – traders in unlicensed souls – flock to the Blue Kingdom...",
+    "translation": "贩卖无证灵魂的灵贩蜂拥蓝色王国……",
+    "context": "bargains.bytes | Failbetter.Core.Bargain | ID=99 | Teaser | bargains[96].Teaser；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  }
+]

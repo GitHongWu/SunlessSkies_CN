@@ -1,0 +1,284 @@
+[
+  {
+    "key": "106556$Name",
+    "original": "AlgernonBaroque default setting",
+    "translation": "AlgernonBaroque default setting",
+    "context": "settings.bytes | Failbetter.Core.Setting | ID=106556 | Name | settings[0].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "106648$Name",
+    "original": "Titania",
+    "translation": "狄坦妮娅",
+    "context": "settings.bytes | Failbetter.Core.Setting | ID=106648 | Name | settings[1].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "106649$Name",
+    "original": "L&S Nature Reserve",
+    "translation": "李德彼特&斯坦罗德自然保护区",
+    "context": "settings.bytes | Failbetter.Core.Setting | ID=106649 | Name | settings[2].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "106650$Name",
+    "original": "New Winchester",
+    "translation": "新温彻斯特",
+    "context": "settings.bytes | Failbetter.Core.Setting | ID=106650 | Name | settings[3].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "106651$Name",
+    "original": "Carillon",
+    "translation": "钟琴区",
+    "context": "settings.bytes | Failbetter.Core.Setting | ID=106651 | Name | settings[4].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "106652$Name",
+    "original": "Port Avon",
+    "translation": "埃文村",
+    "context": "settings.bytes | Failbetter.Core.Setting | ID=106652 | Name | settings[5].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "106653$Name",
+    "original": "The Palewood",
+    "translation": "苍白之森",
+    "context": "settings.bytes | Failbetter.Core.Setting | ID=106653 | Name | settings[6].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "106654$Name",
+    "original": "Polmear & Plenty's Inconceivable Circus",
+    "translation": "波尔梅尔&普伦蒂的不可思议马戏团",
+    "context": "settings.bytes | Failbetter.Core.Setting | ID=106654 | Name | settings[7].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "106655$Name",
+    "original": "Lustrum",
+    "translation": "伍载镇",
+    "context": "settings.bytes | Failbetter.Core.Setting | ID=106655 | Name | settings[8].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "106656$Name",
+    "original": "Port Prosper",
+    "translation": "兴荣港",
+    "context": "settings.bytes | Failbetter.Core.Setting | ID=106656 | Name | settings[9].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "106657$Name",
+    "original": "The Forecourt",
+    "translation": "前院",
+    "context": "settings.bytes | Failbetter.Core.Setting | ID=106657 | Name | settings[10].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "106658$Name",
+    "original": "Little Hybras",
+    "translation": "小海波拉",
+    "context": "settings.bytes | Failbetter.Core.Setting | ID=106658 | Name | settings[11].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "106659$Name",
+    "original": "The Reach",
+    "translation": "外野",
+    "context": "settings.bytes | Failbetter.Core.Setting | ID=106659 | Name | settings[12].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "106858$Name",
+    "original": "The High Wilderness",
+    "translation": "天野",
+    "context": "settings.bytes | Failbetter.Core.Setting | ID=106858 | Name | settings[13].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107012$Name",
+    "original": "London",
+    "translation": "伦敦",
+    "context": "settings.bytes | Failbetter.Core.Setting | ID=107012 | Name | settings[14].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107013$Name",
+    "original": "The Most Serene Mausoeum",
+    "translation": "圣宁墓",
+    "context": "settings.bytes | Failbetter.Core.Setting | ID=107013 | Name | settings[15].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107014$Name",
+    "original": "The Floating Parliament",
+    "translation": "浮空议会",
+    "context": "settings.bytes | Failbetter.Core.Setting | ID=107014 | Name | settings[16].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107015$Name",
+    "original": "Avid Horizon",
+    "translation": "渴求之地平线",
+    "context": "settings.bytes | Failbetter.Core.Setting | ID=107015 | Name | settings[17].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107016$Name",
+    "original": "Brabazon Workworld",
+    "translation": "布拉巴宗工作世界",
+    "context": "settings.bytes | Failbetter.Core.Setting | ID=107016 | Name | settings[18].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107017$Name",
+    "original": "Eagle's Empyrean",
+    "translation": "雄鹰之苍天上国",
+    "context": "settings.bytes | Failbetter.Core.Setting | ID=107017 | Name | settings[19].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107018$Name",
+    "original": "The Clockwork Sun",
+    "translation": "发条太阳",
+    "context": "settings.bytes | Failbetter.Core.Setting | ID=107018 | Name | settings[20].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107019$Name",
+    "original": "Worlebury-juxta-Mare",
+    "translation": "滨海沃伯瑞",
+    "context": "settings.bytes | Failbetter.Core.Setting | ID=107019 | Name | settings[21].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107020$Name",
+    "original": "Perdurance",
+    "translation": "琥珀宫",
+    "context": "settings.bytes | Failbetter.Core.Setting | ID=107020 | Name | settings[22].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107158$Name",
+    "original": "The Half-Light Masque",
+    "translation": "明暗假面舞会",
+    "context": "settings.bytes | Failbetter.Core.Setting | ID=107158 | Name | settings[23].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107174$Name",
+    "original": "Combat Arena",
+    "translation": "斗竞场",
+    "context": "settings.bytes | Failbetter.Core.Setting | ID=107174 | Name | settings[24].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107259$Name",
+    "original": "Pan",
+    "translation": "潘城",
+    "context": "settings.bytes | Failbetter.Core.Setting | ID=107259 | Name | settings[25].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107260$Name",
+    "original": "Piranesi",
+    "translation": "皮拉内西",
+    "context": "settings.bytes | Failbetter.Core.Setting | ID=107260 | Name | settings[26].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107261$Name",
+    "original": "The House of Rods and Chains",
+    "translation": "链杆之屋",
+    "context": "settings.bytes | Failbetter.Core.Setting | ID=107261 | Name | settings[27].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107262$Name",
+    "original": "Caduceus",
+    "translation": "商神宫",
+    "context": "settings.bytes | Failbetter.Core.Setting | ID=107262 | Name | settings[28].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107263$Name",
+    "original": "Achyls",
+    "translation": "埃克吕斯",
+    "context": "settings.bytes | Failbetter.Core.Setting | ID=107263 | Name | settings[29].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107264$Name",
+    "original": "Langley Hall",
+    "translation": "兰利厅",
+    "context": "settings.bytes | Failbetter.Core.Setting | ID=107264 | Name | settings[30].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107316$Name",
+    "original": "The Royal Society",
+    "translation": "皇家学会",
+    "context": "settings.bytes | Failbetter.Core.Setting | ID=107316 | Name | settings[31].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107743$Name",
+    "original": "Sky Barnet",
+    "translation": "空中巴尼特区",
+    "context": "settings.bytes | Failbetter.Core.Setting | ID=107743 | Name | settings[32].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107744$Name",
+    "original": "The Forge of Souls",
+    "translation": "灵魂铸炉",
+    "context": "settings.bytes | Failbetter.Core.Setting | ID=107744 | Name | settings[33].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107745$Name",
+    "original": "The White Well",
+    "translation": "白井",
+    "context": "settings.bytes | Failbetter.Core.Setting | ID=107745 | Name | settings[34].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107746$Name",
+    "original": "Death's Door",
+    "translation": "死亡之门",
+    "context": "settings.bytes | Failbetter.Core.Setting | ID=107746 | Name | settings[35].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107889$Name",
+    "original": "The Gentlemen",
+    "translation": "绅士帮",
+    "context": "settings.bytes | Failbetter.Core.Setting | ID=107889 | Name | settings[36].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107890$Name",
+    "original": "Wit & Vinegar",
+    "translation": "尖酸&狡黠公司",
+    "context": "settings.bytes | Failbetter.Core.Setting | ID=107890 | Name | settings[37].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "107927$Name",
+    "original": "The Stair to the Sea",
+    "translation": "赴海阶梯",
+    "context": "settings.bytes | Failbetter.Core.Setting | ID=107927 | Name | settings[38].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "109048$Description",
+    "original": "The High Wilderness! Where stars burn, and winds moan, and mists drift in ragged folds. The suns make their homes here; and now, so too do Londoners, building new lives out in the dark.",
+    "translation": "天野！群星燎燃，泠风低吟，迷雾萦绕在嶙峋的褶岩间。在这里安家的曾是那些太阳，如今则是伦敦人——他们在黑暗中建立了新的家园。",
+    "context": "settings.bytes | Failbetter.Core.Area | ID=109048 | Description | settings[0].StartingArea.Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "109048$Name",
+    "original": "The Sky",
+    "translation": "天空",
+    "context": "settings.bytes | Failbetter.Core.Area | ID=109048 | Name | settings[0].StartingArea.Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "8580$Description",
+    "original": "AlgernonBaroque default domicile",
+    "translation": "AlgernonBaroque default domicile",
+    "context": "settings.bytes | Failbetter.Core.Domicile | ID=8580 | Description | settings[0].StartingDomicile.Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "8580$Name",
+    "original": "AlgernonBaroque default domicile",
+    "translation": "AlgernonBaroque default domicile",
+    "context": "settings.bytes | Failbetter.Core.Domicile | ID=8580 | Name | settings[0].StartingDomicile.Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "8596$Description",
+    "original": "AlgernonBaroque default persona",
+    "translation": "AlgernonBaroque default persona",
+    "context": "settings.bytes | Failbetter.Core.Persona | ID=8596 | Description | settings[0].Personae[0].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "8596$Name",
+    "original": "AlgernonBaroque default persona",
+    "translation": "AlgernonBaroque default persona",
+    "context": "settings.bytes | Failbetter.Core.Persona | ID=8596 | Name | settings[0].Personae[0].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "9563$Description",
+    "original": "AlgernonBaroque second persona",
+    "translation": "AlgernonBaroque second persona",
+    "context": "settings.bytes | Failbetter.Core.Persona | ID=9563 | Description | settings[0].Personae[1].Description；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "9563$Name",
+    "original": "Tutorial persona",
+    "translation": "Tutorial persona",
+    "context": "settings.bytes | Failbetter.Core.Persona | ID=9563 | Name | settings[0].Personae[1].Name；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  }
+]

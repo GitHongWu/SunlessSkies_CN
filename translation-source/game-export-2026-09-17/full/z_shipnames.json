@@ -1,0 +1,836 @@
+[
+  {
+    "key": "z_shipnames1",
+    "original": "UCE Almedicus",
+    "translation": "联合贸易机车阿尔梅迪库斯号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=68；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames10",
+    "original": "UCE Auspicious Nilsson",
+    "translation": "联合贸易机车吉兆尼尔森号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=166；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames107",
+    "original": "HML Firebrand",
+    "translation": "英国皇家机车狂热分子号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=3817；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames108",
+    "original": "HML Echelon",
+    "translation": "英国皇家机车梯队号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=3709；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames109",
+    "original": "UCE Pernicious",
+    "translation": "联合贸易机车险恶号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=2035；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames11",
+    "original": "HML Phoenix",
+    "translation": "英国皇家机车凤凰号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=5005；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames110",
+    "original": "UCE Sammamish",
+    "translation": "联合贸易机车萨马米什号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=2383；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames111",
+    "original": "UCE Allegheny",
+    "translation": "联合贸易机车阿勒格尼号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=60；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames112",
+    "original": "UCE Old Izergil",
+    "translation": "联合贸易机车老伊泽吉尔号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=1915；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames113",
+    "original": "HML Hippopotamus",
+    "translation": "英国皇家机车河马号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=4123；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames114",
+    "original": "HML Riga",
+    "translation": "英国皇家机车里加号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=5221；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames115",
+    "original": "HML Sheffield",
+    "translation": "英国皇家机车谢菲尔德号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=5413；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames116",
+    "original": "UCE Greensborough",
+    "translation": "联合贸易机车格林斯伯勒号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=985；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames117",
+    "original": "HML Harbinger",
+    "translation": "英国皇家机车先驱号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=4015；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames12",
+    "original": "UCE Crepuscular",
+    "translation": "联合贸易机车曙暮号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=508；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames126",
+    "original": "HML Fanaroff",
+    "translation": "英国皇家机车法纳罗夫号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=3799；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames127",
+    "original": "HML Brennan",
+    "translation": "英国皇家机车布伦南号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=3412；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames128",
+    "original": "UCE Alexander's Hubris",
+    "translation": "联合贸易机车亚历山大之桀骜号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=44；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames129",
+    "original": "UCE Finlayson",
+    "translation": "联合贸易机车芬利森号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=823；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames13",
+    "original": "HML Vollrath's Stigma",
+    "translation": "英国皇家机车沃尔拉特之圣痕号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=5917；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames130",
+    "original": "UCE Time Waits for No One",
+    "translation": "联合贸易机车时不我待号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=2755；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames131",
+    "original": "UCE Wentworth Conviction",
+    "translation": "联合贸易机车温特沃斯信念号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=2935；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames132",
+    "original": "UCE Capybara",
+    "translation": "联合贸易机车卡皮巴拉号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=400；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames133",
+    "original": "UCE Burgoyne",
+    "translation": "联合贸易机车伯戈因号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=346；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames134",
+    "original": "HML Herne Hill",
+    "translation": "英国皇家机车赫恩山号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=4078；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames135",
+    "original": "HML Milanowski",
+    "translation": "英国皇家机车米兰诺夫斯基号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=4573；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames136",
+    "original": "HML von Knut",
+    "translation": "英国皇家机车冯·克努特号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=6133；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames137",
+    "original": "UCE Frangipani",
+    "translation": "联合贸易机车缅栀子号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=868；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames138",
+    "original": "UCE Veil and Guise",
+    "translation": "联合贸易机车面纱与伪装号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=2863；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames139",
+    "original": "HML Sturgess",
+    "translation": "英国皇家机车斯特奇斯号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=5521；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames14",
+    "original": "UCE Eloquence",
+    "translation": "联合贸易机车雄辩号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=724；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames140",
+    "original": "HML MacGregor",
+    "translation": "英国皇家机车麦格雷戈号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=4405；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames141",
+    "original": "UCE Recondite",
+    "translation": "联合贸易机车渊奥号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=2227；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames142",
+    "original": "HML Extolment",
+    "translation": "英国皇家机车称誉号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=3772；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames143",
+    "original": "HML Heart's Reason",
+    "translation": "英国皇家机车心有其理号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=4051；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames148",
+    "original": "UCE Tempest",
+    "translation": "联合贸易机车暴风号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=2683；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames149",
+    "original": "UCE Silverstone",
+    "translation": "联合贸易机车银石号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=2479；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames15",
+    "original": "HML Perquisite of Business",
+    "translation": "英国皇家机车商务特许号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=4957；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames156",
+    "original": "UCE To Hell and Back",
+    "translation": "联合贸易机车历劫复归号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=2767；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames157",
+    "original": "UCE Wilde",
+    "translation": "联合贸易机车王尔德号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=3007；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames158",
+    "original": "UCE Leonard",
+    "translation": "联合贸易机车伦纳德号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=1447；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames16",
+    "original": "UCE Niagara",
+    "translation": "联合贸易机车尼亚加拉号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=1807；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames163",
+    "original": "UCE Nanilinsky Dancer",
+    "translation": "联合贸易机车纳尼林斯基舞者号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=1747；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames169",
+    "original": "UCE Acadiana",
+    "translation": "联合贸易机车阿卡迪亚纳号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=20；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames17",
+    "original": "UCE Blade of Night",
+    "translation": "联合贸易机车夜刃号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=274；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames170",
+    "original": "HML Glenbrook",
+    "translation": "英国皇家机车格伦布鲁克号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=3898；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames171",
+    "original": "HML Mountain Wind",
+    "translation": "英国皇家机车山岚号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=4681；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames172",
+    "original": "UCE Exiled",
+    "translation": "联合贸易机车放逐者号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=796；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames173",
+    "original": "UCE Dashing Ram",
+    "translation": "联合贸易机车勇进公羊号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=553；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames174",
+    "original": "UCE Lulu",
+    "translation": "联合贸易机车露露号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=1519；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames175",
+    "original": "UCE Elpha Green",
+    "translation": "联合贸易机车埃尔法·格林号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=733；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames176",
+    "original": "UCE Kinnaird",
+    "translation": "联合贸易机车金奈德号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=1327；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames177",
+    "original": "UCE Shepherd's Twilight",
+    "translation": "联合贸易机车牧羊人的黄昏号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=2455；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames178",
+    "original": "UCE McGillicuddy",
+    "translation": "联合贸易机车麦吉利卡迪号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=1627；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames179",
+    "original": "UCE Ellington's Zenith",
+    "translation": "联合贸易机车埃林顿天顶号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=715；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames180",
+    "original": "HML McGarry's Clock",
+    "translation": "英国皇家机车麦加里的时计号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=4537；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames181",
+    "original": "UCE Never O'Neill",
+    "translation": "联合贸易机车内弗·奥尼尔号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=1771；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames182",
+    "original": "UCE Daydreamer",
+    "translation": "联合贸易机车昼梦者号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=589；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames183",
+    "original": "HML Frankrock",
+    "translation": "英国皇家机车弗兰克罗克号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=3871；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames184",
+    "original": "UCE Danda",
+    "translation": "联合贸易机车丹达号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=544；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames185",
+    "original": "HML Madden",
+    "translation": "英国皇家机车马登号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=4417；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames190",
+    "original": "UCE Klopfenstein",
+    "translation": "联合贸易机车克洛普芬施泰因号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=1339；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames191",
+    "original": "UCE Persephone",
+    "translation": "联合贸易机车珀尔塞福涅号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=2047；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames192",
+    "original": "UCE Bookworm",
+    "translation": "联合贸易机车书虫号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=310；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames193",
+    "original": "UCE Dauntless Salazar",
+    "translation": "联合贸易机车无畏萨拉查号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=562；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames194",
+    "original": "UCE Syracuse",
+    "translation": "联合贸易机车锡拉丘兹号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=2647；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames195",
+    "original": "UCE Cappadocia",
+    "translation": "联合贸易机车卡帕多西亚号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=391；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames196",
+    "original": "HML Threadcraft",
+    "translation": "英国皇家机车梭行号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=5761；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames197",
+    "original": "HML Amaranth",
+    "translation": "英国皇家机车不凋花号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=3187；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames198",
+    "original": "HML Svelten",
+    "translation": "英国皇家机车斯维尔特号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=5581；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames199",
+    "original": "UCE Philosophy",
+    "translation": "联合贸易机车哲思号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=2059；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames2",
+    "original": "HML All's Right With the World",
+    "translation": "英国皇家机车万事升平号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=3170；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames208",
+    "original": "Placeholder Title",
+    "translation": "名称占位",
+    "context": "resources.assets | PathID=38683 | Page title | TMPro.TextMeshProUGUI | m_text；内容哈希键，无游戏词条 ID；原文改变时作为新增，不能据此判断旧词条已删除。；跨资源精确原文对应，保留上游人工键。；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames220",
+    "original": "UCE Ramsgate's Robust",
+    "translation": "联合贸易机车拉姆斯盖特坚毅号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=2215；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames221",
+    "original": "UCE Perfidious Objectivity",
+    "translation": "联合贸易机车故作客观号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=1999；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames222",
+    "original": "UCE Rönnholm",
+    "translation": "联合贸易机车伦霍尔姆号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=2311；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames228",
+    "original": "UCE Princess",
+    "translation": "联合贸易机车公主号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=2167；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames229",
+    "original": "UCE Richard Roamer",
+    "translation": "联合贸易机车理查德漫游者号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=2263；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames235",
+    "original": "th",
+    "translation": "th",
+    "context": "Assembly-CSharp.dll | System.String Skyless.Assets.Code.Skyless.Game.Helpers.MessageHelper::GetInGameTime(System.Int32,System.Boolean) | IL offset=76；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames236",
+    "original": "UCE Giouli's Monkey",
+    "translation": "联合贸易机车朱利猴号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=922；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames237",
+    "original": "UCE Leppänen",
+    "translation": "联合贸易机车莱帕宁号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=1471；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames239",
+    "original": "UCE Rhapsody",
+    "translation": "联合贸易机车狂想曲号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=2251；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames242",
+    "original": "UCE Melancholy Budapest",
+    "translation": "联合贸易机车布达佩斯惆怅号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=1651；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames247",
+    "original": "UCE Roanoke",
+    "translation": "联合贸易机车洛亚诺克号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=2287；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames25",
+    "original": "UCE Valentino",
+    "translation": "联合贸易机车瓦伦蒂诺号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=2827；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames255",
+    "original": "Traitor's Wood",
+    "translation": "叛徒之林",
+    "context": "level14 | PathID=11366 | label Traitors Wood | Skyless.Assets.Code.Skyless.Game.Procedural_Generation.SceneBehaviourScripts.LabelBehavior | LandmarkName；内容哈希键，无游戏词条 ID；原文改变时作为新增，不能据此判断旧词条已删除。；跨资源精确原文对应，保留上游人工键。；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames256",
+    "original": "The Ten Thousand Streams",
+    "translation": "万流号",
+    "context": "level14 | PathID=11699 | label The Ten Thousand Streams | Skyless.Assets.Code.Skyless.Game.Procedural_Generation.SceneBehaviourScripts.LabelBehavior | LandmarkName；内容哈希键，无游戏词条 ID；原文改变时作为新增，不能据此判断旧词条已删除。；跨资源精确原文对应，保留上游人工键。；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames257",
+    "original": "UCE Destiny",
+    "translation": "联合贸易机车命运号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=625；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames3",
+    "original": "UCE Chrysopoeia",
+    "translation": "联合贸易机车炼金号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=436；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames4",
+    "original": "HML Laidlaw's Drake",
+    "translation": "英国皇家机车莱德劳的亚龙号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=4261；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames41",
+    "original": "HML Pegana",
+    "translation": "英国皇家机车裴伽纳号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=4921；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames42",
+    "original": "UCE Tervonen",
+    "translation": "联合贸易机车泰沃宁号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=2707；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames43",
+    "original": "HML Carlisle Sunset",
+    "translation": "英国皇家机车卡莱尔落日号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=3439；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames44",
+    "original": "HML Wellington-Smythe",
+    "translation": "惠灵顿-斯迈思号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=5965；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames45",
+    "original": "HML Scholar's Folly",
+    "translation": "英国皇家机车学者愚行号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=5389；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames46",
+    "original": "HML Renfeild",
+    "translation": "英国皇家机车伦菲尔德号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=5185；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames47",
+    "original": "HML Golden Age",
+    "translation": "英国皇家机车黄金时代号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=3916；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames48",
+    "original": "UCE Erik's Range",
+    "translation": "联合贸易机车埃里克之疆号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=769；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames49",
+    "original": "HML Leave It To You",
+    "translation": "英国皇家机车悉听尊便号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=4297；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames5",
+    "original": "UCE Storm's Urge",
+    "translation": "联合贸易机车风暴之志号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=2611；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames50",
+    "original": "UCE Knaresborough Kindly",
+    "translation": "联合贸易机车纳尔斯伯勒温良号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=1351；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames51",
+    "original": "UCE Grand Walston",
+    "translation": "联合贸易机车大沃尔斯顿号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=958；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames52",
+    "original": "HML Astor",
+    "translation": "英国皇家机车阿斯特号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=3277；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames53",
+    "original": "UCE Safira",
+    "translation": "联合贸易机车萨菲拉号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=2323；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames54",
+    "original": "UCE Atropos",
+    "translation": "联合贸易机车阿特洛波斯号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=148；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames58",
+    "original": "UCE Burning Bridge",
+    "translation": "联合贸易机车破釜沉舟号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=355；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames6",
+    "original": "HML Quaint",
+    "translation": "英国皇家机车古雅号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=5149；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames63",
+    "original": "UCE Vitas Varnas",
+    "translation": "联合贸易机车维塔斯·瓦尔纳斯号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=2899；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames64",
+    "original": "UCE Jiminez",
+    "translation": "联合贸易机车希门尼斯号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=1183；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames65",
+    "original": "HML Waterloo",
+    "translation": "英国皇家机车滑铁卢号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=5953；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames66",
+    "original": "HML Hollins",
+    "translation": "英国皇家机车霍林斯号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=4132；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames67",
+    "original": "UCE Pompous",
+    "translation": "联合贸易机车浮华号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=2131；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames68",
+    "original": "UCE Maryland",
+    "translation": "联合贸易机车马里兰号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=1591；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames69",
+    "original": "UCE Barker",
+    "translation": "联合贸易机车巴克尔号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=202；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames7",
+    "original": "UCE Jæja",
+    "translation": "联合贸易机车亚伊亚号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=1255；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames70",
+    "original": "UCE Corvidae",
+    "translation": "联合贸易机车乌鸦号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=499；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames71",
+    "original": "HML Arjoonlal",
+    "translation": "英国皇家机车阿琼拉尔号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=3241；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames72",
+    "original": "UCE Avaunt",
+    "translation": "联合贸易机车驱离号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=175；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames73",
+    "original": "UCE Ice-Maiden",
+    "translation": "联合贸易机车冰姑娘号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=1084；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames74",
+    "original": "HML Korso",
+    "translation": "英国皇家机车科尔索号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=4249；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames75",
+    "original": "HML Ironclad",
+    "translation": "英国皇家机车铁甲号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=4177；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames76",
+    "original": "UCE Tuxedo",
+    "translation": "联合贸易机车燕尾服号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=2791；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames77",
+    "original": "UCE Dresden",
+    "translation": "联合贸易机车德累斯顿号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=661；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames78",
+    "original": "UCE Guthrie's Revelation",
+    "translation": "联合贸易机车格思里之天启号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=994；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames79",
+    "original": "UCE Green Meadows",
+    "translation": "联合贸易机车绿甸号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=976；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames8",
+    "original": "UCE Devil's Own Luck",
+    "translation": "联合贸易机车魔鬼之幸号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=634；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames86",
+    "original": "UCE Howard's Nightmare",
+    "translation": "联合贸易机车霍华德的梦魇号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=1057；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames87",
+    "original": "HML Toledo",
+    "translation": "英国皇家机车托莱多号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=5821；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames88",
+    "original": "UCE Path of Virtue",
+    "translation": "联合贸易机车美德之途号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=1963；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames89",
+    "original": "HML Damascus Devil",
+    "translation": "英国皇家机车大马士革魔鬼号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=3574；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames9",
+    "original": "UCE Arbat",
+    "translation": "联合贸易机车阿尔巴特号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=121；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames90",
+    "original": "HML Damocles",
+    "translation": "英国皇家机车达摩克利斯号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=3583；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames91",
+    "original": "UCE Hillcrest Lodge",
+    "translation": "联合贸易机车希尔克雷斯特山庄号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=1030；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames92",
+    "original": "UCE Bremen's Goat",
+    "translation": "联合贸易机车不来梅的山羊号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=319；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames93",
+    "original": "HML Hackett",
+    "translation": "英国皇家机车哈克特号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=3979；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames94",
+    "original": "HML Mistakes Were Made",
+    "translation": "英国皇家机车铸错号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=4633；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames95",
+    "original": "UCE Wasn't Expecting That",
+    "translation": "联合贸易机车始料未及号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=2923；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames96",
+    "original": "HML Miles",
+    "translation": "英国皇家机车迈尔斯号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=4585；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  },
+  {
+    "key": "z_shipnames97",
+    "original": "UCE Mustard",
+    "translation": "联合贸易机车芥子号",
+    "context": "Assembly-CSharp.dll | System.Void Skyless.Assets.Code.Skyless.Game.Data.VesselNames::.cctor() | IL offset=1735；沿用快照译文，快照 stage=5（不代表本次新增审核）。"
+  }
+]

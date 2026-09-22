@@ -1,0 +1,242 @@
+[
+  {
+    "key": "1$Hint",
+    "original": "Sending out your scout will cost Supplies.",
+    "translation": "派出侦察兽会消耗一部分补给。",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=324；已验证完整字符串数组的数量和逐项长度边界。；沿用快照译文，快照 stage=9（不代表本次新增审核）。"
+  },
+  {
+    "key": "10$Hint",
+    "original": "In order to interact with certain discoveries, your locomotive will need appropriate equipment.",
+    "translation": "如果要与特定地点互动，机车需要安装相应的装备。",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=944；已验证完整字符串数组的数量和逐项长度边界。；沿用快照译文，快照 stage=9（不代表本次新增审核）。"
+  },
+  {
+    "key": "11$Hint",
+    "original": "Don't let Terror reach 100.",
+    "translation": "别让恐惧到达100点。",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=1044；已验证完整字符串数组的数量和逐项长度边界。；沿用快照译文，快照 stage=9（不代表本次新增审核）。"
+  },
+  {
+    "key": "13$Hint",
+    "original": "Many enemies react to your headlight. Turning it off will make you less noticeable, but causes Terror to increase quickly.",
+    "translation": "车灯开启时，会吸引各种敌人的注意；车灯关闭时，敌人会更难发现你，但恐惧会加速升高。",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=1076；已验证完整字符串数组的数量和逐项长度边界。；沿用快照译文，快照 stage=9（不代表本次新增审核）。"
+  },
+  {
+    "key": "14$Hint",
+    "original": "Shining your headlight on a vessel or a creature will reveal its name.",
+    "translation": "车灯开启时，灯光照在其他机车或生物身上可以显示其名称。",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=1204；已验证完整字符串数组的数量和逐项长度边界。；沿用快照译文，快照 stage=9（不代表本次新增审核）。"
+  },
+  {
+    "key": "15$Hint",
+    "original": "If your headlight can pass over or under an object, so can you.",
+    "translation": "如果车灯的灯光可以从某个场景的上方或下方穿过，则机车也可以通过。",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=1280；已验证完整字符串数组的数量和逐项长度边界。；沿用快照译文，快照 stage=9（不代表本次新增审核）。"
+  },
+  {
+    "key": "16$Hint",
+    "original": "In Eleutheria, some enemies will attack you if your headlight is on. Others will attack you if it is off.",
+    "translation": "在厄琉忒里亚，开启车灯会吸引某些敌人攻击，关闭车灯则会吸引另一些敌人攻击。",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=1348；已验证完整字符串数组的数量和逐项长度边界。；沿用快照译文，快照 stage=9（不代表本次新增审核）。"
+  },
+  {
+    "key": "18$Hint",
+    "original": "Don't forget to dodge! Dodging is crucial to survival in combat.",
+    "translation": "战斗中别忘了向左右躲避！这能大幅提高你的生存几率。",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=1528；已验证完整字符串数组的数量和逐项长度边界。；沿用快照译文，快照 stage=9（不代表本次新增审核）。"
+  },
+  {
+    "key": "2$Hint",
+    "original": "When you are overheated, you cannot dodge.",
+    "translation": "机车过热时，无法向左右躲避。",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=372；已验证完整字符串数组的数量和逐项长度边界。；沿用快照译文，快照 stage=9（不代表本次新增审核）。"
+  },
+  {
+    "key": "20$Hint",
+    "original": "Once every 15 minutes, visiting a region's hub port will reduce your Terror.",
+    "translation": "每隔15分钟，你便可以造访所在空域的中心车站来降低恐惧。",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=1656；已验证完整字符串数组的数量和逐项长度边界。；沿用快照译文，快照 stage=9（不代表本次新增审核）。"
+  },
+  {
+    "key": "22$Hint",
+    "original": "Enemies won't pursue you forever. If you are outmatched, try running away.",
+    "translation": "敌人不会一直追击你。如果敌众我寡，不妨溜之大吉。",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=1808；已验证完整字符串数组的数量和逐项长度边界。；沿用快照译文，快照 stage=9（不代表本次新增审核）。"
+  },
+  {
+    "key": "23$Hint",
+    "original": "Experience gained from discovering landmarks is passed on to all your future captains.",
+    "translation": "通过发现地标获得的经验会传承给世系的所有车长。",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=1888；已验证完整字符串数组的数量和逐项长度边界。；沿用快照译文，快照 stage=9（不代表本次新增审核）。"
+  },
+  {
+    "key": "24$Hint",
+    "original": "Your Affiliations can unlock new Bargains and Prospects. They also determine which items your next captain inherits.",
+    "translation": "你的人脉会影响车站中低买与高卖的机遇类型，还会影响下一任车长可以继承的物品。",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=1980；已验证完整字符串数组的数量和逐项长度边界。；沿用快照译文，快照 stage=9（不代表本次新增审核）。"
+  },
+  {
+    "key": "25$Hint",
+    "original": "A glowing arrow on your character portrait means you are ready to level up.",
+    "translation": "当右下角的头像旁出现发光箭头时，你就可以升级主角。",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=2100；已验证完整字符串数组的数量和逐项长度边界。；沿用快照译文，快照 stage=9（不代表本次新增审核）。"
+  },
+  {
+    "key": "26$Hint",
+    "original": "If you run out of Fuel, you may be able to burn something else.",
+    "translation": "当燃料用光时，你可以试试烧点别的东西。",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=2180；已验证完整字符串数组的数量和逐项长度边界。；沿用快照译文，快照 stage=9（不代表本次新增审核）。"
+  },
+  {
+    "key": "27$Hint",
+    "original": "Keep your locomotive well crewed, or face difficult choices about which parts of it to maintain.",
+    "translation": "记得在机车上保持充足的人手，否则你将面临艰难的决策。",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=2248；已验证完整字符串数组的数量和逐项长度边界。；沿用快照译文，快照 stage=9（不代表本次新增审核）。"
+  },
+  {
+    "key": "28$Hint",
+    "original": "When planning a journey, check your chart for Stations that sell Supplies and Fuel. Not all supply both.",
+    "translation": "规划航线时，记得检查沿途车站售卖哪些物资。并非所有车站都同时售卖补给与燃料。",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=2348；已验证完整字符串数组的数量和逐项长度边界。；沿用快照译文，快照 stage=9（不代表本次新增审核）。"
+  },
+  {
+    "key": "29$Hint",
+    "original": "The Reach's sun - the Garden-King - died long ago. Its domains have run wild.",
+    "translation": "花园王是外野的太阳，早已熄灭。其疆域就此荒芜。",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=2456；已验证完整字符串数组的数量和逐项长度边界。；沿用快照译文，快照 stage=9（不代表本次新增审核）。"
+  },
+  {
+    "key": "3$Hint",
+    "original": "When you are overheated, firing your weapons will damage your engine.",
+    "translation": "机车过热时，武器开火将损伤车体。",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=420；已验证完整字符串数组的数量和逐项长度边界。；沿用快照译文，快照 stage=9（不代表本次新增审核）。"
+  },
+  {
+    "key": "30$Hint",
+    "original": "Londoners first arrived in the heavens through the Avid Horizon. Look for it in Albion.",
+    "translation": "渴求之地平线是伦敦人最初抵达天穹时的门户。你可以在阿尔比恩找到它。",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=2540；已验证完整字符串数组的数量和逐项长度边界。；沿用快照译文，快照 stage=9（不代表本次新增审核）。"
+  },
+  {
+    "key": "31$Hint",
+    "original": "When London came to the heavens it conquered Albion's Sun - the King of Hours - and built a clockwork replacement.",
+    "translation": "抵达天穹后，伦敦政权征服了时刻王，即阿尔比恩的太阳，并修建发条太阳将其取代。",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=2632；已验证完整字符串数组的数量和逐项长度边界。；沿用快照译文，快照 stage=9（不代表本次新增审核）。"
+  },
+  {
+    "key": "32$Hint",
+    "original": "The sun of Eleutheria has turned against its peers and plunged its domains into lawless night.",
+    "translation": "厄琉忒里亚的太阳背叛了同胞，将自己的疆域拖入无序的永夜。",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=2752；已验证完整字符串数组的数量和逐项长度边界。；沿用快照译文，快照 stage=9（不代表本次新增审核）。"
+  },
+  {
+    "key": "33$Hint",
+    "original": "The sun of the Blue Kingdom reigns over the domains of the dead in splendour and majesty.",
+    "translation": "蓝色王国的太阳以其宏伟辉煌之姿统御着死者的国度。",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=2852；已验证完整字符串数组的数量和逐项长度边界。；沿用快照译文，快照 stage=9（不代表本次新增审核）。"
+  },
+  {
+    "key": "34$Hint",
+    "original": "In the Blue Kingdom you may encounter the Convictions of the Sapphire'd King: rays of thought from the sun's own brow.",
+    "translation": "你能在蓝色王国遇到蓝宝石之王的信念，那是源自太阳的缕缕思绪。",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=2948；已验证完整字符串数组的数量和逐项长度边界。；沿用快照译文，快照 stage=9（不代表本次新增审核）。"
+  },
+  {
+    "key": "35$Hint",
+    "original": "Eleutheria's celestial library was sundered long ago. If you raid its remains, beware of Scrive-Spinsters.",
+    "translation": "厄琉忒里亚的天界书库早已四分五裂。如果你想搜刮其遗址，记得提防在附近游荡的纺书人。",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=3072；已验证完整字符串数组的数量和逐项长度边界。；沿用快照译文，快照 stage=9（不代表本次新增审核）。"
+  },
+  {
+    "key": "36$Hint",
+    "original": "You can use Otherworldly Artefacts to open Vaults in the Blue Kingdom.",
+    "translation": "你可以使用异界遗物打开蓝色王国的地窖。",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=3184；已验证完整字符串数组的数量和逐项长度边界。；沿用快照译文，快照 stage=9（不代表本次新增审核）。"
+  },
+  {
+    "key": "37$Hint",
+    "original": "Enemies that ram can be persuaded to crash into terrain, or even other enemies.",
+    "translation": "可通过巧妙引导，让冲撞型敌人撞向地形障碍，甚至撞上其他敌人。",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=3260；已验证完整字符串数组的数量和逐项长度边界。；沿用快照译文，快照 stage=9（不代表本次新增审核）。"
+  },
+  {
+    "key": "38$Hint",
+    "original": "Chorister-Bees will always attack if you are carrying chorister-nectar.",
+    "translation": "机车上携带唱诗蜂蜜时，便会遭到唱诗蜂的攻击。",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=3344；已验证完整字符串数组的数量和逐项长度边界。；沿用快照译文，快照 stage=9（不代表本次新增审核）。"
+  },
+  {
+    "key": "4$Hint",
+    "original": "The more Crew you have, the more Supplies you consume.",
+    "translation": "你拥有的列车员越多，物资消耗就越快。",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=496；已验证完整字符串数组的数量和逐项长度边界。；沿用快照译文，快照 stage=9（不代表本次新增审核）。"
+  },
+  {
+    "key": "6$Hint",
+    "original": "Visit the Bazaar at Stations to find Prospects and Bargains, and make your fortune!",
+    "translation": "各处车站的巴扎有时会出现低买高卖的机遇，别忘了去那里看看！",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=556；已验证完整字符串数组的数量和逐项长度边界。；沿用快照译文，快照 stage=9（不代表本次新增审核）。"
+  },
+  {
+    "key": "7$Hint",
+    "original": "Fuel Efficiency affects how long your Fuel lasts. Some locomotives are more efficient than others.",
+    "translation": "燃料效率影响燃料消耗的速度。某些机车会更省燃料。",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=644；已验证完整字符串数组的数量和逐项长度边界。；沿用快照译文，快照 stage=9（不代表本次新增审核）。"
+  },
+  {
+    "key": "8$Hint",
+    "original": "The weight of your cargo affects Fuel Efficiency. The more you carry, the more Fuel you'll need.",
+    "translation": "舱内的货物重量影响燃料效率。总重越大，燃料消耗越快。",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=748；已验证完整字符串数组的数量和逐项长度边界。；沿用快照译文，快照 stage=9（不代表本次新增审核）。"
+  },
+  {
+    "key": "9$Hint",
+    "original": "Look out for Horrors, which cause Terror to rise more quickly, and Wonders, which reduce it.",
+    "translation": "小心会使恐惧加速升高的怖景，留神会降低恐惧的奇观。",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=848；已验证完整字符串数组的数量和逐项长度边界。；沿用快照译文，快照 stage=9（不代表本次新增审核）。"
+  },
+  {
+    "key": "asset_1fd955ed488f653a2c78",
+    "original": "On long journeys, activate your locomotive's cruise control. ",
+    "translation": "",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=1460；已验证完整字符串数组的数量和逐项长度边界。；内容哈希键，无游戏词条 ID；原文改变时作为新增，不能据此判断旧词条已删除。；2026-09-15 快照中未收录此键。"
+  },
+  {
+    "key": "asset_34a8e9e695b21d363049",
+    "original": "You can purchase faster engines at certain major ports.",
+    "translation": "",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=3524；已验证完整字符串数组的数量和逐项长度边界。；内容哈希键，无游戏词条 ID；原文改变时作为新增，不能据此判断旧词条已删除。；2026-09-15 快照中未收录此键。"
+  },
+  {
+    "key": "asset_aa0067a37333ffcb7354",
+    "original": "Your progress is saved whenever you dock or undock from a station, platform or relay.",
+    "translation": "",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=3652；已验证完整字符串数组的数量和逐项长度边界。；内容哈希键，无游戏词条 ID；原文改变时作为新增，不能据此判断旧词条已删除。；2026-09-15 快照中未收录此键。"
+  },
+  {
+    "key": "asset_c01a9dc48242f94eb620",
+    "original": "More advanced engines enable Full Steam Mode, allowing you to go faster at an extra cost in fuel.",
+    "translation": "",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=3420；已验证完整字符串数组的数量和逐项长度边界。；内容哈希键，无游戏词条 ID；原文改变时作为新增，不能据此判断旧词条已删除。；2026-09-15 快照中未收录此键。"
+  },
+  {
+    "key": "asset_c4b4d7b47f51e5c8cf3c",
+    "original": "Your locomotive has a horn. You may toot it. It does nothing.",
+    "translation": "",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=3584；已验证完整字符串数组的数量和逐项长度边界。；内容哈希键，无游戏词条 ID；原文改变时作为新增，不能据此判断旧词条已删除。；2026-09-15 快照中未收录此键。"
+  },
+  {
+    "key": "asset_d012376b998e4da63092",
+    "original": "Locomotives with white running lights are not hostile. ",
+    "translation": "",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=1596；已验证完整字符串数组的数量和逐项长度边界。；内容哈希键，无游戏词条 ID；原文改变时作为新增，不能据此判断旧词条已删除。；2026-09-15 快照中未收录此键。"
+  },
+  {
+    "key": "asset_ea8a441160b1b861fc67",
+    "original": "Discovering a new port for the first time will reduce your Terror. ",
+    "translation": "",
+    "context": "resources.assets | PathID=41666 | Skyless.Assets.Code.Skyless.UI.Presenters.Loading.BasicLoadingScreenPresenter | aligned offset=1736；已验证完整字符串数组的数量和逐项长度边界。；内容哈希键，无游戏词条 ID；原文改变时作为新增，不能据此判断旧词条已删除。；2026-09-15 快照中未收录此键。"
+  }
+]

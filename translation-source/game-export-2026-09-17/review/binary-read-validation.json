@@ -1,0 +1,65 @@
+[
+  {
+    "table": "areas",
+    "objects": 79,
+    "strings": 302,
+    "bytes": 19120,
+    "fullyRead": true
+  },
+  {
+    "table": "bargains",
+    "objects": 109,
+    "strings": 1271,
+    "bytes": 114158,
+    "fullyRead": true
+  },
+  {
+    "table": "domiciles",
+    "objects": 1,
+    "strings": 2,
+    "bytes": 87,
+    "fullyRead": true
+  },
+  {
+    "table": "events",
+    "objects": 1210,
+    "strings": 48186,
+    "bytes": 9603770,
+    "fullyRead": true
+  },
+  {
+    "table": "exchanges",
+    "objects": 34,
+    "strings": 332,
+    "bytes": 105282,
+    "fullyRead": true
+  },
+  {
+    "table": "personas",
+    "objects": 2,
+    "strings": 11,
+    "bytes": 7862,
+    "fullyRead": true
+  },
+  {
+    "table": "prospects",
+    "objects": 107,
+    "strings": 1320,
+    "bytes": 189210,
+    "fullyRead": true
+  },
+  {
+    "table": "qualities",
+    "objects": 2109,
+    "strings": 11352,
+    "bytes": 1401345,
+    "fullyRead": true
+  },
+  {
+    "table": "settings",
+    "objects": 39,
+    "strings": 55,
+    "bytes": 10492,
+    "fullyRead": true
+  }
+]

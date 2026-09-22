@@ -2,13 +2,11 @@
   {
     "key": "13$SatisfactionMessage",
     "original": "A Silvered Captain pays your fee and has his crew takes the sacks away. \"For my retirement.\" While his crew work, he regales you with war stories about furtive clashes between Company engines and Tackety scouts. \"The sky keeps our secrets.\"",
-    "translation": "",
-    "context": "原文内容变化：\n1. 旧原文第 51—54 个字符：将「take」改为「takes」（词内第 4 个字符后新增「s」）。\n（字符位置按旧原文从 1 开始计数，空格和换行也计入。）\n\n旧原文：A Silvered Captain pays your fee and has his crew take the sacks away. \"For my retirement.\" While his crew work, he regales you with war stories about furtive clashes between Company engines and Tackety scouts. \"The sky keeps our secrets.\"\n旧译文：一位满头白发的车长交付了货款，吩咐他的列车员把麻袋拎走。“为我的退休生活作准备。”他说。列车员干活时，他向你讲了些有关迎风公司和钉鞋党机车间隐秘斗争的故事。“天空保守着我们的秘密。”"
+    "translation": ""
   },
   {
     "key": "5$Description",
     "original": "'Cricket season is nigh! Mr Sharma of <b>Port Avon</b> will pay for <b>five consignments of Bronzewood</b> to furnish the village team with bats, bials, stumps, shin-pads and protective cups to minimise damage to delicate areas.' [dir:89aff93f-4b2e-4e03-bb41-d6054a84c5ee].",
-    "translation": "",
-    "context": "原文内容变化：\n1. 旧原文第 147—151 个字符：将「bails」改为「bials」（词内第 1 个字符后新增「i」；删除词内第 3 个字符「i」）。\n（字符位置按旧原文从 1 开始计数，空格和换行也计入。）\n\n旧原文：'Cricket season is nigh! Mr Sharma of <b>Port Avon</b> will pay for <b>five consignments of Bronzewood</b> to furnish the village team with bats, bails, stumps, shin-pads and protective cups to minimise damage to delicate areas.' [dir:89aff93f-4b2e-4e03-bb41-d6054a84c5ee].\n旧译文：“板球赛季将至！<b>埃文村</b>的夏尔马先生订购了<b>五批青铜木</b>，以便为村代表队打造球棒、横木、球墩、护胫和护裆，保护要害部位。”[dir:89aff93f-4b2e-4e03-bb41-d6054a84c5ee]。"
+    "translation": ""
   }
 ]
