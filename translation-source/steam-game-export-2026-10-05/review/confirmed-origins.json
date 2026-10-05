@@ -1,0 +1,2884 @@
+[
+  {
+    "key": "steam_template_18b5233d3dccee1d5d7a_2.0.6.454aad8",
+    "original": "<b>Fuel Consumption:</b> {value1}%\n",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "<b>Fuel Consumption:</b> {value1}%\n",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "native@14736640@0x3de231"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.FormatHelpers.TooltipHelper::AppendEquipmentInfo(System.Text.StringBuilder,Skyless.Assets.Code.Skyless.Game.Data.IEquipment)",
+        "type": "Skyless.Assets.Code.Skyless.UI.FormatHelpers.TooltipHelper",
+        "method_rva": "0x3de020",
+        "instruction_rva": "0x3de245",
+        "kind": "concatenation",
+        "target": "System.String$$Concat",
+        "verification": "Steam 原生 UI 生成方法中的字符串拼接（含显示片段）"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_9ea7289e75970d664960_2.0.6.454aad8",
+    "original": "<b>Full Steam Speed:</b> {value1}%\n",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "<b>Full Steam Speed:</b> {value1}%\n",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "native@14736640@0x3de274"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.FormatHelpers.TooltipHelper::AppendEquipmentInfo(System.Text.StringBuilder,Skyless.Assets.Code.Skyless.Game.Data.IEquipment)",
+        "type": "Skyless.Assets.Code.Skyless.UI.FormatHelpers.TooltipHelper",
+        "method_rva": "0x3de020",
+        "instruction_rva": "0x3de288",
+        "kind": "concatenation",
+        "target": "System.String$$Concat",
+        "verification": "Steam 原生 UI 生成方法中的字符串拼接（含显示片段）"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_7a50219a12202cf8b89b_2.0.6.454aad8",
+    "original": "<b>Location:</b> {value1}\n<b>Last saved:</b> {value2}\n{value3}",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "<b>Location:</b> {value1}\n<b>Last saved:</b> {value2}\n{value3}",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "location"
+          },
+          {
+            "name": "value2",
+            "source": "savedOn"
+          },
+          {
+            "name": "value3",
+            "source": "gameVersion"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.TitleScreen.SaveGamePresenter::InitSaveGameProperties(System.String,System.String,System.String,System.String,System.Boolean)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.TitleScreen.SaveGamePresenter",
+        "method_rva": "0x3eca70",
+        "instruction_rva": "0x3ecc3a",
+        "kind": "display",
+        "target": "TMPro.TMP_Text$$set_text",
+        "verification": "Steam 原生参数追踪至文字组件赋值"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_4ca03e498301099a6b11_2.0.6.454aad8",
+    "original": "<b>Location:</b> {value1}, {value2}\n<b>Last saved:</b> {value3}\n<i>Game version: {value4}</i>",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "<b>Location:</b> {value1}, {value2}\n<b>Last saved:</b> {value3}\n<i>Game version: {value4}</i>",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "field:(\"('e', (('v', 'snippet'),))\", 16)"
+          },
+          {
+            "name": "value2",
+            "source": "field:(\"('e', (('v', 'snippet'),))\", 20)"
+          },
+          {
+            "name": "value3",
+            "source": "native@13301856@0x3ddac8"
+          },
+          {
+            "name": "value4",
+            "source": "field:(\"('e', (('v', 'snippet'),))\", 32)"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.CharacterCreation.NewGamePresenter::SetupSaveObject(Skyless.Assets.Code.Skyless.Game.Data.SaveFileSnippet,UnityEngine.Texture2D)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.CharacterCreation.NewGamePresenter",
+        "method_rva": "0x3dd890",
+        "instruction_rva": "0x3ddbd0",
+        "kind": "display",
+        "target": "TMPro.TMP_Text$$set_text",
+        "verification": "Steam 原生参数追踪至文字组件赋值"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_cbd29b67329f362c701e_2.0.6.454aad8",
+    "original": "<b>Movement Speed:</b> {value1}%\n",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "<b>Movement Speed:</b> {value1}%\n",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "native@14736640@0x3de1f4"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.FormatHelpers.TooltipHelper::AppendEquipmentInfo(System.Text.StringBuilder,Skyless.Assets.Code.Skyless.Game.Data.IEquipment)",
+        "type": "Skyless.Assets.Code.Skyless.UI.FormatHelpers.TooltipHelper",
+        "method_rva": "0x3de020",
+        "instruction_rva": "0x3de208",
+        "kind": "concatenation",
+        "target": "System.String$$Concat",
+        "verification": "Steam 原生 UI 生成方法中的字符串拼接（含显示片段）"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_edd7f8e1f8ef66389116_2.0.6.454aad8",
+    "original": "<color=\"#C33838\"><b>Incompatible with current version</b></color>",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "<color=\"#C33838\"><b>Incompatible with current version</b></color>",
+        "instruction_rva": "0x675b94",
+        "literal_rva": "0x2194564",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Action Skyless.Assets.Code.Skyless.UI.Controllers.TitleScreenController::SetupSnippet(Skyless.Assets.Code.Skyless.Game.Data.SaveFileSnippet)",
+        "method_rva": "0x675ad0",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_a69aa9ebcebc9f707ac3_2.0.6.454aad8",
+    "original": "<i>Game Version: {value1}</i>",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "<i>Game Version: {value1}</i>",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "field:(\"('e', (('v', 'x'),))\", 32)"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Action Skyless.Assets.Code.Skyless.UI.Controllers.TitleScreenController::SetupSnippet(Skyless.Assets.Code.Skyless.Game.Data.SaveFileSnippet)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Controllers.TitleScreenController",
+        "method_rva": "0x675ad0",
+        "instruction_rva": "0x675b8a",
+        "kind": "concatenation",
+        "target": "System.String$$Concat",
+        "verification": "Steam 原生 UI 生成方法中的字符串拼接（含显示片段）"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_60ab0a8456f17b8aed5e_2.0.6.454aad8",
+    "original": "<style=\"descriptive\">To complete this prospect, supply {value1} more:</style>",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "<style=\"descriptive\">To complete this prospect, supply {value1} more:</style>",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "demand"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.Bazaar.BazaarAvailabilityPresenter::UpdateProspectDemand(System.Int32)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.Bazaar.BazaarAvailabilityPresenter",
+        "method_rva": "0x3d3730",
+        "instruction_rva": "0x3d3798",
+        "kind": "display",
+        "target": "TMPro.TMP_Text$$set_text",
+        "verification": "Steam 原生参数追踪至文字组件赋值"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_d09252c46a7b55e63276_2.0.6.454aad8",
+    "original": "Abandon",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Abandon",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.HoldController::OnSelectionChanged(UnityEngine.Component)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Controllers.HoldController",
+        "method_rva": "0x505390",
+        "instruction_rva": "0x505546",
+        "kind": "call_argument",
+        "target": "Skyless.Assets.Code.Skyless.UI.Presenters.ControllerSpecific.ControllerPrompts$$SetPromptText argument 2",
+        "verification": "Steam 原生界面文字参数"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_b59677916d1839849258_2.0.6.454aad8",
+    "original": "Abandon Prospect",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Abandon Prospect",
+        "instruction_rva": "0x39dad7",
+        "literal_rva": "0x219201c",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.Hold.ProspectSlotPresenter::<Init>b__18_0()",
+        "method_rva": "0x39da70",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_815831ac714d184d0f33_2.0.6.454aad8",
+    "original": "After subtracting their fee, Hallidges Bank arranges your successor's inheritance.",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "After subtracting their fee, Hallidges Bank arranges your successor's inheritance.",
+        "instruction_rva": "0x5117ba",
+        "literal_rva": "0x2194eb4",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.LegacyScreenController::Show(System.Boolean)",
+        "method_rva": "0x5104a0",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_02aca3a0fe43d83b4142_2.0.6.454aad8",
+    "original": "All things must end",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "All things must end",
+        "instruction_rva": "0x3dcd2e",
+        "literal_rva": "0x21940b4",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Interfaces.DeathInterstitialController::Init()",
+        "method_rva": "0x3dc900",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_2a319db1c48aa7e2d9cf_2.0.6.454aad8",
+    "original": "Are you sure that you want to permanently delete this save file?",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Are you sure that you want to permanently delete this save file?",
+        "instruction_rva": "0x3e1d9f",
+        "literal_rva": "0x21944e8",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.TitleScreenController/<>c__DisplayClass73_0::<CreateSnippetButtons>b__1(UniRx.Unit)",
+        "method_rva": "0x3e1d50",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_8ece895c9b32c6436d34_2.0.6.454aad8",
+    "original": "Assign",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Assign",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.OfficersController::OnGamepadActiveChanged(System.Boolean)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Controllers.OfficersController",
+        "method_rva": "0x784760",
+        "instruction_rva": "0x784806",
+        "kind": "call_argument",
+        "target": "Skyless.Assets.Code.Skyless.UI.Presenters.ControllerSpecific.ControllerPrompts$$AddPrompt argument 2",
+        "verification": "Steam 原生界面文字参数"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_31f5f20d8cc72d0653b2_2.0.6.454aad8",
+    "original": "Auxiliary slot",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Auxiliary slot",
+        "instruction_rva": "0x39a0f3",
+        "literal_rva": "0x2192268",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.Hold.EquipmentSlotPresenter::Init(Skyless.Assets.Code.Skyless.Game.Data.Slot,System.Boolean,Skyless.Assets.Code.Skyless.Game.Services.IGameState,Skyless.Assets.Code.Skyless.Game.Services.IControllerService)",
+        "method_rva": "0x399ed0",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      },
+      {
+        "original": "Auxiliary slot",
+        "instruction_rva": "0x399e33",
+        "literal_rva": "0x2192268",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.String Skyless.Assets.Code.Skyless.UI.Presenters.Hold.EquipmentSlotPresenter::GetTooltip(Failbetter.Interfaces.Enums.Category)",
+        "method_rva": "0x399df0",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_0ff8e9c7609ebcdfa938_2.0.6.454aad8",
+    "original": "Bargains available",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Bargains available",
+        "instruction_rva": "0x31c776",
+        "literal_rva": "0x219535c",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.BazaarController::Show()",
+        "method_rva": "0x31aea0",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_838851f1806b686164a8_2.0.6.454aad8",
+    "original": "Blast Damage: {value1}",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "Blast Damage: {value1}",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "operation imul@0x3de6cc"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.FormatHelpers.TooltipHelper::AppendWeaponInfo(System.Text.StringBuilder,Skyless.Assets.Code.Skyless.Game.Weapons.Armament)",
+        "type": "Skyless.Assets.Code.Skyless.UI.FormatHelpers.TooltipHelper",
+        "method_rva": "0x3de670",
+        "instruction_rva": "0x3de73a",
+        "kind": "concatenation",
+        "target": "System.String$$Concat",
+        "verification": "Steam 原生 UI 生成方法中的字符串拼接（含显示片段）"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_516b3f2226db9bf8ac0f_2.0.6.454aad8",
+    "original": "Bridge slot",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Bridge slot",
+        "instruction_rva": "0x39a0e5",
+        "literal_rva": "0x21922b8",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.Hold.EquipmentSlotPresenter::Init(Skyless.Assets.Code.Skyless.Game.Data.Slot,System.Boolean,Skyless.Assets.Code.Skyless.Game.Services.IGameState,Skyless.Assets.Code.Skyless.Game.Services.IControllerService)",
+        "method_rva": "0x399ed0",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      },
+      {
+        "original": "Bridge slot",
+        "instruction_rva": "0x399e25",
+        "literal_rva": "0x21922b8",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.String Skyless.Assets.Code.Skyless.UI.Presenters.Hold.EquipmentSlotPresenter::GetTooltip(Failbetter.Interfaces.Enums.Category)",
+        "method_rva": "0x399df0",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_40227aad16bdc5af0082_2.0.6.454aad8",
+    "original": "Brow",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Brow",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.CharacterCreation.CharacterFacePresenter::Init(Skyless.Assets.Code.Skyless.UI.AvatarGeneration.AvatarPieceData,Skyless.Assets.Code.Skyless.UI.AvatarGeneration.AvatarPieceData,Skyless.Assets.Code.Skyless.UI.AvatarGeneration.AvatarPieceData,Skyless.Assets.Code.Skyless.UI.AvatarGeneration.AvatarPieceData,Skyless.Assets.Code.Skyless.UI.AvatarGeneration.AvatarPieceData,Skyless.Assets.Code.Skyless.UI.AvatarGeneration.AvatarPieceData,System.Collections.Generic.Dictionary`2<System.String,System.Int32>,Skyless.Assets.Code.Skyless.UI.Presenters.CharacterCreation.ICharacterCreationPresenter)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.CharacterCreation.CharacterFacePresenter",
+        "method_rva": "0x3d96d0",
+        "instruction_rva": "0x3d9af1",
+        "kind": "call_argument",
+        "target": "Skyless.Assets.Code.Skyless.UI.Presenters.CharacterCreation.CharacterFacePresenter$$CreateOptionsList argument 2",
+        "verification": "Steam 原生界面文字参数"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_64e3cb0e4960ba692988_2.0.6.454aad8",
+    "original": "Buy",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Buy",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.Bazaar.BazaarAvailabilityPresenter::InitBargain(Skyless.Assets.Code.Failbetter.Presentation.PresentationData.BargainPresentation,UnityEngine.Sprite,System.Action,System.Action,System.Action,System.Int32,System.Int32,Failbetter.Core.Quality,System.Action`1<UnityEngine.RectTransform>)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.Bazaar.BazaarAvailabilityPresenter",
+        "method_rva": "0x3d1fd0",
+        "instruction_rva": "0x3d2408",
+        "kind": "display",
+        "target": "TMPro.TMP_Text$$set_text",
+        "verification": "Steam 原生参数追踪至文字组件赋值"
+      },
+      {
+        "original": "Buy",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.ShopController::OnGamepadActiveChanged(System.Boolean)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Controllers.ShopController",
+        "method_rva": "0x7944b0",
+        "instruction_rva": "0x794556",
+        "kind": "call_argument",
+        "target": "Skyless.Assets.Code.Skyless.UI.Presenters.ControllerSpecific.ControllerPrompts$$AddPrompt argument 2",
+        "verification": "Steam 原生界面文字参数"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_d5509c79da9935cb72ae_2.0.6.454aad8",
+    "original": "Chart [{value1}]",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "Chart [{value1}]",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "native@757008@0x4dd790"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.HUD.FooterPresenter::SetupTooltips()",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.HUD.FooterPresenter",
+        "method_rva": "0x4dd600",
+        "instruction_rva": "0x4dd7a4",
+        "kind": "concatenation",
+        "target": "System.String$$Concat",
+        "verification": "Steam 原生 UI 生成方法中的字符串拼接（含显示片段）"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_0f9aa8a1d9d2cc8bb30a_2.0.6.454aad8",
+    "original": "Chin",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Chin",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.CharacterCreation.CharacterFacePresenter::Init(Skyless.Assets.Code.Skyless.UI.AvatarGeneration.AvatarPieceData,Skyless.Assets.Code.Skyless.UI.AvatarGeneration.AvatarPieceData,Skyless.Assets.Code.Skyless.UI.AvatarGeneration.AvatarPieceData,Skyless.Assets.Code.Skyless.UI.AvatarGeneration.AvatarPieceData,Skyless.Assets.Code.Skyless.UI.AvatarGeneration.AvatarPieceData,Skyless.Assets.Code.Skyless.UI.AvatarGeneration.AvatarPieceData,System.Collections.Generic.Dictionary`2<System.String,System.Int32>,Skyless.Assets.Code.Skyless.UI.Presenters.CharacterCreation.ICharacterCreationPresenter)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.CharacterCreation.CharacterFacePresenter",
+        "method_rva": "0x3d96d0",
+        "instruction_rva": "0x3d9c41",
+        "kind": "call_argument",
+        "target": "Skyless.Assets.Code.Skyless.UI.Presenters.CharacterCreation.CharacterFacePresenter$$CreateOptionsList argument 2",
+        "verification": "Steam 原生界面文字参数"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_35936c951cefa45febe3_2.0.6.454aad8",
+    "original": "Choose an ambition.",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Choose an ambition.",
+        "instruction_rva": "0x3d741b",
+        "literal_rva": "0x2193dfc",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.CharacterCreation.CharacterAmbitionPresenter::.ctor()",
+        "method_rva": "0x3d73d0",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_e77a86431d848ec9643a_2.0.6.454aad8",
+    "original": "Cost: {value1} {value2}",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "Cost: {value1} {value2}",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "native@None@0x4c9871"
+          },
+          {
+            "name": "value2",
+            "source": "field:(\"('e', (('v', 'this'),))\", 136)"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.CharacterProgression.StatUpgrade.StatOptionPresenter::OnStatUpgradesBoughtChanged()",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.CharacterProgression.StatUpgrade.StatOptionPresenter",
+        "method_rva": "0x4c9690",
+        "instruction_rva": "0x4c998c",
+        "kind": "display",
+        "target": "TMPro.TMP_Text$$set_text",
+        "verification": "Steam 原生参数追踪至文字组件赋值"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_4c5df708c66ab83938fc_2.0.6.454aad8",
+    "original": "Damage: {value1}",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "Damage: {value1}",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "operation imul@0x3de6cc"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.FormatHelpers.TooltipHelper::AppendWeaponInfo(System.Text.StringBuilder,Skyless.Assets.Code.Skyless.Game.Weapons.Armament)",
+        "type": "Skyless.Assets.Code.Skyless.UI.FormatHelpers.TooltipHelper",
+        "method_rva": "0x3de670",
+        "instruction_rva": "0x3de6eb",
+        "kind": "concatenation",
+        "target": "System.String$$Concat",
+        "verification": "Steam 原生 UI 生成方法中的字符串拼接（含显示片段）"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_f10f91c9b3b11655b724_2.0.6.454aad8",
+    "original": "Delete Save File",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Delete Save File",
+        "instruction_rva": "0x3e1da8",
+        "literal_rva": "0x219450c",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.TitleScreenController/<>c__DisplayClass73_0::<CreateSnippetButtons>b__1(UniRx.Unit)",
+        "method_rva": "0x3e1d50",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_731f2c6d69d8df24209c_2.0.6.454aad8",
+    "original": "Engine slot",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Engine slot",
+        "instruction_rva": "0x39a10f",
+        "literal_rva": "0x21921fc",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.Hold.EquipmentSlotPresenter::Init(Skyless.Assets.Code.Skyless.Game.Data.Slot,System.Boolean,Skyless.Assets.Code.Skyless.Game.Services.IGameState,Skyless.Assets.Code.Skyless.Game.Services.IControllerService)",
+        "method_rva": "0x399ed0",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      },
+      {
+        "original": "Engine slot",
+        "instruction_rva": "0x399e4f",
+        "literal_rva": "0x21921fc",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.String Skyless.Assets.Code.Skyless.UI.Presenters.Hold.EquipmentSlotPresenter::GetTooltip(Failbetter.Interfaces.Enums.Category)",
+        "method_rva": "0x399df0",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_73cacd0d887a88811a62_2.0.6.454aad8",
+    "original": "Equip/Unequip",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Equip/Unequip",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.HoldController::OnGamepadActiveChanged(System.Boolean)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Controllers.HoldController",
+        "method_rva": "0x5051f0",
+        "instruction_rva": "0x50533a",
+        "kind": "call_argument",
+        "target": "Skyless.Assets.Code.Skyless.UI.Presenters.ControllerSpecific.ControllerPrompts$$AddPrompt argument 2",
+        "verification": "Steam 原生界面文字参数"
+      },
+      {
+        "original": "Equip/Unequip",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.HoldController::OnSelectionChanged(UnityEngine.Component)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Controllers.HoldController",
+        "method_rva": "0x505390",
+        "instruction_rva": "0x505546",
+        "kind": "call_argument",
+        "target": "Skyless.Assets.Code.Skyless.UI.Presenters.ControllerSpecific.ControllerPrompts$$SetPromptText argument 2",
+        "verification": "Steam 原生界面文字参数"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_b329ba198d76087f6530_2.0.6.454aad8",
+    "original": "Expand/Contract",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Expand/Contract",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.JournalController::ActivatePanel()",
+        "type": "Skyless.Assets.Code.Skyless.UI.Controllers.JournalController",
+        "method_rva": "0x50e3a0",
+        "instruction_rva": "0x50e5e5",
+        "kind": "call_argument",
+        "target": "Skyless.Assets.Code.Skyless.UI.Presenters.ControllerSpecific.ControllerPrompts$$AddPrompt argument 2",
+        "verification": "Steam 原生界面文字参数"
+      },
+      {
+        "original": "Expand/Contract",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.JournalController::OnGamepadActiveChanged(System.Boolean)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Controllers.JournalController",
+        "method_rva": "0x50e900",
+        "instruction_rva": "0x50e993",
+        "kind": "call_argument",
+        "target": "Skyless.Assets.Code.Skyless.UI.Presenters.ControllerSpecific.ControllerPrompts$$AddPrompt argument 2",
+        "verification": "Steam 原生界面文字参数"
+      },
+      {
+        "original": "Expand/Contract",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.PossessionsController::ActivatePanel()",
+        "type": "Skyless.Assets.Code.Skyless.UI.Controllers.PossessionsController",
+        "method_rva": "0x78b9c0",
+        "instruction_rva": "0x78bc92",
+        "kind": "call_argument",
+        "target": "Skyless.Assets.Code.Skyless.UI.Presenters.ControllerSpecific.ControllerPrompts$$AddPrompt argument 2",
+        "verification": "Steam 原生界面文字参数"
+      },
+      {
+        "original": "Expand/Contract",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.PossessionsController::UpdateControllerPrompts(System.Boolean)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Controllers.PossessionsController",
+        "method_rva": "0x78d400",
+        "instruction_rva": "0x78d493",
+        "kind": "call_argument",
+        "target": "Skyless.Assets.Code.Skyless.UI.Presenters.ControllerSpecific.ControllerPrompts$$AddPrompt argument 2",
+        "verification": "Steam 原生界面文字参数"
+      },
+      {
+        "original": "Expand/Contract",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.ProfileController::ActivatePanel()",
+        "type": "Skyless.Assets.Code.Skyless.UI.Controllers.ProfileController",
+        "method_rva": "0x78d620",
+        "instruction_rva": "0x78d865",
+        "kind": "call_argument",
+        "target": "Skyless.Assets.Code.Skyless.UI.Presenters.ControllerSpecific.ControllerPrompts$$AddPrompt argument 2",
+        "verification": "Steam 原生界面文字参数"
+      },
+      {
+        "original": "Expand/Contract",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.ProfileController::OnGamepadActiveChanged(System.Boolean)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Controllers.ProfileController",
+        "method_rva": "0x78db80",
+        "instruction_rva": "0x78dc13",
+        "kind": "call_argument",
+        "target": "Skyless.Assets.Code.Skyless.UI.Presenters.ControllerSpecific.ControllerPrompts$$AddPrompt argument 2",
+        "verification": "Steam 原生界面文字参数"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_e1d2b6eae7345c280a33_2.0.6.454aad8",
+    "original": "Facets to Take:  <#FFD245>{value1}</color>",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "Facets to Take:  <#FFD245>{value1}</color>",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "native@756768@0x4bce4d"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.CharacterProgression.CurrentFacets.CurrentFacetsPresenter::SetExplanatoryText()",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.CharacterProgression.CurrentFacets.CurrentFacetsPresenter",
+        "method_rva": "0x4bcdf0",
+        "instruction_rva": "0x4bceaf",
+        "kind": "display",
+        "target": "TMPro.TMP_Text$$set_text",
+        "verification": "Steam 原生参数追踪至文字组件赋值"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_4fa87ab06a0b035ec33b_2.0.6.454aad8",
+    "original": "Facets to Take:  <#FFFFFFB2>{value1}</color>",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "Facets to Take:  <#FFFFFFB2>{value1}</color>",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "native@756768@0x4bd15f"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.CharacterProgression.CurrentFacets.CurrentFacetsPresenter::Start()",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.CharacterProgression.CurrentFacets.CurrentFacetsPresenter",
+        "method_rva": "0x4bcf00",
+        "instruction_rva": "0x4bd1ec",
+        "kind": "display",
+        "target": "TMPro.TMP_Text$$set_text",
+        "verification": "Steam 原生参数追踪至文字组件赋值"
+      },
+      {
+        "original": "Facets to Take:  <#FFFFFFB2>{value1}</color>",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "native@756768@0x4bce4d"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.CharacterProgression.CurrentFacets.CurrentFacetsPresenter::SetExplanatoryText()",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.CharacterProgression.CurrentFacets.CurrentFacetsPresenter",
+        "method_rva": "0x4bcdf0",
+        "instruction_rva": "0x4bceaf",
+        "kind": "display",
+        "target": "TMPro.TMP_Text$$set_text",
+        "verification": "Steam 原生参数追踪至文字组件赋值"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_db44245db191c8e48e0e_2.0.6.454aad8",
+    "original": "First, choose your origin.",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "First, choose your origin.",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.CharacterCreation.CharacterHistoryPresenter::SetupCharacterCreation(Skyless.Assets.Code.Skyless.UI.Presenters.CharacterCreation.ICharacterCreationPresenter,UnityEngine.UI.Button,UnityEngine.UI.Button,UnityEngine.UI.Button)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.CharacterCreation.CharacterHistoryPresenter",
+        "method_rva": "0x3dbf00",
+        "instruction_rva": "0x3dc284",
+        "kind": "display",
+        "target": "TMPro.TMP_Text$$set_text",
+        "verification": "Steam 原生参数追踪至文字组件赋值"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_9dd5c3ad71dc90fc792b_2.0.6.454aad8",
+    "original": "Fuel Efficiency",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Fuel Efficiency",
+        "instruction_rva": "0x39bb9f",
+        "literal_rva": "0x21920e0",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.Hold.HoldPresenter::SetFuelEfficiency(System.Single)",
+        "method_rva": "0x39b900",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_ababed4823ab79d226ba_2.0.6.454aad8",
+    "original": "Hair",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Hair",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.CharacterCreation.CharacterFacePresenter::Init(Skyless.Assets.Code.Skyless.UI.AvatarGeneration.AvatarPieceData,Skyless.Assets.Code.Skyless.UI.AvatarGeneration.AvatarPieceData,Skyless.Assets.Code.Skyless.UI.AvatarGeneration.AvatarPieceData,Skyless.Assets.Code.Skyless.UI.AvatarGeneration.AvatarPieceData,Skyless.Assets.Code.Skyless.UI.AvatarGeneration.AvatarPieceData,Skyless.Assets.Code.Skyless.UI.AvatarGeneration.AvatarPieceData,System.Collections.Generic.Dictionary`2<System.String,System.Int32>,Skyless.Assets.Code.Skyless.UI.Presenters.CharacterCreation.ICharacterCreationPresenter)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.CharacterCreation.CharacterFacePresenter",
+        "method_rva": "0x3d96d0",
+        "instruction_rva": "0x3d9a49",
+        "kind": "call_argument",
+        "target": "Skyless.Assets.Code.Skyless.UI.Presenters.CharacterCreation.CharacterFacePresenter$$CreateOptionsList argument 2",
+        "verification": "Steam 原生界面文字参数"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_dc34efd49ed738bf4500_2.0.6.454aad8",
+    "original": "Hat",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Hat",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.CharacterCreation.CharacterFacePresenter::Init(Skyless.Assets.Code.Skyless.UI.AvatarGeneration.AvatarPieceData,Skyless.Assets.Code.Skyless.UI.AvatarGeneration.AvatarPieceData,Skyless.Assets.Code.Skyless.UI.AvatarGeneration.AvatarPieceData,Skyless.Assets.Code.Skyless.UI.AvatarGeneration.AvatarPieceData,Skyless.Assets.Code.Skyless.UI.AvatarGeneration.AvatarPieceData,Skyless.Assets.Code.Skyless.UI.AvatarGeneration.AvatarPieceData,System.Collections.Generic.Dictionary`2<System.String,System.Int32>,Skyless.Assets.Code.Skyless.UI.Presenters.CharacterCreation.ICharacterCreationPresenter)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.CharacterCreation.CharacterFacePresenter",
+        "method_rva": "0x3d96d0",
+        "instruction_rva": "0x3d99a1",
+        "kind": "call_argument",
+        "target": "Skyless.Assets.Code.Skyless.UI.Presenters.CharacterCreation.CharacterFacePresenter$$CreateOptionsList argument 2",
+        "verification": "Steam 原生界面文字参数"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_1f5be24719109a595bf5_2.0.6.454aad8",
+    "original": "Heat: {value1}",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "Heat: {value1}",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "field:(\"('e', (('v', 'weapon'),))\", 48)"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.FormatHelpers.TooltipHelper::AppendWeaponInfo(System.Text.StringBuilder,Skyless.Assets.Code.Skyless.Game.Weapons.Armament)",
+        "type": "Skyless.Assets.Code.Skyless.UI.FormatHelpers.TooltipHelper",
+        "method_rva": "0x3de670",
+        "instruction_rva": "0x3de7b4",
+        "kind": "concatenation",
+        "target": "System.String$$Concat",
+        "verification": "Steam 原生 UI 生成方法中的字符串拼接（含显示片段）"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_1e98fadb09c13cffda20_2.0.6.454aad8",
+    "original": "Hide Tips",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Hide Tips",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.ControllerSpecific.RadialMenuPresenter::OnLoadingScreenFinished()",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.ControllerSpecific.RadialMenuPresenter",
+        "method_rva": "0x4c6710",
+        "instruction_rva": "0x4c6aa2",
+        "kind": "call_argument",
+        "target": "Skyless.Assets.Code.Skyless.UI.Presenters.ControllerSpecific.ControllerPrompts$$AddPrompt argument 2",
+        "verification": "Steam 原生界面文字参数"
+      },
+      {
+        "original": "Hide Tips",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.ControllerSpecific.RadialMenuPresenter::SetControllerPrompts()",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.ControllerSpecific.RadialMenuPresenter",
+        "method_rva": "0x4c7000",
+        "instruction_rva": "0x4c7126",
+        "kind": "call_argument",
+        "target": "Skyless.Assets.Code.Skyless.UI.Presenters.ControllerSpecific.ControllerPrompts$$AddPrompt argument 2",
+        "verification": "Steam 原生界面文字参数"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_03e0a417b26135b35bd0_2.0.6.454aad8",
+    "original": "Hold [{value1}]",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "Hold [{value1}]",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "native@757008@0x4dd658"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.HUD.FooterPresenter::SetupTooltips()",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.HUD.FooterPresenter",
+        "method_rva": "0x4dd600",
+        "instruction_rva": "0x4dd66c",
+        "kind": "concatenation",
+        "target": "System.String$$Concat",
+        "verification": "Steam 原生 UI 生成方法中的字符串拼接（含显示片段）"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_3c4c65a0bf1d0022055c_2.0.6.454aad8",
+    "original": "Improve Skills",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Improve Skills",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.CharacterProgression.CurrentFacets.CurrentFacetsPresenter::Start()",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.CharacterProgression.CurrentFacets.CurrentFacetsPresenter",
+        "method_rva": "0x4bcf00",
+        "instruction_rva": "0x4bd034",
+        "kind": "display",
+        "target": "TMPro.TMP_Text$$set_text",
+        "verification": "Steam 原生参数追踪至文字组件赋值"
+      },
+      {
+        "original": "Improve Skills",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.CharacterProgression.CurrentFacets.CurrentFacetsPresenter::Start()",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.CharacterProgression.CurrentFacets.CurrentFacetsPresenter",
+        "method_rva": "0x4bcf00",
+        "instruction_rva": "0x4bd04b",
+        "kind": "display",
+        "target": "TMPro.TMP_Text$$set_text",
+        "verification": "Steam 原生参数追踪至文字组件赋值"
+      },
+      {
+        "original": "Improve Skills",
+        "instruction_rva": "0x4bd013",
+        "literal_rva": "0x219362c",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.CharacterProgression.CurrentFacets.CurrentFacetsPresenter::Start()",
+        "method_rva": "0x4bcf00",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_57d16b609ec225ce5451_2.0.6.454aad8",
+    "original": "In summary...",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "In summary...",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.CharacterCreation.CharacterFinalPresenter::SetupCharacterCreation(Skyless.Assets.Code.Skyless.UI.Presenters.CharacterCreation.ICharacterCreationPresenter,UnityEngine.UI.Button,UnityEngine.UI.Button,UnityEngine.UI.Button)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.CharacterCreation.CharacterFinalPresenter",
+        "method_rva": "0x3dae40",
+        "instruction_rva": "0x3dafb1",
+        "kind": "display",
+        "target": "TMPro.TMP_Text$$set_text",
+        "verification": "Steam 原生参数追踪至文字组件赋值"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_170322a32f3c35b2c615_2.0.6.454aad8",
+    "original": "Info",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Info",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.BankController::OnGamepadActiveChanged(System.Boolean)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Controllers.BankController",
+        "method_rva": "0x3becb0",
+        "instruction_rva": "0x3bedae",
+        "kind": "call_argument",
+        "target": "Skyless.Assets.Code.Skyless.UI.Presenters.ControllerSpecific.ControllerPrompts$$AddPrompt argument 2",
+        "verification": "Steam 原生界面文字参数"
+      },
+      {
+        "original": "Info",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.BazaarController::OnGamepadActiveChanged(System.Boolean)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Controllers.BazaarController",
+        "method_rva": "0x319680",
+        "instruction_rva": "0x31973b",
+        "kind": "call_argument",
+        "target": "Skyless.Assets.Code.Skyless.UI.Presenters.ControllerSpecific.ControllerPrompts$$AddPrompt argument 2",
+        "verification": "Steam 原生界面文字参数"
+      },
+      {
+        "original": "Info",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.HoldController::OnGamepadActiveChanged(System.Boolean)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Controllers.HoldController",
+        "method_rva": "0x5051f0",
+        "instruction_rva": "0x50534c",
+        "kind": "call_argument",
+        "target": "Skyless.Assets.Code.Skyless.UI.Presenters.ControllerSpecific.ControllerPrompts$$AddPrompt argument 2",
+        "verification": "Steam 原生界面文字参数"
+      },
+      {
+        "original": "Info",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.OfficersController::OnGamepadActiveChanged(System.Boolean)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Controllers.OfficersController",
+        "method_rva": "0x784760",
+        "instruction_rva": "0x784822",
+        "kind": "call_argument",
+        "target": "Skyless.Assets.Code.Skyless.UI.Presenters.ControllerSpecific.ControllerPrompts$$AddPrompt argument 2",
+        "verification": "Steam 原生界面文字参数"
+      },
+      {
+        "original": "Info",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.ShopController::OnGamepadActiveChanged(System.Boolean)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Controllers.ShopController",
+        "method_rva": "0x7944b0",
+        "instruction_rva": "0x794568",
+        "kind": "call_argument",
+        "target": "Skyless.Assets.Code.Skyless.UI.Presenters.ControllerSpecific.ControllerPrompts$$AddPrompt argument 2",
+        "verification": "Steam 原生界面文字参数"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_22427b4f25f090d378d8_2.0.6.454aad8",
+    "original": "It is not my time!",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "It is not my time!",
+        "instruction_rva": "0x3dcc30",
+        "literal_rva": "0x2194118",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Interfaces.DeathInterstitialController::Init()",
+        "method_rva": "0x3dc900",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_8a6d3cf8a5f0699a72dd_2.0.6.454aad8",
+    "original": "Journal [{value1}]",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "Journal [{value1}]",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "native@757008@0x4dd728"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.HUD.FooterPresenter::SetupTooltips()",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.HUD.FooterPresenter",
+        "method_rva": "0x4dd600",
+        "instruction_rva": "0x4dd73c",
+        "kind": "concatenation",
+        "target": "System.String$$Concat",
+        "verification": "Steam 原生 UI 生成方法中的字符串拼接（含显示片段）"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_7ac24889237d64e15e37_2.0.6.454aad8",
+    "original": "Large Armament slot",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Large Armament slot",
+        "instruction_rva": "0x39a101",
+        "literal_rva": "0x2192240",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.Hold.EquipmentSlotPresenter::Init(Skyless.Assets.Code.Skyless.Game.Data.Slot,System.Boolean,Skyless.Assets.Code.Skyless.Game.Services.IGameState,Skyless.Assets.Code.Skyless.Game.Services.IControllerService)",
+        "method_rva": "0x399ed0",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      },
+      {
+        "original": "Large Armament slot",
+        "instruction_rva": "0x399e41",
+        "literal_rva": "0x2192240",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.String Skyless.Assets.Code.Skyless.UI.Presenters.Hold.EquipmentSlotPresenter::GetTooltip(Failbetter.Interfaces.Enums.Category)",
+        "method_rva": "0x399df0",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_2f0f436bfecfb611983e_2.0.6.454aad8",
+    "original": "Level: {value1}\nExperience: {value2}\n\nCongratulations! Your captain is now at level 20, and cannot gain more facets. However, you can still increase their abilities by spending experience on the facet screen.",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "Level: {value1}\nExperience: {value2}\n\nCongratulations! Your captain is now at level 20, and cannot gain more facets. However, you can still increase their abilities by spending experience on the facet screen.",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "field:(\"('e', (('v', 'this'),))\", 180)"
+          },
+          {
+            "name": "value2",
+            "source": "field:(\"('e', (('v', 'this'),))\", 172)"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.HUD.OfficerHudPresenter::Redraw()",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.HUD.OfficerHudPresenter",
+        "method_rva": "0x4e1070",
+        "instruction_rva": "0x4e1138",
+        "kind": "concatenation",
+        "target": "System.String$$Concat",
+        "verification": "Steam 原生 UI 生成方法中的字符串拼接（含显示片段）"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_141c6f97fa7b2fa48348_2.0.6.454aad8",
+    "original": "Level: {value1}\nExperience: {value2}/{value3}\nFacets to take: {value4}\n\n<b><i>Click to view facets</i></b>",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "Level: {value1}\nExperience: {value2}/{value3}\nFacets to take: {value4}\n\n<b><i>Click to view facets</i></b>",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "field:(\"('e', (('v', 'this'),))\", 180)"
+          },
+          {
+            "name": "value2",
+            "source": "field:(\"('e', (('v', 'this'),))\", 172)"
+          },
+          {
+            "name": "value3",
+            "source": "field:(\"('e', (('v', 'this'),))\", 176)"
+          },
+          {
+            "name": "value4",
+            "source": "field:(\"('e', (('v', 'this'),))\", 184)"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.HUD.OfficerHudPresenter::Redraw()",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.HUD.OfficerHudPresenter",
+        "method_rva": "0x4e1070",
+        "instruction_rva": "0x4e1187",
+        "kind": "concatenation",
+        "target": "System.String$$Concat",
+        "verification": "Steam 原生 UI 生成方法中的字符串拼接（含显示片段）"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_a58651bfa5592870a4ca_2.0.6.454aad8",
+    "original": "Locomotive captains gather at the bazaar to trade goods and information. Here, you can acquire 'prospects': opportunities to sell a good at a distant port for an excellent price. Accept a prospect to claim it. Then source and deliver the goods.",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Locomotive captains gather at the bazaar to trade goods and information. Here, you can acquire 'prospects': opportunities to sell a good at a distant port for an excellent price. Accept a prospect to claim it. Then source and deliver the goods.",
+        "instruction_rva": "0x31ae0f",
+        "literal_rva": "0x2195450",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.BazaarController::SetBazaarText(System.String,System.String)",
+        "method_rva": "0x31ad40",
+        "verification": "Steam 集市默认说明分支的原生字符串引用"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_1b49ae7ee9d5021c3909_2.0.6.454aad8",
+    "original": "Locomotive captains gather at the bazaar to trade goods and information. You may find bargains here, or fulfil prospects you have claimed.",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Locomotive captains gather at the bazaar to trade goods and information. You may find bargains here, or fulfil prospects you have claimed.",
+        "instruction_rva": "0x31ae07",
+        "literal_rva": "0x2195464",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.BazaarController::SetBazaarText(System.String,System.String)",
+        "method_rva": "0x31ad40",
+        "verification": "Steam 集市默认说明分支的原生字符串引用"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_7685f37e3290d07787f5_2.0.6.454aad8",
+    "original": "Name your Captain...",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Name your Captain...",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.CharacterCreation.CharacterFacePresenter::OnNameCharactersChanged(System.String)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.CharacterCreation.CharacterFacePresenter",
+        "method_rva": "0x3d9d40",
+        "instruction_rva": "0x3d9d92",
+        "kind": "display",
+        "target": "TMPro.TMP_Text$$set_text",
+        "verification": "Steam 原生参数追踪至文字组件赋值"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_3a7cc9d7a90716c2087b_2.0.6.454aad8",
+    "original": "Name your locomotive",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Name your locomotive",
+        "instruction_rva": "0x7904df",
+        "literal_rva": "0x2194914",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.ShipyardController::ChangeLocomotive(Failbetter.Core.Quality,Skyless.Assets.Code.Skyless.UI.Presenters.Shipyard.ShipAvailabilityPresenter,System.Int32,Failbetter.Core.Availability)",
+        "method_rva": "0x790270",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_3e6888fa854d7c0e3a0f_2.0.6.454aad8",
+    "original": "New bargains available in {value1} days.",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "New bargains available in {value1} days.",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "timeUntilRefresh"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.Bazaar.BazaarPresenter::Initialize(System.String,System.String,System.Int32,System.Int32,System.Boolean,System.Func`1<System.Boolean>)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.Bazaar.BazaarPresenter",
+        "method_rva": "0x3d5080",
+        "instruction_rva": "0x3d525f",
+        "kind": "display",
+        "target": "TMPro.TMP_Text$$set_text",
+        "verification": "Steam 原生参数追踪至文字组件赋值"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_3cd64e3d2ee51d72062e_2.0.6.454aad8",
+    "original": "New prospects available in {value1} days.",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "New prospects available in {value1} days.",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "timeUntilRefresh"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.Bazaar.BazaarPresenter::Initialize(System.String,System.String,System.Int32,System.Int32,System.Boolean,System.Func`1<System.Boolean>)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.Bazaar.BazaarPresenter",
+        "method_rva": "0x3d5080",
+        "instruction_rva": "0x3d525f",
+        "kind": "display",
+        "target": "TMPro.TMP_Text$$set_text",
+        "verification": "Steam 原生参数追踪至文字组件赋值"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_0c26cfa7da8a3854f28d_2.0.6.454aad8",
+    "original": "No Facets Available",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "No Facets Available",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.CharacterProgression.CurrentFacets.SelectedFacetDetailPresenter::ShowDefaultCopy()",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.CharacterProgression.CurrentFacets.SelectedFacetDetailPresenter",
+        "method_rva": "0x4c83f0",
+        "instruction_rva": "0x4c8425",
+        "kind": "display",
+        "target": "TMPro.TMP_Text$$set_text",
+        "verification": "Steam 原生参数追踪至文字组件赋值"
+      },
+      {
+        "original": "No Facets Available",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.CharacterProgression.CurrentFacets.SelectedFacetDetailPresenter::SetFacet(Failbetter.Presentation.PresentationData.PossessionPresentation)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.CharacterProgression.CurrentFacets.SelectedFacetDetailPresenter",
+        "method_rva": "0x4c8370",
+        "instruction_rva": "0x4c83c6",
+        "kind": "display",
+        "target": "TMPro.TMP_Text$$set_text",
+        "verification": "Steam 原生参数追踪至文字组件赋值"
+      },
+      {
+        "original": "No Facets Available",
+        "instruction_rva": "0x4c841e",
+        "literal_rva": "0x219352c",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.CharacterProgression.CurrentFacets.SelectedFacetDetailPresenter::ShowDefaultCopy()",
+        "method_rva": "0x4c83f0",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      },
+      {
+        "original": "No Facets Available",
+        "instruction_rva": "0x4c83bf",
+        "literal_rva": "0x219352c",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.CharacterProgression.CurrentFacets.SelectedFacetDetailPresenter::SetFacet(Failbetter.Presentation.PresentationData.PossessionPresentation)",
+        "method_rva": "0x4c8370",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_a2d1ecf7bf6ae6030fe8_2.0.6.454aad8",
+    "original": "No skill improvements available",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "No skill improvements available",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.CharacterProgression.CurrentFacets.CurrentFacetsPresenter::Start()",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.CharacterProgression.CurrentFacets.CurrentFacetsPresenter",
+        "method_rva": "0x4bcf00",
+        "instruction_rva": "0x4bd1ec",
+        "kind": "display",
+        "target": "TMPro.TMP_Text$$set_text",
+        "verification": "Steam 原生参数追踪至文字组件赋值"
+      },
+      {
+        "original": "No skill improvements available",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.CharacterProgression.CurrentFacets.CurrentFacetsPresenter::SetExplanatoryText()",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.CharacterProgression.CurrentFacets.CurrentFacetsPresenter",
+        "method_rva": "0x4bcdf0",
+        "instruction_rva": "0x4bceed",
+        "kind": "display",
+        "target": "TMPro.TMP_Text$$set_text",
+        "verification": "Steam 原生参数追踪至文字组件赋值"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_05c5d4dbaa8a545abc21_2.0.6.454aad8",
+    "original": "Nose",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Nose",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.CharacterCreation.CharacterFacePresenter::Init(Skyless.Assets.Code.Skyless.UI.AvatarGeneration.AvatarPieceData,Skyless.Assets.Code.Skyless.UI.AvatarGeneration.AvatarPieceData,Skyless.Assets.Code.Skyless.UI.AvatarGeneration.AvatarPieceData,Skyless.Assets.Code.Skyless.UI.AvatarGeneration.AvatarPieceData,Skyless.Assets.Code.Skyless.UI.AvatarGeneration.AvatarPieceData,Skyless.Assets.Code.Skyless.UI.AvatarGeneration.AvatarPieceData,System.Collections.Generic.Dictionary`2<System.String,System.Int32>,Skyless.Assets.Code.Skyless.UI.Presenters.CharacterCreation.ICharacterCreationPresenter)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.CharacterCreation.CharacterFacePresenter",
+        "method_rva": "0x3d96d0",
+        "instruction_rva": "0x3d9b99",
+        "kind": "call_argument",
+        "target": "Skyless.Assets.Code.Skyless.UI.Presenters.CharacterCreation.CharacterFacePresenter$$CreateOptionsList argument 2",
+        "verification": "Steam 原生界面文字参数"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_559a984eb8037c3160f7_2.0.6.454aad8",
+    "original": "Officers [{value1}]",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "Officers [{value1}]",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "native@757008@0x4dd7f8"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.HUD.FooterPresenter::SetupTooltips()",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.HUD.FooterPresenter",
+        "method_rva": "0x4dd600",
+        "instruction_rva": "0x4dd80c",
+        "kind": "concatenation",
+        "target": "System.String$$Concat",
+        "verification": "Steam 原生 UI 生成方法中的字符串拼接（含显示片段）"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_2fa46a9387e276790e93_2.0.6.454aad8",
+    "original": "Outfit",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Outfit",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.CharacterCreation.CharacterFacePresenter::Init(Skyless.Assets.Code.Skyless.UI.AvatarGeneration.AvatarPieceData,Skyless.Assets.Code.Skyless.UI.AvatarGeneration.AvatarPieceData,Skyless.Assets.Code.Skyless.UI.AvatarGeneration.AvatarPieceData,Skyless.Assets.Code.Skyless.UI.AvatarGeneration.AvatarPieceData,Skyless.Assets.Code.Skyless.UI.AvatarGeneration.AvatarPieceData,Skyless.Assets.Code.Skyless.UI.AvatarGeneration.AvatarPieceData,System.Collections.Generic.Dictionary`2<System.String,System.Int32>,Skyless.Assets.Code.Skyless.UI.Presenters.CharacterCreation.ICharacterCreationPresenter)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.CharacterCreation.CharacterFacePresenter",
+        "method_rva": "0x3d96d0",
+        "instruction_rva": "0x3d9ce5",
+        "kind": "call_argument",
+        "target": "Skyless.Assets.Code.Skyless.UI.Presenters.CharacterCreation.CharacterFacePresenter$$CreateOptionsList argument 2",
+        "verification": "Steam 原生界面文字参数"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_7a3c2b28c97a0c8dcc54_2.0.6.454aad8",
+    "original": "Pass on a legacy to a new captain",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Pass on a legacy to a new captain",
+        "instruction_rva": "0x3dcd0f",
+        "literal_rva": "0x21940dc",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Interfaces.DeathInterstitialController::Init()",
+        "method_rva": "0x3dc900",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_84e16f5a3e71c12c7997_2.0.6.454aad8",
+    "original": "Profile [{value1}]",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "Profile [{value1}]",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "native@757008@0x4dd6c0"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.HUD.FooterPresenter::SetupTooltips()",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.HUD.FooterPresenter",
+        "method_rva": "0x4dd600",
+        "instruction_rva": "0x4dd6d4",
+        "kind": "concatenation",
+        "target": "System.String$$Concat",
+        "verification": "Steam 原生 UI 生成方法中的字符串拼接（含显示片段）"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_9f181ebb59d7f3dd458f_2.0.6.454aad8",
+    "original": "Prospects available",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Prospects available",
+        "instruction_rva": "0x31bb44",
+        "literal_rva": "0x219533c",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.BazaarController::Show()",
+        "method_rva": "0x31aea0",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_6a9531935f96f45ed78a_2.0.6.454aad8",
+    "original": "Quit to Title Screen",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Quit to Title Screen",
+        "instruction_rva": "0x3dcb33",
+        "literal_rva": "0x2194144",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Interfaces.DeathInterstitialController::Init()",
+        "method_rva": "0x3dc900",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_6fcae8ae7fd3fa46b66c_2.0.6.454aad8",
+    "original": "Range: {value1}",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "Range: {value1}",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "field:(\"('e', (('v', 'weapon'),))\", 112)"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.FormatHelpers.TooltipHelper::AppendWeaponInfo(System.Text.StringBuilder,Skyless.Assets.Code.Skyless.Game.Weapons.Armament)",
+        "type": "Skyless.Assets.Code.Skyless.UI.FormatHelpers.TooltipHelper",
+        "method_rva": "0x3de670",
+        "instruction_rva": "0x3de777",
+        "kind": "concatenation",
+        "target": "System.String$$Concat",
+        "verification": "Steam 原生 UI 生成方法中的字符串拼接（含显示片段）"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_304a3de5406a82ddc0a9_2.0.6.454aad8",
+    "original": "Recoup",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Recoup",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.Shipyard.ShipAvailabilityPresenter::Initialize(Failbetter.Core.Availability,System.Boolean,System.Action`4<Failbetter.Core.Quality,Skyless.Assets.Code.Skyless.UI.Presenters.Shipyard.ShipAvailabilityPresenter,System.Int32,Failbetter.Core.Availability>,Skyless.Assets.Code.Skyless.Game.Services.ShopService/ShipTradeStats,Skyless.Assets.Code.Skyless.Game.Services.ShopService/ShipTradeStats,System.Int32)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.Shipyard.ShipAvailabilityPresenter",
+        "method_rva": "0x39e750",
+        "instruction_rva": "0x39eacd",
+        "kind": "display",
+        "target": "TMPro.TMP_Text$$set_text",
+        "verification": "Steam 原生参数追踪至文字组件赋值"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_daee7606b339f3c33907_2.0.6.454aad8",
+    "original": "Reset",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Reset",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.ShopController::OnGamepadActiveChanged(System.Boolean)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Controllers.ShopController",
+        "method_rva": "0x7944b0",
+        "instruction_rva": "0x79457a",
+        "kind": "call_argument",
+        "target": "Skyless.Assets.Code.Skyless.UI.Presenters.ControllerSpecific.ControllerPrompts$$AddPrompt argument 2",
+        "verification": "Steam 原生界面文字参数"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_edc1fc20d93db2447247_2.0.6.454aad8",
+    "original": "Resume from last autosave",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Resume from last autosave",
+        "instruction_rva": "0x3dcc12",
+        "literal_rva": "0x2194130",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Interfaces.DeathInterstitialController::Init()",
+        "method_rva": "0x3dc900",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_042f806d0cc94af9393e_2.0.6.454aad8",
+    "original": "Scout slot",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Scout slot",
+        "instruction_rva": "0x39a108",
+        "literal_rva": "0x219221c",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.Hold.EquipmentSlotPresenter::Init(Skyless.Assets.Code.Skyless.Game.Data.Slot,System.Boolean,Skyless.Assets.Code.Skyless.Game.Services.IGameState,Skyless.Assets.Code.Skyless.Game.Services.IControllerService)",
+        "method_rva": "0x399ed0",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      },
+      {
+        "original": "Scout slot",
+        "instruction_rva": "0x399e48",
+        "literal_rva": "0x219221c",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.String Skyless.Assets.Code.Skyless.UI.Presenters.Hold.EquipmentSlotPresenter::GetTooltip(Failbetter.Interfaces.Enums.Category)",
+        "method_rva": "0x399df0",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_91178c7e73250b5b9aae_2.0.6.454aad8",
+    "original": "Show Tips",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Show Tips",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.ControllerSpecific.RadialMenuPresenter::OnLoadingScreenFinished()",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.ControllerSpecific.RadialMenuPresenter",
+        "method_rva": "0x4c6710",
+        "instruction_rva": "0x4c6aa2",
+        "kind": "call_argument",
+        "target": "Skyless.Assets.Code.Skyless.UI.Presenters.ControllerSpecific.ControllerPrompts$$AddPrompt argument 2",
+        "verification": "Steam 原生界面文字参数"
+      },
+      {
+        "original": "Show Tips",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.ControllerSpecific.RadialMenuPresenter::SetControllerPrompts()",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.ControllerSpecific.RadialMenuPresenter",
+        "method_rva": "0x4c7000",
+        "instruction_rva": "0x4c7126",
+        "kind": "call_argument",
+        "target": "Skyless.Assets.Code.Skyless.UI.Presenters.ControllerSpecific.ControllerPrompts$$AddPrompt argument 2",
+        "verification": "Steam 原生界面文字参数"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_3fde567f0cbf9cdaf9bd_2.0.6.454aad8",
+    "original": "Skill improvements available",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Skill improvements available",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.CharacterProgression.CurrentFacets.CurrentFacetsPresenter::Start()",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.CharacterProgression.CurrentFacets.CurrentFacetsPresenter",
+        "method_rva": "0x4bcf00",
+        "instruction_rva": "0x4bd1ec",
+        "kind": "display",
+        "target": "TMPro.TMP_Text$$set_text",
+        "verification": "Steam 原生参数追踪至文字组件赋值"
+      },
+      {
+        "original": "Skill improvements available",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.CharacterProgression.CurrentFacets.CurrentFacetsPresenter::SetExplanatoryText()",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.CharacterProgression.CurrentFacets.CurrentFacetsPresenter",
+        "method_rva": "0x4bcdf0",
+        "instruction_rva": "0x4bceed",
+        "kind": "display",
+        "target": "TMPro.TMP_Text$$set_text",
+        "verification": "Steam 原生参数追踪至文字组件赋值"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_b099789d661efbd10005_2.0.6.454aad8",
+    "original": "Small Armament slot",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Small Armament slot",
+        "instruction_rva": "0x39a0fa",
+        "literal_rva": "0x219224c",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.Hold.EquipmentSlotPresenter::Init(Skyless.Assets.Code.Skyless.Game.Data.Slot,System.Boolean,Skyless.Assets.Code.Skyless.Game.Services.IGameState,Skyless.Assets.Code.Skyless.Game.Services.IControllerService)",
+        "method_rva": "0x399ed0",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      },
+      {
+        "original": "Small Armament slot",
+        "instruction_rva": "0x399e3a",
+        "literal_rva": "0x219224c",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.String Skyless.Assets.Code.Skyless.UI.Presenters.Hold.EquipmentSlotPresenter::GetTooltip(Failbetter.Interfaces.Enums.Category)",
+        "method_rva": "0x399df0",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_d85840e3b65d45cd25b8_2.0.6.454aad8",
+    "original": "Smuggling Prospects available",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Smuggling Prospects available",
+        "instruction_rva": "0x31bfda",
+        "literal_rva": "0x219538c",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.BazaarController::Show()",
+        "method_rva": "0x31aea0",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_cb09d412cce28fbba908_2.0.6.454aad8",
+    "original": "Speak",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Speak",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.OfficersController::OnGamepadActiveChanged(System.Boolean)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Controllers.OfficersController",
+        "method_rva": "0x784760",
+        "instruction_rva": "0x78483e",
+        "kind": "call_argument",
+        "target": "Skyless.Assets.Code.Skyless.UI.Presenters.ControllerSpecific.ControllerPrompts$$AddPrompt argument 2",
+        "verification": "Steam 原生界面文字参数"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_3cfab70b55567693e475_2.0.6.454aad8",
+    "original": "Take a Facet",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Take a Facet",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.CharacterProgression.CurrentFacets.CurrentFacetsPresenter::Start()",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.CharacterProgression.CurrentFacets.CurrentFacetsPresenter",
+        "method_rva": "0x4bcf00",
+        "instruction_rva": "0x4bd034",
+        "kind": "display",
+        "target": "TMPro.TMP_Text$$set_text",
+        "verification": "Steam 原生参数追踪至文字组件赋值"
+      },
+      {
+        "original": "Take a Facet",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.CharacterProgression.CurrentFacets.CurrentFacetsPresenter::Start()",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.CharacterProgression.CurrentFacets.CurrentFacetsPresenter",
+        "method_rva": "0x4bcf00",
+        "instruction_rva": "0x4bd04b",
+        "kind": "display",
+        "target": "TMPro.TMP_Text$$set_text",
+        "verification": "Steam 原生参数追踪至文字组件赋值"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_b039fa554b8e23921b45_2.0.6.454aad8",
+    "original": "Terror: {value1}%\nNightmares: {value2}",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "Terror: {value1}%\nNightmares: {value2}",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "field:(\"('e', (('v', 'this'),))\", 244)"
+          },
+          {
+            "name": "value2",
+            "source": "native@None@0x3a537e"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.String Skyless.Assets.Code.Skyless.UI.Presenters.HUD.SurvivalHudPresenter::TerrorTooltip()",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.HUD.SurvivalHudPresenter",
+        "method_rva": "0x3a51c0",
+        "instruction_rva": "0x3a53c6",
+        "kind": "return",
+        "target": "return",
+        "verification": "Steam HUD 工具提示返回文本"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_ed07c6ad550f69a9ce23_2.0.6.454aad8",
+    "original": "The High Wilderness claims another",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "The High Wilderness claims another",
+        "instruction_rva": "0x3dca96",
+        "literal_rva": "0x219415c",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Interfaces.DeathInterstitialController::Init()",
+        "method_rva": "0x3dc900",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_64e35b9002619f58022c_2.0.6.454aad8",
+    "original": "The bank, after funeral expenses, passed on what was left from their estate.",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "The bank, after funeral expenses, passed on what was left from their estate.",
+        "instruction_rva": "0x5117b5",
+        "literal_rva": "0x2194ed4",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.LegacyScreenController::Show(System.Boolean)",
+        "method_rva": "0x5104a0",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_49267ebb4a6fbb64d648_2.0.6.454aad8",
+    "original": "This action will discard your prospect, you will lose any progress made so far. Are you sure you want to abandon this prospect?",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "This action will discard your prospect, you will lose any progress made so far. Are you sure you want to abandon this prospect?",
+        "instruction_rva": "0x39dae6",
+        "literal_rva": "0x2192000",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.Hold.ProspectSlotPresenter::<Init>b__18_0()",
+        "method_rva": "0x39da70",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_26bc7f41312f0e170714_2.0.6.454aad8",
+    "original": "This locomotive has a combined hull and armour value of {value1}.",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "This locomotive has a combined hull and armour value of {value1}.",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "maxHull"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.Hold.HoldPresenter::SetEnhancements(System.Int32,System.Int32,System.Int32,System.Int32)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.Hold.HoldPresenter",
+        "method_rva": "0x39b710",
+        "instruction_rva": "0x39b84c",
+        "kind": "concatenation",
+        "target": "System.String$$Concat",
+        "verification": "Steam 原生 UI 生成方法中的字符串拼接（含显示片段）"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_b090df81e0665e52df28_2.0.6.454aad8",
+    "original": "Though most fixtures were reclaimed, the {value1} was unfortunately lost.",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "Though most fixtures were reclaimed, the {value1} was unfortunately lost.",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "native@757216@0x5112df"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.LegacyScreenController::Show(System.Boolean)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Controllers.LegacyScreenController",
+        "method_rva": "0x5104a0",
+        "instruction_rva": "0x5112f3",
+        "kind": "concatenation",
+        "target": "System.String$$Concat",
+        "verification": "Steam 原生 UI 生成方法中的字符串拼接（含显示片段）"
+      },
+      {
+        "original": "Though most fixtures were reclaimed, the {value1} was unfortunately lost.",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "native@757216@0x5112df"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.LegacyScreenController::Show(System.Boolean)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Controllers.LegacyScreenController",
+        "method_rva": "0x5104a0",
+        "instruction_rva": "0x511309",
+        "kind": "call_argument",
+        "target": "Skyless.Assets.Code.Skyless.UI.Controllers.LegacyScreenController$$AddText argument 1",
+        "verification": "Steam 原生界面文字参数"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_9709653fc80ceb83ff87_2.0.6.454aad8",
+    "original": "Trade",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Trade",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.ShipyardController::OnGamepadActiveChanged(System.Boolean)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Controllers.ShipyardController",
+        "method_rva": "0x791230",
+        "instruction_rva": "0x7912d6",
+        "kind": "call_argument",
+        "target": "Skyless.Assets.Code.Skyless.UI.Presenters.ControllerSpecific.ControllerPrompts$$AddPrompt argument 2",
+        "verification": "Steam 原生界面文字参数"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_dde8bef78cbb720683fa_2.0.6.454aad8",
+    "original": "Transfer",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Transfer",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.BankController::OnGamepadActiveChanged(System.Boolean)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Controllers.BankController",
+        "method_rva": "0x3becb0",
+        "instruction_rva": "0x3bed9c",
+        "kind": "call_argument",
+        "target": "Skyless.Assets.Code.Skyless.UI.Presenters.ControllerSpecific.ControllerPrompts$$AddPrompt argument 2",
+        "verification": "Steam 原生界面文字参数"
+      },
+      {
+        "original": "Transfer",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.JettisonController::OpenJettison()",
+        "type": "Skyless.Assets.Code.Skyless.UI.Controllers.JettisonController",
+        "method_rva": "0x50c080",
+        "instruction_rva": "0x50c397",
+        "kind": "call_argument",
+        "target": "Skyless.Assets.Code.Skyless.UI.Presenters.ControllerSpecific.ControllerPrompts$$AddPrompt argument 2",
+        "verification": "Steam 原生界面文字参数"
+      },
+      {
+        "original": "Transfer",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.JettisonController::UpdateControllerPrompts(System.Boolean)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Controllers.JettisonController",
+        "method_rva": "0x50e120",
+        "instruction_rva": "0x50e1ba",
+        "kind": "call_argument",
+        "target": "Skyless.Assets.Code.Skyless.UI.Presenters.ControllerSpecific.ControllerPrompts$$AddPrompt argument 2",
+        "verification": "Steam 原生界面文字参数"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_c48f7d18a26e9bb751ab_2.0.6.454aad8",
+    "original": "Weight: {value1}",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "Weight: {value1}",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "native@None@0x3de88e"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.FormatHelpers.TooltipHelper::AppendWeight(System.Text.StringBuilder,Failbetter.Core.Quality)",
+        "type": "Skyless.Assets.Code.Skyless.UI.FormatHelpers.TooltipHelper",
+        "method_rva": "0x3de7e0",
+        "instruction_rva": "0x3de8ab",
+        "kind": "concatenation",
+        "target": "System.String$$Concat",
+        "verification": "Steam 原生 UI 生成方法中的字符串拼接（含显示片段）"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_4f3b7699da0e9cd4f97f_2.0.6.454aad8",
+    "original": "Welcome to our updated procedural generation system! You can load from any existing save game, but please note that your map will now have regenerated, and you've been moved to the New Winchester starting area.",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Welcome to our updated procedural generation system! You can load from any existing save game, but please note that your map will now have regenerated, and you've been moved to the New Winchester starting area.",
+        "instruction_rva": "0x670ebf",
+        "literal_rva": "0x21945d0",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.TitleScreenController::CheckSave(System.Action)",
+        "method_rva": "0x670d90",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_7cc1052c2c14f1b77c02_2.0.6.454aad8",
+    "original": "Welcome to the updated Albion region! Loading from an existing saved game will preserve your story progress, but be warned that your map of the region will be blank. As its contents have moved around, you'll need to re-explore it.",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Welcome to the updated Albion region! Loading from an existing saved game will preserve your story progress, but be warned that your map of the region will be blank. As its contents have moved around, you'll need to re-explore it.",
+        "instruction_rva": "0x6712a8",
+        "literal_rva": "0x2194570",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.TitleScreenController::CheckSave(System.Action)",
+        "method_rva": "0x670d90",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_2d4395b20998e767294d_2.0.6.454aad8",
+    "original": "Welcome to the updated Reach region! Loading from an existing saved game will preserve your story progress, but be warned that your map of the region will be blank. As its contents have moved around, you'll need to re-explore it.",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Welcome to the updated Reach region! Loading from an existing saved game will preserve your story progress, but be warned that your map of the region will be blank. As its contents have moved around, you'll need to re-explore it.",
+        "instruction_rva": "0x670fa2",
+        "literal_rva": "0x21945b8",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.TitleScreenController::CheckSave(System.Action)",
+        "method_rva": "0x670d90",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_cab4bbe43666ffc7fd94_2.0.6.454aad8",
+    "original": "What does winning mean to you?",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "What does winning mean to you?",
+        "instruction_rva": "0x3d742c",
+        "literal_rva": "0x2193dec",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.CharacterCreation.CharacterAmbitionPresenter::.ctor()",
+        "method_rva": "0x3d73d0",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_070d605db4633d50dd65_2.0.6.454aad8",
+    "original": "With your assistance, your successor will start out stronger and wiser than you did. Perhaps one day they will even surpass you.",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "With your assistance, your successor will start out stronger and wiser than you did. Perhaps one day they will even surpass you.",
+        "instruction_rva": "0x5118a5",
+        "literal_rva": "0x2194e34",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.LegacyScreenController::Show(System.Boolean)",
+        "method_rva": "0x5104a0",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_98a34580cef6710effc8_2.0.6.454aad8",
+    "original": "You donate your - now slightly faded - chart.",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "You donate your - now slightly faded - chart.",
+        "instruction_rva": "0x511844",
+        "literal_rva": "0x2194e7c",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.LegacyScreenController::Show(System.Boolean)",
+        "method_rva": "0x5104a0",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_5383dc9db13edddd8871_2.0.6.454aad8",
+    "original": "You donate your heirloom as a reminder of all you have achieved.",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "You donate your heirloom as a reminder of all you have achieved.",
+        "instruction_rva": "0x511a28",
+        "literal_rva": "0x2194dfc",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.LegacyScreenController::Show(System.Boolean)",
+        "method_rva": "0x5104a0",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_56253b819c9dfbef3283_2.0.6.454aad8",
+    "original": "You donate your {value1} to your chosen successor. You hope they can handle it.",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "You donate your {value1} to your chosen successor. You hope they can handle it.",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "field:(\"('e', (('v', 'native@757008@0x510a99'),))\", 16)"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.LegacyScreenController::Show(System.Boolean)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Controllers.LegacyScreenController",
+        "method_rva": "0x5104a0",
+        "instruction_rva": "0x510d0c",
+        "kind": "concatenation",
+        "target": "System.String$$Concat",
+        "verification": "Steam 原生 UI 生成方法中的字符串拼接（含显示片段）"
+      },
+      {
+        "original": "You donate your {value1} to your chosen successor. You hope they can handle it.",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "field:(\"('e', (('v', 'native@757008@0x510a99'),))\", 16)"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.LegacyScreenController::Show(System.Boolean)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Controllers.LegacyScreenController",
+        "method_rva": "0x5104a0",
+        "instruction_rva": "0x510d22",
+        "kind": "call_argument",
+        "target": "Skyless.Assets.Code.Skyless.UI.Controllers.LegacyScreenController$$AddText argument 1",
+        "verification": "Steam 原生界面文字参数"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_de249c7205e1a11a5561_2.0.6.454aad8",
+    "original": "You fill in some of your chart.",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "You fill in some of your chart.",
+        "instruction_rva": "0x511889",
+        "literal_rva": "0x2194e60",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.LegacyScreenController::Show(System.Boolean)",
+        "method_rva": "0x5104a0",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_b7b1e5daaeb782a0d6b5_2.0.6.454aad8",
+    "original": "You have not yet revealed any facets. Return here once you've gained enough experience to unlock one!",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "You have not yet revealed any facets. Return here once you've gained enough experience to unlock one!",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.CharacterProgression.CurrentFacets.SelectedFacetDetailPresenter::ShowDefaultCopy()",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.CharacterProgression.CurrentFacets.SelectedFacetDetailPresenter",
+        "method_rva": "0x4c83f0",
+        "instruction_rva": "0x4c843e",
+        "kind": "display",
+        "target": "TMPro.TMP_Text$$set_text",
+        "verification": "Steam 原生参数追踪至文字组件赋值"
+      },
+      {
+        "original": "You have not yet revealed any facets. Return here once you've gained enough experience to unlock one!",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.CharacterProgression.CurrentFacets.SelectedFacetDetailPresenter::SetFacet(Failbetter.Presentation.PresentationData.PossessionPresentation)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.CharacterProgression.CurrentFacets.SelectedFacetDetailPresenter",
+        "method_rva": "0x4c8370",
+        "instruction_rva": "0x4c83de",
+        "kind": "display",
+        "target": "TMPro.TMP_Text$$set_text",
+        "verification": "Steam 原生参数追踪至文字组件赋值"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_09ec15936043ceeb6c27_2.0.6.454aad8",
+    "original": "You inherit a copy of your predecessor's chart, though it lacks the details of their final voyage.",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "You inherit a copy of your predecessor's chart, though it lacks the details of their final voyage.",
+        "instruction_rva": "0x51183a",
+        "literal_rva": "0x2194ea0",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.LegacyScreenController::Show(System.Boolean)",
+        "method_rva": "0x5104a0",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_02b7f24ae8ffdaccc034_2.0.6.454aad8",
+    "original": "You no longer meet the requirements to use all your locomotive equipment. This will halve your maximum heat: to fix it, change your equipment in port or raise your abilities to meet all the requirements.",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "You no longer meet the requirements to use all your locomotive equipment. This will halve your maximum heat: to fix it, change your equipment in port or raise your abilities to meet all the requirements.",
+        "parameters": [],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.String Skyless.Assets.Code.Skyless.UI.Presenters.HUD.HeatPresenter::HeatTooltip()",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.HUD.HeatPresenter",
+        "method_rva": "0x4ddef0",
+        "instruction_rva": "0x4ddf65",
+        "kind": "return",
+        "target": "return",
+        "verification": "Steam HUD 工具提示返回文本"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_74a0f464e28a27a6c3fd_2.0.6.454aad8",
+    "original": "You receive the heirlooms of your predecessor.",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "You receive the heirlooms of your predecessor.",
+        "instruction_rva": "0x511a23",
+        "literal_rva": "0x2194e20",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.LegacyScreenController::Show(System.Boolean)",
+        "method_rva": "0x5104a0",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_54890455b1347a6449e0_2.0.6.454aad8",
+    "original": "You will begin your career with the benefit of some of your predecessor's experience.",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "You will begin your career with the benefit of some of your predecessor's experience.",
+        "instruction_rva": "0x511895",
+        "literal_rva": "0x2194e58",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.LegacyScreenController::Show(System.Boolean)",
+        "method_rva": "0x5104a0",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_6704d23757bf296a1b29_2.0.6.454aad8",
+    "original": "Your Locomotive can carry a maximum of {value1} crew.",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "Your Locomotive can carry a maximum of {value1} crew.",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "quarters"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.Hold.HoldPresenter::SetEnhancements(System.Int32,System.Int32,System.Int32,System.Int32)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.Hold.HoldPresenter",
+        "method_rva": "0x39b710",
+        "instruction_rva": "0x39b8ce",
+        "kind": "concatenation",
+        "target": "System.String$$Concat",
+        "verification": "Steam 原生 UI 生成方法中的字符串拼接（含显示片段）"
+      }
+    ]
+  },
+  {
+    "key": "steam_ui_e40036c70356a44e88ad_2.0.6.454aad8",
+    "original": "Your legacy",
+    "kind": "fixed_text",
+    "origins": [
+      {
+        "original": "Your legacy",
+        "instruction_rva": "0x510839",
+        "literal_rva": "0x2194f84",
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.LegacyScreenController::Show(System.Boolean)",
+        "method_rva": "0x5104a0",
+        "verification": "Steam 原生 UI 方法中的固定提示，已筛除程序标识"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_77913dd73d3aa4d79079_2.0.6.454aad8",
+    "original": "Your {value1} Will change by {value2}",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "Your {value1} Will change by {value2}",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "statName"
+          },
+          {
+            "name": "value2",
+            "source": "native@13100240@0x39ee8e"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.Shipyard.ShipAvailabilityPresenter::SetupStatTooltip(UnityEngine.GameObject,System.String,System.Single)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.Shipyard.ShipAvailabilityPresenter",
+        "method_rva": "0x39ee60",
+        "instruction_rva": "0x39eea5",
+        "kind": "concatenation",
+        "target": "System.String$$Concat",
+        "verification": "Steam 原生 UI 生成方法中的字符串拼接（含显示片段）"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_df431bf0a2b7812863b1_2.0.6.454aad8",
+    "original": "Your {value1} gives you a <b>{value2}% chance of success</b>",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "Your {value1} gives you a <b>{value2}% chance of success</b>",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "field:(\"('e', (('v', 'challenge'),))\", 16)"
+          },
+          {
+            "name": "value2",
+            "source": "field:(\"('e', (('v', 'challenge'),))\", 28)"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.Storylets.ChallengePresenter::Initialize(Failbetter.Presentation.PresentationData.ChallengePresentation)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.Storylets.ChallengePresenter",
+        "method_rva": "0x398860",
+        "instruction_rva": "0x398a4f",
+        "kind": "concatenation",
+        "target": "System.String$$Concat",
+        "verification": "Steam 原生 UI 生成方法中的字符串拼接（含显示片段）"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_6124df5214947abaf93b_2.0.6.454aad8",
+    "original": "x{value1}",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "x{value1}",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "fuelEfficiency"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.Hold.HoldPresenter::SetFuelEfficiency(System.Single)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.Hold.HoldPresenter",
+        "method_rva": "0x39b900",
+        "instruction_rva": "0x39b9d1",
+        "kind": "concatenation",
+        "target": "System.String$$Concat",
+        "verification": "Steam 原生 UI 生成方法中的字符串拼接（含显示片段）"
+      },
+      {
+        "original": "x{value1}",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "fuelEfficiency"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.Hold.HoldPresenter::SetFuelEfficiency(System.Single)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.Hold.HoldPresenter",
+        "method_rva": "0x39b900",
+        "instruction_rva": "0x39b9e5",
+        "kind": "display",
+        "target": "TMPro.TMP_Text$$set_text",
+        "verification": "Steam 原生参数追踪至文字组件赋值"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_d96c88756df52d9a4d31_2.0.6.454aad8",
+    "original": "x{value1} (Economical)\n\nThe more you carry, the faster your engine consumes fuel.",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "x{value1} (Economical)\n\nThe more you carry, the faster your engine consumes fuel.",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "this"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.Hold.HoldPresenter::SetFuelEfficiency(System.Single)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.Hold.HoldPresenter",
+        "method_rva": "0x39b900",
+        "instruction_rva": "0x39bb8a",
+        "kind": "concatenation",
+        "target": "System.String$$Concat",
+        "verification": "Steam 原生 UI 生成方法中的字符串拼接（含显示片段）"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_a209137f5e9553141381_2.0.6.454aad8",
+    "original": "x{value1} (Improvident)\n\nThe more you carry, the faster your engine consumes fuel.",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "x{value1} (Improvident)\n\nThe more you carry, the faster your engine consumes fuel.",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "this"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.Hold.HoldPresenter::SetFuelEfficiency(System.Single)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.Hold.HoldPresenter",
+        "method_rva": "0x39b900",
+        "instruction_rva": "0x39bb8a",
+        "kind": "concatenation",
+        "target": "System.String$$Concat",
+        "verification": "Steam 原生 UI 生成方法中的字符串拼接（含显示片段）"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_f973632d99b778ec0c05_2.0.6.454aad8",
+    "original": "x{value1} (Standard)\n\nThe more you carry, the faster your engine consumes fuel.",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "x{value1} (Standard)\n\nThe more you carry, the faster your engine consumes fuel.",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "this"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.Hold.HoldPresenter::SetFuelEfficiency(System.Single)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.Hold.HoldPresenter",
+        "method_rva": "0x39b900",
+        "instruction_rva": "0x39bb8a",
+        "kind": "concatenation",
+        "target": "System.String$$Concat",
+        "verification": "Steam 原生 UI 生成方法中的字符串拼接（含显示片段）"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_716ecb7f089983075190_2.0.6.454aad8",
+    "original": "{value1}\n\n <b>Deliver {value2} more to complete this prospect.</b>",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "{value1}\n\n <b>Deliver {value2} more to complete this prospect.</b>",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "field:(\"('e', (('v', 'native@2165440@0x39d5ae'),))\", 20)"
+          },
+          {
+            "name": "value2",
+            "source": "demand"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.Hold.ProspectSlotPresenter::Init(Failbetter.Core.Prospect,System.Action`1<Failbetter.Core.Prospect>,System.Int32)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.Hold.ProspectSlotPresenter",
+        "method_rva": "0x39d560",
+        "instruction_rva": "0x39d789",
+        "kind": "concatenation",
+        "target": "System.String$$Concat",
+        "verification": "Steam 原生 UI 生成方法中的字符串拼接（含显示片段）"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_2cbf6efb1235d8d95050_2.0.6.454aad8",
+    "original": "{value1}\n\n <b>Deliver {value2} to complete this prospect.</b>",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "{value1}\n\n <b>Deliver {value2} to complete this prospect.</b>",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "field:(\"('e', (('v', 'prospect'),))\", 20)"
+          },
+          {
+            "name": "value2",
+            "source": "field:(\"('e', (('v', 'prospect'),))\", 28)"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.Bazaar.BazaarItemPresenter::Initialize(Skyless.Assets.Code.Failbetter.Presentation.PresentationData.ProspectPresentation,Skyless.Assets.Code.Failbetter.Presentation.PresentationData.BargainPresentation,Skyless.Assets.Code.Skyless.UI.Presenters.Bazaar.IBazaarPresenter,System.Boolean,System.Boolean,System.Action`3<Skyless.Assets.Code.Skyless.UI.Presenters.Bazaar.IBazaarPresenter,Skyless.Assets.Code.Failbetter.Presentation.PresentationData.ProspectPresentation,Skyless.Assets.Code.Skyless.UI.Presenters.Bazaar.IBazaarItemPresenter>,System.Action`1<UnityEngine.RectTransform>)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.Bazaar.BazaarItemPresenter",
+        "method_rva": "0x3d4470",
+        "instruction_rva": "0x3d47cb",
+        "kind": "concatenation",
+        "target": "System.String$$Concat",
+        "verification": "Steam 原生 UI 生成方法中的字符串拼接（含显示片段）"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_be270da4b10389de7882_2.0.6.454aad8",
+    "original": "{value1}\n\n<style=\"descriptive\">You can only have four Prospects at a time. Complete or abandon one from the Locomotive screen to free up a slot.</style>",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "{value1}\n\n<style=\"descriptive\">You can only have four Prospects at a time. Complete or abandon one from the Locomotive screen to free up a slot.</style>",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "field:(\"('e', (('v', 'this'),))\", 164)"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.BazaarController::Show()",
+        "type": "Skyless.Assets.Code.Skyless.UI.Controllers.BazaarController",
+        "method_rva": "0x31aea0",
+        "instruction_rva": "0x31b705",
+        "kind": "concatenation",
+        "target": "System.String$$Concat",
+        "verification": "Steam 原生 UI 生成方法中的字符串拼接（含显示片段）"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_c319245c87acaa8f2950_2.0.6.454aad8",
+    "original": "{value1}\n\n<style=\"descriptive\">You can only have {value2} Smuggling Prospects at a time. Complete or abandon one from the Locomotive screen to free up a slot.</style>",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "{value1}\n\n<style=\"descriptive\">You can only have {value2} Smuggling Prospects at a time. Complete or abandon one from the Locomotive screen to free up a slot.</style>",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "field:(\"('e', (('v', 'this'),))\", 164)"
+          },
+          {
+            "name": "value2",
+            "source": "native@756768@0x31b905"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.BazaarController::Show()",
+        "type": "Skyless.Assets.Code.Skyless.UI.Controllers.BazaarController",
+        "method_rva": "0x31aea0",
+        "instruction_rva": "0x31b999",
+        "kind": "concatenation",
+        "target": "System.String$$Concat",
+        "verification": "Steam 原生 UI 生成方法中的字符串拼接（含显示片段）"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_abd564af67bb12299f51_2.0.6.454aad8",
+    "original": "{value1} (completed)",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "{value1} (completed)",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "field:(\"('e', (('v', 'quest'),))\", 16)"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.Journal.QuestPresenter::Init(Failbetter.Presentation.PresentationData.PossessionPresentation,System.Boolean,Failbetter.Core.Character,Failbetter.Presentation.Interfaces.IStoryFormatter,System.Action`1<UnityEngine.RectTransform>)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.Journal.QuestPresenter",
+        "method_rva": "0x39db80",
+        "instruction_rva": "0x39dc1c",
+        "kind": "concatenation",
+        "target": "System.String$$Concat",
+        "verification": "Steam 原生 UI 生成方法中的字符串拼接（含显示片段）"
+      },
+      {
+        "original": "{value1} (completed)",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "field:(\"('e', (('v', 'quest'),))\", 16)"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.Journal.QuestPresenter::Init(Failbetter.Presentation.PresentationData.PossessionPresentation,System.Boolean,Failbetter.Core.Character,Failbetter.Presentation.Interfaces.IStoryFormatter,System.Action`1<UnityEngine.RectTransform>)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.Journal.QuestPresenter",
+        "method_rva": "0x39db80",
+        "instruction_rva": "0x39dc30",
+        "kind": "display",
+        "target": "TMPro.TMP_Text$$set_text",
+        "verification": "Steam 原生参数追踪至文字组件赋值"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_210865f0386db7639713_2.0.6.454aad8",
+    "original": "{value1} Bazaar",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "{value1} Bazaar",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "field:(\"('e', (('v', 'dock'),))\", 12)"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.IndexController::DisplayIndex(Skyless.Assets.Code.Skyless.Game.Procedural_Generation.SceneBehaviourScripts.PortBehaviour)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Controllers.IndexController",
+        "method_rva": "0x5084b0",
+        "instruction_rva": "0x508538",
+        "kind": "concatenation",
+        "target": "System.String$$Concat",
+        "verification": "Steam 原生 UI 生成方法中的字符串拼接（含显示片段）"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_123195827a48ac9d18ba_2.0.6.454aad8",
+    "original": "{value1} Exp",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "{value1} Exp",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "value"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.CharacterProgression.Header.XPPostLevel20Presenter::set_XP(System.Int32)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.CharacterProgression.Header.XPPostLevel20Presenter",
+        "method_rva": "0x4cbfa0",
+        "instruction_rva": "0x4cbff6",
+        "kind": "display",
+        "target": "TMPro.TMP_Text$$set_text",
+        "verification": "Steam 原生参数追踪至文字组件赋值"
+      },
+      {
+        "original": "{value1} Exp",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "native@756768@0x4cbee2"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.CharacterProgression.Header.XPPostLevel20Presenter::OnStatUpgradesBoughtChange()",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.CharacterProgression.Header.XPPostLevel20Presenter",
+        "method_rva": "0x4cbe90",
+        "instruction_rva": "0x4cbf39",
+        "kind": "display",
+        "target": "TMPro.TMP_Text$$set_text",
+        "verification": "Steam 原生参数追踪至文字组件赋值"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_bd79576a255ee582cfe1_2.0.6.454aad8",
+    "original": "{value1} Experience Gained",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "{value1} Experience Gained",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "native@757008@0x4310cf"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.Game.Procedural_Generation.SceneBehaviourScripts.LabelBehavior::OnTriggerEnter2D(UnityEngine.Collider2D)",
+        "type": "Skyless.Assets.Code.Skyless.Game.Procedural_Generation.SceneBehaviourScripts.LabelBehavior",
+        "method_rva": "0x431010",
+        "instruction_rva": "0x4310ff",
+        "kind": "display",
+        "target": "TMPro.TMP_Text$$set_text",
+        "verification": "Steam 原生参数追踪至文字组件赋值"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_c807834e051364e2f495_2.0.6.454aad8",
+    "original": "{value1} Here, you can acquire 'prospects': opportunities to sell a good at a distant port for an excellent price. Accept a prospect to claim it, source the goods, and deliver them.",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "{value1} Here, you can acquire 'prospects': opportunities to sell a good at a distant port for an excellent price. Accept a prospect to claim it, source the goods, and deliver them.",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "copy"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.BazaarController::SetBazaarText(System.String,System.String)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Controllers.BazaarController",
+        "method_rva": "0x31ad40",
+        "instruction_rva": "0x31adda",
+        "kind": "concatenation",
+        "target": "System.String$$Concat",
+        "verification": "Steam 原生 UI 生成方法中的字符串拼接（含显示片段）"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_38b12d6f7be1f1c9c6ae_2.0.6.454aad8",
+    "original": "{value1} You may find bargains here, or fulfil prospects you have claimed.",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "{value1} You may find bargains here, or fulfil prospects you have claimed.",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "copy"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Controllers.BazaarController::SetBazaarText(System.String,System.String)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Controllers.BazaarController",
+        "method_rva": "0x31ad40",
+        "instruction_rva": "0x31adda",
+        "kind": "concatenation",
+        "target": "System.String$$Concat",
+        "verification": "Steam 原生 UI 生成方法中的字符串拼接（含显示片段）"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_507c640e4b3de7f91da2_2.0.6.454aad8",
+    "original": "{value1} barrels in hold. \n{value2}% remaining in current barrel.",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "{value1} barrels in hold. \n{value2}% remaining in current barrel.",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "field:(\"('e', (('v', 'this'),))\", 228)"
+          },
+          {
+            "name": "value2",
+            "source": "field:(\"('e', (('v', 'this'),))\", 232)"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.String Skyless.Assets.Code.Skyless.UI.Presenters.HUD.SurvivalHudPresenter::FuelTooltip()",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.HUD.SurvivalHudPresenter",
+        "method_rva": "0x3a4180",
+        "instruction_rva": "0x3a4329",
+        "kind": "return",
+        "target": "return",
+        "verification": "Steam HUD 工具提示返回文本"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_b55be694d14a47493637_2.0.6.454aad8",
+    "original": "{value1} crates in hold. \n{value2}% remaining in current crate.",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "{value1} crates in hold. \n{value2}% remaining in current crate.",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "field:(\"('e', (('v', 'this'),))\", 236)"
+          },
+          {
+            "name": "value2",
+            "source": "field:(\"('e', (('v', 'this'),))\", 240)"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.String Skyless.Assets.Code.Skyless.UI.Presenters.HUD.SurvivalHudPresenter::SuppliesTooltip()",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.HUD.SurvivalHudPresenter",
+        "method_rva": "0x3a4f80",
+        "instruction_rva": "0x3a5129",
+        "kind": "return",
+        "target": "return",
+        "verification": "Steam HUD 工具提示返回文本"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_d8f943943bd8118510d6_2.0.6.454aad8",
+    "original": "{value1} crew members on board",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "{value1} crew members on board",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "field:(\"('e', (('v', 'this'),))\", 268)"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.String Skyless.Assets.Code.Skyless.UI.Presenters.HUD.SurvivalHudPresenter::CrewTooltip()",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.HUD.SurvivalHudPresenter",
+        "method_rva": "0x3a40d0",
+        "instruction_rva": "0x3a411e",
+        "kind": "return",
+        "target": "return",
+        "verification": "Steam HUD 工具提示返回文本"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_32ab99550d679ead3d0e_2.0.6.454aad8",
+    "original": "{value1}/10 Improvements Left",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "{value1}/10 Improvements Left",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "Rewired.Utils.MathTools$$Max@0x4c98ca"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.CharacterProgression.StatUpgrade.StatOptionPresenter::OnStatUpgradesBoughtChanged()",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.CharacterProgression.StatUpgrade.StatOptionPresenter",
+        "method_rva": "0x4c9690",
+        "instruction_rva": "0x4c9903",
+        "kind": "display",
+        "target": "TMPro.TMP_Text$$set_text",
+        "verification": "Steam 原生参数追踪至文字组件赋值"
+      }
+    ]
+  },
+  {
+    "key": "steam_template_fc7cd4d5d9db8cf214e1_2.0.6.454aad8",
+    "original": "{value1}<i>No stories available here at this time.</i>",
+    "kind": "normalized_template",
+    "origins": [
+      {
+        "original": "{value1}<i>No stories available here at this time.</i>",
+        "parameters": [
+          {
+            "name": "value1",
+            "source": "field:('(\\'e\\', ((\\'v\\', \\'field:(\"(\\\\\\'e\\\\\\', ((\\\\\\'v\\\\\\', \\\\\\'this\\\\\\'),))\", 84)\\'),))', 112)"
+          }
+        ],
+        "assembly": "Assembly-CSharp.dll",
+        "method": "System.Void Skyless.Assets.Code.Skyless.UI.Presenters.Storylets.StoryletAvailablePresenter::Initialize(Failbetter.Core.Area,System.Boolean)",
+        "type": "Skyless.Assets.Code.Skyless.UI.Presenters.Storylets.StoryletAvailablePresenter",
+        "method_rva": "0x3a1e40",
+        "instruction_rva": "0x3a1fd2",
+        "kind": "display",
+        "target": "TMPro.TMP_Text$$set_text",
+        "verification": "Steam 原生参数追踪至文字组件赋值"
+      }
+    ]
+  }
+]

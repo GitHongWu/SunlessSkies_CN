@@ -1,0 +1,252 @@
+[
+  {
+    "key": "steam_template_18b5233d3dccee1d5d7a_2.0.6.454aad8",
+    "original": "<b>Fuel Consumption:</b> {value1}%\n",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_9ea7289e75970d664960_2.0.6.454aad8",
+    "original": "<b>Full Steam Speed:</b> {value1}%\n",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_7a50219a12202cf8b89b_2.0.6.454aad8",
+    "original": "<b>Location:</b> {value1}\n<b>Last saved:</b> {value2}\n{value3}",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_4ca03e498301099a6b11_2.0.6.454aad8",
+    "original": "<b>Location:</b> {value1}, {value2}\n<b>Last saved:</b> {value3}\n<i>Game version: {value4}</i>",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_cbd29b67329f362c701e_2.0.6.454aad8",
+    "original": "<b>Movement Speed:</b> {value1}%\n",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_a69aa9ebcebc9f707ac3_2.0.6.454aad8",
+    "original": "<i>Game Version: {value1}</i>",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_60ab0a8456f17b8aed5e_2.0.6.454aad8",
+    "original": "<style=\"descriptive\">To complete this prospect, supply {value1} more:</style>",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_838851f1806b686164a8_2.0.6.454aad8",
+    "original": "Blast Damage: {value1}",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_d5509c79da9935cb72ae_2.0.6.454aad8",
+    "original": "Chart [{value1}]",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_e77a86431d848ec9643a_2.0.6.454aad8",
+    "original": "Cost: {value1} {value2}",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_4c5df708c66ab83938fc_2.0.6.454aad8",
+    "original": "Damage: {value1}",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_e1d2b6eae7345c280a33_2.0.6.454aad8",
+    "original": "Facets to Take:  <#FFD245>{value1}</color>",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_4fa87ab06a0b035ec33b_2.0.6.454aad8",
+    "original": "Facets to Take:  <#FFFFFFB2>{value1}</color>",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_1f5be24719109a595bf5_2.0.6.454aad8",
+    "original": "Heat: {value1}",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_03e0a417b26135b35bd0_2.0.6.454aad8",
+    "original": "Hold [{value1}]",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_8a6d3cf8a5f0699a72dd_2.0.6.454aad8",
+    "original": "Journal [{value1}]",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_2f0f436bfecfb611983e_2.0.6.454aad8",
+    "original": "Level: {value1}\nExperience: {value2}\n\nCongratulations! Your captain is now at level 20, and cannot gain more facets. However, you can still increase their abilities by spending experience on the facet screen.",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_141c6f97fa7b2fa48348_2.0.6.454aad8",
+    "original": "Level: {value1}\nExperience: {value2}/{value3}\nFacets to take: {value4}\n\n<b><i>Click to view facets</i></b>",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_3e6888fa854d7c0e3a0f_2.0.6.454aad8",
+    "original": "New bargains available in {value1} days.",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_3cd64e3d2ee51d72062e_2.0.6.454aad8",
+    "original": "New prospects available in {value1} days.",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_559a984eb8037c3160f7_2.0.6.454aad8",
+    "original": "Officers [{value1}]",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_84e16f5a3e71c12c7997_2.0.6.454aad8",
+    "original": "Profile [{value1}]",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_6fcae8ae7fd3fa46b66c_2.0.6.454aad8",
+    "original": "Range: {value1}",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_b039fa554b8e23921b45_2.0.6.454aad8",
+    "original": "Terror: {value1}%\nNightmares: {value2}",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_26bc7f41312f0e170714_2.0.6.454aad8",
+    "original": "This locomotive has a combined hull and armour value of {value1}.",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_b090df81e0665e52df28_2.0.6.454aad8",
+    "original": "Though most fixtures were reclaimed, the {value1} was unfortunately lost.",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_c48f7d18a26e9bb751ab_2.0.6.454aad8",
+    "original": "Weight: {value1}",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_56253b819c9dfbef3283_2.0.6.454aad8",
+    "original": "You donate your {value1} to your chosen successor. You hope they can handle it.",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_6704d23757bf296a1b29_2.0.6.454aad8",
+    "original": "Your Locomotive can carry a maximum of {value1} crew.",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_77913dd73d3aa4d79079_2.0.6.454aad8",
+    "original": "Your {value1} Will change by {value2}",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_df431bf0a2b7812863b1_2.0.6.454aad8",
+    "original": "Your {value1} gives you a <b>{value2}% chance of success</b>",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_6124df5214947abaf93b_2.0.6.454aad8",
+    "original": "x{value1}",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_d96c88756df52d9a4d31_2.0.6.454aad8",
+    "original": "x{value1} (Economical)\n\nThe more you carry, the faster your engine consumes fuel.",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_a209137f5e9553141381_2.0.6.454aad8",
+    "original": "x{value1} (Improvident)\n\nThe more you carry, the faster your engine consumes fuel.",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_f973632d99b778ec0c05_2.0.6.454aad8",
+    "original": "x{value1} (Standard)\n\nThe more you carry, the faster your engine consumes fuel.",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_716ecb7f089983075190_2.0.6.454aad8",
+    "original": "{value1}\n\n <b>Deliver {value2} more to complete this prospect.</b>",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_2cbf6efb1235d8d95050_2.0.6.454aad8",
+    "original": "{value1}\n\n <b>Deliver {value2} to complete this prospect.</b>",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_be270da4b10389de7882_2.0.6.454aad8",
+    "original": "{value1}\n\n<style=\"descriptive\">You can only have four Prospects at a time. Complete or abandon one from the Locomotive screen to free up a slot.</style>",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_c319245c87acaa8f2950_2.0.6.454aad8",
+    "original": "{value1}\n\n<style=\"descriptive\">You can only have {value2} Smuggling Prospects at a time. Complete or abandon one from the Locomotive screen to free up a slot.</style>",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_abd564af67bb12299f51_2.0.6.454aad8",
+    "original": "{value1} (completed)",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_210865f0386db7639713_2.0.6.454aad8",
+    "original": "{value1} Bazaar",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_123195827a48ac9d18ba_2.0.6.454aad8",
+    "original": "{value1} Exp",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_bd79576a255ee582cfe1_2.0.6.454aad8",
+    "original": "{value1} Experience Gained",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_c807834e051364e2f495_2.0.6.454aad8",
+    "original": "{value1} Here, you can acquire 'prospects': opportunities to sell a good at a distant port for an excellent price. Accept a prospect to claim it, source the goods, and deliver them.",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_38b12d6f7be1f1c9c6ae_2.0.6.454aad8",
+    "original": "{value1} You may find bargains here, or fulfil prospects you have claimed.",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_507c640e4b3de7f91da2_2.0.6.454aad8",
+    "original": "{value1} barrels in hold. \n{value2}% remaining in current barrel.",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_b55be694d14a47493637_2.0.6.454aad8",
+    "original": "{value1} crates in hold. \n{value2}% remaining in current crate.",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_d8f943943bd8118510d6_2.0.6.454aad8",
+    "original": "{value1} crew members on board",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_32ab99550d679ead3d0e_2.0.6.454aad8",
+    "original": "{value1}/10 Improvements Left",
+    "translation": ""
+  },
+  {
+    "key": "steam_template_fc7cd4d5d9db8cf214e1_2.0.6.454aad8",
+    "original": "{value1}<i>No stories available here at this time.</i>",
+    "translation": ""
+  }
+]

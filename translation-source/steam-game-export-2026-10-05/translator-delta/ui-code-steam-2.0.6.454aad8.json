@@ -1,0 +1,342 @@
+[
+  {
+    "key": "steam_ui_edd7f8e1f8ef66389116_2.0.6.454aad8",
+    "original": "<color=\"#C33838\"><b>Incompatible with current version</b></color>",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_d09252c46a7b55e63276_2.0.6.454aad8",
+    "original": "Abandon",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_b59677916d1839849258_2.0.6.454aad8",
+    "original": "Abandon Prospect",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_815831ac714d184d0f33_2.0.6.454aad8",
+    "original": "After subtracting their fee, Hallidges Bank arranges your successor's inheritance.",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_02aca3a0fe43d83b4142_2.0.6.454aad8",
+    "original": "All things must end",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_2a319db1c48aa7e2d9cf_2.0.6.454aad8",
+    "original": "Are you sure that you want to permanently delete this save file?",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_8ece895c9b32c6436d34_2.0.6.454aad8",
+    "original": "Assign",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_31f5f20d8cc72d0653b2_2.0.6.454aad8",
+    "original": "Auxiliary slot",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_0ff8e9c7609ebcdfa938_2.0.6.454aad8",
+    "original": "Bargains available",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_516b3f2226db9bf8ac0f_2.0.6.454aad8",
+    "original": "Bridge slot",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_40227aad16bdc5af0082_2.0.6.454aad8",
+    "original": "Brow",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_64e3cb0e4960ba692988_2.0.6.454aad8",
+    "original": "Buy",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_0f9aa8a1d9d2cc8bb30a_2.0.6.454aad8",
+    "original": "Chin",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_35936c951cefa45febe3_2.0.6.454aad8",
+    "original": "Choose an ambition.",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_f10f91c9b3b11655b724_2.0.6.454aad8",
+    "original": "Delete Save File",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_731f2c6d69d8df24209c_2.0.6.454aad8",
+    "original": "Engine slot",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_73cacd0d887a88811a62_2.0.6.454aad8",
+    "original": "Equip/Unequip",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_b329ba198d76087f6530_2.0.6.454aad8",
+    "original": "Expand/Contract",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_db44245db191c8e48e0e_2.0.6.454aad8",
+    "original": "First, choose your origin.",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_9dd5c3ad71dc90fc792b_2.0.6.454aad8",
+    "original": "Fuel Efficiency",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_ababed4823ab79d226ba_2.0.6.454aad8",
+    "original": "Hair",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_dc34efd49ed738bf4500_2.0.6.454aad8",
+    "original": "Hat",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_1e98fadb09c13cffda20_2.0.6.454aad8",
+    "original": "Hide Tips",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_3c4c65a0bf1d0022055c_2.0.6.454aad8",
+    "original": "Improve Skills",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_57d16b609ec225ce5451_2.0.6.454aad8",
+    "original": "In summary...",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_170322a32f3c35b2c615_2.0.6.454aad8",
+    "original": "Info",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_22427b4f25f090d378d8_2.0.6.454aad8",
+    "original": "It is not my time!",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_7ac24889237d64e15e37_2.0.6.454aad8",
+    "original": "Large Armament slot",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_a58651bfa5592870a4ca_2.0.6.454aad8",
+    "original": "Locomotive captains gather at the bazaar to trade goods and information. Here, you can acquire 'prospects': opportunities to sell a good at a distant port for an excellent price. Accept a prospect to claim it. Then source and deliver the goods.",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_1b49ae7ee9d5021c3909_2.0.6.454aad8",
+    "original": "Locomotive captains gather at the bazaar to trade goods and information. You may find bargains here, or fulfil prospects you have claimed.",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_7685f37e3290d07787f5_2.0.6.454aad8",
+    "original": "Name your Captain...",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_3a7cc9d7a90716c2087b_2.0.6.454aad8",
+    "original": "Name your locomotive",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_0c26cfa7da8a3854f28d_2.0.6.454aad8",
+    "original": "No Facets Available",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_a2d1ecf7bf6ae6030fe8_2.0.6.454aad8",
+    "original": "No skill improvements available",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_05c5d4dbaa8a545abc21_2.0.6.454aad8",
+    "original": "Nose",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_2fa46a9387e276790e93_2.0.6.454aad8",
+    "original": "Outfit",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_7a3c2b28c97a0c8dcc54_2.0.6.454aad8",
+    "original": "Pass on a legacy to a new captain",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_9f181ebb59d7f3dd458f_2.0.6.454aad8",
+    "original": "Prospects available",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_6a9531935f96f45ed78a_2.0.6.454aad8",
+    "original": "Quit to Title Screen",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_304a3de5406a82ddc0a9_2.0.6.454aad8",
+    "original": "Recoup",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_daee7606b339f3c33907_2.0.6.454aad8",
+    "original": "Reset",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_edc1fc20d93db2447247_2.0.6.454aad8",
+    "original": "Resume from last autosave",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_042f806d0cc94af9393e_2.0.6.454aad8",
+    "original": "Scout slot",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_91178c7e73250b5b9aae_2.0.6.454aad8",
+    "original": "Show Tips",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_3fde567f0cbf9cdaf9bd_2.0.6.454aad8",
+    "original": "Skill improvements available",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_b099789d661efbd10005_2.0.6.454aad8",
+    "original": "Small Armament slot",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_d85840e3b65d45cd25b8_2.0.6.454aad8",
+    "original": "Smuggling Prospects available",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_cb09d412cce28fbba908_2.0.6.454aad8",
+    "original": "Speak",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_3cfab70b55567693e475_2.0.6.454aad8",
+    "original": "Take a Facet",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_ed07c6ad550f69a9ce23_2.0.6.454aad8",
+    "original": "The High Wilderness claims another",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_64e35b9002619f58022c_2.0.6.454aad8",
+    "original": "The bank, after funeral expenses, passed on what was left from their estate.",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_49267ebb4a6fbb64d648_2.0.6.454aad8",
+    "original": "This action will discard your prospect, you will lose any progress made so far. Are you sure you want to abandon this prospect?",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_9709653fc80ceb83ff87_2.0.6.454aad8",
+    "original": "Trade",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_dde8bef78cbb720683fa_2.0.6.454aad8",
+    "original": "Transfer",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_4f3b7699da0e9cd4f97f_2.0.6.454aad8",
+    "original": "Welcome to our updated procedural generation system! You can load from any existing save game, but please note that your map will now have regenerated, and you've been moved to the New Winchester starting area.",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_7cc1052c2c14f1b77c02_2.0.6.454aad8",
+    "original": "Welcome to the updated Albion region! Loading from an existing saved game will preserve your story progress, but be warned that your map of the region will be blank. As its contents have moved around, you'll need to re-explore it.",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_2d4395b20998e767294d_2.0.6.454aad8",
+    "original": "Welcome to the updated Reach region! Loading from an existing saved game will preserve your story progress, but be warned that your map of the region will be blank. As its contents have moved around, you'll need to re-explore it.",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_cab4bbe43666ffc7fd94_2.0.6.454aad8",
+    "original": "What does winning mean to you?",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_070d605db4633d50dd65_2.0.6.454aad8",
+    "original": "With your assistance, your successor will start out stronger and wiser than you did. Perhaps one day they will even surpass you.",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_98a34580cef6710effc8_2.0.6.454aad8",
+    "original": "You donate your - now slightly faded - chart.",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_5383dc9db13edddd8871_2.0.6.454aad8",
+    "original": "You donate your heirloom as a reminder of all you have achieved.",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_de249c7205e1a11a5561_2.0.6.454aad8",
+    "original": "You fill in some of your chart.",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_b7b1e5daaeb782a0d6b5_2.0.6.454aad8",
+    "original": "You have not yet revealed any facets. Return here once you've gained enough experience to unlock one!",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_09ec15936043ceeb6c27_2.0.6.454aad8",
+    "original": "You inherit a copy of your predecessor's chart, though it lacks the details of their final voyage.",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_02b7f24ae8ffdaccc034_2.0.6.454aad8",
+    "original": "You no longer meet the requirements to use all your locomotive equipment. This will halve your maximum heat: to fix it, change your equipment in port or raise your abilities to meet all the requirements.",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_74a0f464e28a27a6c3fd_2.0.6.454aad8",
+    "original": "You receive the heirlooms of your predecessor.",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_54890455b1347a6449e0_2.0.6.454aad8",
+    "original": "You will begin your career with the benefit of some of your predecessor's experience.",
+    "translation": ""
+  },
+  {
+    "key": "steam_ui_e40036c70356a44e88ad_2.0.6.454aad8",
+    "original": "Your legacy",
+    "translation": ""
+  }
+]

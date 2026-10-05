@@ -1,0 +1,17 @@
+[
+  {
+    "file": "GameAssembly.dll",
+    "sha256": "6b1b60440c035b2c293ab60643cecaa3ff41d02e15064fb5b44f8f44471aede2",
+    "bytes": 37321216
+  },
+  {
+    "file": "Sunless Skies_Data\\il2cpp_data\\Metadata\\global-metadata.dat",
+    "sha256": "1e05abedadf9d24e3db012bf30caf16d096b977a0e2d9b9999d1165c6fb802b5",
+    "bytes": 12977768
+  },
+  {
+    "file": "Sunless Skies_Data\\globalgamemanagers",
+    "sha256": "3899bf4a5750a3bcca78d273979d3615ffe007738d9251771b4f76f07edcc883",
+    "bytes": 2413228
+  }
+]

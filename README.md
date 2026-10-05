@@ -2,6 +2,8 @@
 
 Windows 版《Sunless Skies》的离线汉化，分别提供 Epic 和 Steam 补丁。译文共享，加载器及运行时插件按游戏构建分别适配。
 
+当前以 Steam 版为主要适配与原文检查对象；Epic 补丁继续单独保留。
+
 ## 选择版本
 
 | 游戏版本 | 对应补丁与安装说明 | 运行环境 | 验证状态 |
@@ -54,6 +56,7 @@ Windows 版《Sunless Skies》的离线汉化，分别提供 Epic 和 Steam 补�
 | [src/steam/](src/steam/README.md) | Steam 自有插件源码 |
 | [translation-source/](translation-source/README.md) | 译文来源地址与日期、审核统计及旧版补充资料 |
 | [game-export-2026-09-17/](translation-source/game-export-2026-09-17/README.md) | 原文提取与历史增量资料，不是运行补丁 |
+| [steam-game-export-2026-10-05/](translation-source/steam-game-export-2026-10-05/README.md) | Steam 原生代码检查及增量：68 条固定文本、50 条动态模板及待核对资料 |
 
 ## 来源与许可
 
