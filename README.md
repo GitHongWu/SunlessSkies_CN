@@ -17,8 +17,8 @@ Windows 版《Sunless Skies》的离线汉化，分别提供 Epic 和 Steam 补�
 
 1. 完全退出游戏。
 2. 按上表选择 `patch-epic/` 或 `patch-steam/`。
-3. 将所选目录内的**全部内容**复制到 `Sunless Skies.exe` 所在目录，合并文件夹。
-4. 启动游戏；Steam 版从 Steam 启动。
+3. 只需将所选目录内的**全部内容**复制到 `Sunless Skies.exe` 所在目录。
+4. 然后启动游戏，即可完成汉化，第一次启动时可能会调出控制台。
 
 不要只复制 BepInEx/，也不要把 patch-epic 或 patch-steam 文件夹本身套进游戏目录。安装不需要 src/、translation-source/ 或任何调试脚本。已有其他补丁时，先备份并检查兼容性。
 
