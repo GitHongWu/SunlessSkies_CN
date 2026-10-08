@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -77,7 +77,7 @@ namespace SunlessSkiesCNSteam
         }
     }
 
-    [BepInPlugin("githongwu.sunlessskies.template-localization", "Sunless Skies Template Localization", "0.2.4")]
+    [BepInPlugin("githongwu.sunlessskies.template-localization", "Sunless Skies Template Localization", "0.2.5")]
     [BepInDependency("gravydevsupreme.xunity.autotranslator")]
     public sealed class TemplateLocalization : BasePlugin
     {
@@ -132,6 +132,8 @@ namespace SunlessSkiesCNSteam
                     if (pair != null && pair.Length == 2) loaded.AddVariable(pair[0], pair[1]);
                 }
                 var game = AppDomain.CurrentDomain.GetAssemblies().First(a => a.GetName().Name == "Assembly-CSharp");
+                try { SunlessSkiesCN.Shared.ShopNumericGuard.Install(core, game, message => Log.LogInfo(message)); }
+                catch (Exception guardError) { Log.LogError("Shop numeric guard disabled: " + guardError); }
                 var formatter = game.GetType("Failbetter.Presentation.Formatters.BaseStoryFormatter", true);
                 var dynamic = game.GetType("Failbetter.Presentation.Formatters.DynamicTokenReplacement", true);
                 var character = game.GetType("Failbetter.Core.Character", true);
