@@ -1,0 +1,37 @@
+[
+  {
+    "key": "map_tooltip_sells",
+    "original": "This port sells ",
+    "translation": ""
+  },
+  {
+    "key": "map_tooltip_exports",
+    "original": "This port exports ",
+    "translation": ""
+  },
+  {
+    "key": "map_tooltip_fuel",
+    "original": "fuel",
+    "translation": ""
+  },
+  {
+    "key": "map_tooltip_supplies",
+    "original": "supplies",
+    "translation": ""
+  },
+  {
+    "key": "map_tooltip_petrichor",
+    "original": "petrichor",
+    "translation": ""
+  },
+  {
+    "key": "map_tooltip_and",
+    "original": " and ",
+    "translation": ""
+  },
+  {
+    "key": "map_tooltip_scout",
+    "original": "Your scout has discovered something.",
+    "translation": ""
+  }
+]

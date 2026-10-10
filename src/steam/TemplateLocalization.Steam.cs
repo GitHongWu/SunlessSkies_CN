@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -61,6 +61,14 @@ namespace SunlessSkiesCNSteam
                 TokenList(original).SequenceEqual(TokenList(translated), StringComparer.Ordinal)) return translated;
             return text;
         }
+        public string SummaryBody(string text)
+        {
+            if (String.IsNullOrEmpty(text)) return text;
+            string translated;
+            if (literals.TryGetValue(Normalize(text), out translated) &&
+                TokenList(text).SequenceEqual(TokenList(translated), StringComparer.Ordinal)) return translated;
+            return text;
+        }
         public string Name(string text)
         {
             string translated;
@@ -77,7 +85,7 @@ namespace SunlessSkiesCNSteam
         }
     }
 
-    [BepInPlugin("githongwu.sunlessskies.template-localization", "Sunless Skies Template Localization", "0.2.5")]
+    [BepInPlugin("githongwu.sunlessskies.template-localization", "Sunless Skies Template Localization", "0.2.8")]
     [BepInDependency("gravydevsupreme.xunity.autotranslator")]
     public sealed class TemplateLocalization : BasePlugin
     {
@@ -144,6 +152,10 @@ namespace SunlessSkiesCNSteam
                 var variable = AccessTools.Method(dynamic, "GetQualityVariableForToken", new[] { character, typeof(string) });
                 if (new[] { all, format, expand, direction, variable }.Any(m => m == null || m.ReturnType != typeof(string))) throw new MissingMethodException("Unsupported game formatter signatures");
                 catalog = loaded;
+                try { SunlessSkiesCN.Shared.MapTooltipLocalization.Install(game, loaded.SummaryBody, Enabled, message => Log.LogInfo(message)); }
+                catch (Exception mapError) { Log.LogError("Map tooltip localization disabled: " + mapError); }
+                try { SunlessSkiesCN.Shared.EventSummaryLocalization.Install(game, loaded.SummaryBody, Enabled, message => Log.LogInfo(message)); }
+                catch (Exception summaryError) { Log.LogError("Event summary localization disabled: " + summaryError); }
                 harmony = new Harmony("githongwu.sunlessskies.template-localization");
                 var prefix = new HarmonyMethod(typeof(TemplateLocalization), "TemplatePrefix");
                 harmony.Patch(all, prefix: prefix);
@@ -197,5 +209,3 @@ namespace SunlessSkiesCNSteam
         }
     }
 }
-
-
