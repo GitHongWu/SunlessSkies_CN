@@ -1,4 +1,5 @@
 # Local diagnostics and generated release packages.
+/AGENTS.md
 /debug/
 /dist/
 /work/
