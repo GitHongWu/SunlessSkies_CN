@@ -85,7 +85,7 @@ namespace SunlessSkiesCNSteam
         }
     }
 
-    [BepInPlugin("githongwu.sunlessskies.template-localization", "Sunless Skies Template Localization", "0.2.9")]
+    [BepInPlugin("githongwu.sunlessskies.template-localization", "Sunless Skies Template Localization", "0.2.10")]
     [BepInDependency("gravydevsupreme.xunity.autotranslator")]
     public sealed class TemplateLocalization : BasePlugin
     {
@@ -152,6 +152,8 @@ namespace SunlessSkiesCNSteam
                 var variable = AccessTools.Method(dynamic, "GetQualityVariableForToken", new[] { character, typeof(string) });
                 if (new[] { all, format, expand, direction, variable }.Any(m => m == null || m.ReturnType != typeof(string))) throw new MissingMethodException("Unsupported game formatter signatures");
                 catalog = loaded;
+                try { SunlessSkiesCN.Shared.BazaarLocalization.Install(game, loaded.SummaryBody, Enabled, message => Log.LogInfo(message)); }
+                catch (Exception bazaarError) { Log.LogError("Bazaar localization disabled: " + bazaarError); }
                 try { SunlessSkiesCN.Shared.MapTooltipLocalization.Install(game, loaded.SummaryBody, Enabled, message => Log.LogInfo(message)); }
                 catch (Exception mapError) { Log.LogError("Map tooltip localization disabled: " + mapError); }
                 try { SunlessSkiesCN.Shared.EventSummaryLocalization.Install(game, loaded.SummaryBody, Enabled, message => Log.LogInfo(message)); }
