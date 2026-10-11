@@ -1,6 +1,6 @@
 # Steam IL2CPP 模板适配
 
-TemplateLocalization.Steam.cs 对应 patch-steam/BepInEx/plugins/SunlessSkies.TemplateLocalization/SunlessSkies.TemplateLocalization.Steam.dll，插件版本 0.2.8。
+TemplateLocalization.Steam.cs 对应 patch-steam/BepInEx/plugins/SunlessSkies.TemplateLocalization/SunlessSkies.TemplateLocalization.Steam.dll，插件版本 0.2.9。
 
 沿用 Epic 的模板词典、占位符校验和方向处理，入口改为 BepInEx.Unity.IL2CPP.BasePlugin.Load。使用 .NET 6 编译，引用 Steam 包中的 BepInEx.Core.dll、BepInEx.Unity.IL2CPP.dll、0Harmony.dll；不引用 Epic 的 Mono 插件。
 

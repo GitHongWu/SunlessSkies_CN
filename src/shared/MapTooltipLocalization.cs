@@ -49,9 +49,9 @@ namespace SunlessSkiesCN.Shared
         public static string Localize(string text, Func<string,string> translate)
         {
             if (String.IsNullOrEmpty(text)) return text;
-            // Whole mappings win when available, with the catalog's token safeguards.
-            string whole = translate(text);
-            if (whole != text) return whole;
+            // Composite legacy mappings must not shadow newer catalog entries for
+            // individual descriptions. The catalog resolves source priority and
+            // legacy fallback separately for each text node below.
             string[] parts = Parts.Split(text);
             for (int i = 0; i < parts.Length; i++)
             {
@@ -70,7 +70,33 @@ namespace SunlessSkiesCN.Shared
                 }
                 parts[i] = translated;
             }
+            // Apply spacing after lookup so dictionary keys remain unchanged.
+            for (int i = 0; i < parts.Length; i++)
+            {
+                if (!String.Equals(parts[i], "</i>", StringComparison.OrdinalIgnoreCase)) continue;
+                char before = VisibleEdge(parts, i, -1);
+                char after = VisibleEdge(parts, i, 1);
+                if (before != '\0' && after != '\0' &&
+                    !Char.IsWhiteSpace(before) && !Char.IsWhiteSpace(after))
+                    parts[i] += "\u2009\u2009"; // Two thin spaces, outside the italic run.
+            }
             return String.Concat(parts);
+        }
+        static char VisibleEdge(string[] parts, int start, int step)
+        {
+            for (int i = start + step; i >= 0 && i < parts.Length; i += step)
+            {
+                string part = parts[i];
+                if (part.Length == 0) continue;
+                if (part[0] == '<')
+                {
+                    if (part.StartsWith("<br", StringComparison.OrdinalIgnoreCase) ||
+                        part.StartsWith("<space", StringComparison.OrdinalIgnoreCase)) return ' ';
+                    continue;
+                }
+                return step < 0 ? part[part.Length - 1] : part[0];
+            }
+            return '\0';
         }
     }
 }
