@@ -1,0 +1,197 @@
+[
+  {
+    "key": "ui_runtime_c3837309583d",
+    "original": "You now have {value1} x {value2}",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_de47da3cfc78",
+    "original": "You've lost {value1} x {value2} (new total {value3}).",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_98d0c293662a",
+    "original": "Unlocked when you do not have [q-name]{value1}[/q-name]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_04986ff49b89",
+    "original": "Unlocked when you have [q-name]{value1}[/q-name]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_4826e76156ec",
+    "original": "You unlocked this by having no [q-name]{value1}[/q-name]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_4e751f3e04f6",
+    "original": "You unlocked this by having no [q-name]{value1}[/q-name] [em](you needed {value2} at most)[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_79ba60c6d02a",
+    "original": "You unlocked this with no [q-name]{value1}[/q-name] [em](you needed exactly {value2})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_44b0b6b82125",
+    "original": "You unlocked this with a [q-name]{value1}[/q-name] [em](you needed {value2} at most)[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_94310246ae11",
+    "original": "You unlocked this with a [q-name]{value1}[/q-name] [em](you needed {value2}-{value3})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_5d5643aab2f1",
+    "original": "You unlocked this with a [q-name]{value1}[/q-name] [em](you needed exactly {value2})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_7d6c1f559455",
+    "original": "You unlocked this with an [q-name]{value1}[/q-name] [em](you needed {value2} at most)[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_bb5bf78dbb54",
+    "original": "You unlocked this with {value1} [q-name]{value2}[/q-name] [em](you needed {value3})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_defa193c60a4",
+    "original": "You unlocked this with {value1} [q-name]{value2}[/q-name] [em](you needed {value3} at most)[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_fcd9ec17eb01",
+    "original": "You unlocked this with {value1} [q-name]{value2}[/q-name] [em](you needed {value3}-{value4})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_5fab8579da2c",
+    "original": "You unlocked this with {value1} {value2} [em](you have {value3} in all)[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_069bdee56b52",
+    "original": "You can't do this when you have any [q-name]{value1}[/q-name]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_dc704a4b5dd1",
+    "original": "You can't do this when you have more than a [q-name]{value1}[/q-name]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_7065b0b23568",
+    "original": "You can't do this when you have more than {value1} [q-name]{value2}[/q-name]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_734e72bed8e5",
+    "original": "You need a [q-name]{value1}[/q-name]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_8ece1b4c3f36",
+    "original": "You need an [q-name]{value1}[/q-name]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_67cdac0124f4",
+    "original": "You need {value1} [q-name]{value2}[/q-name]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_858a0941be8c",
+    "original": "You need {value1} [q-name]{value2}[/q-name] [em](you have {value3})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_7f427f3c96bc",
+    "original": "You need {value1}-{value2} [q-name]{value3}[/q-name]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_cef2d1c7afd2",
+    "original": "You need {value1}-{value2} [q-name]{value3}[/q-name] [em](you have {value4})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_ec6ae29c6af8",
+    "original": "You need exactly a [q-name]{value1}[/q-name]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_094d7e80ff18",
+    "original": "You need exactly a [q-name]{value1}[/q-name] [em](you have {value2})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_846317afe227",
+    "original": "You unlocked this with no [q-name]{value1}[/q-name] [em](you needed {value2})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_6d80653d6053",
+    "original": "You unlocked this with no [q-name]{value1}[/q-name] [em](you needed {value2}-{value3})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_2610dc32d00f",
+    "original": "You unlocked this with a [q-name]{value1}[/q-name] [em](you needed {value2})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_ae7b63d5ad03",
+    "original": "You unlocked this with an [q-name]{value1}[/q-name] [em](you needed {value2})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_c67de54fc721",
+    "original": "You unlocked this with an [q-name]{value1}[/q-name] [em](you needed {value2}-{value3})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_bcc8d33b5bfe",
+    "original": "You unlocked this with an [q-name]{value1}[/q-name] [em](you needed exactly {value2})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_1cbcd898d664",
+    "original": "You unlocked this with {value1} [q-name]{value2}[/q-name] [em](you needed exactly {value3})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_08161839c969",
+    "original": "You can't do this when you have more than an [q-name]{value1}[/q-name]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_04a78c3df3b1",
+    "original": "You need exactly an [q-name]{value1}[/q-name]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_5943b71b092d",
+    "original": "You need exactly an [q-name]{value1}[/q-name] [em](you have {value2})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_9b529f62aaa7",
+    "original": "You need exactly {value1} [q-name]{value2}[/q-name]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_2a76cadce995",
+    "original": "You need exactly {value1} [q-name]{value2}[/q-name] [em](you have {value3})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_5106bec0ba0e",
+    "original": "This will cost {value1} [q-name]{value2}[/q-name]",
+    "translation": ""
+  }
+]
