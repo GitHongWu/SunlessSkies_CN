@@ -2,3 +2,4 @@ Contraband Test=违禁品测试
 Seeds for Magdalene's=送往抹大拉之家的种子
 The Murgatroyd Files: Secrets within Bombazine=穆氏档案：一卷邦巴辛布中的秘密
 Them that ask no questions isn't told a lie=不发问，就不用听到谎言
+sr:\\ALevel: (?<level_i>[0-9]+)\\r?\\nExperience: (?<xp_i>[0-9]+)\u002F(?<next_i>[0-9]+)\\r?\\nFacets to take: (?<facets_i>[0-9]+)\\r?\\n\\r?\\n<b><i>Click to view facets<\u002Fi><\u002Fb>\\z=等级：${level_i}\n经验：${xp_i}\u002F${next_i}\n可获得刻面：${facets_i}\n\n<b><i>点击预览刻面<\u002Fi><\u002Fb>

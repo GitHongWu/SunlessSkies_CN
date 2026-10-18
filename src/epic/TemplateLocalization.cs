@@ -15,7 +15,7 @@ namespace SunlessSkiesCN
         readonly Dictionary<string, string> literals = new Dictionary<string, string>(StringComparer.Ordinal);
         readonly Dictionary<string, string> variables = new Dictionary<string, string>(StringComparer.Ordinal);
         readonly Dictionary<string, string> templates = new Dictionary<string, string>(StringComparer.Ordinal);
-        static readonly Regex Tokens = new Regex(@"\[[^:\]\r\n]+:[^\]\r\n]+\]|\[(?:gendertitle|genderdescription|genderdescriptionsimple|he|his|him|Actor|CharacterName)\]", RegexOptions.CultureInvariant);
+        static readonly Regex Tokens = new Regex(@"\[(?:q|qvd|d|df|dl|dir|train):[^\]\r\n]+\]|\[(?:gendertitle|genderdescription|genderdescriptionsimple|he|his|him|Actor|CharacterName)\]", RegexOptions.CultureInvariant);
         static readonly Regex Direction = new Regex(@"\A(?<place>.+) lies(?<distance> a long way| some way)? to the (?<direction>northwest|northeast|southwest|southeast|north|south|east|west) of (?<origin>.+)\z", RegexOptions.CultureInvariant);
         public int Count { get { return templates.Count; } }
         public int Rejected { get; private set; }
@@ -32,7 +32,9 @@ namespace SunlessSkiesCN
             // The shipped table has already resolved ParaTranz/legacy precedence.
             literals[original] = translation;
             var tokens = TokenList(original);
-            if (tokens.Length == 0) return;
+            // Plain bracketed prose is formatted into descriptive text by the game.
+            // Translate it before formatting even when it has no control tokens.
+            if (tokens.Length == 0 && original.IndexOf('[') < 0) return;
             if (!tokens.SequenceEqual(TokenList(translation), StringComparer.Ordinal)) { Rejected++; templates.Remove(original); return; }
             templates[original] = translation;
         }
@@ -84,13 +86,17 @@ namespace SunlessSkiesCN
         }
     }
 
-    [BepInPlugin("githongwu.sunlessskies.template-localization", "Sunless Skies Template Localization", "0.2.10")]
+    [BepInPlugin("githongwu.sunlessskies.template-localization", "Sunless Skies Template Localization", "0.3.0")]
     [BepInDependency("gravydevsupreme.xunity.autotranslator")]
     public sealed class TemplateLocalization : BaseUnityPlugin
     {
         static TemplateCatalog catalog;
         static FieldInfo translatorCurrent, translatedMode;
         [ThreadStatic] static int translatedDepth;
+        [ThreadStatic] static int variableDepth;
+        static readonly Regex VariableOnlyBody = new Regex(@"\A\s*(?:\[qvd:[^\[\]
+
+]+\]\s*)+\z", RegexOptions.CultureInvariant);
         // BepInEx's Unity component can be destroyed during scene transitions.
         // These static display hooks and their catalog belong to the process,
         // not to that component; do not unpatch them in OnDestroy.
@@ -151,10 +157,28 @@ namespace SunlessSkiesCN
                 var variable = AccessTools.Method(dynamic, "GetQualityVariableForToken", new[] { character, typeof(string) });
                 if (new[] { all, format, expand, direction, variable }.Any(m => m == null || m.ReturnType != typeof(string))) throw new MissingMethodException("Unsupported game formatter signatures");
                 catalog = loaded;
+                try { SunlessSkiesCN.Shared.RemainingCompositionLocalization.Install(game, loaded.SummaryBody, loaded.TranslateVariable, Enabled, message => Logger.LogInfo(message)); }
+                catch (Exception e) { Logger.LogError("Remaining composition localization unavailable: " + e.Message); }
+                try { SunlessSkiesCN.Shared.QualityTitleLocalization.Install(game, loaded.SummaryBody, loaded.TranslateVariable, Enabled, message => Logger.LogInfo(message)); }
+                catch (Exception e) { Logger.LogWarning("Quality title localization unavailable: " + e.Message); }
+                try { SunlessSkiesCN.Shared.ItemTooltipLocalization.Install(game, loaded.SummaryBody, Enabled, message => Logger.LogInfo(message)); }
+                catch (Exception e) { Logger.LogWarning("Item tooltip localization unavailable: " + e.Message); }
+                try { SunlessSkiesCN.Shared.ThingRequirementLocalization.Install(game, loaded.SummaryBody, Enabled, message => Logger.LogInfo(message)); }
+                catch (Exception e) { Logger.LogWarning("Thing requirement localization unavailable: " + e.Message); }
+                try { SunlessSkiesCN.Shared.QualityChangeDescriptionLocalization.Install(game, loaded.TranslateVariable, Enabled, message => Logger.LogInfo(message)); }
+                catch (Exception e) { Logger.LogWarning("Quality change description localization unavailable: " + e.Message); }
+                try { SunlessSkiesCN.Shared.RequirementTooltipLocalization.Install(game, loaded.SummaryBody, Enabled, message => Logger.LogInfo(message), loaded.TranslateVariable); }
+                catch (Exception e) { Logger.LogWarning("Requirement tooltip localization unavailable: " + e.Message); }
+                try { SunlessSkiesCN.Shared.QualityResultLocalization.Install(game, loaded.SummaryBody, Enabled, message => Logger.LogInfo(message)); }
+                catch (Exception qualityError) { Logger.LogError("Quality result localization disabled: " + qualityError); }
+                try { SunlessSkiesCN.Shared.ChallengeTooltipLocalization.Install(game, loaded.SummaryBody, Enabled, message => Logger.LogInfo(message)); }
+                catch (Exception challengeError) { Logger.LogError("Challenge tooltip localization disabled: " + challengeError); }
                 try { SunlessSkiesCN.Shared.BazaarLocalization.Install(game, loaded.SummaryBody, Enabled, message => Logger.LogInfo(message)); }
                 catch (Exception bazaarError) { Logger.LogError("Bazaar localization disabled: " + bazaarError); }
                 try { SunlessSkiesCN.Shared.MapTooltipLocalization.Install(game, loaded.SummaryBody, Enabled, message => Logger.LogInfo(message)); }
                 catch (Exception mapError) { Logger.LogError("Map tooltip localization disabled: " + mapError); }
+                try { SunlessSkiesCN.Shared.FacetDetailLocalization.Install(game, loaded.SummaryBody, Enabled, message => Logger.LogInfo(message)); }
+                catch (Exception facetError) { Logger.LogError("Facet detail localization disabled: " + facetError); }
                 try { SunlessSkiesCN.Shared.EventSummaryLocalization.Install(game, loaded.SummaryBody, Enabled, message => Logger.LogInfo(message)); }
                 catch (Exception summaryError) { Logger.LogError("Event summary localization disabled: " + summaryError); }
                 harmony = new Harmony("githongwu.sunlessskies.template-localization");
@@ -176,33 +200,43 @@ namespace SunlessSkiesCN
         {
             string before = __0;
             bool enabled = Enabled();
-            if (enabled) __0 = catalog.Translate(__0);
+            if (enabled) __0 = catalog.Translate(SunlessSkiesCN.Shared.FacetDetailLocalization.TranslateChoiceBody(__0));
             Trace("formatter", before, __0, enabled);
         }
-        static void DynamicPrefix(ref string __0, out bool __state)
+        static void DynamicPrefix(ref string __0, out int __state)
         {
-            __state = false;
+            __state = 0;
             bool enabled = Enabled();
             string before = __0;
             if (!enabled) { Trace("dynamic", before, __0, false); return; }
-            __0 = catalog.Translate(__0);
+            __0 = SunlessSkiesCN.Shared.RemainingCompositionLocalization.TranslateQuestBody(__0);
+            __0 = catalog.Translate(SunlessSkiesCN.Shared.FacetDetailLocalization.TranslateChoiceBody(__0));
             Trace("dynamic", before, __0, true);
-            // Only localize generated directions within an already translated display template.
-            if (__0 != null && __0.Any(c => c >= '\u3400' && c <= '\u9fff'))
+            bool chinese = __0 != null && __0.Any(c => c >= '\u3400' && c <= '\u9fff');
+            // Directions still require an already translated display template.
+            if (chinese)
             {
                 translatedDepth++;
-                __state = true;
+                __state |= 1;
+            }
+            // A token-only body has no prose to translate before expansion.
+            // Give its selected QVD branches their own display-only scope.
+            if (chinese || (__0 != null && VariableOnlyBody.IsMatch(__0)))
+            {
+                variableDepth++;
+                __state |= 2;
             }
         }
-        static Exception DynamicFinalizer(Exception __exception, bool __state)
+        static Exception DynamicFinalizer(Exception __exception, int __state)
         {
-            if (__state) translatedDepth--;
+            if ((__state & 2) != 0) variableDepth--;
+            if ((__state & 1) != 0) translatedDepth--;
             return __exception;
         }
         static void VariablePostfix(ref string __result)
         {
-            // Only translate display output inside a translated template, never game state.
-            if (translatedDepth > 0 && Enabled()) __result = catalog.TranslateVariable(__result);
+            // Only translate selected display branches, never quality data.
+            if (variableDepth > 0 && Enabled()) __result = catalog.TranslateVariable(__result);
         }
         static void DirectionPostfix(ref string __result)
         {
