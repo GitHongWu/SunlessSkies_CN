@@ -1,0 +1,182 @@
+[
+  {
+    "key": "ui_code_steam_2.0.6.454aad8_8481a6626d06",
+    "original": "\n\nCongratulations! Your captain is now at level 20, and cannot gain more facets. However, you can still increase their abilities by spending experience on the facet screen.",
+    "translation": ""
+  },
+  {
+    "key": "ui_code_steam_2.0.6.454aad8_4a361d1f4da4",
+    "original": "<i>No stories available here at this time.</i>",
+    "translation": ""
+  },
+  {
+    "key": "ui_code_steam_2.0.6.454aad8_cbd6349850d6",
+    "original": "Ambient SFX Volume",
+    "translation": ""
+  },
+  {
+    "key": "ui_code_steam_2.0.6.454aad8_124e0dc46124",
+    "original": "Are you sure you want to save and\nreturn to the title screen?",
+    "translation": ""
+  },
+  {
+    "key": "ui_code_steam_2.0.6.454aad8_4c9bcda50b24",
+    "original": "Choice Requirements",
+    "translation": ""
+  },
+  {
+    "key": "ui_code_steam_2.0.6.454aad8_c7f937836f5d",
+    "original": "Choose",
+    "translation": ""
+  },
+  {
+    "key": "ui_code_steam_2.0.6.454aad8_e2d0a54968ea",
+    "original": "Delete",
+    "translation": ""
+  },
+  {
+    "key": "ui_code_steam_2.0.6.454aad8_b4381bd62c77",
+    "original": "Disable\nAdvice",
+    "translation": ""
+  },
+  {
+    "key": "ui_code_steam_2.0.6.454aad8_571fc0a8b702",
+    "original": "End game...",
+    "translation": ""
+  },
+  {
+    "key": "ui_code_steam_2.0.6.454aad8_33623646c3b5",
+    "original": "First you must choose a making..",
+    "translation": ""
+  },
+  {
+    "key": "ui_code_steam_2.0.6.454aad8_58f99e415778",
+    "original": "Hairstyle",
+    "translation": ""
+  },
+  {
+    "key": "ui_code_steam_2.0.6.454aad8_61ec3c4260fe",
+    "original": "Hide\nAdvice",
+    "translation": ""
+  },
+  {
+    "key": "ui_code_steam_2.0.6.454aad8_4a7afde5d3b7",
+    "original": "Jettison cargo",
+    "translation": ""
+  },
+  {
+    "key": "ui_code_steam_2.0.6.454aad8_8a6bdb6b18da",
+    "original": "Load",
+    "translation": ""
+  },
+  {
+    "key": "ui_code_steam_2.0.6.454aad8_d7c902a2f255",
+    "original": "Mechanical Problems!",
+    "translation": ""
+  },
+  {
+    "key": "ui_code_steam_2.0.6.454aad8_b3f848c2a09a",
+    "original": "Music Volume",
+    "translation": ""
+  },
+  {
+    "key": "ui_code_steam_2.0.6.454aad8_395316d215da",
+    "original": "Officers and mascots can only be\nassigned or unassigned while docked.\nThe crew value a degree of stability.",
+    "translation": ""
+  },
+  {
+    "key": "ui_code_steam_2.0.6.454aad8_16584052fd33",
+    "original": "Okay",
+    "translation": ""
+  },
+  {
+    "key": "ui_code_steam_2.0.6.454aad8_836e276bbf08",
+    "original": "Pending Prospects",
+    "translation": ""
+  },
+  {
+    "key": "ui_code_steam_2.0.6.454aad8_31145685ba79",
+    "original": "Plating slot",
+    "translation": ""
+  },
+  {
+    "key": "ui_code_steam_2.0.6.454aad8_f34ba9fc922c",
+    "original": "Random name",
+    "translation": ""
+  },
+  {
+    "key": "ui_code_steam_2.0.6.454aad8_aabb4a4a3a7c",
+    "original": "Return home...",
+    "translation": ""
+  },
+  {
+    "key": "ui_code_steam_2.0.6.454aad8_fe7a222aa955",
+    "original": "SFX Volume",
+    "translation": ""
+  },
+  {
+    "key": "ui_code_steam_2.0.6.454aad8_642ebd131f30",
+    "original": "Armour",
+    "translation": ""
+  },
+  {
+    "key": "ui_code_steam_2.0.6.454aad8_219d67ec22a2",
+    "original": "Effects:",
+    "translation": ""
+  },
+  {
+    "key": "ui_code_steam_2.0.6.454aad8_89a15082ac66",
+    "original": "Peculiarities",
+    "translation": ""
+  },
+  {
+    "key": "ui_code_steam_2.0.6.454aad8_d475d98633e4",
+    "original": "With sufficient crew:",
+    "translation": ""
+  },
+  {
+    "key": "ui_code_steam_2.0.6.454aad8_0a8f36434bab",
+    "original": "(But this was a second chance, so you'd already learnt from it.)",
+    "translation": ""
+  },
+  {
+    "key": "ui_code_steam_2.0.6.454aad8_7d3fc9af3afc",
+    "original": "(Risky challenges mean you learn more.)",
+    "translation": ""
+  },
+  {
+    "key": "ui_code_steam_2.0.6.454aad8_597aeb275d8e",
+    "original": "(Simple challenges mean you don't learn so much.)",
+    "translation": ""
+  },
+  {
+    "key": "ui_code_steam_2.0.6.454aad8_b51b46ba3b3c",
+    "original": "(This challenge was old territory for you - you won't learn so much.) ",
+    "translation": ""
+  },
+  {
+    "key": "ui_code_steam_2.0.6.454aad8_042a30d9735e",
+    "original": "(This was a second chance, so you'd already learnt from it.)",
+    "translation": ""
+  },
+  {
+    "key": "ui_code_steam_2.0.6.454aad8_3ef0df307b3c",
+    "original": "(When you try a challenge that's difficult for you, you learn more even when you fail) ",
+    "translation": ""
+  },
+  {
+    "key": "ui_code_steam_2.0.6.454aad8_8a74e48bfa74",
+    "original": "Enable Tip Popups",
+    "translation": ""
+  },
+  {
+    "key": "ui_code_steam_2.0.6.454aad8_8459952f0612",
+    "original": "You were fortunate!",
+    "translation": ""
+  },
+  {
+    "key": "ui_code_steam_2.0.6.454aad8_59758aefa3da",
+    "original": "You were unlucky. Better luck next time...",
+    "translation": ""
+  }
+]

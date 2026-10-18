@@ -1,0 +1,592 @@
+[
+  {
+    "key": "ui_runtime_27858f3639f1",
+    "original": "Tier {value1}",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_f8bdc4722f12",
+    "original": "{value1} at {value2}+",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_a3dc68c04019",
+    "original": "A matter of luck: {value1}",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_20a5d592d8c8",
+    "original": "Level: {value1}\nExperience: {value2}",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_974edcc5542d",
+    "original": "Select a Status or Item with at least: [q-name]a {value1}[/q-name][em] ({value2})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_c46c9eb7a43f",
+    "original": "Select a Status or Item with at least: [q-name]an {value1}[/q-name][em] ({value2})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_a9f4c3c70b04",
+    "original": "Spend {value1}  to ensure a second chance...",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_b71ff408777e",
+    "original": "They managed to reclaim {value1}.",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_3ade0cf0bc6d",
+    "original": "This will cost [q-name]a {value1}[/q-name] {value2}",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_b0503610281d",
+    "original": "This will cost [q-name]an {value1}[/q-name] {value2}",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_55b1b4f051ea",
+    "original": "This will cost any [q-name]a {value1}[/q-name]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_b19d43969193",
+    "original": "This will cost any [q-name]an {value1}[/q-name]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_e9c79995736b",
+    "original": "This will cost {value1} point of [q-name]a {value2}[/q-name]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_d05717e0bbac",
+    "original": "This will cost {value1} point of [q-name]an {value2}[/q-name]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_1776cb8e0316",
+    "original": "This will cost {value1} points of [q-name]a {value2}[/q-name]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_07c3155574cd",
+    "original": "This will cost {value1} points of [q-name]an {value2}[/q-name]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_f48d16a052f5",
+    "original": "You can't do this when you have [q-name]a {value1}[/q-name]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_71994b1abde9",
+    "original": "You can't do this when you have [q-name]a {value1}[/q-name] higher than {value2}",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_cd2ebfbf2c42",
+    "original": "You can't do this when you have [q-name]a {value1}[/q-name] higher than {value2}[em] (you have {value3})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_c648f953e098",
+    "original": "You can't do this when you have [q-name]an {value1}[/q-name]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_60f94f44b396",
+    "original": "You can't do this when you have [q-name]an {value1}[/q-name] higher than {value2}",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_7858df6a54cf",
+    "original": "You can't do this when you have [q-name]an {value1}[/q-name] higher than {value2}[em] (you have {value3})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_a78429ff2f64",
+    "original": "You can't do this when you you're [q-name]a {value1}[/q-name] anyone at more than {value2}",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_73bcf1d32828",
+    "original": "You can't do this when you you're [q-name]an {value1}[/q-name] anyone at more than {value2}",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_e357d70db186",
+    "original": "You can't do this when you're [q-name]a {value1}[/q-name] anyone",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_23790655d989",
+    "original": "You can't do this when you're [q-name]an {value1}[/q-name] anyone",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_5261dd9485e2",
+    "original": "You have inherited {value1} sovereigns.",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_220e10952754",
+    "original": "You need [q-name]a {value1}[/q-name]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_2067a81a9b48",
+    "original": "You need [q-name]a {value1}[/q-name] anyone",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_0504deb986cc",
+    "original": "You need [q-name]a {value1}[/q-name] anyone[em] (you're at level {value2})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_6bd7a8409547",
+    "original": "You need [q-name]a {value1}[/q-name] someone at level {value2}",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_5007fe9af5d9",
+    "original": "You need [q-name]a {value1}[/q-name] someone at level {value2}[em] (you're at level {value3})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_d0e3138150fc",
+    "original": "You need [q-name]a {value1}[/q-name] {value2}",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_f5e1aaf6336b",
+    "original": "You need [q-name]a {value1}[/q-name] {value2}-{value3}",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_0c88e5fe6f77",
+    "original": "You need [q-name]a {value1}[/q-name] {value2}-{value3}[em] (you have {value4})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_54bd54a58470",
+    "original": "You need [q-name]a {value1}[/q-name] {value2}[em] (you have {value3})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_4cfaa7a0ea6c",
+    "original": "You need [q-name]an {value1}[/q-name]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_b28cbe19f79c",
+    "original": "You need [q-name]an {value1}[/q-name] anyone",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_4f6a75aa47ac",
+    "original": "You need [q-name]an {value1}[/q-name] anyone[em] (you're at level {value2})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_b678fb05f8d2",
+    "original": "You need [q-name]an {value1}[/q-name] someone at level {value2}",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_af580a199a41",
+    "original": "You need [q-name]an {value1}[/q-name] someone at level {value2}[em] (you're at level {value3})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_8bc1a50b9654",
+    "original": "You need [q-name]an {value1}[/q-name] {value2}",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_ef5bcc7d1603",
+    "original": "You need [q-name]an {value1}[/q-name] {value2}-{value3}",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_606f65fb0fe9",
+    "original": "You need [q-name]an {value1}[/q-name] {value2}-{value3}[em] (you have {value4})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_860d2b857997",
+    "original": "You need [q-name]an {value1}[/q-name] {value2}[em] (you have {value3})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_4958136817b5",
+    "original": "You need any [q-name]a {value1}[/q-name]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_177911824c8d",
+    "original": "You need any [q-name]a {value1}[/q-name]-{value2}",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_1443ad780509",
+    "original": "You need any [q-name]a {value1}[/q-name]-{value2}[em] (you have {value3})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_0dc34cc753eb",
+    "original": "You need any [q-name]a {value1}[/q-name][em] (you have {value2})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_9661b17c8659",
+    "original": "You need any [q-name]an {value1}[/q-name]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_ef94b4b8b39d",
+    "original": "You need any [q-name]an {value1}[/q-name]-{value2}",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_5a5082421635",
+    "original": "You need any [q-name]an {value1}[/q-name]-{value2}[em] (you have {value3})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_872482f9c393",
+    "original": "You need any [q-name]an {value1}[/q-name][em] (you have {value2})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_c5290cb53e2a",
+    "original": "You need exactly [q-name]a {value1}[/q-name] {value2}",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_970e3137a712",
+    "original": "You need exactly [q-name]a {value1}[/q-name] {value2}[em] (you have {value3})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_a79776e47f3a",
+    "original": "You need exactly [q-name]an {value1}[/q-name] {value2}",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_66becfdf452a",
+    "original": "You need exactly [q-name]an {value1}[/q-name] {value2}[em] (you have {value3})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_7f30b04652c1",
+    "original": "You need exactly any [q-name]a {value1}[/q-name]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_9cdc23a37b6d",
+    "original": "You need exactly any [q-name]a {value1}[/q-name][em] (you have {value2})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_e57357992098",
+    "original": "You need exactly any [q-name]an {value1}[/q-name]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_0404841e6b46",
+    "original": "You need exactly any [q-name]an {value1}[/q-name][em] (you have {value2})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_1d728e9e3ccb",
+    "original": "You need to be [q-name]a {value1}[/q-name] anyone at exactly level {value2}",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_8120fe2f2a1e",
+    "original": "You need to be [q-name]a {value1}[/q-name] anyone at exactly level {value2}[em] (you're at level {value3})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_d43c7d5ffc0f",
+    "original": "You need to be [q-name]a {value1}[/q-name] anyone at level {value2}-{value3}",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_8840c42f5d8f",
+    "original": "You need to be [q-name]a {value1}[/q-name] anyone at level {value2}-{value3}[em] (you're at level {value4})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_35f7c4d4f8fc",
+    "original": "You need to be [q-name]a {value1}[/q-name] someone",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_66a43d143eeb",
+    "original": "You need to be [q-name]an {value1}[/q-name] anyone at exactly level {value2}",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_e47b81f00846",
+    "original": "You need to be [q-name]an {value1}[/q-name] anyone at exactly level {value2}[em] (you're at level {value3})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_82999b0c1a1f",
+    "original": "You need to be [q-name]an {value1}[/q-name] anyone at level {value2}-{value3}",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_e460b654404f",
+    "original": "You need to be [q-name]an {value1}[/q-name] anyone at level {value2}-{value3}[em] (you're at level {value4})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_de8c987764dc",
+    "original": "You need to be [q-name]an {value1}[/q-name] someone",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_2a3cb42b3f9d",
+    "original": "You need {value1}  to ensure a second chance...",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_aa0c22ff77e0",
+    "original": "You succeeded in a {value1} challenge! {value2}",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_bc559dc7b9fa",
+    "original": "You unlocked this because you're [q-name]a {value1}[/q-name] anyone [em](you needed exactly {value2})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_0801cd281a08",
+    "original": "You unlocked this because you're [q-name]a {value1}[/q-name] anyone [em](you needed {value2}-{value3})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_644d46b41659",
+    "original": "You unlocked this because you're [q-name]a {value1}[/q-name] someone",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_e2f7645268d4",
+    "original": "You unlocked this because you're [q-name]a {value1}[/q-name] someone [em](at a level of at least {value2})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_68f94fabfe3a",
+    "original": "You unlocked this because you're [q-name]a {value1}[/q-name] someone [em](you needed exactly {value2})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_0e37538db54a",
+    "original": "You unlocked this because you're [q-name]a {value1}[/q-name] someone [em](you needed {value2}-{value3})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_3a818996ea3d",
+    "original": "You unlocked this because you're [q-name]a {value1}[/q-name] someone at level {value2} [em](you needed exactly {value3})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_f6d7a0769b86",
+    "original": "You unlocked this because you're [q-name]a {value1}[/q-name] someone at level {value2} [em](you needed {value3}-{value4})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_7492b00a49c2",
+    "original": "You unlocked this because you're [q-name]an {value1}[/q-name] anyone [em](you needed exactly {value2})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_7c1d3859dc32",
+    "original": "You unlocked this because you're [q-name]an {value1}[/q-name] anyone [em](you needed {value2}-{value3})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_4dc6a55a56e1",
+    "original": "You unlocked this because you're [q-name]an {value1}[/q-name] someone",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_8a180ff9d17e",
+    "original": "You unlocked this because you're [q-name]an {value1}[/q-name] someone [em](at a level of at least {value2})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_99a96b027d20",
+    "original": "You unlocked this because you're [q-name]an {value1}[/q-name] someone [em](you needed exactly {value2})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_e63fb20704ad",
+    "original": "You unlocked this because you're [q-name]an {value1}[/q-name] someone [em](you needed {value2}-{value3})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_50f76b8c3a88",
+    "original": "You unlocked this because you're [q-name]an {value1}[/q-name] someone at level {value2} [em](you needed exactly {value3})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_5ee22374e1f1",
+    "original": "You unlocked this because you're [q-name]an {value1}[/q-name] someone at level {value2} [em](you needed {value3}-{value4})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_b066f650d2c6",
+    "original": "You unlocked this because you're not [q-name]a {value1}[/q-name] anyone",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_7743e24d209c",
+    "original": "You unlocked this because you're not [q-name]a {value1}[/q-name] anyone at more than {value2}",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_78c326d90595",
+    "original": "You unlocked this because you're not [q-name]an {value1}[/q-name] anyone",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_6a8c6036720e",
+    "original": "You unlocked this because you're not [q-name]an {value1}[/q-name] anyone at more than {value2}",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_88914d4e3f7a",
+    "original": "You unlocked this by not having [q-name]a {value1}[/q-name] [em](you needed {value2} at most)[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_8e7471243af4",
+    "original": "You unlocked this by not having [q-name]an {value1}[/q-name] [em](you needed {value2} at most)[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_389895d2c490",
+    "original": "You unlocked this by not having any [q-name]a {value1}[/q-name]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_50ae054d41e4",
+    "original": "You unlocked this by not having any [q-name]an {value1}[/q-name]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_63bf2f7937f4",
+    "original": "You unlocked this with [q-name]a {value1}[/q-name] [em](you have {value2} in all)[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_0c44855e68aa",
+    "original": "You unlocked this with [q-name]a {value1}[/q-name] {value2} [em](you needed {value3} at most)[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_63e40aaa6f0f",
+    "original": "You unlocked this with [q-name]a {value1}[/q-name] {value2} [em](you needed {value3})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_f7f37678833a",
+    "original": "You unlocked this with [q-name]a {value1}[/q-name] {value2}[em] (you needed exactly {value3})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_602c111bd91b",
+    "original": "You unlocked this with [q-name]a {value1}[/q-name] {value2}[em] (you needed {value3}-{value4})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_6538aab304bd",
+    "original": "You unlocked this with [q-name]an {value1}[/q-name] [em](you have {value2} in all)[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_341c1c9cb0d3",
+    "original": "You unlocked this with [q-name]an {value1}[/q-name] {value2} [em](you needed {value3} at most)[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_940fc90d0cc3",
+    "original": "You unlocked this with [q-name]an {value1}[/q-name] {value2} [em](you needed {value3})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_506dd7a0270a",
+    "original": "You unlocked this with [q-name]an {value1}[/q-name] {value2}[em] (you needed exactly {value3})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_6914dac231c6",
+    "original": "You unlocked this with [q-name]an {value1}[/q-name] {value2}[em] (you needed {value3}-{value4})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_6ecd031f1bcd",
+    "original": "You unlocked this with any [q-name]a {value1}[/q-name] [em](you needed {value2})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_2a650d15eddb",
+    "original": "You unlocked this with any [q-name]a {value1}[/q-name][em] (you needed exactly {value2})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_cd6e4b07aa05",
+    "original": "You unlocked this with any [q-name]a {value1}[/q-name][em] (you needed {value2}-{value3})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_dc765d029a82",
+    "original": "You unlocked this with any [q-name]an {value1}[/q-name] [em](you needed {value2})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_14f244b551ed",
+    "original": "You unlocked this with any [q-name]an {value1}[/q-name][em] (you needed exactly {value2})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_1213bd32034c",
+    "original": "You unlocked this with any [q-name]an {value1}[/q-name][em] (you needed {value2}-{value3})[/em]",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_44fab5064fff",
+    "original": "You will start at level {value1}",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_7771015f75c5",
+    "original": "{value1}\n<i><color=#{value2}>Your {value3} gives you a {value4}% chance of success.</color></i>",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_0ac3be8a4df4",
+    "original": "{value1} challenge",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_770a45b14a0d",
+    "original": "{value1} {value2} failed in a challenge! Try again and you may have better luck...",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_cf7c802f5996",
+    "original": "{value1} {value2} failed in a challenge! {value3}",
+    "translation": ""
+  }
+]
