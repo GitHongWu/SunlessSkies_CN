@@ -1,6 +1,6 @@
 # 译文来源
 
-当前补丁采用 [ParaTranz 项目 5731](https://paratranz.cn/projects/5731) 的 **2026-10-14** 官方译文快照，按 CC BY-NC 4.0 使用。该次快照共 28 个文件、42,030 条词条；stage 5 与 stage 9 计入已审核，共 21,877 条（52.05%）。逐文件进度见下表；[仓库总览](../README.md)提供安装入口。
+当前补丁采用 [ParaTranz 项目 5731](https://paratranz.cn/projects/5731) 的 **2026-10-18** 官方译文快照，按 CC BY-NC 4.0 使用。该次快照共 28 个文件、42,117 条词条；stage 5 与 stage 9 计入已审核，共 21,964 条（52.15%）。逐文件进度见下表；[仓库总览](../README.md)提供安装入口。
 
 最新译文可从[官方下载页](https://paratranz.cn/projects/5731/artifact)获取。
 
@@ -24,7 +24,7 @@
 | 2.0.7.0/prospects.json | 2 | 2 | 100.00% |
 | 2.0.7.0/qualities.json | 124 | 124 | 100.00% |
 | 2.0.7.0/ui-map-tooltip-steam-2.0.6.454aad8.json | 7 | 7 | 100.00% |
-| 2.0.7.0/ui-runtime.json | 39 | 39 | 100.00% |
+| 2.0.7.0/ui-runtime.json | 126 | 126 | 100.00% |
 | 2.0.7.0/ui.json | 726 | 726 | 100.00% |
 | NEW/areas.json | 224 | 224 | 100.00% |
 | NEW/bargains.json | 382 | 382 | 100.00% |
@@ -42,3 +42,5 @@
 | NEW/z_logbook.json | 9 | 9 | 100.00% |
 | NEW/z_shipnames.json | 257 | 257 | 100.00% |
 | 手动录入缺失词条.json | 1 | 1 | 100.00% |
+
+本次快照：`2026_10_18_10_00_45_cee5ae`。最新 ui-runtime 文件包含 126 条，未包含此前 39 条；补丁继续保留这 39 条已有模板译文，避免回退英文。更新及显示验证例外见 [导入检查记录](import-audit-2026-10-18/README.md)。
