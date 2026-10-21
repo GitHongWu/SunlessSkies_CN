@@ -14,6 +14,7 @@ namespace SunlessSkiesCN.Shared
         static readonly Regex Weight = new Regex(@"(?<prefix>\A|[\r\n])Weight: (?<number>[0-9]+)(?=\r|\n|\z)", RegexOptions.CultureInvariant);
         static readonly Regex Markup = new Regex(@"<[^>]*>|\[[^\]]*\]|\{[^{}]*\}", RegexOptions.CultureInvariant);
         static readonly Regex Pieces = new Regex(@"(<[^>]*>|\r\n|\r|\n)");
+        static readonly Regex EngineStat = new Regex(@"(?m)^(?<label><b>(?:Movement Speed|Fuel Consumption|Full Steam Speed):</b> )(?<n>[+-]?[0-9]+(?:[.,][0-9]+)?)%(?<end>\r\n|\n|\z)", RegexOptions.CultureInvariant);
         static readonly Regex Stat = new Regex(@"\A(?<label>Damage: |Blast Damage: |Range: |Heat: |Tier )(?<n>[+-]?[0-9]+(?:[.,][0-9]+)?)\z");
         static readonly Regex Effect = new Regex(@"\A(?<n>[+-]?[0-9]+) (?<name>[^<>\r\n]+)\z");
         static readonly Regex Requirement = new Regex(@"\A(?<name>[^<>\r\n]+) at (?<n>[0-9]+)\+\z");
@@ -81,6 +82,17 @@ namespace SunlessSkiesCN.Shared
         public static string LocalizeEquipmentSuffix(string suffix, Func<string,string> translate)
         {
             // Only called for the helper's appended fields, never the item prose.
+            suffix = EngineStat.Replace(suffix, match =>
+            {
+                string template = match.Groups["label"].Value + "{value1}%\n";
+                string translated = translate(template);
+                if (String.IsNullOrWhiteSpace(translated) || translated == template) return match.Value;
+                translated = translated.Replace("\r\n", "\n");
+                if (!translated.EndsWith("\n", StringComparison.Ordinal) || translated.Count(c => c == '\n') != 1 || translated.Contains("\r") ||
+                    !Markup.Matches(template).Cast<Match>().Select(m => m.Value).SequenceEqual(Markup.Matches(translated).Cast<Match>().Select(m => m.Value)) ||
+                    translated.Split(new[] { "{value1}" }, StringSplitOptions.None).Length != 2) return match.Value;
+                return translated.Substring(0, translated.Length - 1).Replace("{value1}", match.Groups["n"].Value) + match.Groups["end"].Value;
+            });
             return String.Concat(Pieces.Split(suffix).Select(piece =>
             {
                 string core = piece.Trim();

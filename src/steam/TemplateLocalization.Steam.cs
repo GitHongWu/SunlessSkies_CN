@@ -87,7 +87,7 @@ namespace SunlessSkiesCNSteam
         }
     }
 
-    [BepInPlugin("githongwu.sunlessskies.template-localization", "Sunless Skies Template Localization", "0.3.0")]
+    [BepInPlugin("githongwu.sunlessskies.template-localization", "Sunless Skies Template Localization", "0.3.1")]
     [BepInDependency("gravydevsupreme.xunity.autotranslator")]
     public sealed class TemplateLocalization : BasePlugin
     {

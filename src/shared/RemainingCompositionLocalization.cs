@@ -17,7 +17,8 @@ namespace SunlessSkiesCN.Shared
         [ThreadStatic] static int displayDepth;
         [ThreadStatic] static int questDepth;
         static readonly Regex Slots = new Regex(@"\{value([0-9]+)\}");
-        static readonly Regex Tags = new Regex(@"<[^>]*>|\[[^\]]*\]");
+        // Bracketed prose is translatable; markup names and control expressions must remain intact.
+        static readonly Regex Tags = new Regex(@"<[^>]*>|\[(?:/?[A-Za-z][A-Za-z0-9_-]*(?:[=:][^\]\r\n]*)?|#[A-Fa-f0-9]+)\]");
         static readonly Regex Reward = new Regex(@"\A(?<name>[^<>\[\]{}\r\n]+?) (?<number>\+?-?[0-9]+)\z");
         static readonly Regex Level = new Regex(@"\A(?<number>-?[0-9]+ - )(?<body>.+)\z");
 

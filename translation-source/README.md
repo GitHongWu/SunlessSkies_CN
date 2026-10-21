@@ -1,6 +1,6 @@
 # 译文来源
 
-当前补丁采用 [ParaTranz 项目 5731](https://paratranz.cn/projects/5731) 的 **2026-10-18** 官方译文快照，按 CC BY-NC 4.0 使用。该次快照共 28 个文件、42,117 条词条；stage 5 与 stage 9 计入已审核，共 21,964 条（52.15%）。逐文件进度见下表；[仓库总览](../README.md)提供安装入口。
+当前补丁采用 [ParaTranz 项目 5731](https://paratranz.cn/projects/5731) 的 **2026-10-21** 官方译文快照，按 CC BY-NC 4.0 使用。共 31 个文件、42,373 条词条；stage 5 与 stage 9 计入已审核，共 22,203 条（52.40%）。逐文件进度见下表。
 
 最新译文可从[官方下载页](https://paratranz.cn/projects/5731/artifact)获取。
 
@@ -14,6 +14,9 @@
 
 | 文件 | 总词条 | 已审核 | 审核进度 |
 | --- | ---: | ---: | ---: |
+| 2.0.7.0-Addenda/ui-code-steam-2.0.6.454aad8.json | 36 | 36 | 100.00% |
+| 2.0.7.0-Addenda/ui-runtime.json | 157 | 157 | 100.00% |
+| 2.0.7.0-Addenda/z_shipnames.json | 63 | 63 | 100.00% |
 | 2.0.7.0/bargains.json | 6 | 6 | 100.00% |
 | 2.0.7.0/domiciles.json | 2 | 2 | 100.00% |
 | 2.0.7.0/events.json | 1752 | 1752 | 100.00% |
@@ -28,13 +31,13 @@
 | 2.0.7.0/ui.json | 726 | 726 | 100.00% |
 | NEW/areas.json | 224 | 224 | 100.00% |
 | NEW/bargains.json | 382 | 382 | 100.00% |
-| NEW/events.json | 30051 | 14290 | 47.55% |
+| NEW/events.json | 30051 | 14293 | 47.56% |
 | NEW/exchanges.json | 172 | 172 | 100.00% |
 | NEW/landmarks.json | 54 | 54 | 100.00% |
 | NEW/loadingHints.json | 38 | 38 | 100.00% |
 | NEW/logEntries.json | 499 | 499 | 100.00% |
 | NEW/prospects.json | 392 | 392 | 100.00% |
-| NEW/qualities.json | 5654 | 1379 | 24.39% |
+| NEW/qualities.json | 5654 | 1359 | 24.04% |
 | NEW/settings.json | 47 | 47 | 100.00% |
 | NEW/ui-code-steam-2.0.6.454aad8.json | 68 | 1 | 1.47% |
 | NEW/ui-code-templates-steam-2.0.6.454aad8.json | 50 | 0 | 0.00% |
@@ -42,5 +45,3 @@
 | NEW/z_logbook.json | 9 | 9 | 100.00% |
 | NEW/z_shipnames.json | 257 | 257 | 100.00% |
 | 手动录入缺失词条.json | 1 | 1 | 100.00% |
-
-本次快照：`2026_10_18_10_00_45_cee5ae`。最新 ui-runtime 文件包含 126 条，未包含此前 39 条；补丁继续保留这 39 条已有模板译文，避免回退英文。更新及显示验证例外见 [导入检查记录](import-audit-2026-10-18/README.md)。
