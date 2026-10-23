@@ -1,0 +1,522 @@
+[
+  {
+    "key": "ui_runtime_697caa588e70",
+    "original": "Blemmigan Voyagers",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_00dabaaba949",
+    "original": "Mistake, Forged into a Triumphs",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_d022ad342610",
+    "original": "Adamant-Reinforced Windshields",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_844039f62b7e",
+    "original": "Additional Cargo Bays",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_c709d3985c40",
+    "original": "Adjustable Infirmaries",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_1c748bdc231f",
+    "original": "Agravain-Class Juggernaughts",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_9ec93103a688",
+    "original": "Altani-Class Outriders",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_29514f3eb37c",
+    "original": "Amniotic Crew Containments",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_9f5dbabfee45",
+    "original": "Elaborate But Fragile Artifices",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_8fa766eb2bbb",
+    "original": "Exchange of Burdens",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_ced4fd1ac0e9",
+    "original": "Old Orbit, Fondly Remembereds",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_66724cad8931",
+    "original": "Auxiliaries",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_d20fb28be1d8",
+    "original": "Bedevilled Didacts",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_499d23426e60",
+    "original": "Bedivere-Class Escorts",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_d982f029f5c8",
+    "original": "Bridges",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_2db5de20ee04",
+    "original": "Caminus Yards 'Blackjape's",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_6ca1d9d66e32",
+    "original": "Caminus Yards 'Brassraven's",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_1d935e53dd0b",
+    "original": "Caminus Yards 'Grimalkin's",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_83fa0b76969f",
+    "original": "Caminus Yards 'Saintfire's",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_2d71a16e13f6",
+    "original": "'Cantankerous' Boring-Rigs",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_24388b1bcf1e",
+    "original": "Chief Engineers",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_9898ade07fd3",
+    "original": "Cotterell & Hathersage 'Beulah's",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_8731633f8da3",
+    "original": "Cotterell & Hathersage 'Emanation's",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_f6807b303bd0",
+    "original": "Cotterell & Hathersage 'Vala's",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_90a41236251a",
+    "original": "Crown & Misery Pneumatic Mining Arrays",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_344e42267ad5",
+    "original": "Current Locomotives",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_090fe4b54233",
+    "original": "Cyclopean Owls",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_64162ae9887b",
+    "original": "Date of Fuzzs",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_057455bae763",
+    "original": "'Durendal' Pressure-Canning Systems",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_b9bf0c84842b",
+    "original": "Engines",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_7ddae045b7fd",
+    "original": "First Officers",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_b2f1d0eb4181",
+    "original": "Gates of Ivories",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_ed8fda65654b",
+    "original": "Gleaming Galleys",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_46e7ecec70e3",
+    "original": "'Heathcliffe' Durable Platings",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_d68af9e2f32c",
+    "original": "Hidden Holds",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_dda52e0b1c0b",
+    "original": "Lamellared Sky-Steel Platings",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_cee1a434e9f6",
+    "original": "Mascots",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_c5c4620ab244",
+    "original": "Masked Citizens",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_17e602a5b70e",
+    "original": "Medea-Class Destroyers",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_cf3a669ec3bd",
+    "original": "'Mighty Pen' Defensive Library Systems",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_2ace259d2998",
+    "original": "Minimum Safe Manning Numbers",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_476740402761",
+    "original": "'Montresor' Chambers",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_08911befe17b",
+    "original": "Murgatroyd's 'Stain-away' Canning Stations",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_d1d1cc698c76",
+    "original": "Officer ScuzzleFuzzs",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_86e37afb55ff",
+    "original": "Old Friends",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_768c08d9eb09",
+    "original": "Parsival-Class Coursers",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_5b327603c4be",
+    "original": "Pellinore-Class Traders",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_f4b451c9a804",
+    "original": "Platings",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_0fd1b4f249e6",
+    "original": "Plucky Baronesses",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_c011c2b8a789",
+    "original": "'Pluto' Miniature Law-Furnaces",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_2705bf258bc0",
+    "original": "Portsmouth House 'Albertine Candle's",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_08951a169393",
+    "original": "Portsmouth House 'Jubilee's",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_660a0c641002",
+    "original": "Primary Weapons",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_4bc3dabbf7b0",
+    "original": "'Proserpina' Superior Mining Arrays",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_0b55c4168672",
+    "original": "Quartermasters",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_54805960c9d1",
+    "original": "Reclaimed Marauder Mangonels",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_bcf0ed5c996c",
+    "original": "Rose & Adamant Platings",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_9c2fae6b591d",
+    "original": "Secondary Weapons",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_4a59b5b95808",
+    "original": "Sensible Plumbings",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_52ee618a0a4f",
+    "original": "Signallers",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_62bbc6471901",
+    "original": "'Signora Zenobia' Prestige Scythes",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_3654637acb95",
+    "original": "'Spatchcock' Reclaimed Locomotives",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_07bfe22c604c",
+    "original": "'Spatchcocker' Megs",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_9b22f9b80344",
+    "original": "The Blue Kingdom's Gratitudes",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_ee3f2a1c0aa9",
+    "original": "The Britomarts",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_f2000d291423",
+    "original": "The Cloak of the Lions",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_58e8e1230da2",
+    "original": "The Conquest of an All-Too-Familiar Rivals",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_1121e1b6ac64",
+    "original": "The Erroneous Assumption That There Will Be a Tomorrows",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_f7045fb009ad",
+    "original": "The Final Moment of Accelerations",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_accb39536840",
+    "original": "The Imagined Contents of a Span of Time Between When an Event was Supposed to Occur, and When it Finally Dids",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_9641bf8525b2",
+    "original": "The Insistent Surveyor and her Teams",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_c78f8448fdf3",
+    "original": "The Lost Love's Voices",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_9241f4dc807f",
+    "original": "The Mesmeric Orators",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_8319533fe761",
+    "original": "The 'Osiris' Patented Dividers",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_44ef4d0200f3",
+    "original": "The Pain Experienced at Apogees",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_4726a83c7942",
+    "original": "The Revelation That Uncertainty is Itself an Answers",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_3186762a1e95",
+    "original": "The Rite of Ravings",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_26d2947da0a9",
+    "original": "The Shield of the Stars",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_213d1ab60b03",
+    "original": "The Shivering Jemmies",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_e9472f5f0548",
+    "original": "The 'Speciometer' Assaying Devices",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_93ddd0fbba1e",
+    "original": "'The Tears of Astolat's",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_a4dfd146c7ff",
+    "original": "The 'Uninvited's",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_b0559de956ef",
+    "original": "The Unseen Queen, depicted with the Martyr-King's Cups",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_b9cc1b360092",
+    "original": "The Watchers in Azures",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_d6fa5bff3f23",
+    "original": "The Wound That Saves Your Lives",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_11da3c0934a5",
+    "original": "'The Wrath of Heaven's",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_a9445a7e2a7e",
+    "original": "To Become Fire Rather Than Be Burneds",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_e59d7e60dad5",
+    "original": "Two Futures, Endlessly Circlings",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_f86909ce0145",
+    "original": "Upgraded Chiropterous Hoarders",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_336274c1a0d1",
+    "original": "Upgraded Clay Conductors",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_3f6e7a82246a",
+    "original": "Wit & Vinegar Sawing Devices",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_715fab827912",
+    "original": "Wit & Vinegar 'Sneeze-lurker's",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_a51bab63d31d",
+    "original": "Wit & Vinegar Winch & Pulleys",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_595684c5f17e",
+    "original": "Wit & Vinegar 'Zounderkite's",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_1c680a1c74b4",
+    "original": "Your Undercover Aunts",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_f7f3877cbcf6",
+    "original": "Sunless Sea: A Whisper-Locked Puzzle-Boxes",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_7ecafd6ab8fa",
+    "original": "Your predecessor's academic affiliations resulted in a generous donation from an admirer of their intellectual rigour.",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_bfb634140f15",
+    "original": "Your fellow academics will ensure the next captain in your lineage receives the benefit of some of the discoveries you made.",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_ebdec011c8e1",
+    "original": "Convention did not dictate your predecessor's life. Their fellow Bohemians collaborated to provide this gift, in their memory.",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_426b792d17d7",
+    "original": "Your Bohemian friends are eager to meet your successor. They have gifts!",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_f2508745d121",
+    "original": "Your predecessor worked for the empire. To honour their establishment affiliations, you have been given a generous gift.",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_b64168348afb",
+    "original": "Your establishment associates will not forget you. They promise to keep an eye on your inheritor, and pass along some of the favours you earned.",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_a71e09a02ff9",
+    "original": "An honest gift, or stolen goods? Your predecessor's villainous affiliations have profited you well.",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_85a64bcf9da8",
+    "original": "You moved in villainous circles. They remember their debts. Your successor will benefit from their unspoken code of honour.",
+    "translation": ""
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "key": "136056$LevelDescriptionText",
+    "original": "{\"10\":\"You must find the Ballroom of Langley Hall\",\"15\":\"You have found Lord Langley\",\"30\":\"Lord Langley wants you to find his lost love somewhere in the High Wilderness\",\"40\":\"Bring the Amenable Host to Langley Hall\",\"50\":\"Bring the Illuminated Archivist to Langley Hall\",\"1\":\"Search Langley Hall to find clues to the lost Lord's location\",\"100\":\"[COMPLETE]You have found Lord Langley in his ballroom, and there you left him\",\"70\":\"[COMPLETE]Lord Langley has taken the Amenable Host as his lost love\",\"80\":\"[COMPLETE]Lord Langley has taken the Illuminated Archivist as his lost love\",\"90\":\"[COMPLETE]Lord Langley has taken you for his long lost love\"}",
+    "translation": "{\"10\":\"你需要找到兰利厅的宴会厅\",\"15\":\"你找到了兰利勋爵\",\"30\":\"兰利勋爵想要你在天野寻找他失落的爱人\",\"40\":\"把随和的主管带到兰利厅\",\"50\":\"把明光档案员带到兰利厅\",\"1\":\"搜索兰利厅，寻找兰利勋爵去向的线索\",\"100\":\"[完成]你在宴会厅里找到了兰利勋爵，随后把他留在了那里\",\"70\":\"[COMPLETE]兰利勋爵把随和的主管当成了他失落的爱人\",\"80\":\"[COMPLETE]兰利勋爵把明光档案员当成了他失落的爱人\",\"90\":\"[COMPLETE]兰利勋爵把你当成了他失落的爱人\"}"
+  },
+  {
+    "key": "137200$LevelDescriptionText",
+    "original": "{\"10\":\"The Incognito Princess has revealed her identity to you. She would like to visit Perdurance\",\"20\":\"The Incognito Princess would like to go to Piranesi and Carillon\",\"30\":\"The Incognito Princess would like to visit her father, in the Mausoleum\",\"40\":\"The Incognito Princess needs to go to the Well of the Wolf, to marry her beloved\",\"35\":\"The Incognito Princess has told her father of her intention to marry\",\"200\":\"[COMPLETE]You trapped the Incognito Princess in the Well of the Wolf\",\"90\":\"[COMPLETE]You trapped the Incognito Princess in Piranesi\",\"75\":\"You have decided to take the Princess' shed skin to Piranesi\",\"100\":\"[COMPLETE]You deposited the shed skin of the Incognito Princess in Piranesi\",\"50\":\"The Incognito Princess married her beloved – the King of Choirs, the Devil trapped in the Well of the Wolf. Her shed skin remains\",\"400\":\"[COMPLETE]The Poetical Suitor wears the shed skin of the Princess\",\"300\":\"[COMPLETE]The Analytical Suitor wears the shed skin of the Princess\"}",
+    "translation": "{\"10\":\"隐姓埋名的公主向你揭示了她的身份。她想去琥珀宫\",\"20\":\"隐姓埋名的公主希望前往皮拉内西和钟琴区\",\"30\":\"隐姓埋名的公主希望去圣宁墓探望她的父亲\",\"40\":\"隐姓埋名的公主必须前往狼之井，与她的爱人缔结婚约\",\"35\":\"隐姓埋名的公主已将她成婚的打算告知了父亲\",\"200\":\"[COMPLETE]你将隐姓埋名的公主困于狼之井中\",\"90\":\"[COMPLETE]你将隐姓埋名的公主困在了皮拉内西\",\"75\":\"你决定将公主蜕下的皮囊带往皮拉内西\",\"100\":\"[COMPLETE]你已将隐姓埋名的公主蜕下的皮囊安置于皮拉内西\",\"50\":\"隐姓埋名的公主已与她的爱人——颂歌之王，囚于狼之井的魔鬼成婚。她的皮囊留了下来\",\"400\":\"[COMPLETE]那位诗意的求婚者披上了公主的皮囊\",\"300\":\"[COMPLETE]那位理性的求婚者披上了公主的皮囊\"}"
+  },
+  {
+    "key": "139080$LevelDescriptionText",
+    "original": "{\"10\":\"Ask more questions at the Embassy of Albion\",\"20\":\"Go to the Court of the Apes at the House of Days to present a case\",\"30\":\"Go to the Court of Mules in the House of Days to argue about contract terms\",\"60\":\"Visit the Pansekritis in the House of Days for a final ruling between Albion and the Devils\",\"70\":\"Take the renegotiated contract to the Ambassador at the Embassy of Albion in the Toll-Tower\",\"80\":\"Deliver an Eviction to the Ambassador at the Embassy of Albion in the Toll-Tower\",\"300\":\"[COMPLETE]There is no more to do. You have allowed the Embassy of Albion to remain in the Toll-Tower\",\"200\":\"[COMPLETE]There is no more to do. You have Evicted the Embassy of Albion from the Toll-Tower\",\"40\":\"Go to the Court of Mayflies to renegotiate the lease in favour of the Ambassador\",\"50\":\"Go to the Court of Oaks to renegotiate the lease in favour of the Devils\"}",
+    "translation": "{\"10\":\"向阿尔比恩大使馆询问更多问题\",\"20\":\"前往时光之屋的猿猴法庭陈述案件\",\"30\":\"前往时光之屋的骡子法庭争论合同条款\",\"60\":\"拜访时光之屋的潘塞克里蒂斯，对阿尔比恩大使馆和魔鬼做出最终裁决\",\"70\":\"将重新谈判的合同交给渡灵塔内阿尔比恩大使馆的大使\",\"80\":\"向渡灵塔内阿尔比恩大使馆的大使发出驱逐令\",\"300\":\"[完成]没什么可做的了。你已促使阿尔比恩大使馆得以继续留在渡灵塔\",\"200\":\"[COMPLETE]没什么可做的了。你已将阿尔比恩大使馆从渡灵塔中驱逐\",\"40\":\"前往蜉蝣法庭重新谈判租约，使之对大使有利\",\"50\":\"前往橡树法庭重新谈判租约，使之对魔鬼有利\"}"
+  },
+  {
+    "key": "139338$LevelDescriptionText",
+    "original": "{\"2\":\"[COMPLETE]You have found a quester to relive the King of Hours' last hours\"}",
+    "translation": "{\"2\":\"[COMPLETE]你已经找到一个探寻者来重温时刻王的最后时光\"}"
+  },
+  {
+    "key": "139968$LevelDescriptionText",
+    "original": "{\"10\":\"You have sworn to sabotage the Clockwork Sun\",\"20\":\"[COMPLETE]You have appeased the Whisperwinds\"}",
+    "translation": "{\"10\":\"你发誓要破坏发条太阳，来安抚呓语风\",\"20\":\"[COMPLETE]你已经安抚了呓语风\"}"
+  }
+]
