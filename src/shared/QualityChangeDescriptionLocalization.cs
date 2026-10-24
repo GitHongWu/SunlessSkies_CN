@@ -25,12 +25,17 @@ namespace SunlessSkiesCN.Shared
             catch { harmony.UnpatchSelf(); throw; }
             log("Quality change description localization ready.");
         }
-        static void Postfix(ref string __result)
+        static void Postfix(object __instance, object __0, ref string __result)
         {
             if (String.IsNullOrEmpty(__result)) return;
             try {
                 if (!enabled()) return;
-                string translated = lookup(__result);
+                bool negative = (bool)__0.GetType().GetProperty("IsNegative").GetValue(__0, null);
+                string translated = RemainingCompositionLocalization.TranslateBranch(__instance,
+                    negative ? "DescendingChangeDescriptionText" : "ChangeDescriptionText", __result, lookup);
+                // The game falls back to the normal change branch when no descending branch applies.
+                if (negative && translated == __result)
+                    translated = RemainingCompositionLocalization.TranslateBranch(__instance, "ChangeDescriptionText", __result, lookup);
                 if (!String.IsNullOrEmpty(translated)) __result = translated;
             }
             catch (Exception e) { if (errors++ < 4) log("Quality change description fallback: " + e.Message); }

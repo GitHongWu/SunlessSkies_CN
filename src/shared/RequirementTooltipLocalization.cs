@@ -38,9 +38,9 @@ namespace SunlessSkiesCN.Shared
             catch { harmony.UnpatchSelf(); throw; }
             log("Requirement tooltip localization ready: presence/absence and state-list formatters.");
         }
-        static void Postfix(ref string __result)
+        static void Postfix(object __0, ref string __result)
         {
-            try { if (enabled()) __result = LocalizeStates(__result, lookup, variableLookup); }
+            try { if (enabled()) __result = LocalizeStates(__result, lookup, source => RemainingCompositionLocalization.TranslateBranch(__0, "LevelDescriptionText", source, variableLookup)); }
             catch (Exception e) { if (traces++ < 4) log("Requirement tooltip fallback: " + e.Message); }
         }
         public static string LocalizeStates(string text, Func<string,string> translate, Func<string,string> variables)

@@ -1,4 +1,4 @@
-// Generated from verified formatter outputs; ambiguous owner/name slots remain opaque.
+﻿// Generated from verified formatter outputs; ambiguous owner/name slots remain opaque.
 using System;
 namespace SunlessSkiesCN.Shared {
  public static partial class RemainingCompositionLocalization {
@@ -68,7 +68,7 @@ namespace SunlessSkiesCN.Shared {
    new Rule("Select a Status or Item with at least: [q-name]an {value1}[/q-name][em] ({value2})[/em]", "TN"),
    new Rule("You unlocked this with [q-name]an {value1}[/q-name] [em](you have {value2} in all)[/em]", "TN"),
    new Rule("You unlocked this with any [q-name]an {value1}[/q-name][em] (you needed {value2}-{value3})[/em]", "TNN"),
-   new Rule("You donate your {value1} to your chosen successor. You hope they can handle it.", "O"),
+   new Rule("You donate your {value1} to your chosen successor. You hope they can handle it.", "L"),
    new Rule("Select a Status or Item with at least: [q-name]a {value1}[/q-name][em] ({value2})[/em]", "TN"),
    new Rule("You unlocked this with any [q-name]an {value1}[/q-name] [em](you needed {value2})[/em]", "TN"),
    new Rule("You unlocked this with [q-name]a {value1}[/q-name] [em](you have {value2} in all)[/em]", "TN"),
@@ -225,7 +225,7 @@ namespace SunlessSkiesCN.Shared {
    new Rule("You need [q-name]{value1}[/q-name] {value2}", "TN"),
    new Rule("You need [q-name]{value1}[/q-name]", "T"),
    new Rule("Your '{value1}' Quality has gone!", "T"),
-   new Rule("They managed to reclaim {value1}.", "O"),
+   new Rule("They managed to reclaim {value1}.", "L"),
    new Rule("{value1} {value2} failed in a challenge! {value3}", "TNB"),
    new Rule("You will start at level {value1}", "N"),
    new Rule("{value1} remains unchanged, at {value2}", "TN"),
@@ -258,6 +258,9 @@ namespace SunlessSkiesCN.Shared {
    new Rule("{value1} ({value2})", "TT"),
   };
   static readonly string[] DisplayTargets = new string[] {
+   "Skyless.Assets.Code.Skyless.UI.Presenters.Storylets.StoryletEndPresenter::HardSetDescription",
+   "Skyless.Assets.Code.Skyless.Game.BehaviourScripts.VesselNameBehaviour::SetName",
+   "Skyless.Assets.Code.Skyless.Game.BehaviourScripts.WreckVesselNameBehaviour::AssignName",
    "Skyless.Assets.Code.Skyless.Game.Procedural_Generation.SceneBehaviourScripts.LabelBehavior::OnTriggerEnter2D",
    "Skyless.Assets.Code.Skyless.UI.Presenters.Generic.InteractionPrompt.Subprompt::OnGamepadActiveChange",
    "Skyless.Assets.Code.Skyless.UI.Presenters.Generic.InteractionPrompt.InteractionPromptPresenter::SetText",

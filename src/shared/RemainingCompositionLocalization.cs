@@ -10,6 +10,19 @@ namespace SunlessSkiesCN.Shared
     public static partial class RemainingCompositionLocalization
     {
         static Func<string,string> lookup, variables;
+        static Func<string,string,string> contextLookup;
+        [ThreadStatic] static Dictionary<int,int> questQualityIds;
+        public static void ConfigureContexts(Func<string,string,string> translate) { contextLookup = translate; }
+        public static string TranslateBranch(object quality, string field, string text, Func<string,string> fallback)
+        {
+            if (quality == null) return fallback(text);
+            return TranslateBranch((int)quality.GetType().GetProperty("Id").GetValue(quality, null), field, text, fallback);
+        }
+        public static string TranslateBranch(int id, string field, string text, Func<string,string> fallback)
+        {
+            if (contextLookup == null) return fallback(text);
+            return TranslateCompletedBranch(text, source => contextLookup(id + "$" + field, source));
+        }
         static Func<bool> enabled;
         static Action<string> log;
         static int errors;
@@ -81,7 +94,7 @@ namespace SunlessSkiesCN.Shared
                 var possession = game.GetType("Failbetter.Presentation.PresentationData.PossessionPresentation", true);
                 var quest = AccessTools.Method(possession, "AssignQuestValues");
                 if (quest == null) throw new MissingMethodException("AssignQuestValues");
-                harmony.Patch(quest, prefix: new HarmonyMethod(typeof(RemainingCompositionLocalization), "QuestPrefix"),
+                harmony.Patch(quest, prefix: new HarmonyMethod(typeof(RemainingCompositionLocalization), "QuestFactoryPrefix"),
                     postfix: new HarmonyMethod(typeof(RemainingCompositionLocalization), "QuestPostfix"),
                     finalizer: new HarmonyMethod(typeof(RemainingCompositionLocalization), "QuestFinalizer"));
                 // IL2CPP cannot detour constructors; these native factories call the inlined quest path.
@@ -126,7 +139,7 @@ namespace SunlessSkiesCN.Shared
             catch (Exception e) { Error(e); }
         }
         static void QuestPrefix(out bool __state) { __state = enabled(); if (__state) questDepth++; }
-        static Exception QuestFinalizer(Exception __exception, bool __state) { if (__state) questDepth--; return __exception; }
+        static Exception QuestFinalizer(Exception __exception, bool __state) { if (__state) { if (questQualityIds != null) questQualityIds.Remove(questDepth); questDepth--; } return __exception; }
 
         static void QuestFactoryPrefix(object __0, out bool __state)
         {
@@ -136,8 +149,12 @@ namespace SunlessSkiesCN.Shared
                 if (!enabled() || __0 == null) return;
                 var quality = __0.GetType().GetProperty("AssociatedQuality").GetValue(__0, null);
                 string category = quality.GetType().GetProperty("Category").GetValue(quality, null).ToString();
-                __state = category == "Quest" || category == "Objective";
-                if (__state) questDepth++;
+                if (category == "Quest" || category == "Objective") {
+                    int id = (int)quality.GetType().GetProperty("Id").GetValue(quality, null);
+                    if (questQualityIds == null) questQualityIds = new Dictionary<int,int>();
+                    questQualityIds[++questDepth] = id;
+                    __state = true;
+                }
             }
             catch (Exception e) { Error(e); }
         }
@@ -149,11 +166,54 @@ namespace SunlessSkiesCN.Shared
             if (questTraces++ < 4) log("Journal factory localization reached: quest/objective presentation.");
         }
 
+        public static string NormalizeCompletionMarker(string original, string translation)
+        {
+            foreach (string marker in new[] { "[COMPLETE]", "[complete]" }) {
+                if (!original.StartsWith(marker, StringComparison.Ordinal)) continue;
+                foreach (string prefix in new[] { "[完成]", "[COMPLETE]", "[complete]" })
+                    if (translation.StartsWith(prefix, StringComparison.Ordinal))
+                        return marker + translation.Substring(prefix.Length);
+            }
+            return translation;
+        }
+
+        // Keep the control marker for game formatting; strip it only for an already bare display string.
+        public static string TranslateCompletedBranch(string text, Func<string,string> translate)
+        {
+            if (String.IsNullOrEmpty(text)) return text;
+            string direct = translate(text);
+            foreach (string marker in new[] { "[COMPLETE]", "[complete]" }) {
+                if (text.StartsWith(marker, StringComparison.Ordinal)) {
+                    if (!String.IsNullOrEmpty(direct) && direct.StartsWith("[完成]", StringComparison.Ordinal))
+                        return marker + direct.Substring(4);
+                    return direct;
+                }
+            }
+            if (!String.IsNullOrEmpty(direct) && direct != text) return direct;
+            string candidate = null;
+            foreach (string marker in new[] { "[COMPLETE]", "[complete]" }) {
+                string source = marker + text, value = translate(source);
+                if (String.IsNullOrEmpty(value) || value == source) continue;
+                if (value.StartsWith("[完成]", StringComparison.Ordinal)) value = value.Substring(4);
+                else if (value.StartsWith(marker, StringComparison.Ordinal)) value = value.Substring(marker.Length);
+                else continue;
+                if (String.IsNullOrWhiteSpace(value) || !SameTags(text, value)) continue;
+                if (candidate != null && candidate != value) return text;
+                candidate = value;
+            }
+            return candidate ?? text;
+        }
+
         // Match the selected branch before the formatter replaces its direction tokens.
         public static string TranslateQuestBody(string text)
         {
             if (questDepth == 0 || !enabled() || String.IsNullOrEmpty(text)) return text;
-            try { return Safe(text, variables); }
+            try {
+                int id;
+                if (questQualityIds != null && questQualityIds.TryGetValue(questDepth, out id))
+                    return Safe(text, source => TranslateBranch(id, "LevelDescriptionText", source, variables));
+                return Safe(text, variables);
+            }
             catch (Exception e) { Error(e); return text; }
         }
 
@@ -167,7 +227,8 @@ namespace SunlessSkiesCN.Shared
                 var body = type.GetProperty("Description");
                 var level = type.GetProperty("LevelDescriptionOnly");
                 string a = body.GetValue(__instance, null) as string, b = level.GetValue(__instance, null) as string;
-                string translatedBody = Safe(a, lookup), translatedLevel = Safe(b, variables);
+                int id = (int)type.GetProperty("QualityId").GetValue(__instance, null);
+                string translatedBody = Safe(a, lookup), translatedLevel = Safe(b, source => TranslateBranch(id, "LevelDescriptionText", source, variables));
                 body.SetValue(__instance, translatedBody, null);
                 level.SetValue(__instance, translatedLevel, null);
             }
@@ -197,6 +258,13 @@ namespace SunlessSkiesCN.Shared
                     string value = match.Groups["v" + (i + 1)].Value;
                     bool numeric = Regex.IsMatch(value, @"\A[+-]?[0-9]+(?:[.,][0-9]+)?\z");
                     values[i] = rule.Kinds[i] == 'T' && !numeric ? Safe(value, variableTranslate) : rule.Kinds[i] == 'B' ? Localize(value, translate, variableTranslate, depth + 1) : value;
+                    // Only the trailing locomotive model is a dictionary name; the prefix belongs to the player.
+                    if (rule.Kinds[i] == 'L' && value.EndsWith(")", StringComparison.Ordinal))
+                    {
+                        int split = value.LastIndexOf(" (", StringComparison.Ordinal);
+                        if (split > 0)
+                            values[i] = value.Substring(0, split + 2) + Safe(value.Substring(split + 2, value.Length - split - 3), translate) + ")";
+                    }
                     if (rule.Kinds[i] == 'T' && values[i] == value)
                     {
                         var levelValue = Level.Match(value);

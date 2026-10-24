@@ -39,7 +39,7 @@ namespace SunlessSkiesCN.Shared
             {
                 if (!enabled() || __0 == null) return;
                 var quality = associatedQuality.GetValue(__0, null);
-                if (quality != null) __result = Localize(__result, qualityName.GetValue(quality, null) as string, lookup, variables);
+                if (quality != null) __result = Localize(__result, qualityName.GetValue(quality, null) as string, lookup, source => RemainingCompositionLocalization.TranslateBranch(quality, "LevelDescriptionText", source, variables));
             }
             catch (Exception e) { if (errors++ < 4) log("Quality title fallback: " + e.Message); }
         }

@@ -16,9 +16,9 @@
 
 - BepInEx 6.0.0-be.788，Unity.IL2CPP win-x86；官方构建提交 5b766a3。
 - XUnity.AutoTranslator 5.6.2 IL2CPP、ResourceRedirector 2.1.0。
-- 与仓库 Epic 补丁相同的 2026-10-21 ParaTranz 译文及未覆盖旧译文补充，49,112 行，含十二个月的日期适配。
+- 与仓库 Epic 补丁相同的 2026-10-21 ParaTranz 译文及未覆盖旧译文补充，49,502 行，含十二个月的日期适配。
 - 中文 TMP 字体 overTMP，UGUI 使用 Microsoft YaHei。
-- Steam 专用 TemplateLocalization 0.2.5，用于占位符展开前匹配模板，以及动态方向显示；源码见 [src/steam/](../src/steam/README.md)。
+- Steam 专用 TemplateLocalization 0.3.2，用于占位符展开前匹配模板，以及动态方向显示；源码见 [src/steam/](../src/steam/README.md)。
 
 本版不使用 Epic 的 unstripped/、Mono 加载器和 Newtonsoft.Json 游戏运行库修复。XUnity 的 IL2CPP 版本不支持 TextGetterCompatibilityMode，因此配置为 False；R 键、菜单和港口交互需要在本构建中单独验证。
 

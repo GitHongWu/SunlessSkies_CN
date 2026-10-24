@@ -14,10 +14,11 @@ namespace SunlessSkiesCNSteam
     public sealed class TemplateCatalog
     {
         readonly Dictionary<string, string> literals = new Dictionary<string, string>(StringComparer.Ordinal);
+        readonly Dictionary<string, string> contexts = new Dictionary<string, string>(StringComparer.Ordinal);
         readonly Dictionary<string, string> variables = new Dictionary<string, string>(StringComparer.Ordinal);
         readonly Dictionary<string, string> templates = new Dictionary<string, string>(StringComparer.Ordinal);
         static readonly Regex Tokens = new Regex(@"\[(?:q|qvd|d|df|dl|dir|train):[^\]\r\n]+\]|\[(?:gendertitle|genderdescription|genderdescriptionsimple|he|his|him|Actor|CharacterName)\]", RegexOptions.CultureInvariant);
-        static readonly Regex Direction = new Regex(@"\A(?<place>.+) lies(?<distance> a long way| some way)? to the (?<direction>northwest|northeast|southwest|southeast|north|south|east|west) of (?<origin>.+)\z", RegexOptions.CultureInvariant);
+        static readonly Regex Direction = new Regex(@"\A(?<place>.+)? lies(?<distance> a long way| some way)? to the (?<direction>north-northeast|east-northeast|east-southeast|south-southeast|south-southwest|west-southwest|west-northwest|north-northwest|northwest|northeast|southwest|southeast|north|south|east|west) of (?<origin>.+)\z", RegexOptions.CultureInvariant);
         public int Count { get { return templates.Count; } }
         public int Rejected { get; private set; }
         public static string Normalize(string text) { return text == null ? null : text.Replace("\r\n", "\n"); }
@@ -29,7 +30,7 @@ namespace SunlessSkiesCNSteam
         {
             if (String.IsNullOrEmpty(original) || String.IsNullOrEmpty(translation) || original.StartsWith("sr:") || original.StartsWith("r:")) return;
             original = Normalize(original);
-            translation = Normalize(translation);
+            translation = SunlessSkiesCN.Shared.RemainingCompositionLocalization.NormalizeCompletionMarker(original, Normalize(translation));
             // The shipped table has already resolved ParaTranz/legacy precedence.
             literals[original] = translation;
             var tokens = TokenList(original);
@@ -49,11 +50,30 @@ namespace SunlessSkiesCNSteam
         public void AddVariable(string original, string translation)
         {
             if (String.IsNullOrEmpty(original) || String.IsNullOrEmpty(translation)) return;
-            original = Normalize(original); translation = Normalize(translation);
+            original = Normalize(original); translation = SunlessSkiesCN.Shared.RemainingCompositionLocalization.NormalizeCompletionMarker(original, Normalize(translation));
             if (TokenList(original).SequenceEqual(TokenList(translation), StringComparer.Ordinal))
                 variables[original] = translation;
         }
+        public void AddVariableContext(string key, string translation)
+        {
+            int split = key.IndexOf('\t');
+            if (split < 1 || String.IsNullOrEmpty(translation)) return;
+            string original = key.Substring(split + 1);
+            if (TokenList(original).SequenceEqual(TokenList(translation), StringComparer.Ordinal))
+                contexts[Normalize(key)] = SunlessSkiesCN.Shared.RemainingCompositionLocalization.NormalizeCompletionMarker(original, Normalize(translation));
+        }
+        public string TranslateVariableContext(string token, string text)
+        {
+            if (String.IsNullOrEmpty(text)) return text;
+            string translated;
+            return token != null && contexts.TryGetValue(Normalize(token.Trim() + "\t" + text), out translated)
+                ? translated : TranslateVariable(text);
+        }
         public string TranslateVariable(string text)
+        {
+            return SunlessSkiesCN.Shared.RemainingCompositionLocalization.TranslateCompletedBranch(text, FindVariable);
+        }
+        string FindVariable(string text)
         {
             if (String.IsNullOrEmpty(text)) return text;
             string translated;
@@ -81,13 +101,13 @@ namespace SunlessSkiesCNSteam
             if (String.IsNullOrEmpty(text)) return text;
             var match = Direction.Match(text);
             if (!match.Success) return text;
-            var directions = new Dictionary<string, string> { {"north", "北"}, {"south", "南"}, {"east", "东"}, {"west", "西"}, {"northeast", "东北"}, {"northwest", "西北"}, {"southeast", "东南"}, {"southwest", "西南"} };
+            var directions = new Dictionary<string, string> { {"north", "北"}, {"south", "南"}, {"east", "东"}, {"west", "西"}, {"northeast", "东北"}, {"northwest", "西北"}, {"southeast", "东南"}, {"southwest", "西南"}, {"north-northeast", "北偏东"}, {"east-northeast", "东偏北"}, {"east-southeast", "东偏南"}, {"south-southeast", "南偏东"}, {"south-southwest", "南偏西"}, {"west-southwest", "西偏南"}, {"west-northwest", "西偏北"}, {"north-northwest", "北偏西"} };
             string distance = match.Groups["distance"].Value;
             return Name(match.Groups["place"].Value) + "位于" + Name(match.Groups["origin"].Value) + "的" + directions[match.Groups["direction"].Value] + "方" + (distance == " a long way" ? "很远处" : distance == " some way" ? "一段距离处" : "");
         }
     }
 
-    [BepInPlugin("githongwu.sunlessskies.template-localization", "Sunless Skies Template Localization", "0.3.1")]
+    [BepInPlugin("githongwu.sunlessskies.template-localization", "Sunless Skies Template Localization", "0.3.2")]
     [BepInDependency("gravydevsupreme.xunity.autotranslator")]
     public sealed class TemplateLocalization : BasePlugin
     {
@@ -95,9 +115,7 @@ namespace SunlessSkiesCNSteam
         static FieldInfo translatorCurrent, translatedMode;
         [ThreadStatic] static int translatedDepth;
         [ThreadStatic] static int variableDepth;
-        static readonly Regex VariableOnlyBody = new Regex(@"\A\s*(?:\[qvd:[^\[\]
-
-]+\]\s*)+\z", RegexOptions.CultureInvariant);
+        static readonly Regex VariableOnlyBody = new Regex(@"\A\s*(?:\[qvd:[^\[\]\r\n]+\][\s.。!?！？,，;；:：…]*)+\z", RegexOptions.CultureInvariant);
         // BepInEx's Unity component can be destroyed during scene transitions.
         // These static display hooks and their catalog belong to the process,
         // not to that component; do not unpatch them in OnDestroy.
@@ -139,6 +157,12 @@ namespace SunlessSkiesCNSteam
                     var pair = (string[])decode.Invoke(null, new object[] { line });
                     if (pair != null && pair.Length == 2) loaded.Add(pair[0], pair[1]);
                 }
+                var contextFile = Path.Combine(Paths.BepInExRootPath, "Translation/zh/qvd-context.txt");
+                if (File.Exists(contextFile)) foreach (var line in File.ReadLines(contextFile))
+                {
+                    var pair = (string[])decode.Invoke(null, new object[] { line });
+                    if (pair != null && pair.Length == 2) loaded.AddVariableContext(pair[0], pair[1]);
+                }
                 var variableFile = Path.Combine(Paths.BepInExRootPath, "Translation/zh/qvd-branches.txt");
                 if (File.Exists(variableFile)) foreach (var line in File.ReadLines(variableFile))
                 {
@@ -158,6 +182,7 @@ namespace SunlessSkiesCNSteam
                 var variable = AccessTools.Method(dynamic, "GetQualityVariableForToken", new[] { character, typeof(string) });
                 if (new[] { all, format, expand, direction, variable }.Any(m => m == null || m.ReturnType != typeof(string))) throw new MissingMethodException("Unsupported game formatter signatures");
                 catalog = loaded;
+                SunlessSkiesCN.Shared.RemainingCompositionLocalization.ConfigureContexts(loaded.TranslateVariableContext);
                 try { SunlessSkiesCN.Shared.RemainingCompositionLocalization.Install(game, loaded.SummaryBody, loaded.TranslateVariable, Enabled, message => Log.LogInfo(message)); }
                 catch (Exception e) { Log.LogError("Remaining composition localization unavailable: " + e.Message); }
                 try { SunlessSkiesCN.Shared.QualityTitleLocalization.Install(game, loaded.SummaryBody, loaded.TranslateVariable, Enabled, message => Log.LogInfo(message)); }
@@ -234,10 +259,10 @@ namespace SunlessSkiesCNSteam
             if ((__state & 1) != 0) translatedDepth--;
             return __exception;
         }
-        static void VariablePostfix(ref string __result)
+        static void VariablePostfix(string __1, ref string __result)
         {
             // Only translate selected display branches, never quality data.
-            if (variableDepth > 0 && Enabled()) __result = catalog.TranslateVariable(__result);
+            if (variableDepth > 0 && Enabled()) __result = catalog.TranslateVariableContext(__1, __result);
         }
         static void DirectionPostfix(ref string __result)
         {

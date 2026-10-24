@@ -100,11 +100,18 @@ namespace SunlessSkiesCN.Shared
                     methods.Add(method);
                 }
             }
+            // Steam inlines the locked-quantity helpers into this display entry point.
+            var formatter = game.GetType("Failbetter.Presentation.Formatters.RequirementTextFormatter", true);
+            var requirement = game.GetType("Failbetter.Core.QAssoc.BaseClasses.BaseQRequirement", true);
+            var possessions = game.GetType("Failbetter.Core.Interfaces.IPossessesQualities", true);
+            var entry = AccessTools.Method(formatter, "RequirementTextFor", new[] { requirement, typeof(int), possessions, typeof(bool) });
+            if (entry == null || entry.ReturnType != typeof(string)) throw new MissingMethodException("RequirementTextFormatter.RequirementTextFor");
+            methods.Add(entry);
             lookup=translate; enabled=active; log=logger;
             var harmony=new Harmony("githongwu.sunlessskies.thing-requirement");
             try {foreach(var m in methods) harmony.Patch(m,postfix:new HarmonyMethod(typeof(ThingRequirementLocalization),"Postfix"));}
             catch {harmony.UnpatchSelf();throw;}
-            log("Thing requirement localization ready: six display formatters.");
+            log("Thing requirement localization ready: six display helpers and RequirementTextFor.");
         }
         static void Postfix(ref string __result) {
             try {if(enabled()) __result=Localize(__result,lookup);}
