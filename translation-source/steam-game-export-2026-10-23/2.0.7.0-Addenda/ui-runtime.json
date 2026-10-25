@@ -1,0 +1,32 @@
+[
+  {
+    "key": "ui_runtime_1bd09857271f",
+    "original": "Hallidges prides itself on constancy, discretion, and lavishly obsequious service. Items stored here can be withdrawn at any major port. \n \n",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_34009173b942",
+    "original": "One of your skills is too low to equip this item.",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_90bec988a202",
+    "original": "You dont have this",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_1a1fd864bfa3",
+    "original": "That item does not fit in this equipment slot.",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_72cf472663a7",
+    "original": "You already have all these equipped",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_893fb90cf977",
+    "original": "You cannot change equipment unless you're docked",
+    "translation": ""
+  }
+]
