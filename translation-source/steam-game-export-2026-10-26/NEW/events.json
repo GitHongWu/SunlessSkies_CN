@@ -1,0 +1,97 @@
+[
+  {
+    "key": "271054$Description",
+    "original": "[qvd:131797(QuestEnd)]\r\n\r\n[qvd:131798(OverTimeEnd)]",
+    "translation": "[qvd:131797(QuestEnd)]\n\n\n\n[qvd:131798(OverTimeEnd)]"
+  },
+  {
+    "key": "271841$Description",
+    "original": "[qvd:132161(BloomBowerAesthetic)] \r\n\r\n[qvd:132154(BloomBowerStrength)]",
+    "translation": "[qvd:132161(BloomBowerAesthetic)] \r\n\r\n[qvd:132154(BloomBowerStrength)]"
+  },
+  {
+    "key": "271846$Description",
+    "original": "She ambles through the pleasure district, waving at the Titanians you pass. \"The Celestials want to mine the possibilities of the epic poem form in an Ampitheatre. To give love poems a place to happen, the Nocturnals want a little pleasure palace. I think the Sovereigns want to build a pub, which I'm not sure I fully understand the reasoning for. But they seem to think it could help their song writing. [qvd:132162(PosyParkTour)]",
+    "translation": "她漫步在游乐区，向经过你的狄坦妮娅人挥手。“天体派想在环形剧场中挖掘叙事诗的可能性。为了给爱情诗一个发源地，夜行派想要一个小的娱乐宫殿。我认为皇政派们想建一个酒吧，我不确定我是否完全理解其中的原因。但他们似乎认为这有助于他们的歌曲创作。[qvd:132162(PosyParkTour)]"
+  },
+  {
+    "key": "271850$Description",
+    "original": "\"The petal tapers here; there's not much we can do – space is limited. It's contested ground. We've agreed that only the school with the most influence can build here; the best supported will be able to make the best use of it. The Celestials, as shouldn't surprise anyone, wish to build an observatory. The Nocturnals want to build a Light Opera House; the Sovereigns, a cathedral for their Empress. [qvd:132162(PetalFallTour)]",
+    "translation": "花瓣在这里变细；我们也没什么能做的——空间有限。是个要各方竞争的地方。我们都同意只有最具影响的学派才能建在这里；最受支持的那一方才能把这里好好利用。天体派，不出所料，要把这里建成天文台。夜行派想要建一个轻歌剧院；皇政派呢，则是要为他们的女皇陛下建一座教堂。 [qvd:132162(PetalFallTour)]"
+  },
+  {
+    "key": "278294$Description",
+    "original": "[qvd:133374(endurance_penitent)] [qvd:133371(endurance_crime)] [qvd:133374(to_cure)], [qvd:133374(penitent_pronoun)] [qvd:133372(endurance_punishment)] [qvd:133353(reaction)]\r\n\r\nYour own punishment passes swiftly. Afterward you can't help notice some of it is a little sub-par. But the attendant seems happy with the penance you have acquired.",
+    "translation": "[qvd:133374(endurance_penitent)] [qvd:133371(endurance_crime)] [qvd:133374(to_cure)]，[qvd:133374(penitent_pronoun)] [qvd:133372(endurance_punishment)] [qvd:133353(reaction)]\n\n你自己的惩罚迅速过去。事后你注意到有些地方稍显逊色。但侍者似乎对你获得的忏悔很满意。"
+  },
+  {
+    "key": "292750$Description",
+    "original": "The air is thick as treacle. Rocks rattle against the hull, thrown by the well-winds. [qvd:136298(MusicPlays)]",
+    "translation": "空气粘稠如蜜。井风甩出的石块划过车体，吱呀作响。[qvd:136298(MusicPlays)]"
+  },
+  {
+    "key": "294900$Description",
+    "original": "The boiler rumbles. The chimneys spume. You urge your locomotive forward into the churn of time. The present quivers, falters, and is torn away...\r\n\r\n[qvd:136996(QuestInfo)]",
+    "translation": "锅炉隆隆作响。烟囱开得很大。你催促你的火车头在时间的翻腾中前进。颤抖，摇晃，被撕裂……\n\n[qvd:136996(QuestInfo)]"
+  },
+  {
+    "key": "303550$Description",
+    "original": "He looks even thinner and flintier than last you saw him. The wind and the hunger chip at him day after day, sharpening him like a knife. <i>[qvd:138480(twice_scorned_priest)]</i>",
+    "translation": "他看起来比你上次见到他时更加瘦弱，更加胆怯。狂风和饥饿日复一日地侵蚀着他，使他的棱角像刀子一样锋利。<i>[qvd:138480(twice_scorned_priest)]</i>"
+  },
+  {
+    "key": "308890$Description",
+    "original": "[qvd:139142(throne_description)]\r\n\r\n\"No doubt a story that will pass into the legend,\" says the Unseen Queen. \"And another step closer to proving you are worthy of the Cup.\"",
+    "translation": "[qvd:139142(throne_description)]\n\n“毫无疑问，这个故事将会成为传奇，”无形女王说，“离证明你配得上圣杯又近了一步。”"
+  },
+  {
+    "key": "309641$Description",
+    "original": "You speak one harmony of the first syllable. The [qvd:139308(ID2)] pronounces the other. The midnight sun of Eleutheria shudders, and fixes its vast eye upon you. Something closes, cold, about your wrist. A lamp is shackled to your arm.\r\n\r\nThe ground opens beneath you both, and you are plunged down, down into the black belly of Piranesi. Your hand is torn from theirs and you are flung into different corners of the prison; into chambers so dismal and distant it will be the work of a century to drag yourself from them. \r\n\r\nYou are in a dank, quarried cell. You raise your new lamp.",
+    "translation": "你说出最初的音节的一个和声。[qvd:139308(ID2)]则说出了另一个。厄琉忒里亚的午夜太阳在颤抖，用巨大的眼睛注视着你们两个。你感觉到手腕附近有某种冰冷的东西合上了。一盏灯铐在了你的手臂上。\n\n地面在你们两人的脚下打开，你被抛入深渊，坠入皮拉内西的黑腹。你和同伴牵着的手被扯开，被扔到了监狱的不同角落。你被扔进如此阴暗遥远的牢房，要花一个世纪的时间才能把自己从里面拖出来。\n\n你身处一个阴暗潮湿的石牢中。你举起你的新灯。"
+  },
+  {
+    "key": "223593$Description",
+    "original": "She squats in a black cottage at the village's heart. Its walls bulge and pulsate oddly. [qvd:138480(relict_approval)]",
+    "translation": "她蹲坐在村子中心的一间黑色小屋里。它的墙壁隆起，奇怪地搏动着。[qvd:138480(relict_approval)]"
+  },
+  {
+    "key": "204710$Name",
+    "original": "Discuss the Phlegmatic Researchers' secret initiative",
+    "translation": "谈论淡漠的研究员的秘密倡议"
+  },
+  {
+    "key": "222734$Description",
+    "original": "You are still their captain.",
+    "translation": "你仍是他们的车长。"
+  },
+  {
+    "key": "275120$Description",
+    "original": "No one who lives in the wild is likely to welcome strangers.",
+    "translation": "野外生活的人不太可能欢迎陌生人。"
+  },
+  {
+    "key": "300701$Description",
+    "original": "An experienced navigator goes out with a team of your most capable scouts. The rest of you make camp in a cave. Your sleep is cold and restless. When morning comes, there is no sign of your search party.",
+    "translation": "一名经验丰富的领航员带领一队最能干的侦查员前去搜索，其余的人则在山洞中扎营。那一夜寒风入骨、难以成眠。天亮时，搜索队却毫无踪影。"
+  },
+  {
+    "key": "310662$Name",
+    "original": "\"An unfortunate business.\"",
+    "translation": "\"真是不幸之至。\""
+  },
+  {
+    "key": "310664$Description",
+    "original": "\"We are never free of the past,\" she says, her hand touching her pocketwatch. \"Never.\"",
+    "translation": "\"我们永远不能摆脱过去，\"她抚摸着她的怀表说道。\"永远不能。\""
+  },
+  {
+    "key": "310667$Description",
+    "original": "\"London sits in her coat of smog. Courtiers squabble at the foot of the Throne of Hours, hoping to receive endowments of years. Meanwhile, hard-working civil servants labour to ensure everything runs as it should.\" Was there a touch of archness, there? \"All as normal. I miss her, though: there is no city like London in all the Skies. And Albion is very different from the Reach. Much more civilised.\"",
+    "translation": "\"伦敦端坐在她那烟霾城墙之中。侍臣们在时间王座下争吵，希望得到时间作为赏赐。而辛勤工作的公务员们努力确保一切正常运行。\"你有没有感觉到一点滑稽？\"都和往常一样。不过我很想念她：在整个天空中，没有哪个城市能像伦敦一样。阿尔比恩与外野非常不同。更加文明。\""
+  },
+  {
+    "key": "310669$Description",
+    "original": "\"Thank you,\" she says. A small, embarrassed silence.",
+    "translation": "\"谢谢你，\"她说。随后是一小段尴尬的沉默。"
+  }
+]
