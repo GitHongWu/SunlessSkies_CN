@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
@@ -28,6 +28,7 @@ namespace SunlessSkiesCN.Shared
         static int errors;
         static int questTraces;
         [ThreadStatic] static int displayDepth;
+        [ThreadStatic] static int categoryDepth;
         [ThreadStatic] static int questDepth;
         static readonly Regex Slots = new Regex(@"\{value([0-9]+)\}");
         // Bracketed prose is translatable; markup names and control expressions must remain intact.
@@ -88,6 +89,12 @@ namespace SunlessSkiesCN.Shared
                 var setter = tmp == null ? null : AccessTools.PropertySetter(tmp, "text");
                 if (setter == null) throw new MissingMethodException("TMP_Text.text");
                 harmony.Patch(setter, prefix: new HarmonyMethod(typeof(RemainingCompositionLocalization), "TextPrefix"));
+                foreach (string name in new[] { "QualityCategoryPresenter", "StatusQualityCategoryPresenter" })
+                {
+                    var init = AccessTools.Method(game.GetType("Skyless.Assets.Code.Skyless.UI.Presenters.Generic." + name, true), "Init");
+                    if (init == null) throw new MissingMethodException(name + ".Init");
+                    harmony.Patch(init, prefix: new HarmonyMethod(typeof(RemainingCompositionLocalization), "CategoryEnter"), finalizer: new HarmonyMethod(typeof(RemainingCompositionLocalization), "CategoryLeave"));
+                }
                 var tooltip = game.GetType("Skyless.Assets.Code.Skyless.UI.Tooltips.Tooltip", true);
                 foreach (var bind in tooltip.GetMethods().Where(m => m.Name.StartsWith("Bind", StringComparison.Ordinal) && m.GetParameters().Length >= 3 && m.GetParameters()[1].ParameterType == typeof(string) && m.GetParameters()[2].ParameterType == typeof(string)))
                     harmony.Patch(bind, prefix: new HarmonyMethod(typeof(RemainingCompositionLocalization), "TooltipPrefix"));
@@ -117,6 +124,9 @@ namespace SunlessSkiesCN.Shared
 
         static void Enter(out bool __state) { __state = enabled(); if (__state) displayDepth++; }
         static Exception Leave(Exception __exception, bool __state) { if (__state) displayDepth--; return __exception; }
+        // Translate only the title write; Init also stores the original name for game logic.
+        static void CategoryEnter(out bool __state) { __state = enabled(); if (__state) categoryDepth++; }
+        static Exception CategoryLeave(Exception __exception, bool __state) { if (__state) categoryDepth--; return __exception; }
         static void Error(Exception e) { if (errors++ < 4) log("Composition fallback: " + e.Message); }
         static void ResultPostfix(ref string __result)
         {
@@ -125,7 +135,35 @@ namespace SunlessSkiesCN.Shared
         }
         static void TextPrefix(ref string __0)
         {
-            try { if (displayDepth > 0 && enabled()) __0 = Localize(__0, lookup, variables); }
+            try
+            {
+                if (!enabled()) return;
+                if (categoryDepth > 0 && !String.IsNullOrEmpty(__0))
+                {
+                    string direct = Safe(__0, lookup);
+                    if (direct != __0) __0 = direct;
+                    else
+                    {
+                        var region = Regex.Match(__0, @"\A(?<region>Reach|Albion|Eleutheria|Blue Kingdom): (?<place>.+?)(?<suffix>:\s*)?\z");
+                        if (region.Success)
+                        {
+                            // Reach is a region here, not the verb in the legacy dictionary.
+                            string name = region.Groups["region"].Value;
+                            string key = name == "Reach" || name == "Blue Kingdom" ? "The " + name : name;
+                            string place = region.Groups["place"].Value;
+                            string translatedRegion = Safe(key, lookup), translatedPlace = Safe(place, lookup);
+                            if (translatedRegion != key && translatedPlace != place)
+                                __0 = translatedRegion + "：" + translatedPlace + region.Groups["suffix"].Value;
+                        }
+                        else
+                        {
+                            var suffix = Regex.Match(__0, @":\s*\z");
+                            if (suffix.Success) __0 = Safe(__0.Substring(0, suffix.Index), lookup) + suffix.Value;
+                        }
+                    }
+                }
+                if (displayDepth > 0) __0 = Localize(__0, lookup, variables);
+            }
             catch (Exception e) { Error(e); }
         }
         static void TooltipPrefix(ref string __1, ref string __2)

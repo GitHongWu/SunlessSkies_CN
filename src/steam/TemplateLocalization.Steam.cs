@@ -107,7 +107,7 @@ namespace SunlessSkiesCNSteam
         }
     }
 
-    [BepInPlugin("githongwu.sunlessskies.template-localization", "Sunless Skies Template Localization", "0.3.2")]
+    [BepInPlugin("githongwu.sunlessskies.template-localization", "Sunless Skies Template Localization", "0.3.3")]
     [BepInDependency("gravydevsupreme.xunity.autotranslator")]
     public sealed class TemplateLocalization : BasePlugin
     {
@@ -182,6 +182,15 @@ namespace SunlessSkiesCNSteam
                 var variable = AccessTools.Method(dynamic, "GetQualityVariableForToken", new[] { character, typeof(string) });
                 if (new[] { all, format, expand, direction, variable }.Any(m => m == null || m.ReturnType != typeof(string))) throw new MissingMethodException("Unsupported game formatter signatures");
                 catalog = loaded;
+                if (Config.Bind("Diagnostics", "RecordSuspectedMissingTranslations", true, "Record stable visible English locally; restart after changing. Reports may contain player names.").Value)
+                {
+                    try
+                    {
+                        SunlessSkiesCN.Shared.MissingTranslationMonitor.Initialize("Steam", ((BepInPlugin)Attribute.GetCustomAttribute(typeof(TemplateLocalization), typeof(BepInPlugin))).Version.ToString(), Enabled, decode, message => Log.LogInfo(message));
+                        AddComponent<SunlessSkiesCN.Shared.MissingTranslationMonitor>();
+                    }
+                    catch (Exception e) { Log.LogWarning("Missing translation monitor unavailable: " + e.Message); }
+                }
                 SunlessSkiesCN.Shared.RemainingCompositionLocalization.ConfigureContexts(loaded.TranslateVariableContext);
                 try { SunlessSkiesCN.Shared.RemainingCompositionLocalization.Install(game, loaded.SummaryBody, loaded.TranslateVariable, Enabled, message => Log.LogInfo(message)); }
                 catch (Exception e) { Log.LogError("Remaining composition localization unavailable: " + e.Message); }

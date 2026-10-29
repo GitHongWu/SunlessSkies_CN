@@ -6,6 +6,8 @@
 
 ## 安装
 
+当前汉化补丁默认生成本地漏译报告，报告位于游戏目录 `BepInEx/reports/MissingTranslations/` 最新子目录的 `missing-translations.json` 和 `missing-translations.md`，约每 15 秒保存。只记录已稳定显示的疑似英文，按当前词典和 ParaTranz 2026-10-28 快照／增量导出归类；不上传、不自动生成正式词条、不修改文字或存档。可在 `BepInEx/config/githongwu.sunlessskies.template-localization.cfg` 的 `[Diagnostics]` 中将 `RecordSuspectedMissingTranslations=false` 后重启关闭。图片、短暂文字可能漏报，专有名词需审核。
+
 1. 完全退出游戏。
 2. 将本目录内的全部内容复制到 Steam 游戏的 `Sunless Skies.exe` 所在目录，合并文件夹。
 3. 从 Steam 启动游戏。首次启动会生成 IL2CPP 互操作程序集，耗时较长，并可能从 unity.bepinex.dev 下载 Unity 基础库。翻译本身使用本地译文，不调用在线翻译服务。
@@ -16,9 +18,9 @@
 
 - BepInEx 6.0.0-be.788，Unity.IL2CPP win-x86；官方构建提交 5b766a3。
 - XUnity.AutoTranslator 5.6.2 IL2CPP、ResourceRedirector 2.1.0。
-- 与仓库 Epic 补丁相同的 2026-10-21 ParaTranz 译文及未覆盖旧译文补充，49,502 行，含十二个月的日期适配。
+- 与仓库 Epic 补丁相同的 2026-10-28 ParaTranz 译文及未覆盖旧译文补充，50,354 行，含十二个月的日期适配。
 - 中文 TMP 字体 overTMP，UGUI 使用 Microsoft YaHei。
-- Steam 专用 TemplateLocalization 0.3.2，用于占位符展开前匹配模板，以及动态方向显示；源码见 [src/steam/](../src/steam/README.md)。
+- Steam 专用 TemplateLocalization 0.3.3，用于占位符展开前匹配模板，以及动态方向显示；源码见 [src/steam/](../src/steam/README.md)。
 
 本版不使用 Epic 的 unstripped/、Mono 加载器和 Newtonsoft.Json 游戏运行库修复。XUnity 的 IL2CPP 版本不支持 TextGetterCompatibilityMode，因此配置为 False；R 键、菜单和港口交互需要在本构建中单独验证。
 
@@ -31,15 +33,3 @@
 退出游戏，把 doorstop_config.ini 的 enabled = true 改为 enabled = false。重启即停用补丁；不需要改动游戏原始数据和存档。
 
 译文审核统计及来源见[仓库总览](../README.md)和[译文来源](../translation-source/README.md)。许可证见 THIRD_PARTY_LICENSES/。加载器来源：https://builds.bepinex.dev/projects/bepinex_be ，翻译插件来源：https://github.com/bbepis/XUnity.AutoTranslator 。本补丁并非官方汉化。
-
-## 动态分支描述
-
-模板插件在游戏选出 qvd 分支后翻译返回的显示文本，不修改属性数值或分支条件。分支表位于 BepInEx/Translation/zh/qvd-branches.txt，随补丁安装；它从现有译文的 JSON 字符串分支按相同键路径提取，不由 XUnity 当作普通全文译文加载。
-
-6,174 个无歧义映射中，6,173 个通过占位符校验；73 个存在多种译文的原文未加入分支表。优先使用分支译文，无对应映射时尝试现有独立句子译文，仍未命中则保留原文。仅在已翻译模板的动态展开期间生效。
-
-## 商店数量控件
-
-0.2.5 对普通商店和集市买卖界面的数量输入框、库存上限文本保留游戏原始字体与布局，跳过自动翻译和字体替换；商品名称与描述照常翻译。不修改数量、价格、交易逻辑或存档。
-
-两版编译、实际程序集接口核对及离线挂钩测试已通过；数字显示和左右箭头操作仍需游戏内复测。

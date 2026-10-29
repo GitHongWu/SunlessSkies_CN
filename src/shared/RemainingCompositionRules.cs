@@ -292,6 +292,8 @@ namespace SunlessSkiesCN.Shared {
    "Skyless.Assets.Code.Skyless.UI.Presenters.Storylets.BranchPresenter::Initialize",
   };
   static readonly string[] FormatterTargets = new string[] {
+   // Steam inlines numeric condition helpers into this display formatter.
+   "Failbetter.Presentation.Formatters.RequirementTextFormatter::RequirementTextFor",
    "Failbetter.Presentation.Formatters.DifficultyResultText::GetFailureMessage",
    "Failbetter.Presentation.Formatters.DifficultyResultText::GetSuccessMessage",
    "Failbetter.Presentation.Formatters.DifficultyTextFormatter::GetDescription",

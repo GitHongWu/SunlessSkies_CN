@@ -4,6 +4,8 @@
 /dist/
 /work/
 /outputs/
+**/BepInEx/reports/
+**/__pycache__/
 
 # Game-generated files never belong in the distributable patch.
 **/BepInEx/cache/
