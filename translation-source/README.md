@@ -1,6 +1,6 @@
 # 译文来源
 
-当前补丁采用 [ParaTranz 项目 5731](https://paratranz.cn/projects/5731) 的 **2026-10-30** 官方译文快照，按 CC BY-NC 4.0 使用。共 31 个文件、42,912 条词条；stage 5 与 stage 9 计入已审核，共 22,657 条（52.80%）。逐文件进度见下表。
+当前补丁采用 [ParaTranz 项目 5731](https://paratranz.cn/projects/5731) 的 **2026-10-30** 官方译文快照，按 CC BY-NC 4.0 使用。共 31 个文件、42,922 条词条；stage 5 与 stage 9 计入已审核，共 22,682 条（52.84%）。逐文件进度见下表。
 
 最新译文可从[官方下载页](https://paratranz.cn/projects/5731/artifact)获取。
 
@@ -15,7 +15,7 @@
 | 文件 | 总词条 | 已审核 | 审核进度 |
 | --- | ---: | ---: | ---: |
 | 2.0.7.0-Addenda/ui-code-steam-2.0.6.454aad8.json | 36 | 36 | 100.00% |
-| 2.0.7.0-Addenda/ui-runtime.json | 267 | 181 | 67.79% |
+| 2.0.7.0-Addenda/ui-runtime.json | 277 | 206 | 74.37% |
 | 2.0.7.0-Addenda/z_shipnames.json | 63 | 63 | 100.00% |
 | 2.0.7.0/bargains.json | 6 | 6 | 100.00% |
 | 2.0.7.0/domiciles.json | 2 | 2 | 100.00% |
@@ -25,13 +25,13 @@
 | 2.0.7.0/logEntries.json | 573 | 573 | 100.00% |
 | 2.0.7.0/personas.json | 4 | 4 | 100.00% |
 | 2.0.7.0/prospects.json | 2 | 2 | 100.00% |
-| 2.0.7.0/qualities.json | 124 | 124 | 100.00% |
+| 2.0.7.0/qualities.json | 124 | 123 | 99.19% |
 | 2.0.7.0/ui-map-tooltip-steam-2.0.6.454aad8.json | 7 | 7 | 100.00% |
 | 2.0.7.0/ui-runtime.json | 126 | 126 | 100.00% |
 | 2.0.7.0/ui.json | 726 | 726 | 100.00% |
 | NEW/areas.json | 224 | 224 | 100.00% |
 | NEW/bargains.json | 382 | 382 | 100.00% |
-| NEW/events.json | 30051 | 14293 | 47.56% |
+| NEW/events.json | 30051 | 14294 | 47.57% |
 | NEW/exchanges.json | 172 | 172 | 100.00% |
 | NEW/landmarks.json | 54 | 54 | 100.00% |
 | NEW/loadingHints.json | 38 | 38 | 100.00% |

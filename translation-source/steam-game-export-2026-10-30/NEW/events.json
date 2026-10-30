@@ -1,0 +1,12 @@
+[
+  {
+    "key": "271054$Description",
+    "original": "[qvd:131797(QuestEnd)]\r\n\r\n[qvd:131798(OverTimeEnd)]",
+    "translation": "[qvd:131797(QuestEnd)]\n\n[qvd:131798(OverTimeEnd)]"
+  },
+  {
+    "key": "271841$Description",
+    "original": "[qvd:132161(BloomBowerAesthetic)] \r\n\r\n[qvd:132154(BloomBowerStrength)]",
+    "translation": "[qvd:132161(BloomBowerAesthetic)] \r\n\r\n[qvd:132154(BloomBowerStrength)]"
+  }
+]
