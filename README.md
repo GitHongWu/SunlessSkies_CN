@@ -6,8 +6,6 @@ Windows 版《Sunless Skies》的离线汉化，分别提供 Epic 和 Steam 补�
 
 版本变化与尚未发布的修改见 [更新日志](CHANGELOG.md)。
 
-当前汉化补丁默认自动生成本地漏译报告，供核对来源和批量定位。报告位于游戏目录的 `BepInEx/reports/MissingTranslations/`，包含 JSON 明细和 Markdown 汇总，不会自动上传或修改文字。操作、关闭方式与限制见 [Steam 使用说明](patch-steam/README.md) 或 [Epic 使用说明](patch-epic/README.md)。
-
 ## 选择版本
 
 | 游戏版本 | 对应补丁与安装说明 | 运行环境 | 验证状态 |
@@ -30,23 +28,31 @@ Windows 版《Sunless Skies》的离线汉化，分别提供 Epic 和 Steam 补�
 
 ## 译文与审核进度
 
-优先采用 [ParaTranz 项目 5731](https://paratranz.cn/projects/5731) 的 **2026-10-28 官方快照**，包含 31 个文件（跳过一条错误译文，详见来源说明）。
+优先采用 [ParaTranz 项目 5731](https://paratranz.cn/projects/5731) 的 **2026-11-01 官方快照**，包含 31 个文件，并保留已审核的本地格式修正。
 
 | 源项目统计 | 数量 | 比例 |
 | --- | ---: | ---: |
-| 总词条／已翻译 | 42,912 | 100% |
-| 已审核 | 22,657 | 52.80% |
-| 尚未审核 | 20,255 | 47.20% |
+| 总词条／已翻译 | 42,922 | 100% |
+| 已审核 | 22,684 | 52.84% |
+| 尚未审核 | 20,240 | 47.16% |
 
 100% 指已收录词条都有译文，不代表游戏文本全部收录或全部审核。统计不会实时更新；[译文来源说明](translation-source/README.md)中的逐文件统计为旧快照，最新进度请查看 ParaTranz 项目。
 
-## 停用与反馈
+## 漏译报告与反馈
+
+安装补丁后正常游玩即可；插件默认自动记录稳定显示的疑似漏译，约每 15 秒保存一次。在游戏目录打开 `BepInEx/reports/MissingTranslations/`，进入最新子目录查看 `missing-translations.md`；需要详细信息时可查看同目录的 `missing-translations.json`。报告不会自动上传，图片文字和短暂显示的文字可能漏记，专有名词也可能被误判。
+
+发现漏译时，请在 [GitHub 提交 Issue](https://github.com/GitHongWu/SunlessSkies_CN/issues/new)，注明 Steam 或 Epic、补丁版本和发生场景，并附截图及相关报告片段；插件异常时可附 `BepInEx/LogOutput.log`。报告可能包含玩家名称，请先检查再分享。
+
+如需关闭报告，退出游戏后，在 `BepInEx/config/githongwu.sunlessskies.template-localization.cfg` 的 `[Diagnostics]` 中设置 `RecordSuspectedMissingTranslations = false`，再重启游戏。
+
+## 停用与卸载
 
 退出游戏，把游戏目录 doorstop_config.ini 中 `[General]` 的 `enabled = true` 改为 `enabled = false`，重启即可停用。恢复为 true 后重启即可启用。
 
 卸载只移除补丁新增文件，不删除游戏 EXE、游戏数据和存档。若共用 BepInEx 加载器运行其他插件，不要直接删除整个 BepInEx/。
 
-反馈请注明渠道、游戏版本、发生场景，并附 BepInEx/LogOutput.log。游戏更新后出现异常时，可先停用补丁检查原版运行情况。
+游戏更新后出现异常时，可先停用补丁检查原版运行情况。
 
 ## 仓库目录
 

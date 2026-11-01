@@ -6,21 +6,27 @@
 
 ## 安装
 
-当前汉化补丁默认生成本地漏译报告，报告位于游戏目录 `BepInEx/reports/MissingTranslations/` 最新子目录的 `missing-translations.json` 和 `missing-translations.md`，约每 15 秒保存。只记录已稳定显示的疑似英文，按当前词典和 ParaTranz 2026-10-28 快照／增量导出归类；不上传、不自动生成正式词条、不修改文字或存档。可在 `BepInEx/config/githongwu.sunlessskies.template-localization.cfg` 的 `[Diagnostics]` 中将 `RecordSuspectedMissingTranslations=false` 后重启关闭。图片、短暂文字可能漏报，专有名词需审核。
-
 1. 完全退出游戏。
 2. 将本目录内的全部内容复制到 Steam 游戏的 `Sunless Skies.exe` 所在目录，合并文件夹。
 3. 从 Steam 启动游戏。首次启动会生成 IL2CPP 互操作程序集，耗时较长，并可能从 unity.bepinex.dev 下载 Unity 基础库。翻译本身使用本地译文，不调用在线翻译服务。
 
 游戏目录可在 Steam → 管理 → 浏览本地文件中打开。安装后的 winhttp.dll、doorstop_config.ini、dotnet/、BepInEx/ 和 overTMP 均与游戏 EXE 同层。
 
+## 漏译报告与反馈
+
+安装补丁后正常游玩即可；插件默认自动记录稳定显示的疑似漏译，约每 15 秒保存一次。在游戏目录打开 `BepInEx/reports/MissingTranslations/`，进入最新子目录查看 `missing-translations.md`；需要详细信息时可查看同目录的 `missing-translations.json`。报告不会自动上传，图片文字和短暂显示的文字可能漏记，专有名词也可能被误判。
+
+发现漏译时，请在 [GitHub 提交 Issue](https://github.com/GitHongWu/SunlessSkies_CN/issues/new)，注明 Steam 版、补丁版本和发生场景，并附截图及相关报告片段；插件异常时可附 `BepInEx/LogOutput.log`。报告可能包含玩家名称，请先检查再分享。
+
+如需关闭报告，退出游戏后，在 `BepInEx/config/githongwu.sunlessskies.template-localization.cfg` 的 `[Diagnostics]` 中设置 `RecordSuspectedMissingTranslations = false`，再重启游戏。
+
 ## 内容
 
 - BepInEx 6.0.0-be.788，Unity.IL2CPP win-x86；官方构建提交 5b766a3。
 - XUnity.AutoTranslator 5.6.2 IL2CPP、ResourceRedirector 2.1.0。
-- 与仓库 Epic 补丁相同的 2026-10-28 ParaTranz 译文及未覆盖旧译文补充，50,354 行，含十二个月的日期适配。
+- 与仓库 Epic 补丁相同的 2026-11-01 ParaTranz 译文及未覆盖旧译文补充，50,364 行，含十二个月的日期适配。
 - 中文 TMP 字体 overTMP，UGUI 使用 Microsoft YaHei。
-- Steam 专用 TemplateLocalization 0.3.3，用于占位符展开前匹配模板，以及动态方向显示；源码见 [src/steam/](../src/steam/README.md)。
+- Steam 专用 TemplateLocalization 0.3.4，用于占位符展开前匹配模板，以及动态方向显示；源码见 [src/steam/](../src/steam/README.md)。
 
 本版不使用 Epic 的 unstripped/、Mono 加载器和 Newtonsoft.Json 游戏运行库修复。XUnity 的 IL2CPP 版本不支持 TextGetterCompatibilityMode，因此配置为 False；R 键、菜单和港口交互需要在本构建中单独验证。
 
