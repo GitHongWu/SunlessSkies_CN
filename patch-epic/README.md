@@ -31,13 +31,13 @@
         └── …                 # 完整保留本包内的其余运行库
 ```
 
-**`patch-epic/` 已包含全部补丁运行文件，包括修复版 `Newtonsoft.Json.dll`，安装不依赖译文来源资料或任何额外脚本。** 不需要配置 API 密钥或在线翻译服务。传统 UGUI 文本使用系统的 Microsoft YaHei 字体。
+`patch-epic/` 已包含全部补丁运行文件，包括修复版 `Newtonsoft.Json.dll`，安装不依赖译文来源资料或任何额外脚本。 不需要配置 API 密钥或在线翻译服务。传统 UGUI 文本使用系统的 Microsoft YaHei 字体。
 
 已有其他 BepInEx 或汉化补丁时，先备份并检查兼容性。升级本补丁时覆盖 `patch-epic/` 内全部内容；不要覆盖游戏的 `Sunless Skies_Data/Managed/`。
 
 ## 漏译报告与反馈
 
-安装补丁后正常游玩即可；插件默认自动记录稳定显示的疑似漏译，约每 15 秒保存一次。在游戏目录打开 `BepInEx/reports/MissingTranslations/`，进入最新子目录查看 `missing-translations.md`；需要详细信息时可查看同目录的 `missing-translations.json`。报告不会自动上传，图片文字和短暂显示的文字可能漏记，专有名词也可能被误判。
+安装补丁后正常游玩即可；本汉化补丁带有插件默认自动记录稳定显示的疑似漏译，约每 15 秒保存一次。在游戏目录打开 `BepInEx/reports/MissingTranslations/`，进入最新子目录查看 `missing-translations.md`；需要详细信息时可查看同目录的 `missing-translations.json`。报告不会自动上传，图片文字和短暂显示的文字可能漏记，专有名词也可能被误判。
 
 发现漏译时，请在 [GitHub 提交 Issue](https://github.com/GitHongWu/SunlessSkies_CN/issues/new)，注明 Epic 版、补丁版本和发生场景，并附截图及相关报告片段；插件异常时可附 `BepInEx/LogOutput.log`。报告可能包含玩家名称，请先检查再分享。
 
