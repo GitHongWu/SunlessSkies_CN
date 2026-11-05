@@ -1,0 +1,7 @@
+[
+  {
+    "key": "legacy_bfc98d6ba5a1576819dc",
+    "original": "sr:(?<key>[\\w]) is already in use. Do you want to replace it? You may also choose to add the assignment anyway.",
+    "translation": "${key}已经被使用。你想替换现有绑定吗？你也可以选择仍然添加这个绑定。"
+  }
+]

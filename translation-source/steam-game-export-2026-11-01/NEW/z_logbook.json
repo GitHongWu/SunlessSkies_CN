@@ -1,0 +1,7 @@
+[
+  {
+    "key": "legacy_a2d1752bf7c300e598db",
+    "original": "sr:<size=75%>(?<month>[\\w]+) (?<day>[0-9]*)(?<shit>[\\w][\\w]), (?<year>[0-9]{4})</size>\nMuch to the relief of your stokers, you find a barrel of fuel among the detritus.",
+    "translation": "<size=75%>${year}年${month}月${day}日</size>\n令你的火力手们松了一口气的是，你在碎石中发现了一桶燃料。"
+  }
+]

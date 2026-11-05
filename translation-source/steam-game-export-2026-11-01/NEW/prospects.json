@@ -1,0 +1,507 @@
+[
+  {
+    "key": "6$CustomUnlockedMessage",
+    "original": "Magdalene's needs fresh flowers.",
+    "translation": "抹大拉之家需要新鲜的花。"
+  },
+  {
+    "key": "14$CustomUnlockedMessage",
+    "original": "Traitor's Wood keeps its secrets.",
+    "translation": ""
+  },
+  {
+    "key": "15$CustomUnlockedMessage",
+    "original": "Trouble is brewing.",
+    "translation": ""
+  },
+  {
+    "key": "17$CustomUnlockedMessage",
+    "original": "The Tacketies are dominant in the Reach.",
+    "translation": ""
+  },
+  {
+    "key": "18$CustomUnlockedMessage",
+    "original": "The Stovepipes are dominant in the Reach",
+    "translation": ""
+  },
+  {
+    "key": "19$CustomUnlockedMessage",
+    "original": "The Reach is in stalemate.",
+    "translation": "外野的局势陷入僵局。"
+  },
+  {
+    "key": "20$CustomUnlockedMessage",
+    "original": "The Tacketies are dominant in the Reach.",
+    "translation": ""
+  },
+  {
+    "key": "34$CustomUnlockedMessage",
+    "original": "The Stovepipes are dominant in the Reach.",
+    "translation": ""
+  },
+  {
+    "key": "52$CustomUnlockedMessage",
+    "original": "The Stovepipes and Tacketies share power in the Reach.",
+    "translation": ""
+  },
+  {
+    "key": "54$CustomUnlockedMessage",
+    "original": "[You completed the Murgatroyd Run.]",
+    "translation": ""
+  },
+  {
+    "key": "111$CustomUnlockedMessage",
+    "original": "Your Devil has requests for his enterprise at the Avid Horizon.",
+    "translation": ""
+  },
+  {
+    "key": "112$CustomUnlockedMessage",
+    "original": "Your Devil wants entertainments during his secondment.",
+    "translation": ""
+  },
+  {
+    "key": "113$CustomUnlockedMessage",
+    "original": "Your Devil has ideas for his secondment.",
+    "translation": ""
+  },
+  {
+    "key": "legacy_04127dede2c5995fbd12",
+    "original": "\"The Tacketies, dominant in the Reach, intend to further their hold on the hours-mining industry, and demand better rates from Windward Company refineries. Prospectors are organising, in order to employ more intensive digging methods. One such mining association at <b>Lustrum</b> requires <b>up to nine Crates of Munitions</b>, and will pay 135 sovereigns for each. [dir:c22807a9-7c42-41b5-823a-cc02f15c3f63]. [Completing this prospect will award you an Unlicensed Chart.]\"",
+    "translation": "在Reach地区占主导地位的Tacketies打算进一步控制小时采矿业，并要求Windward公司的炼油厂提供更好的价格。勘探者们正在组织起来，以便采用更密集的挖掘方法。在<b>Lustrum</b>的一个这样的采矿协会需要<b>多达九个弹药箱</b>，并为每个弹药箱支付135主权。[dir:c22807a9-7c42-41b5-823a-cc02f15c3f63].[完成这个任务将获得一张无证图。］"
+  },
+  {
+    "key": "legacy_61605aec8e01d57ec15c",
+    "original": "\"With the Tacketies on the run, and the trade routes from London secure, the Stovepipes are growing accustomed to certain luxuries. A prosperous Company shareholder at <b>Port Prosper</b> is prepared to pay 210 sovereigns each for <b>up to nine Caddies of Dried Tea</b>. [Completing this prospect will earn you a Cryptic Benefactor.]\"",
+    "translation": "随着Tacketies的逃亡，以及来自伦敦的贸易路线的安全，炉灶人越来越习惯于某些奢侈的东西。在<b>普罗旺斯港</b>的一个繁荣的公司股东准备为<b>多达九箱干茶</b>每人支付210主权。[完成这个任务将为你赢得一个隐秘的恩人。］"
+  },
+  {
+    "key": "legacy_be2f12b4f3320d0f0adb",
+    "original": "\"A mob, allegedly sponsored by the Windward Company, recently shattered some of the stained glass windows of Victory Hall, seat of the Colonial Assembly. A renowned glazier at <b>Titania</b> has been commissioned to manufacture a replacement, even more magnificent than the last. She will pay for <b>up to five Panes of Stained Glass</b>. [dir:7f7247f1-34b4-4f57-95d8-d482105edcb2]. [Completing this prospect will aid the Tackety war effort.]\"",
+    "translation": "最近，据称由Windward公司赞助的一群暴徒打碎了殖民地议会所在地--胜利厅的一些彩色玻璃窗。<b>狄坦妮娅</b>的一位著名玻璃工匠被委托制造一个替代物，甚至比上一个更华丽。她将支付<b>最多五块彩色玻璃</b>的费用。[dir:7f7247f1-34b4-4f57-95d8-d482105edcb2].[完成这个前景将帮助钉鞋党的战争努力。］"
+  },
+  {
+    "key": "legacy_d8050f248f7618bb149f",
+    "original": "The beleaguered Tacketies need to build sympathy for their cause. Word has reached you that the Whiskered Evangelist in <b>Lustrum</b> requires <b>up to five crates of Ministry-Approved Literature</b>. No one knows why. [Completing this prospect will aid the Tacketies' war efforts.]",
+    "translation": "陷入困境的钉鞋党社团需要为他们的事业建立同情心。有消息说，在<b>Lustrum</b>的Whiskered Evangelist需要<b>多达五箱的公德部认可的文献</b>。没有人知道原因。[完成这个任务将有助于钉鞋党社团的战争努力。］"
+  },
+  {
+    "key": "legacy_0e69b69e78ab54124b99",
+    "original": "\"London's Erratic Admiral is a tactical genius, but perilously fragile. Unless his daily routine adheres to exact specifications his inspiration abandons him, and the loss of his tea set in a recent engagement has rendered him entirely ineffective. His batman, currently recuperating at <b>Port Avon</b>, seeks an exact replacement. He will pay 110s for each of <b>up to five Crates of Nostalgic Crockery</b>. [dir:89aff93f-4b2e-4e03-bb41-d6054a84c5ee]. [Completing this prospect will aid the Stovepipes war efforts.]\"",
+    "translation": "伦敦的反复无常的海军上将是一个战术天才，但却非常脆弱。除非他的日常工作遵循精确的规范，否则他的灵感就会抛弃他，而在最近的一次交战中，他的茶具丢失，使他完全失去了作用。他的蝙蝠侠，目前正在<b>埃文港</b>休养，寻求一个精确的替代品。他将为每件<b>最多五箱怀旧的陶器</b>支付110美元。[dir:89aff93f-4b2e-4e03-bb41-d6054a84c5ee].[完成这个前景将有助于炉具的战争努力]。"
+  },
+  {
+    "key": "legacy_1ab5d9a6b88a2ad722bd",
+    "original": "\"Thanks to your earlier efforts, subversive Albiophile book groups are spreading across the <b>Eagle's Empyrean</b>. The gatherings like to drink milky, sugary tea while they read, in the London fashion. A Nimble Trafficker is confident she can sell <b>seven Caddies of Dried Tea</b> at an elevated price. [dir:dad2e4cc-5983-41db-8e20-d07104e92666]. [You unlocked this Prospect through your previous dealings.]\"",
+    "translation": "由于你之前的努力，颠覆性的Albiophile图书小组正在蔓延到<b>鹰之帝国</b>。这些聚会喜欢在阅读时喝牛奶和糖茶，这是伦敦的时尚。一个灵活的贩运者有信心以高价卖出<b>七箱干茶</b>。[dir:dad2e4cc-5983-41db-8e20-d07104e92666].[你通过之前的交易解锁了这个前景。］"
+  },
+  {
+    "key": "legacy_6ccc8a3aeaff98822369",
+    "original": "\"Word has come to the Blind Bruiser from the Gentlemen, the merciless gang of smugglers who operate in Eleutheria. A Bohemian Baronet, exiled for a string of scandals, has led his coterie to the spice-port of Achlys. He considers himself a poet-philosopher, and a devotee of the unspoiled word. As a result, he and his followers refuse to read works censored by the Ministry. They want only unadulterated originals and will pay for <b>seven Trunks of Illicit Literature</b> to be delivered to them at <b>Achlys</b>. [dir:9e91ea8e-3f0f-4a25-a400-2f451d91da81].\"",
+    "translation": "绅士们传来消息，他们是在Eleutheria活动的无情的走私者团伙。一个因一连串丑闻而被流放的波西米亚男爵，带领他的小圈子来到阿赫利斯的香料港。他认为自己是一个诗人-哲学家，是一个未受污染的文字的信徒。因此，他和他的追随者拒绝阅读公德部审查过的作品。他们只想要不加修饰的原作，并将支付<b>七箱非法文学</b>，在<b>Achlys</b>交付给他们。[dir:9e91ea8e-3f0f-4a25-a400-2f451d91da81]."
+  },
+  {
+    "key": "legacy_a00efea2e44f9969664a",
+    "original": "A curt note from your Devil requests an 'excess' of Chorister Nectar for the practice of the entire seven act opera 'Pandemonia: the Flight from Heaven's Chariot and the Progress through Dream's Embrace'. The Devil suggests the residents don't have anything better to be doing anyway.  <b>Three Gourds of Chorister Nectar</b> are requested. [dir:1b331350-d950-4c06-94e0-38dd736859d7].",
+    "translation": "你的魔鬼要求提供 \"过量 \"的唱诗蜂蜜，用于练习整个七幕歌剧《潘德摩尼亚：逃离天堂的战车和穿越梦的怀抱》。魔鬼建议居民们反正也没有什么更好的事情可做。 <b>请求提供三瓢唱诗蜂蜜</b>。[dir:1b331350-d950-4c06-94e0-38dd736859d7]."
+  },
+  {
+    "key": "legacy_14c034702b8dfef2a9c9",
+    "original": "\"A Florid Landscapist is planning a modest floral garden in <b>Titania</b> to commemorate the birthday of whatever dead artist, composer or poet is currently in vogue. She requires <b>Verdant Seeds</b>, and lots of them. <b>Five sacks</b>, to be exact. [dir:7f7247f1-34b4-4f57-95d8-d482105edcb2].\"",
+    "translation": "一位弗洛里达州的景观设计师正在<b>提坦尼亚</b>规划一个适度的花圃，以纪念目前流行的任何已故艺术家、作曲家或诗人的生日。她需要<b>Verdant种子</b>，而且要很多。 <b>确切地说，是五袋</b>。[dir:7f7247f1-34b4-4f57-95d8-d482105edcb2]."
+  },
+  {
+    "key": "legacy_786f383225fb2576b66a",
+    "original": "\"'Wanted: <b>up to five Barrels of Unseasoned Hours</b>. Deliver to: the Ringmaster, <b>Polmear & Plenty's Inconceivable Circus</b>, the Reach.' [dir:8fcc687f-1e9b-444a-a758-c402d0608733].\"",
+    "translation": "征求：<b>最多五桶未加工的时间</b>。送交外野<b>波尔梅尔&普伦蒂的不可思议马戏团</b>的团长。[dir:8fcc687f-1e9b-444a-a758-c402d0608733]。"
+  },
+  {
+    "key": "legacy_5115d1f10f14ecab7ad4",
+    "original": "\"'Cricket season is nigh! Mr Sharma of <b>Port Avon</b> will pay for <b>five consignments of Bronzewood</b> to furnish the village team with bats, bials, stumps, shin-pads and protective cups to minimise damage to delicate areas.' [dir:89aff93f-4b2e-4e03-bb41-d6054a84c5ee].\"",
+    "translation": "板球季节即将到来!<b>埃文港的夏尔马先生</b>将支付<b>五批青铜木</b>，为村队提供球棒、球瓶、球墩、护胫和保护杯，以尽量减少对脆弱部位的损害。[dir:89aff93f-4b2e-4e03-bb41-d6054a84c5ee]."
+  },
+  {
+    "key": "legacy_22cb117baf0abe4e0b7f",
+    "original": "\"Delighted by your arrival, the villagers invite you to afternoon tea on the green. There is an alarming surfeit of scones, and you are pressed to take rather a lot of them away with you.\"",
+    "translation": "村民们对你的到来感到高兴，邀请你到绿地上喝下午茶。这里的烤饼多得惊人，你被逼着带走了很多。"
+  },
+  {
+    "key": "legacy_58edef4f20997cd7c27e",
+    "original": "\"The Luminous Cardinal is engaged in a struggle with the current dazzling glare of the <b>Clockwork Sun</b>. It is washing out the black drapes and disturbing the much-deserved sleep of the Deathless. <b>Bombazine</b> cloth drinks light. He will require <b>three rolls of it</b>, for starters. [dir:358df020-9a27-47c3-8a80-6f1c836898df].\"",
+    "translation": "发光的红衣主教正在与当前<b>钟表太阳</b>的耀眼光芒进行斗争。它正在冲刷黑色的窗帘，扰乱了不死鸟当之无愧的睡眠。<b>炸弹布</b>喝光。他将需要<b>三卷它</b>，作为开始。[dir:358df020-9a27-47c3-8a80-6f1c836898df]."
+  },
+  {
+    "key": "legacy_016012db6ed1bb20b6fa",
+    "original": "\"'Wanted: <b>up to five consignments of Literature</b>. Genre, literary merit and moral worth irrelevant. Deliver to: the Ringmaster, <b>Polmear & Plenty's Inconceivable Circus</b>, the Reach.' [dir:8fcc687f-1e9b-444a-a758-c402d0608733].\"",
+    "translation": "征求：<b>最多五批文学作品</b>。体裁、文学价值和道德价值均不作要求。送交外野<b>波尔梅尔&普伦蒂的不可思议马戏团</b>的团长。[dir:8fcc687f-1e9b-444a-a758-c402d0608733]。"
+  },
+  {
+    "key": "legacy_2b7c8b8c717cd780d700",
+    "original": "\"Sweet Jane takes the munitions herself, hauling the crates into the backroom with surprising speed. She refuses to be drawn on why she needs them, but she does throw in a significant bonus when the subject comes up.\"",
+    "translation": "甜蜜的简自己拿着弹药，以惊人的速度把箱子拖进了密室。她拒绝说明她为什么需要这些东西，但当提到这个问题时，她确实抛出了一个重要的奖金。"
+  },
+  {
+    "key": "legacy_dd2699a4215d436d8f2c",
+    "original": "\"The Summerset students camped in the dark wood require fresh material for their continued studies, entertainment, and occasionally, roughage. They've requested <b>five consignments of Ministry-Approved Literature</b>. [dir:660ff730-50ea-4190-8210-a232c6e7b087].\"",
+    "translation": "在黑暗森林中扎营的萨默塞特学生需要新鲜的材料来继续学习、娱乐，偶尔也需要粗粮。他们要求提供<b>五批公德部批准的文献</b>。[dir:660ff730-50ea-4190-8210-a232c6e7b087]."
+  },
+  {
+    "key": "legacy_2ce8f5db56555abe1063",
+    "original": "\"The classicists are delighted, but you can't please the theologians. Too fanciful, apparently. The medievalists cannot seem to come to a definitive conclusion. You're paid well all the same and invited to go star-gazing in the Palewood.\"",
+    "translation": "古典学家很高兴，但你无法取悦神学家。显然，太虚幻了。中世纪学者似乎无法得出一个明确的结论。你的工资很高，还被邀请去帕尔沃德观星。"
+  },
+  {
+    "key": "legacy_dc6b5b75e2e6ccdcac3a",
+    "original": "\"Two overseers are on hand to haul away your crates. They open a heavy iron door, and place the crates inside, to rest amongst dozens of similar crates. You are thanked for your trouble.\"",
+    "translation": "两名监工在一旁将你的箱子拖走。他们打开一扇厚重的铁门，将板条箱放在里面，放在几十个类似的板条箱中。他们对你的麻烦表示感谢。"
+  },
+  {
+    "key": "legacy_3650012705d187e6f11d",
+    "original": "\"The Dazzled Sequencer requires <b>five consignments of Ministry-Approved Literature</b> for the engineers who maintain the <b>Clockwork Sun</b>, to remind them of the culture that their hard work sustains. [dir:bfc72a01-6af5-4c74-9354-74848b97c35d].\"",
+    "translation": "炫目的序列器需要<b>五批公德部批准的文献</b>，供维护<b>发条太阳</b>的工程师使用，以提醒他们的辛勤工作所维持的文化。[dir:bfc72a01-6af5-4c74-9354-74848b97c35d]."
+  },
+  {
+    "key": "legacy_8276e60c763a79c682c4",
+    "original": "\"Her Renewed Majesty has ordered the construction of a memorial chapel for the labourers who, during the Promised Days, gave their lives to lay the foundations of Albion. <b>Five Casks of Navaratine Gemstones</b> are required for its grand mural, to depict the blood, the sweat and the tears. [dir:358df020-9a27-47c3-8a80-6f1c836898df].\"",
+    "translation": "女王陛下已下令为那些在应许之日为奠定阿尔比恩的基础而献出生命的劳动者建造一座纪念教堂。 <b>五桶纳瓦拉汀宝石</b>需要用于其宏伟的壁画，以描绘血、汗和泪。[dir:358df020-9a27-47c3-8a80-6f1c836898df]."
+  },
+  {
+    "key": "legacy_b053604956f2f8f4b657",
+    "original": "\"'Required: <b>five consignments of good Bronzewood</b>, for vital restoration works to the Parliamentary undercroft.' [dir:b301a570-2040-44e9-b679-aca62bac89f7].\"",
+    "translation": "需要：<b>五批上好的青铜木</b>，用于议会大楼底层的重要修复工程'[dir:b301a570-2040-44e9-b679-aca62bac89f7] 。"
+  },
+  {
+    "key": "legacy_238585f40704f4999a13",
+    "original": "\"Those who remain at the <b>Avid Horizon</b> are desperate for diversion, distraction or escape. The authorities will pay for <b>three consignments of more recent Ministry-Approved Literature</b> to keep their charges content. [dir:1b331350-d950-4c06-94e0-38dd736859d7].\"",
+    "translation": "那些留在<b>渴求之地平线</b>的人急切地想转移注意力，分散注意力或逃跑。当局将支付<b>三批较新的公德部批准的文献</b>，以保持他们的指控内容。[dir:1b331350-d950-4c06-94e0-38dd736859d7]."
+  },
+  {
+    "key": "legacy_a90ffa90a7010e3a83e4",
+    "original": "\"The planetary romances of the Turbulent Fabulist are notably popular among the denizens of the Horizon, as is Botheridge's 'A Tour of Heaven'. An amateur engineer gratefully offers to repair your engine before you depart.\"",
+    "translation": "\"乱世佳人》的行星浪漫小说在 \"\"地平线 \"\"的居民中特别受欢迎，博瑟里奇的《天堂之旅》也是如此。一位业余工程师在你出发前感激地提出为你修理引擎。\""
+  },
+  {
+    "key": "legacy_5d3290998b599b2546b2",
+    "original": "\"The Macabre Counsellor's afternoon teas at the <b>Most Serene Mausoleum</b> are notorious for their sepulchral decor and clinical dissection of political events. She insists on appropriately sombre tableware to accompany them, and if a single saucer is chipped she replaces the entire set. Her staff require <b>three sets of Nostalgic Crockery</b>, in case of future breakages. [dir:358df020-9a27-47c3-8a80-6f1c836898df].\"",
+    "translation": "在<b>Most Serene Mausoleum</b>的Macabre Counsellor的下午茶因其坟墓般的装饰和对政治事件的临床剖析而闻名。她坚持使用适当的阴郁的餐具，如果有一个碟子破损，她就会更换整套餐具。她的员工需要<b>三套怀旧的餐具</b>，以备将来破损。[dir:358df020-9a27-47c3-8a80-6f1c836898df]."
+  },
+  {
+    "key": "legacy_a04ce4e76272960adfad",
+    "original": "\"A Solitary Foreman asks you to wheel the tea through empty corridors to a storeroom. It is stacked with identical, unopened, dust-covered crates. Either the Sun's engineers don't like tea (unthinkable!) or there are fewer of them than is presumed.\"",
+    "translation": "一个孤独的工头要求你把茶叶通过空荡荡的走廊推到一个储藏室。里面堆放着相同的、未开封的、布满灰尘的箱子。要么是太阳的工程师不喜欢茶叶（不可想象！），要么是茶叶的数量比推测的少。"
+  },
+  {
+    "key": "legacy_a6265317cb00dccb501c",
+    "original": "\"A Zealous Undersecretary is already planning next year's Guy Fawkes' Night: a vital celebration of parliamentary democracy and high explosives. He wants the festivities' fireworks to be seen (and heard) all the way in London, and is prepared to pay well for <b>three Carefully-Packed Crates of sufficiently dangerous Munitions</b>. [dir:b301a570-2040-44e9-b679-aca62bac89f7].\"",
+    "translation": "一位热心的副部长已经在计划明年的盖伊-福克斯之夜：这是一场关于议会民主和高能炸药的重要庆典。他希望在伦敦的所有地方都能看到（和听到）庆祝活动的烟花，并准备为<b>三箱精心包装的足够危险的弹药</b>支付高昂的费用。[dir:b301a570-2040-44e9-b679-aca62bac89f7]."
+  },
+  {
+    "key": "legacy_09c167f67258dbaff0c8",
+    "original": "\"Pleased, the head of the mining association throws in a barrel of freshly-dug hours, and a chart from her days in a Tackety scouting militia.\"",
+    "translation": "采矿协会的负责人很高兴，抛出了一桶新挖的时间，以及一张她在钉鞋党侦察民兵队时的图表。"
+  },
+  {
+    "key": "legacy_632f0bdafd8166dfc231",
+    "original": "\"The Curator of <i>Titania's</i> new Library is stocking it with as robust a collection as he can manage. But to avoid trouble with the Ministry, he needs <b>five crates of Ministry-Approved Literature</b>, to fill the lower, more visible shelves. If you complete this Prospect, you will gain Savage Secrets.\"",
+    "translation": "狄坦妮娅新图书馆的馆长正在为图书馆储备他所能管理的大量藏书。但为了避免与公德部发生纠纷，他需要<b>五箱经公德部批准的文献</b>，以填充较低的、更明显的书架。如果你完成这个展望，你将获得《野蛮人的秘密》。"
+  },
+  {
+    "key": "legacy_57259fcc0ff5345e693e",
+    "original": "\"The Rhapsodic Mayor of Titania seeks interesting plants for her new nature reserve. The more colourful, the better. She seeks <b>five Sacks of Verdant Seeds</b>, to be delivered to <b>Titania</b>.\"",
+    "translation": "狄坦妮娅的狂想曲市长为她的新自然保护区寻找有趣的植物。颜色越丰富越好。她寻求<b>五袋绿色的种子</b>，送到<b>狄坦妮娅</b>。"
+  },
+  {
+    "key": "legacy_52139f0f94d3932b3cd7",
+    "original": "\"Titania's tea-salon is starting to receive high-class guests unwilling to eat with wooden spoons. A few pieces of high-quality silverware would be welcome. They have requested <b>five</b> <b>Crates of Nostalgic Crockery</b>, to be delivered to <b>Titania</b>.\"",
+    "translation": "狄坦妮娅的茶馆开始接待不愿用木勺吃饭的高级客人。如果能有几件高质量的银器就更好了。他们要求<b>五</b><b>箱怀旧陶器</b>，送到<b>狄坦妮娅</b>。"
+  },
+  {
+    "key": "legacy_faeb30144e29f71efaaf",
+    "original": "\"The owner of the Erlking's Head in Titania needs to expand his establishment, and only premium-grade wood will do. He asks for a captain to drop off <b>five</b> slabs of <b>Bronzewood</b>. Completing this Prospect will award Otherworldly Artefacts.\"",
+    "translation": "\"狄坦妮娅Erlking's Head的老板需要扩大他的店面，而只有高级木材才行。他要求车长送来<b>五块</b>青铜木</b>板。完成这个 \"\"前景 \"\"将获得 \"\"其他世界的艺术品\"\"。\""
+  },
+  {
+    "key": "legacy_550b7c581b3b473aeb5b",
+    "original": "\"A storyteller in Titania finds himself without any new stories to tell. He requests inspiration, and discretion. Bring <b>five</b> <b>Sky-Stories</b> to him in <b>Titania</b>.\"",
+    "translation": "狄坦妮娅的一个说书人发现自己没有任何新故事可讲。他要求获得灵感，并谨慎行事。把<b>5个</b><b>天空故事</b>带到<b>狄坦妮娅</b>给他。"
+  },
+  {
+    "key": "legacy_0fe381b79eb15ba9d33e",
+    "original": "\"The Royal Society Enclave in <b>Titania</b> gets through much stained glass, with both its telescopes and experiments aimed at the dangers of the Wilderness. They require more. <b>Five</b> <b>Panes of Stained Glass</b>, to be precise. Completing this Prospect will grant a Condemned Experiment.\"",
+    "translation": "位于<b>狄坦妮娅</b>的皇家学会飞地通过许多彩色玻璃，其望远镜和实验都是针对荒野的危险。他们需要更多的东西。<b>五张</b><b>彩色玻璃</b>，准确地说。完成这个展望将获得一个谴责性的实验。"
+  },
+  {
+    "key": "legacy_ae9eb937af117f981c30",
+    "original": "\"Is poetry rooted in the soul? If it is, could a lesser poet be inspired by the soul of a greater one? A circle of Titanian aesthetes at the Eleutherian Academy is willing to try. They want <b>five</b> <b>Jumbles of Undistinguished Souls</b> to be delivered to <b>Titania</b>. Completing this Prospect will grant a Cryptic Benefactor.\"",
+    "translation": "\"诗歌扎根于灵魂吗？如果是的话，一个较小的诗人能不能从一个较大的诗人的灵魂中得到启发？Eleutherian学院的一圈泰坦美学家们愿意尝试一下。他们想把<b>五个</b><b>无差别灵魂的杂物</b>送到<b>狄坦妮娅</b>。完成这个 \"\"展望 \"\"将获得一个 \"\"隐秘的恩人\"\"。\""
+  },
+  {
+    "key": "legacy_625972e0dd4661b30468",
+    "original": "\"The retired Corporal in charge of Titania's Imperial Museum is running low on gunpowder for his cannons. His neighbours sometimes suggest it might be better if he didn't fire them on the hour, every hour. Few of them, though, dare to suggest it twice. He requires <b>five</b> <b>Carefully-Packed Crates of Munitions</b> to be sent to him in <b>Titania</b>. Completing this Prospect will grant Ministry-Stamped Permits.\"",
+    "translation": "负责狄坦妮娅帝国博物馆的退役下士，他的大炮的火药已经不多了。他的邻居们有时会建议，如果他不在每小时内发射大炮，可能会更好。不过，很少有人敢于建议两次。他需要<b>五箱</b><b>精心包装的军火</b>被送到<b>狄坦妮娅</b>的他那里。完成这个展望，就可以获得公德部盖章的许可证。"
+  },
+  {
+    "key": "legacy_775e1855417a238a5795",
+    "original": "\"A sculptor from <b>Titania</b> is looking to complete a statue of the Captivating Princess with some freshly cut gems. Only the finest will do, so he needs <b>three<b> <b>Casks of Navaratine Gemstones</b>. Completing this Prospect will grant a Moment of Inspiration.\"",
+    "translation": "一位来自<b>狄坦妮娅</b>的雕塑家希望用一些新切割的宝石来完成一座迷人公主的雕像。只有最好的才行，所以他需要<b>三个<b><b><b>纳瓦拉汀宝石的盒子</b>。完成这个展望将获得一个灵感时刻。"
+  },
+  {
+    "key": "legacy_3fbee4e6ad03b8c4b32d",
+    "original": "\"Caged Catches can be reliably purchased at the House of Rods & Chains. If you have butchery equipment, you can also catch squirmings in the mist sea of Albion and convert them to catches at St. Anthony's Lighthouse. You can sometimes salvage them from Bull Cantankeri.\"",
+    "translation": "笼子里的渔获物可以在棒子和链子之家可靠地购买。如果你有屠宰设备，你也可以在阿尔比恩的雾海中捕捉蠕虫，并在圣安东尼灯塔将它们转化为渔获。你有时可以从公牛坎坦凯利那里打捞到它们。"
+  },
+  {
+    "key": "legacy_3354c8cd2df11f0d1f04",
+    "original": "\"The Chaplain assigned to the kitchen takes the fresh meat, makes a small incision, and peels off the fur. He hangs it ready to be smoked, dried, and served to the prisoners as a special treat.\"",
+    "translation": "被分配到厨房的牧师拿着新鲜的肉，做了一个小切口，并剥掉了毛。他把这些肉挂起来，准备熏制、晾干，然后作为特别待遇提供给囚犯。"
+  },
+  {
+    "key": "legacy_abe417cebef164a9b637",
+    "original": "\"The London Embassy in the Eagle's Empyrean has a need for <b>Navarantine Gemstones</b>, to bribe officials who cannot be swayed with mere Sovereigns. <b>Three Casks</b> should suffice. [dir:dad2e4cc-5983-41db-8e20-d07104e92666].\"",
+    "translation": "鹰之帝国的伦敦大使馆需要<b>航海宝石</b>，以贿赂那些不能被单纯的主权者动摇的官员。 <b>三桶</b>应该足够了。[dir:dad2e4cc-5983-41db-8e20-d07104e92666]."
+  },
+  {
+    "key": "legacy_08d988e00582f14f4ff7",
+    "original": "\"Your crew unloads the cargo onto the dock while you ponder where to take it. The clattering of a stone distracts you. When you look back, the crates are gone. In their place, your payment, delicately wrapped and finished with a bow.\"",
+    "translation": "你的船员把货物卸到码头上，而你却在考虑把它带到哪里。一块石头的碰撞声让你分心。当你回头看时，那些箱子已经不见了。取而代之的是你的货款，包装精致，并打上了蝴蝶结。"
+  },
+  {
+    "key": "legacy_a6c052c40ac37907251c",
+    "original": "\"Achlys is a thick, poisonous marsh, lit only by the cancerous light of its sun. Still, the urchins of the port plant the seeds. One nicks a finger in the process; a drop of blood falls on the grey soil. A green shoot creeps up into the air.\"",
+    "translation": "阿赫利斯是一个厚重的、有毒的沼泽，只被其太阳的癌光照亮。然而，港口的顽童们仍然在播种。一个人在这个过程中划破了手指；一滴血落在灰色的土壤上。一颗绿芽爬上了空气。"
+  },
+  {
+    "key": "legacy_8e368062a316aee29c60",
+    "original": "\"The Thorn-Maiden accepts your offering and tells you where to place them. Silver mirrors surround the hoard, multiplying your reflections into infinity. Some of your reflections are slower to react than others.\"",
+    "translation": "荆棘少女接受了你的奉献，并告诉你将它们放在哪里。银色的镜子围绕着这个囤积物，将你的反射物增加到无限大。你的一些反射物比其他的反应要慢。"
+  },
+  {
+    "key": "legacy_36ced4542f0916b510b2",
+    "original": "\"Your crew unleashes the foul creatures into Carillon's water. Screams echo through the halls. Unfortunately, the devils just smile, appreciating the assistance. The Presiding Deviless even gives you a bonus.\"",
+    "translation": "你的船员将这些肮脏的生物释放到卡里昂的水中。尖叫声在大厅里回荡。不幸的是，恶魔们只是微笑着，感谢你的帮助。主事的女魔头甚至给了你一个奖励。"
+  },
+  {
+    "key": "legacy_b4b0ffac12e87e1d9362",
+    "original": "\"The Nimble Trafficker unloads the crates into a shadowy warehouse. Soon, Albiophiles within the Empyrean will be meeting in secret, reading forbidden London texts, and making the increasingly familiar raised pinky-finger sign to identify each other.\"",
+    "translation": "敏捷的贩运者将板条箱卸到一个阴暗的仓库。很快，帝国内部的阿尔比亚人将会秘密会面，阅读被禁止的伦敦文本，并做出越来越熟悉的翘起小指的手势来识别对方。"
+  },
+  {
+    "key": "legacy_e2a351ff1cb65af31ad9",
+    "original": "\"The Royal Society alchemist experiments with the gems and a Rubbery shapeling vat. It bubbles and overflows, hardening into strings of jewelled amber. From the sounds they make, the Rubbery Men seem pleased. Or confused. Or excited.\"",
+    "translation": "皇家学会的炼金术士用宝石和一个橡胶成型的大桶进行实验。它冒着气泡，溢出来，硬化成一串串宝石般的琥珀。从他们发出的声音来看，这些橡胶人似乎很高兴。或感到困惑。或兴奋。"
+  },
+  {
+    "key": "legacy_049bbbc06a7106f40c8a",
+    "original": "\"The Bohemians invite you to join them in their revels, sipping honey tea laced with the hallucinogenic spores of the marsh. Together, you whisper the secret truths of your dreams.\"",
+    "translation": "波西米亚人邀请你加入他们的狂欢，喝着掺有沼泽地致幻孢子的蜂蜜茶。你们一起低声谈论你们梦想中的秘密真相。"
+  },
+  {
+    "key": "legacy_93d58613eb8d7ac05155",
+    "original": "\"An enterprising hawker has constructed a makeshift hour loom to make the wait to enter the Stone-Faced Court seem less, or to prolong the time before spirits are pronounced dead, if they wish to linger. He needs hours to feed it. <b>Five Barrels of Unseasoned Hours</b> should do. The White Well is north-west of Sky Barnet.\"",
+    "translation": "一个有进取心的小贩建造了一个临时的小时织布机，以使进入石面法庭的等待时间看起来更短，或者延长灵魂被宣布死亡之前的时间，如果他们想逗留的话。他需要时间来喂养它。 <b>五桶未调味的时间</b>应该可以。白井在天巴尼特的西北方。"
+  },
+  {
+    "key": "legacy_243333f723c0290c284e",
+    "original": "\"A servitor has been set cataloguing the various species of the sky by the Lamentation of Mists. She wishes to know which beasts are descended from the Forge's creations. The servitor cannot leave its post at the <b>Forge of Souls</b>, and will pay for up to <b>five Caged Catches</b> to be delivered there. The Forge of Souls is east-north-east of Sky Barnet.\"",
+    "translation": "一个仆人被雾之哀伤设置为天空中各种物种的目录。她想知道哪些野兽是锻造师的后代。仆人不能离开<b>灵魂之炉</b>的岗位，并将支付最多<b>五个笼中之物</b>送到那里。灵魂熔炉在天巴尼特的东-北-东。"
+  },
+  {
+    "key": "legacy_067ab9b1f5790d59c233",
+    "original": "\"The Lamentation's servitor loiters by the dock. It is one of the yoked dead, its face concealed behind a porcelain mask. After examining your caged specimens and making several notes on a yellowing scroll, it pushes a small cask of gems into your hands. Perhaps it is pleased?\"",
+    "translation": "哀歌号的仆人在码头边徘徊。它是一个被捆绑的死人，它的脸隐藏在一个瓷制面具后面。在检查了你的笼子里的标本，并在一个发黄的卷轴上做了一些记录之后，它把一小桶宝石推到你的手里。也许它很高兴？"
+  },
+  {
+    "key": "legacy_de9b37ee9d60959ac008",
+    "original": "\"Fats and oils from certain sky-beasts are needed to perform the Test of Substance, which shades must pass to approach <b>Death's Door</b>. The Sequestrator requires <b>Five Caged Catches</b> to be delivered to her there. Death's Door is north from the Transit Relay, on the other side of the Blue Kingdom.\"",
+    "translation": "某些天兽的脂肪和油类需要进行物质测试，阴影必须通过测试才能接近<b>死亡之门</b>。封存者要求将<b>五只笼中之物</b>送到她那里。死亡之门在中转站的北边，在蓝色王国的另一边。"
+  },
+  {
+    "key": "legacy_42d1328b974cbed52810",
+    "original": "\"The Sequestrator sends a servant to arrange the exchange. It is one of the yoked dead: the shade of a lumbering creature resembling something between a lobster and a whale. It strings each cage onto its back, oblivious to the bites and scratches from the occupants. With a complicated bow, it drops something at your feet. Thank you?\"",
+    "translation": "封存者派了一个仆人来安排交换。它是一个被捆绑的死人：一个类似于龙虾和鲸鱼的笨重生物的影子。它把每个笼子都串在自己的背上，对笼子里的人的咬伤和抓伤视而不见。它用一个复杂的鞠躬，把一些东西丢在你的脚下。谢谢你吗？"
+  },
+  {
+    "key": "legacy_2f4b39d31747f2cc0e31",
+    "original": "\"The Graven awaits your arrival at the station, twitching its robes in irritation. It has pulled a hood close about its bone face, clearly ashamed of the meagre handful of gems that gleam there. As its clerks carry your delivery away, the Graven expresses its gratitude and promises to return the favour some day.\"",
+    "translation": "Graven在车站等待你的到来，恼怒地抽动着它的长袍。它把头巾紧紧地贴在自己的骨脸上，显然对那里闪闪发光的一小撮宝石感到羞愧。当它的店员把你的货物运走时，鹩哥表示感谢，并承诺有一天会回报你的帮助。"
+  },
+  {
+    "key": "legacy_c8f9a50e4ac961bbc5c2",
+    "original": "\"An obsessed scholar is seeking permission to enter the library that is now housed in the Forge of Souls. It is said to contain records of every law, past and current, that the suns have decreed. Unfortunately, the scholar's entry has been denied, and he requires <b>seven consignments of Bronzewood</b> to win the favour of its keeper: the Lamentation of Mists. The Forge of Souls is east-north-east of Sky Barnet.\"",
+    "translation": "一位痴迷的学者正在寻求进入现在存放在灵魂锻造厂的图书馆的许可。据说它包含了太阳所颁布的每一条法律的记录，无论过去还是现在。不幸的是，这位学者被拒绝进入，他需要<b>七批青铜木</b>来赢得图书馆管理员的青睐：迷雾之哀。灵魂熔炉在天际巴尼特的东北方。"
+  },
+  {
+    "key": "legacy_04ab50846e982d3e1af4",
+    "original": "\"Your establishment connections have recommended you for an opportunity. The request is written in brusque capitals: 'LITERATURE REQUIRED TO REMEDY UNACCEPTABLE SPIRITUAL SITUATION'. The requester needs <b>seven boxes of Ministry-Approved Literature</b>, to be delivered to them at <b>Death's Door</b>. Death's Door is north from the Transit Relay, on the other side of the Blue Kingdom.\"",
+    "translation": "\"你的机构关系向你推荐了一个机会。请求书用粗犷的大写字母写着：\"\"需要文献来解决不可接受的精神状况\"\"。请求者需要<b>七箱公德部批准的文献</b>，在<b>死亡之门</b>交付给他们。死亡之门在中转站的北边，在蓝色王国的另一边。\""
+  },
+  {
+    "key": "legacy_7eca23019dc2a682252b",
+    "original": "\"You have received a furtive request via your contacts in the underworld (specifically the criminal underworld, which it pays to be clear about in the Blue Kingdom). Someone waiting at <b>the White Well</b> wants to buy up to <b>seven Panes of Stained Glass</b>. Their reasons are undisclosed. The White Well is north-west of Sky Barnet.\"",
+    "translation": "你通过你在黑社会（特别是犯罪黑社会，在蓝色王国要清楚这一点）的联系人收到一个秘密请求。有人在<b>白井</b>等待，想购买<b>七块彩色玻璃</b>。他们的理由未被披露。白井在天空巴尼特的西北方。"
+  },
+  {
+    "key": "legacy_f4388ae55868e70f4b66",
+    "original": "\"The well-winds howl as a cloaked conclave of spirifers approach your engine. These unlicensed soul-traders are unwelcome in the Kingdom, and use thick layers of stained glass to hide what goes on in their locomotives from the Sapphire'd King and his servants. Satisfied you have comprehensively fulfilled their requirements, the chief spirifer slides you a roll of paper. A chart, detailing hidden routes through the sky.\"",
+    "translation": "当一个披着斗篷的灵媒接近你的引擎时，井风呼啸。这些没有执照的灵魂商人在王国里是不受欢迎的，他们用厚厚的彩色玻璃层来掩盖他们机车里发生的事情，不让蓝宝石国王和他的仆人知道。在对你全面满足他们的要求感到满意后，首席螺旋体滑给你一卷纸。一张图表，详细说明了穿越天空的隐藏路线。"
+  },
+  {
+    "key": "legacy_0f2c37d2c72ce70e670e",
+    "original": "\"Illicit Literature can reliably be acquired from Wit & Vinegar, near London.\"",
+    "translation": "非法文学可以可靠地从伦敦附近的Wit & Vinegar获得。"
+  },
+  {
+    "key": "legacy_bdc049ba153c7ebe71d2",
+    "original": "\"The Bohemian Baronet has installed himself in a stilted, smokey salon at the end of a long jetty. His coterie pay you with the last of his inheritance, collections of expurgated literature they no longer want, and a number of insightful secrets. \"",
+    "translation": "波西米亚男爵把自己安置在一个长长的栈桥尽头的一个呆板的、烟雾缭绕的沙龙里。他的小圈子用他最后的遗产、他们不再需要的文学作品集和一些有见地的秘密来支付你。 "
+  },
+  {
+    "key": "legacy_cbe5ca60b2339334e313",
+    "original": "\"Red Honey can be purchased from the Midnight Rose, in Titania.\"",
+    "translation": "红色蜂蜜可以从狄坦妮娅的午夜玫瑰处购买。"
+  },
+  {
+    "key": "legacy_5b0376ca8a38b66fc85e",
+    "original": "\"Star-rakers comb water from the glassy pools of Eleutheria into these mirrored jars. It is laced with familiar starlight, shed by stars visible from Old Earth.\"",
+    "translation": "摘星者从埃卢瑟亚的玻璃池子里把水梳理到这些镜面的罐子里。它带着熟悉的星光，由旧地球上可见的星星洒下。"
+  },
+  {
+    "key": "legacy_6498a0ad29254fddfd57",
+    "original": "\"Starshine can be acquired from the Gentlemen, near Pan.\"",
+    "translation": "Starshine可以从潘附近的绅士们那里获得。"
+  },
+  {
+    "key": "legacy_f8fdca89290d75eed04d",
+    "original": "\"Not even the King James' Bible is safe from the purgative pens of the Ministry of Public Decency. You receive a tip-off from your benefactor: an Intractable Reverend in <b>Lustrum</b> is willing to pay well for unedited, uncensored religious texts. <b>Five Trunks of Illicit Literature</b> should suffice. [dir:c22807a9-7c42-41b5-823a-cc02f15c3f63].\"",
+    "translation": "即使是詹姆士国王的《圣经》也无法在公德部的净化笔下幸免。你从你的恩人那里得到消息：在<b>Lustrum</b>的一个难缠的公德部愿意为未经编辑、未经审查的宗教文本支付高价。 <b>五箱非法文学</b>应该足够了。[dir:c22807a9-7c42-41b5-823a-cc02f15c3f63]."
+  },
+  {
+    "key": "legacy_455020f8f3ede814354e",
+    "original": "\"The Murgatroyd family: humble purveyors of fungal crackers to those unacquainted with the Great Game of spies and nations, and of espionage to those who are. Their outpost in <b>Achlys</b> requires <b>seven Trunks of Illicit Literature</b> (the spicier the better), and they <b>need it within one month</b> of you accepting the prospect. [dir:9e91ea8e-3f0f-4a25-a400-2f451d91da81].\"",
+    "translation": "穆尔加特罗伊德家族：对于那些不了解间谍和国家的大游戏的人来说，他们是卑微的真菌饼干提供者，对于那些了解的人来说，他们是间谍活动的提供者。他们在<b>Achlys</b>的前哨站需要<b>七箱非法文献</b>（越辣越好），而且他们<b>需要在你接受这个前景的一个月内</b>。[dir:9e91ea8e-3f0f-4a25-a400-2f451d91da81]."
+  },
+  {
+    "key": "legacy_3314aba9467a61c95a2d",
+    "original": "\"A Bespectacled Official at the Eagle's Empyrean wants authentic, unadulterated insights onto London culture, and the Ministry's censored versions of prose and poetry are too curated for his needs. He requests <b>five Trunks of Illicit Literature</b> that represent London's warts as well as her glory. [dir:dad2e4cc-5983-41db-8e20-d07104e92666].\"",
+    "translation": "鹰之帝国的一位满脸皱纹的官员想要了解真实的、不掺杂任何杂质的伦敦文化，而公德部的散文和诗歌的审查版本对他的需求来说太过谨慎了。他要求<b>五箱非法文学</b>，代表伦敦的缺陷和她的荣耀。[dir:dad2e4cc-5983-41db-8e20-d07104e92666]."
+  },
+  {
+    "key": "legacy_8418bd96bebf325f96cd",
+    "original": "\"Your Illicit Literature is avidly received in Port Prosper. The local paper puffs and tuts about the sudden influx of 'gentleman's relish', even as servants from well-heeled families crowd your locomotive, offering bulging purses for paper-wrapped samples of your cargo. The handmaid of a certain Prim Dowager purchases several of the most scandalous volumes, while giving you a wicked wink.\"",
+    "translation": "\"你们的非法文学在兴荣港受到热捧。当地报纸对突然涌入的 \"\"绅士津津乐道 \"\"大肆吹嘘，甚至来自富裕家庭的仆人也挤满了你的火车头，用鼓鼓的钱包购买你的货物的纸包样品。某位皇太后的女仆购买了几本最丑陋的书，同时向你使了一个邪恶的眼色。\""
+  },
+  {
+    "key": "legacy_8e262894115b83cdba6a",
+    "original": "\"Intrigued holidays makers sidle, furtively, to your locomotive, eager for a taste of 'skyfarer's delight'. Later, they will clamber through someone else's memories: of distant nooks of the sky, of little-trod heavenly roads, of star-madness encroaching like the tide.\"",
+    "translation": "\"充满兴趣的度假者鬼鬼祟祟地走到你的火车头旁，渴望尝到 \"\"天空旅行者的快乐\"\"。后来，他们会在别人的记忆中爬行：遥远的天空角落，很少有人走过的天路，像潮水一样侵袭的星际狂热。\""
+  },
+  {
+    "key": "legacy_c73924fa34ef7b9258d8",
+    "original": "\"Little attempt is made to hide your transaction, for the Deathless do as they please. After all, if you are exempt from the laws of time, why should you be subject to those of customs and excise? A haunted footman hands over your payment, along with the Macabre Counsellor's thanks for a job well done, and an invitation to Perdurance's Half-Light Masque.\"",
+    "translation": "几乎没有人试图掩盖你的交易，因为无死亡者想怎么做就怎么做。毕竟，如果你不受时间法则的约束，为什么要受海关和消费税的约束？一个闹哄哄的男仆把你的钱交给了你，还有恐怖顾问对你出色完成工作的感谢，以及参加琥珀宫的半光面具表演的邀请。"
+  },
+  {
+    "key": "legacy_51b01ac93f760467f158",
+    "original": "\"A visitor from <b>Achlys</b>, marked with the tattoo of a cinnamon trader, wishes to arrange a supply of <b>Red Honey</b>. To begin with, they require <b>seven Firkins</b>, and suggest that more opportunities might be forthcoming. [dir:9e91ea8e-3f0f-4a25-a400-2f451d91da81].\"",
+    "translation": "一位来自<b>阿克利斯</b>的访客，身上有肉桂商人的纹身，希望安排<b>红色蜂蜜</b>的供应。首先，他们需要<b>7个Firkins</b>，并建议可能会有更多机会。[dir:9e91ea8e-3f0f-4a25-a400-2f451d91da81]."
+  },
+  {
+    "key": "legacy_22169066c13d927a582f",
+    "original": "\"The Rose-Without-Thorns slip you into the Empyrean via hidden tunnels, and into a cavernous cellar. From behind one door you can hear singing. From behind another, sobbing. But a stern official explains you can, in fact, not hear either of those things. In fact you can hear nothing, because people who hear nothing are very well paid. The payment is produced: a pouch of bright, freshly-minted sovereigns, several rolls of bombazine, and a caged sky-beast they have no further use for.\"",
+    "translation": "\"无刺玫瑰 \"\"通过隐藏的隧道将你滑入 \"\"帝释天\"\"，并进入一个空洞的地窖。从一扇门后，你可以听到歌唱。从另一扇门后，则是啜泣声。但一位严厉的官员解释说，事实上，你听不到这两件事。事实上，你什么也听不到，因为什么也听不到的人有很高的报酬。他们拿出了报酬：一袋鲜亮的新币，几卷弹夹，以及一只他们不再使用的笼中天兽。\""
+  },
+  {
+    "key": "legacy_506f6a20ffa6eedff007",
+    "original": "\"Certain august funerals at <b>the Most Serene Mausoleum</b> have begun to hang lamps of starshine during the ceremonies. The soft silver glow evokes memories of distant times that will never come again, and can move even the most stolid mourners to melancholy. Can you deliver <b>five Hogsheads of Starshine</b> for a series of upcoming burials? [dir:358df020-9a27-47c3-8a80-6f1c836898df].\"",
+    "translation": "在<b>最宁静的陵墓</b>的某些庄严的葬礼上，已经开始在仪式上悬挂星光灯。柔和的银色光芒唤起了人们对永远不会再来的遥远时代的回忆，甚至可以让最凝重的哀悼者感到忧郁。你能为即将举行的一系列葬礼提供<b>五桶星光酒</b>吗？[dir:358df020-9a27-47c3-8a80-6f1c836898df]."
+  },
+  {
+    "key": "legacy_187a12f0a2e175e54b78",
+    "original": "\"One of the Gentlemen, Pan's notorious smugglers, claims to have an opportunity for you. However, getting details out of him is difficult. He seems distracted by old memories. Has he been sampling the shinney? Eventually, you're able to get extract the necessaries: <b>five Hogsheads of Starshine</b> to be delivered to a shinney-joint at <b>Lustrum</b>. [dir:c22807a9-7c42-41b5-823a-cc02f15c3f63].\"",
+    "translation": "潘氏集团臭名昭著的走私者之一，声称有一个机会给你。然而，要从他口中得到细节是很困难的。他似乎被以前的记忆所困扰。他是不是一直在尝鲜？最终，你能够提取到必要的东西：<b>五桶星光酒</b>，送到<b>Lustrum</b>的一个闪亮的接头处。[dir:c22807a9-7c42-41b5-823a-cc02f15c3f63]."
+  },
+  {
+    "key": "legacy_433e3ab423c1be39e09e",
+    "original": "\"A stoic crew of ex-prospectors meet you at the station. You help them transport the starshine to a tangled knot of caves that burrows into the mountain. In each little cave a lamp hangs, spilling the glow of old, familiar stars. Limed in the faint light, miners sit and muse, or weep.\"",
+    "translation": "一个由前勘探者组成的坚毅的团队在车站迎接你。你帮助他们把星光运到钻进山里的一个纠结的山洞里。每个小山洞里都挂着一盏灯，洒下古老而熟悉的星光。在微弱的光线下，矿工们坐着沉思，或哭泣。"
+  },
+  {
+    "key": "legacy_f2feb0b8fc386f66c0bf",
+    "original": "\"Two gangs are feuding over the shinney-trade at <b>Worlebury-juxta-Mare</b>. The endless tide of holiday-makers represents a lucrative market, and one of the gangs wants <b>seven Hogsheads of starshine</b> to corner it. The scarred Gentleman from whom you learn of the prospect, though, warns you to take care. The gangs haven't been subtle, and the Revenue Men's dreadnoughts are on high alert. [dir:359b836b-864d-4587-8527-e2d2c360fdeb].\"",
+    "translation": "两个帮派正在为<b>Worlebury-juxta-Mare</b>的闪亮贸易而争执不休。络绎不绝的度假者代表着一个有利可图的市场，其中一个帮派想要<b>七桶星光酒</b>来占领它。不过，你从那位伤痕累累的绅士那里得知了这个前景，他警告你要小心。这些帮派并不狡猾，税务局的无畏舰正处于高度警惕状态。[dir:359b836b-864d-4587-8527-e2d2c360fdeb]."
+  },
+  {
+    "key": "legacy_902b27b5e90098e46c39",
+    "original": "\"Your instructions are to come alone with the shinney. You ignore them, and just as well. One member of the gang had got it into his head to improve their bottom line by bringing knives rather than payment. There is a short fracas, during which you convince them of the benefits of fair dealing. The gang bring your payment, and as a token of goodwill, your quartermaster only demands one finger from each of them.\"",
+    "translation": "你的指示是要你单独和新尼过来。你没有理会他们，这也很好。这伙人中的一个人想通过带刀而不是付款来提高他们的底线。双方发生了短暂的争吵，在此期间，你让他们相信了公平交易的好处。这帮人带来了你的报酬，为了表示善意，你的军需官只要求他们每人拿出一根手指。"
+  },
+  {
+    "key": "legacy_b81362e03a1a21f7f84a",
+    "original": "\"An undermanager of the Windward Company has sent word to the Gentlemen of Pan that their branch in <b>Port Prosper</b> has use for starshine, but nobody seems willing to sell the <b>five Hogsheads</b> they require. At least, not openly. [dir:6c1c3a55-b424-4bec-a969-31023ace58e7].\"",
+    "translation": "向风公司的一名副经理向潘氏兄弟传话说，他们在<b>兴荣港</b>的分部需要星光酒，但似乎没有人愿意出售他们需要的<b>五桶猪头酒</b>。至少，不是公开的。[dir:6c1c3a55-b424-4bec-a969-31023ace58e7]."
+  },
+  {
+    "key": "legacy_6405d6af8e0b1f023d42",
+    "original": "\"Another smuggler has been caught while attempting to complete a prospect. Even now, they take the stand before a judge renowned for his lack of mercy. In the meantime, their opportunity could be yours. Time is now of the essence. <b>Nine Firkins of Red Honey</b> must be delivered to <b>Worlebury-juxta-Mare</b> within <b>two months</b> of you accepting the prospect. [dir:359b836b-864d-4587-8527-e2d2c360fdeb].\"",
+    "translation": "另一个走私者在试图完成一个前景时被抓。即使是现在，他们也要在一个以缺乏仁慈而闻名的法官面前作证。在此期间，他们的机会可能是你的。<b>九瓶红蜂蜜</b>必须在<b>两个月内</b>送到<b>Worlebury-juxta-Mare</b>，你接受了前景。[dir:359b836b-864d-4587-8527-e2d2c360fdeb]."
+  },
+  {
+    "key": "legacy_1ecb98bcaff06f71f9e7",
+    "original": "\"The delivery goes to plan and arrives on time. You carry the honey through the Worlebury mists to an isolated barn near the shore. An enterprising villain is establishing a honey den. The animals are gone, and their stalls have been draped with red velvet. It all still smells of straw.\"",
+    "translation": "运送工作按计划进行，准时到达。你带着蜂蜜穿过沃勒伯里的迷雾，来到岸边的一个孤立的谷仓。一个有进取心的恶棍正在建立一个蜂蜜窝。动物们都走了，它们的畜栏被铺上了红丝绒。这一切都还有稻草的味道。"
+  },
+  {
+    "key": "legacy_c7c7e966cc492c8fa02d",
+    "original": "\"An envelope reaches you. Inside is a simple note, offering the opportunity to provide <b>nine Firkins of Red Honey</b> to a specific platform at the <b>Most Serene Mausoleum</b>. It is marked with a stamp: a mark of the Duchess Incarnadine, one of the Deathless courtiers who served Her Majesty and were permitted to retire with an eternity of hours. [dir:358df020-9a27-47c3-8a80-6f1c836898df].\"",
+    "translation": "一个信封到达你手中。里面是一张简单的纸条，提供了向<b>最尊贵的陵墓</b>的一个特定平台提供<b>九份红蜜的枞树</b>的机会。这上面有一个印章：因卡纳丁公爵夫人的标记，她是为女王陛下服务的无死亡朝臣之一，被允许以永恒的时间退休。[dir:358df020-9a27-47c3-8a80-6f1c836898df]."
+  },
+  {
+    "key": "legacy_d9eb7cf8ae6a006c8fe0",
+    "original": "\"The Duchess' men unload the honey, and carry it onto a Necropolis Line engine idling at a nearby siding. The Necropolis Line carries London's dead for burial at the Mausoleum, and returns for more. A useful cover to allow the transport of contraband into the well-watched city. Apparently, the Duchess likes to keep busy in her dotage. \"",
+    "translation": "公爵夫人的手下卸下了蜂蜜，并把它搬上了停在附近侧线的Necropolis Line发动机。墓园线把伦敦的死人运到陵墓埋葬，然后再回来运。这是一个有用的掩护，允许将违禁品运入这个被严密监视的城市。显然，公爵夫人喜欢在她的晚年保持忙碌。 "
+  },
+  {
+    "key": "legacy_b27e1a1836425b5b47e8",
+    "original": "\"Word has spread to the Gentlemen that Bohemian groups in <b>Port Prosper</b> are developing a taste for shinney. But few smugglers can afford the <b>nine Hogsheads</b> their coteries demand, even with the promise of an impressive payday. [dir:6c1c3a55-b424-4bec-a969-31023ace58e7].\"",
+    "translation": "绅士们都知道，<b>兴荣港</b>的波西米亚人群体正在发展一种对闪电的品味。但很少有走私者能负担得起他们的商行所要求的<b>九头猪</b>，即使有令人印象深刻的发薪承诺。[dir:6c1c3a55-b424-4bec-a969-31023ace58e7]."
+  },
+  {
+    "key": "legacy_23cfef619fc1a12a014c",
+    "original": "\"You make your delivery, bit by bit, to a draughty manor. Eager bohemians pour each new hogshead into the garden's ornamental pond. When it is full, they gather around and kneel at the edge, their faces silver with the far-travelled light of Old Earth's stars. You watch as each of them sinks into childhood memories.\"",
+    "translation": "你一点一点地运送到一个通风的庄园。急切的波希米亚人将每一桶新酒倒入花园的观赏池塘。当它装满时，他们聚集在一起，跪在池边，他们的脸被地球上遥远的星光照得银亮。你看着他们每个人都沉浸在童年的回忆中。"
+  },
+  {
+    "key": "legacy_ee059931393b2382f884",
+    "original": "\"Now you've proven yourself a competent smuggler, the Gentlemen can offer more challenging and more rewarding prospects. They keep many of the details secret, but you deduce that one of the Deathless courtiers at the <b>Most Serene Mausoleum</b> operates a pipeline of contraband into London. They require <b>nine Hogsheads of Starshine</b>, and they need them within two months from the day you accept the prospect. [dir:358df020-9a27-47c3-8a80-6f1c836898df].\"",
+    "translation": "现在你已经证明自己是一个合格的走私者，绅士们可以提供更具挑战性和更有价值的前景。他们对许多细节保密，但你推断出，<b>最宁静的陵墓</b>的一个无死亡朝臣经营着一条进入伦敦的违禁品管道。他们需要<b>九桶星光酒</b>，而且需要在你接受前景后的两个月内完成。[dir:358df020-9a27-47c3-8a80-6f1c836898df]."
+  },
+  {
+    "key": "legacy_5aa803d197e6d2a57ade",
+    "original": "\"You deliver the shinney to a gloomy, pillared hall where corpses are prepared for burial. Silent servants transfer the starshine into coffins, marked with the stamp of the Necropolis Line. \"",
+    "translation": "你把星光送到一个阴暗的有柱子的大厅，那里有准备埋葬的尸体。沉默的仆人将星光转移到棺材里，上面标有Necropolis Line的印章。 "
+  },
+  {
+    "key": "legacy_c2fa7c6328fcb270a7b9",
+    "original": "\"You deliver the shinney to a gloomy, pillared hall where corpses are prepared for burial. Unfortunately, you are late with your delivery, and the Deathless have made other arrangements. They reluctantly agree to take the shinny off your hands anyway, but for much less of a reward than you might have hoped for.\"",
+    "translation": "你把闪闪发光的东西送到一个阴暗的、有柱子的大厅，那里有准备埋葬的尸体。不幸的是，你送得太晚了，无死亡者已经有了其他安排。他们不情愿地同意从你手中接过闪电，但报酬比你希望的要少得多。"
+  },
+  {
+    "key": "legacy_0e8e9958567f85f722ef",
+    "original": "\"Though the relationship between London and the Eagle's Empyrean is strained, each is haunted by the other. The people of each city crave news of the other: its politics, its fads, its follies. The latest Empyreal fascination is with London's vices. Criminal families at the <b>Empyrean</b> require <b>nine Firkins of Red Honey</b>. Several smugglers have attempted this prospect before, and failed. Her Majesty's Customs and Excise have retasked several enduring dreadnoughts to comb the skies. [dir:dad2e4cc-5983-41db-8e20-d07104e92666].\"",
+    "translation": "虽然伦敦和鹰之国之间的关系紧张，但彼此都被对方困扰着。每个城市的人们都渴望得到对方的消息：它的政治、它的时尚、它的愚蠢。最近，帝都人对伦敦的恶习着迷。在<b>帝释天</b>的犯罪家庭需要<b>九种红色蜂蜜的菲尔金</b>。有几个走私者以前曾尝试过这个前景，但都失败了。女王陛下的海关和税务局已经重新安排了几艘持久的无畏舰在天空中进行梳理。[dir:dad2e4cc-5983-41db-8e20-d07104e92666]."
+  },
+  {
+    "key": "legacy_e309ee55e6bea79d3719",
+    "original": "\"The honey is snapped up at a secret auction attended by the Empyrean's most ambitious criminal families. What better way to understand the madness of Londoners, than by taking a spoonful of honey and living it? One of the factions, clearly hoping to win your future goodwill, pays you with casks of shimmering gems.\"",
+    "translation": "蜂蜜在一次秘密拍卖会上被抢购一空，参加拍卖的都是帝都最有野心的犯罪家族。有什么办法能比拿着一勺蜂蜜过日子更能了解伦敦人的疯狂呢？其中一个派别，显然希望赢得你未来的好感，用一桶桶闪闪发光的宝石来支付你。"
+  },
+  {
+    "key": "legacy_6f8d6ddef9cf0037315b",
+    "original": "\"You make the exchange in a gloomy alley behind a shabby tea-shop. Your contacts are hooded and jumpy: Prosper is firmly a Stovepipe port. The Tacketies plan to distribute the seditious tracts to a struggling local cell of sympathisers, and to any Company captains that might be willing to turn. The Blind Bruiser sends his regards, and recompense for your time.\"",
+    "translation": "你们在一家破旧的茶馆后面的阴暗小巷里进行了交换。你的联系人戴着头套，神情紧张。普罗斯佩尔是一个坚定的炉边港口。Tacketies计划将这些煽动性的小册子分发给当地挣扎的同情者，以及任何可能愿意转变的连长。瞎子布鲁斯向你问好，并对你的时间进行补偿。"
+  },
+  {
+    "key": "legacy_a5368c0c0e46995945b4",
+    "original": "\"The Devil requests a body of literature on alternate theories of labour, the values of idleness, and the merits of treating every day as the Sabbath. <b>Seven Trunks of Illicit Literature</b> are requested. [dir:1b331350-d950-4c06-94e0-38dd736859d7].\"",
+    "translation": "魔鬼要求提供一套关于劳动的替代理论、闲置的价值以及把每一天都当作安息日的好处的文献。 <b>七箱非法文献</b>被要求。[dir:1b331350-d950-4c06-94e0-38dd736859d7]."
+  }
+]

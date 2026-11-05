@@ -1,6 +1,6 @@
 # 译文来源
 
-当前补丁采用 [ParaTranz 项目 5731](https://paratranz.cn/projects/5731) 的 **2026-10-30** 官方译文快照，按 CC BY-NC 4.0 使用。共 31 个文件、42,922 条词条；stage 5 与 stage 9 计入已审核，共 22,682 条（52.84%）。逐文件进度见下表。
+当前补丁采用 [ParaTranz 项目 5731](https://paratranz.cn/projects/5731) 的 **2026-11-01** 官方译文快照，按 CC BY-NC 4.0 使用。共 31 个文件、42,922 条词条；stage 5 与 stage 9 计入已审核，共 22,684 条（52.84%）。逐文件进度见下表。
 
 最新译文可从[官方下载页](https://paratranz.cn/projects/5731/artifact)获取。
 
@@ -31,7 +31,7 @@
 | 2.0.7.0/ui.json | 726 | 726 | 100.00% |
 | NEW/areas.json | 224 | 224 | 100.00% |
 | NEW/bargains.json | 382 | 382 | 100.00% |
-| NEW/events.json | 30051 | 14294 | 47.57% |
+| NEW/events.json | 30051 | 14296 | 47.57% |
 | NEW/exchanges.json | 172 | 172 | 100.00% |
 | NEW/landmarks.json | 54 | 54 | 100.00% |
 | NEW/loadingHints.json | 38 | 38 | 100.00% |

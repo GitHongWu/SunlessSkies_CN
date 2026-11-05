@@ -1,0 +1,447 @@
+[
+  {
+    "key": "33$CustomUnlockedMessage",
+    "original": "The Tacketies are dominant in the Reach.",
+    "translation": ""
+  },
+  {
+    "key": "36$CustomUnlockedMessage",
+    "original": "The Stovepipes are dominant in the Reach.",
+    "translation": ""
+  },
+  {
+    "key": "legacy_221febe906485e185550",
+    "original": "\"A consignment of recent publications have arrived from London. Journals of Her Enduring Majesty's courtiers, recounting her wisest judgements. Mournful memorial poetry written at the Most Serene Mausoleum. Accounts of the eternally-youthful debutantes at Perdurance, and their unending revels.\"",
+    "translation": "一批最近的出版物从伦敦运来。女王陛下的臣子们的日记，讲述了她最明智的决断。哀伤的挽诗写在最安宁的陵墓。记载了在琥珀宫的那些永远年轻的少女们，以及她们无尽的狂欢。"
+  },
+  {
+    "key": "legacy_5c32746d6840b0722f60",
+    "original": "\"Nectar can be reliably purchased at Titania and Carillon, or collected from Chorister-hives.\"",
+    "translation": "花蜜可以在狄坦妮娅和钟琴区买到，或者从诵经者的蜂巢中收集。"
+  },
+  {
+    "key": "legacy_8160e4bf3fc324d11b5b",
+    "original": "\"Crockery can be reliably purchased at Brabazon and the Floating Parliament, or sometimes retrieved from flotsam and jetsam.\"",
+    "translation": "瓷器总是可以在布拉巴宗和浮空议会买到，有时也可以从漂零杂物中找到。"
+  },
+  {
+    "key": "legacy_1ec3998746365e596ea9",
+    "original": "Crockery for sale! Nearly new! Cups! Saucers! Gravy boats!",
+    "translation": "卖餐具!都是很新的!杯子!碟子!安士汁斗！"
+  },
+  {
+    "key": "legacy_767ab9278a08b3c5d5ba",
+    "original": "\"The captain of a battered mining-locomotive is selling unrefined hours quarried from drifting sky-rocks. Each is a walnut-sized geode, within which an hour grows like salt-crystals. The captain dabs discreetly at his eye with a handkerchief. Being close to this much time makes one melancholy.\"",
+    "translation": "一辆破旧的采矿机车的车长正在出售从漂流的天石中开采的、未提炼的时间。每颗晶洞都如核桃般大小，时间在其中像盐晶一样生长。车长小心翼翼地用手帕擦拭着双眼。离这么多的时间过近会让人倍感忧郁。"
+  },
+  {
+    "key": "legacy_a878607cd54f0729064f",
+    "original": "\"A barrel, encased in beeswax and stamped with the Ministry's mark. Its contents sigh like the tide.\"",
+    "translation": "一个用蜂蜡封装的桶，上面盖着公德部的标记。里面的东西像潮水一样叹息。"
+  },
+  {
+    "key": "legacy_a473e727dc13c7785e81",
+    "original": "\"Hours can be reliably purchased at Port Prosper and Lustrum, and mined from sky-rocks in the Reach.\"",
+    "translation": "小时可以在兴荣和伍载镇可靠地购买，也可以从外野的天空岩石中开采。"
+  },
+  {
+    "key": "legacy_a3b688121d301362e892",
+    "original": "\"Hours, mined from the sky\"",
+    "translation": "时间，从天空中开采出来的"
+  },
+  {
+    "key": "legacy_e0fc5a612a3c03689ecc",
+    "original": "\"A syndicate of allotment-owners are selling seeds. The vegetation of the Reach grows boisterously, even violently, and the sacks are strapped tight with leather belts.\"",
+    "translation": "菜园主联合会正在出售种子。在外野，植物的生长速度更加疯狂，因此麻袋的袋口被皮带紧紧绑住。"
+  },
+  {
+    "key": "legacy_8af57926f65ddc795be2",
+    "original": "\"A Whistling Apiarist is selling fresh (or at least recent) chorister-nectar. A versatile substance used, variably, as a sweetener, an intoxicant, and a tonic for the vocal chords. The Apiarist seems jolly, though his tune is not.\"",
+    "translation": "一个吹口哨的养蜂人正在出售新鲜的（或至少是最近的）唱诗蜂蜜。这种物质用途广泛，可作为甜味剂、麻醉剂和声带的补品。蜂农看起来很高兴，但他的调子却不高兴。"
+  },
+  {
+    "key": "legacy_e10825b0a50714d21505",
+    "original": "Chorister-nectar! Going cheap!",
+    "translation": "唱诗蜂蜜!特价出售！"
+  },
+  {
+    "key": "legacy_5aedb04a31560dde7216",
+    "original": "\"Undistinguished Souls can be reliably purchased at Magdalene's, Port Avon and the White Well. They can sometimes be salvaged from Eaters of the Dead and Spirifer Engines, or extracted from vaults in the Blue Kingdom.\"",
+    "translation": "平庸的灵魂总是可以在抹大拉之家、埃文村和白井买到，有时也可以从食死怪和猎魂机车中回收，或者从蓝色王国的地窖中提取。"
+  },
+  {
+    "key": "legacy_c41689d327e6a69b4e6c",
+    "original": "Tea for sale! Buy tea! Everyone likes tea! Please?",
+    "translation": "卖茶!买茶!每个人都喜欢茶!求你了？"
+  },
+  {
+    "key": "legacy_aacc5f80829268bf100c",
+    "original": "\"Sometimes, a crewman pretends he's going to drop one. It's still not funny.\"",
+    "translation": "有时，一个列车员假装他要掉一个。这仍然不好笑。"
+  },
+  {
+    "key": "legacy_b95b0c42b30a42e681cd",
+    "original": "\"Munitions can be reliably purchased at the Royal Society and the Empyrean, or sometimes salvaged from Tackety Liberators or from flotsam and jetsam.\"",
+    "translation": "弹药总是可以在皇家学会和苍天上国买到，有时也可以从钉鞋帮解放者机车或漂零杂物中回收。"
+  },
+  {
+    "key": "legacy_f3957cace9ec45aa0cf0",
+    "original": "\"Hollowed from the vast trees of the Reach, Bronzewood is prized for its durability and its gleaming resin.\"",
+    "translation": "青铜木是由外野的大片树木挖出来的，因其耐用性和闪亮的树脂而受到重视。"
+  },
+  {
+    "key": "legacy_0993f0cd9dc0e28e57aa",
+    "original": "\"Bronzewood can be reliably purchased at Polmear & Plenty's Circus, Traitor's Wood, and Achlys. It can also be mined in the Reach and salvaged from Scrive-Spinsters.\"",
+    "translation": "青铜木可以在Polmear & Plenty's Circus、Traitor's Wood和Achlys可靠地购买。它也可以在外野开采，并从代书人那里打捞。"
+  },
+  {
+    "key": "legacy_be74e0b07202af8d2c78",
+    "original": "\"Bombazine is worked in the dark, in candleless rooms with boarded windows. A milk-eyed weaver sells rolls of the cloth she has made in her cellar. It is black and splendid, drinking the starlight thirstily.\"",
+    "translation": "邦巴辛布在黑暗中织就：房间中不点蜡烛、窗户封上木板。一位双眼乳白的织工出售她在地窖中生产的布卷。它漆黑、华丽，饥渴地吸收着星光。"
+  },
+  {
+    "key": "legacy_3c2d74466ba2005f03b6",
+    "original": "\"Bombazine can be reliably purchased at Langley Hall, and can often be salvaged from Resurrectionists in Albion.\"",
+    "translation": "邦巴辛布可以在兰利厅稳定收购，也经常可以从阿尔比恩的掘墓人那里打捞到。"
+  },
+  {
+    "key": "legacy_ce92e20c22dd55190332",
+    "original": "\"Bombazine is worked in the dark, in candleless rooms with boarded windows...\"",
+    "translation": "邦巴辛布在黑暗中织就：房间中不点蜡烛、窗户封上木板 ......"
+  },
+  {
+    "key": "legacy_f109b275ab2b9bb39d1c",
+    "original": "\"Glass can be reliably purchased at the Clockwork Sun and the Mausoleum, and often salvaged from Deranged Dreadnoughts.\"",
+    "translation": "玻璃可以在发条太阳和陵墓中可靠地买到，也经常从失控的无畏舰上打捞出来。"
+  },
+  {
+    "key": "legacy_bfa73e8a253eaab1ef7d",
+    "original": "\"They have sandwiched the panes between wooden boards, and wrapped them in rags...\"",
+    "translation": "他们把窗玻璃夹在木板中间，用破布包起来......"
+  },
+  {
+    "key": "legacy_71eef5f28ad1b0824ef6",
+    "original": "Fresh hours! Get your fresh hours here!",
+    "translation": "新鲜时间！在这里获取你的新鲜时间！"
+  },
+  {
+    "key": "legacy_bca725d37aa58f839ea1",
+    "original": "\"A hawker sells the latest London potboilers: flimsy, mass-printed books with wood pulp paper, lurid covers, and fresh, gleaming Ministry stamps.\"",
+    "translation": "一个小贩在卖最新的伦敦小册子：薄薄的、大量印刷的书，用木浆纸做的，封面很脏，还有新鲜的、闪闪发光的公德部邮票。"
+  },
+  {
+    "key": "legacy_f38a45f352cf0931b423",
+    "original": "\"A hawker sells the latest London potboilers: flimsy, mass-printed books with wood pulp paper, lurid covers, and fresh, gleaming Ministry stamps...\"",
+    "translation": "一个小贩出售最新的伦敦大杂烩：薄薄的、大量印刷的书籍，用木浆纸，肮脏的封面，以及新鲜的、闪闪发光的公德部邮票。"
+  },
+  {
+    "key": "legacy_cf60ef30061e234a2701",
+    "original": "\"A crow-like captain sells used, but functional, armaments scavenged from the cold wreckage of a sky-battle...\"",
+    "translation": "一个像乌鸦一样的车长卖掉了从天空战斗的冰冷残骸中搜出的二手但实用的军备。"
+  },
+  {
+    "key": "legacy_52326a85d49feb378a23",
+    "original": "\"An amateur enthusiast has passed away. Hers was an obscure field of scholarship, and her family are selling off her books by the bundle. Stacks of pamphlets, tomes and journals teeter behind the stall.\"",
+    "translation": "一位业余爱好者已经去世了。她的学术领域默默无闻，她的家人正在一捆捆地卖掉她的书。摊位后面堆满了小册子、专著和期刊。"
+  },
+  {
+    "key": "legacy_65ad359c40d45ea3184c",
+    "original": "\"Until recently, decorating your parlour with bottled souls was a fad in Bohemian circles. Now, fashion has moved on, and souls are out.\"",
+    "translation": "直到最近，用瓶装灵魂装饰你的客厅是波西米亚圈子里的一种时尚。现在，时尚已经向前发展，而灵魂已经被淘汰。"
+  },
+  {
+    "key": "legacy_9fb972cc33ecbf6309b6",
+    "original": "\"Until recently, decorating your parlour with bottled souls was a fad in Bohemian circles...\"",
+    "translation": "直到最近，用瓶装的灵魂装饰你的客厅是波西米亚圈子里的一种时尚。"
+  },
+  {
+    "key": "legacy_abb7b468b786e6024949",
+    "original": "\"A supply of souls, prised from frosty ruins\"",
+    "translation": "从冰冷的废墟中取出的灵魂供给"
+  },
+  {
+    "key": "legacy_bb5e01e2186cc76ced04",
+    "original": "\"The rarest and most refined of souls, lovingly curated. \"",
+    "translation": "最稀有、最精致的灵魂，经过精心管理。 "
+  },
+  {
+    "key": "legacy_94f8c8c37fa21af75761",
+    "original": "\"A Congenial Vagabond, and a sale of sublime souls\"",
+    "translation": "一个聪慧的流浪者，和一个崇高的灵魂的买卖"
+  },
+  {
+    "key": "legacy_63a41d72a6a7325fb88f",
+    "original": "\"An ambitious local family planned to extend their townhouse. But space in Port Prosper is at a premium, and the governor demanded they abandon the work before it was complete. Now, they're trying to recoup their losses by selling a number of splendid, unused panes of stained glass.\"",
+    "translation": "一个雄心勃勃的当地家庭计划扩建他们的联排别墅。但兴荣的空间是很宝贵的，州长要求他们在工程完工前放弃工程。现在，他们正试图通过出售一些绚丽的、未使用过的彩色玻璃窗格来挽回他们的损失。"
+  },
+  {
+    "key": "legacy_64233c92d5a69b2aaf62",
+    "original": "\"An ambrosial acquisition: chorister-nectar, going cheap!\"",
+    "translation": "一笔令人振奋的收购：合唱团--连接体，价格便宜!"
+  },
+  {
+    "key": "legacy_f0a07402e354f39e6373",
+    "original": "\"A handful of tangle-haired recluses dwell in the wood, growing food in their glade-gardens. Sometimes they visit the bazaar, selling their wares silently.\"",
+    "translation": "一小撮头发纠结的隐士住在树林里，在他们的高兴园里种植食物。有时，他们会到巴扎上，默默地出售他们的商品。"
+  },
+  {
+    "key": "legacy_b4b050a326acf7fa3302",
+    "original": "\"A handful of tangle-haired recluses dwell in the wood, growing food in their glade-gardens...\"",
+    "translation": "一小撮头发纠结的隐士住在树林里，在他们的高兴花园里种植食物。"
+  },
+  {
+    "key": "legacy_58548abd4aeed35072bd",
+    "original": "\"A mangled hunter is selling his catch outside his sleek, gun-bristling engine. A Cantankeri grumbles in its cage. A tangle of pardoner-eels thrash. Something fungal and livid oozes gently.\"",
+    "translation": "一个浑身是伤的猎人正在他那光滑的、带枪的机车外出售他的猎物。一只顽固虱在笼子里咕哝着。纠缠在一起的赦免者鳗鱼在挣扎。一些真菌和鲜艳的东西在轻轻地渗出。"
+  },
+  {
+    "key": "legacy_a594e0557309b38989c9",
+    "original": "\"Ravenscourt & Stamford make a healthy profit selling academic robes for graduation ceremonies. They insist that only light-drinking bombazine cloth is acceptable at such occasions. Bombazine is splendid but expensive, so there's a bustling second-hand market in used robes among impoverished scholars. One such secret market is taking place now. \"",
+    "translation": "雷文斯考特和斯坦福出售毕业典礼上的学术袍，赚取了丰厚的利润。他们坚持认为，在这样的场合，只有喝淡酒的Bombazine布才能被接受。邦巴兹布很华丽，但价格昂贵，因此在贫穷的学者中，有一个热闹的二手长袍市场。现在就有一个这样的秘密市场在进行。 "
+  },
+  {
+    "key": "legacy_74d042efd0ffaf2e988c",
+    "original": "\"He has been ejected from his choir following what the papers are only calling 'a recent Incident'. He will have no need of his nectar now, nor of its beneficial effects on his vocal range. If you give him the slightest chance, he will recount the details of his recent scandal bitterly, his melodious voice contrasting vividly with his profane language.\"",
+    "translation": "\"在报纸只称 \"\"最近发生的事件 \"\"之后，他被赶出了他的合唱团。他现在不需要他的花露水，也不需要花露水对他的声带的有益影响。如果你给他一点机会，他就会痛苦地讲述他最近的丑闻细节，他悠扬的声音与他亵渎的语言形成鲜明的对比。\""
+  },
+  {
+    "key": "legacy_5fcbc6716b818177ba90",
+    "original": "\"Frobishers, who supply tea to the Admiral Nelson in Port Prosper, are offering selected clientele an opportunity to purchase their latest loose leaf. They will not, however, be drawn on rumours of a deal gone bad with the Nelson.\"",
+    "translation": "为兴荣的纳尔逊海军上将号提供茶叶的Frobishers公司，正在为选定的客户提供购买其最新散装茶叶的机会。然而，他们不会对与纳尔逊号交易失败的传言作出解释。"
+  },
+  {
+    "key": "legacy_729c9104d837a2670184",
+    "original": "\"Frobishers, who supply tea to the Admiral Nelson in Port Prosper, are offering selected clientele an opportunity to purchase their latest loose leaf...\"",
+    "translation": "Frobishers公司为兴荣的纳尔逊海军上将酒店提供茶叶，他们为选定的客户提供了购买其最新散叶茶的机会。"
+  },
+  {
+    "key": "legacy_da5cc4e5c3ab548df195",
+    "original": "\"The Governor has discovered a secret stash of hours that had been squirrelled away by a gang of refinery workers. He has seen fit to sell them on the open market, in order to raise funds for 'programmes to improve the moral character of inmates.'\"",
+    "translation": "\"州长发现了一帮炼油厂工人秘密藏匿的时间。他认为有必要在公开市场上出售它们，以便为 \"\"改善囚犯道德品质的方案 \"\"筹集资金。\""
+  },
+  {
+    "key": "legacy_25db37e713f8c6068a20",
+    "original": "\"Sable-liveried footmen are cutting up vast rolls of midnight fabric for sale. These are the cast offs from the Macabre Counsellor's latest tableaux, rejected for being insufficiently direful.\"",
+    "translation": "穿着貂皮衣服的脚夫正在裁剪大卷的午夜布料，准备出售。这些都是恐怖顾问的最新作品中的残次品，因为不够可怕而被拒绝。"
+  },
+  {
+    "key": "legacy_e4b2b4c0f7d594d8e5e5",
+    "original": "\"A recent by-law pushed through by the Restorationists' Committee has outlawed the drinking of tea in Parliament, on the grounds that it is 'an undemocratic and imperialist beverage'. Port has been recommended instead. The law will no doubt be overturned soon, but for now it creates an opportunity.\"",
+    "translation": "\"维新派委员会最近通过的一项附则禁止在议会中喝茶，理由是茶是 \"\"不民主和帝国主义的饮料\"\"。有人建议用波特酒代替。毫无疑问，这项法律将很快被推翻，但现在它创造了一个机会。\""
+  },
+  {
+    "key": "legacy_d070ca7e8bd884dcb2fc",
+    "original": "\"A recent by-law pushed through by the Restorationists' Committee has outlawed the drinking of tea in Parliament, on the grounds that it is 'an undemocratic and imperialist beverage'...\"",
+    "translation": "\"维新派委员会最近通过的一项附则禁止在议会中喝茶，理由是茶是 \"\"不民主和帝国主义的饮料\"\"...。\""
+  },
+  {
+    "key": "legacy_f67026a8d1c4e8d00682",
+    "original": "\"Engineers are clearing out a wing of Portsmouth House to make room for an exciting new experiment. While doing so, they unearthed a trove of Lord Rochester's poetry, written during his race around Pan. It substitutes volume for elegance, but readers are hungry for glimpses of the wild and unlikely wastes of Eleutheria.\"",
+    "translation": "工程师们正在清理朴茨茅斯大楼的一个侧翼，以便为一个令人兴奋的新实验腾出空间。在这样做的时候，他们发现了罗切斯特勋爵的诗歌库，这些诗歌是他在围绕潘的比赛中写的。它以体积代替了优雅，但读者渴望瞥见埃卢塞亚的狂野和不可能的废物。"
+  },
+  {
+    "key": "legacy_73e112d928bd2e0c67f5",
+    "original": "\"The Luminous Cardinal is prepared to part with some of his early illuminations. They depict the Reach as the celestial Paradise, before the Fall of the Rebel Angels.\"",
+    "translation": "光明红衣主教准备放弃他早期的一些照明作品。它们描绘的是叛逆天使堕落前的天国乐园。"
+  },
+  {
+    "key": "legacy_ced45bd4397ded654a22",
+    "original": "\"The Macabre Counsellor has gathered a cluster of lesser souls by some stratagem or other. She has grown bored with them, and would happily exchange them for coinage, which she prefers as a method of influence.\"",
+    "translation": "恐怖顾问通过某种计谋聚集了一批较小的灵魂。她已经对他们感到厌烦，并且很乐意用他们来交换钱币，她更喜欢用钱币作为影响的方法。"
+  },
+  {
+    "key": "legacy_e96b32e49bc7ccc63ed9",
+    "original": "\"The Royal Society of Titania has several... one looks like a crustacean, another a bit like a jellyfish, another... they aren't sure, but they're all starting to smell. They're welcome to a good home. Or a bad home. Or anywhere else, really.\"",
+    "translation": "狄坦妮娅皇家协会有几个......一个看起来像甲壳类动物，另一个有点像水母，另一个......他们不确定，但他们都开始闻到了。欢迎他们来到一个好的家庭。或者一个糟糕的家庭。或者其他地方，真的。"
+  },
+  {
+    "key": "legacy_62e4b3bfe2745e3f6c2a",
+    "original": "\"With the Windward Company's recent troubles, the independent miners have been free to step up their endeavours. One mining association, which has begun strip-mining the lower slopes, recently struck a huge trove of hours. Lustrum is flooded with them.\"",
+    "translation": "随着迎风公司最近的麻烦，独立的矿工们已经可以自由地加强他们的努力了。一个采矿协会已经开始在低山坡上进行剥离式开采，最近发现了一个巨大的时间宝库。伍载镇被它们淹没了。"
+  },
+  {
+    "key": "legacy_14bb1528e1d3e9e21242",
+    "original": "\"With the Windward Company's recent troubles, the independent miners have been free to step up their endeavours...\"",
+    "translation": "随着迎风公司最近的麻烦，独立的矿工已经可以自由地加强他们的努力..."
+  },
+  {
+    "key": "legacy_e2b1782a75d89e06f705",
+    "original": "\"The mirror-waters of Eleutheria are smooth on the surface, but often turbulent and dangerous below. A Scarred Fisherman offers some of his more unusual catches for sale, advising customers of a nervous disposition not to peek into the cages.\"",
+    "translation": "Eleutheria的镜面水表面光滑，但下面往往动荡不安，充满危险。伤痕累累的渔夫提供他的一些更不寻常的渔获物出售，并建议性格紧张的顾客不要偷看笼子里的东西。"
+  },
+  {
+    "key": "legacy_301060ed451495abdae1",
+    "original": "\"The mirror-waters of Eleutheria are smooth on the surface, but often turbulent and dangerous below...\"",
+    "translation": "Eleutheria的镜面水在表面上是光滑的，但在下面往往是动荡和危险的。"
+  },
+  {
+    "key": "legacy_edccaaa8bb38410455ba",
+    "original": "\"Navaratine Gemstones can reliably be purchased at Piranesi and the Forge of Souls. They can also be mined from sky-rocks in the Blue Kingdom, or found in ruins if you have assaying equipment.\"",
+    "translation": "曩縛咤宝石可以在皮拉尼西和灵魂铸炉买到。它们也可以从蓝色王国的天空岩石中开采出来，如果你有化验设备，也可以在废墟中找到。"
+  },
+  {
+    "key": "legacy_d07f9e26a8f11ac20703",
+    "original": "\"A Ragged Revolutionary shows you three crates of mixed munitions, some of which look distressingly home-made. He is selling them cheaply; today, he needs money more than murder.\"",
+    "translation": "一个衣衫褴褛的革命者向你展示了三箱混合弹药，其中一些看起来令人不安的自制弹药。他正在廉价出售这些弹药；今天，他更需要钱而不是谋杀。"
+  },
+  {
+    "key": "legacy_0541c08a2e7c6fdc8122",
+    "original": "\"A Ragged Revolutionary shows you three crates of mixed munitions, some of which look distressingly home-made...\"",
+    "translation": "一个衣衫褴褛的革命者向你展示了三箱混合弹药，其中一些看起来令人不安的自制弹药。"
+  },
+  {
+    "key": "legacy_c6d27822f658a1233e0d",
+    "original": "\"Bombazine cloth drinks light. In brighter domains, it quickly becomes soaked and impossible to work. But in Eleutheria's soft gloom it is pliant and delicate. Weaving is a common vocation here, and Bombazine can often be found cheaply.\"",
+    "translation": "Bombazine布喝光。在比较明亮的地方，它很快就会被浸湿，无法工作。但在Eleutheria的柔和阴暗中，它却柔韧而细腻。纺织是这里常见的职业，Bombazine常常可以便宜地找到。"
+  },
+  {
+    "key": "legacy_41ab13ef4de295ebc6f6",
+    "original": "\"A Tight-Lipped Devil sells impeccable souls in the shadow of Caduceus' temple. Where did he acquire them? Has he been plucking them from the Bohemian celebrants? No. You examine their elegant angles, their spasmodic movements. These souls were never human.\"",
+    "translation": "在卡杜塞斯神庙的阴影下，一个紧闭双眼的魔鬼出售无可挑剔的灵魂。他从哪里获得这些灵魂？他从波西米亚的庆祝者那里摘取了他们吗？不，你检查他们优雅的角度，他们痉挛的动作。这些灵魂从来不是人类。"
+  },
+  {
+    "key": "legacy_c3784f67aed1db92de2d",
+    "original": "\"Distressing shapes bob to the surface of the Rubbery Chef's cauldron. He scoops one out for you to taste, and it wriggles delicate antennae at you. Well, it's certainly fresh. The Rubbery Man indicates that he will happily serve them dead or alive. He even has cages ready.\"",
+    "translation": "凹凸不平的形状在橡胶厨师的大锅表面晃动。他舀出一个让你品尝，它向你蠕动着精致的触角。嗯，这当然是新鲜的。橡皮人表示，他很乐意为他们提供死或活的服务。他甚至还准备了笼子。"
+  },
+  {
+    "key": "legacy_6c1666fca8c45a828a49",
+    "original": "\"A London trader is suspected of espionage, and needs to raise funds quickly to leave the Empyrean. His extensive collection of coronation crockery is a particular bargain. But he would like you to decide quickly. The Khan's guards are getting closer.\"",
+    "translation": "一个伦敦商人被怀疑从事间谍活动，需要迅速筹集资金以离开帝都。他收藏的大量加冕陶器是一个特别的便宜货。但他希望你能尽快决定。大汗的卫兵越来越近。"
+  },
+  {
+    "key": "legacy_ac5afb981051ecf806a7",
+    "original": "\"A London trader is suspected of espionage, and needs to raise funds quickly to leave the Empyrean...\"",
+    "translation": "一个伦敦商人被怀疑从事间谍活动，需要迅速筹集资金以离开帝国。"
+  },
+  {
+    "key": "legacy_8b1f89821885940c3236",
+    "original": "\"Most of Achlys is constructed from trees gathered in the marsh. They're soggy. They take time to dry. But while technically not Bronzewood, they're close enough to it that most Londoners can't tell. Today, the merchants have a surplus. Either they sell it, or it has to go back in the mud.\"",
+    "translation": "Achlys的大部分建筑是由在沼泽地收集的树木建造的。它们都是湿漉漉的。它们需要时间来干燥。但是，虽然在技术上不是布伦泽伍德，但它们足够接近布伦泽伍德，大多数伦敦人都看不出来。今天，商人们有了剩余。他们要么卖掉，要么就得回到泥土中去。"
+  },
+  {
+    "key": "legacy_8a1cf8a9ec6504984d04",
+    "original": "\"A Stammering Eelmonger has a brother who captains one of the Empyrean Outriders. Sometimes, the brother ensures crates of ammunition go missing. And then a skyfarer like yourself gets a very good deal on crates of munitions.\"",
+    "translation": "一个口吃的鳗鱼人有一个兄弟，他是帝王骑士团的队长。有时，这位兄弟确保成箱的弹药丢失。然后，像你这样的天外来客就能得到一箱箱的弹药，非常划算。"
+  },
+  {
+    "key": "legacy_5fcc0d120ef8d23cd8f7",
+    "original": "\"One of Pan's recent Cypress Kings was a poet of the Neonocturnal school, who wrote this slim volume during and after his brief reign. The book is, in fact, in no way Ministry-Approved, but the forged stamps are exceptionally convincing.\"",
+    "translation": "潘氏最近的一位塞浦路斯国王是一位新夜郎派的诗人，他在短暂的统治期间和之后写了这本薄薄的书。事实上，这本书决不是公德部批准的，但伪造的印章却异常令人信服。"
+  },
+  {
+    "key": "legacy_795782e9acd51526697b",
+    "original": "\"One of Pan's recent Cypress Kings was a poet of the Neonocturnal school, who wrote this slim volume during and after his brief reign...\"",
+    "translation": "潘氏最近的一位塞浦路斯国王是一位新夜郎派的诗人，他在短暂的统治期间和之后写了这本薄薄的书。"
+  },
+  {
+    "key": "legacy_72c22b16bd9bcdbaccc7",
+    "original": "\"The prisoners of Piranesi cannot leave until they have become someone else. If they do, they often leave the things that were associated with their old selves behind. Sometimes, those things are souls.\"",
+    "translation": "皮拉内西的囚犯们在成为另一个人之前不能离开。如果他们这样做了，他们往往会把与原来的自己有关的东西留下。有时，那些东西就是灵魂。"
+  },
+  {
+    "key": "legacy_ac24798b8f1860533d27",
+    "original": "\"Deep in the Achlean marsh lies a garden of beauty and poison. Braver traders visit it to gather seeds for the market. Those that cannot be turned into spice or incense, they sell at cost.\"",
+    "translation": "在Achlean沼泽的深处，有一个美丽而有毒的花园。勇敢的商人去那里为市场收集种子。那些不能变成香料或香的种子，他们以成本价出售。"
+  },
+  {
+    "key": "legacy_1cfac8168e727e060346",
+    "original": "\"A 'spirifer' is an unlicensed trader in souls. It is not a popular profession. Recently, a spirifer was the victim of a fatal case of seller's regret. He left behind an impressive stash, which his associates are now trying to dispose of quickly.\"",
+    "translation": "\"灵魂法师 \"\"是一个没有执照的灵魂交易商。这不是一个受欢迎的职业。最近，一个螺旋法师因卖家的后悔而成为致命的受害者。他留下了一个令人印象深刻的藏品，他的同伙现在正试图迅速处理掉。\""
+  },
+  {
+    "key": "legacy_552f50b2f68fef825362",
+    "original": "\"An Experimental Horticulturist is selling a mountain of seeds. Yes, she is very pleased with how well they turned out. No, she will not tell you what she treats her crops with.\"",
+    "translation": "一位实验园艺师正在出售堆积如山的种子。是的，她对它们的结果非常满意。不，她不会告诉你她用什么来处理她的作物。"
+  },
+  {
+    "key": "legacy_b9eb400be23c7f362c67",
+    "original": "\"An Aristocratic Celestozoologist captures and studies the creatures of the High Wilderness. Now, he is selling some of his menagerie to fund his next hunting expedition. This time, he intents to hunt Grievers and Undeparted in Eleutheria. \"",
+    "translation": "一位贵族塞莱斯托动物学家捕捉并研究了高原荒野上的生物。现在，他正在出售他的一些动物，以资助他的下一次狩猎探险。这一次，他打算在埃卢瑟亚（Eleutheria）猎杀格里弗斯和不死鸟。 "
+  },
+  {
+    "key": "legacy_4b9d769867b2bcdf79d7",
+    "original": "\"A notorious smuggler's recent arrest is the excise-man's gain. The glittering contents of the smuggler's cargo hold are being auctioned off quickly, to raise money for the department. Only 'the right sort' of bidders are invited, and most purchases are negotiated in advance to avoid ruinous bidding-wars. How civilised.\"",
+    "translation": "\"一个臭名昭著的走私犯最近被逮捕，这是税务人员的收获。走私者货舱里闪闪发光的东西正在被迅速拍卖，以便为该部门筹集资金。只有 \"\"合适的 \"\"竞标者才会被邀请，而且大多数购买都是事先协商好的，以避免破坏性的竞标战争。多么文明。\""
+  },
+  {
+    "key": "legacy_4e596bf0c47c56171324",
+    "original": "\"They say in New Winchester that the skies of the Blue Kingdom are hung with diamonds the size of cows. A few gullible miners have made their way here, only to learn that the tales are exaggerated. This miner, for example, has yet to discover one larger than his head.\"",
+    "translation": "在新温彻斯特，他们说蓝色王国的天空挂满了牛一样大的钻石。一些容易受骗的矿工来到这里，才知道这些传说被夸大了。例如，这位矿工还没有发现比他的头还大的钻石。"
+  },
+  {
+    "key": "legacy_84df6d6acf4aeb5ef84b",
+    "original": "\"A ragged tribe of scavengers, claiming to be exiles from the Graven who rule the White Well, pick through the churned mud. They sell wan, listless souls; all that remains of shades who failed the tests at Death's Door too many times.\"",
+    "translation": "一个衣衫褴褛的拾荒者部落，自称是统治白井的格雷文的流亡者，在搅动的泥浆中挑拣。他们出售枯萎的、无精打采的灵魂；那些在死亡之门前失败了太多次的阴暗面所剩下的一切。"
+  },
+  {
+    "key": "legacy_4fb30fa404cdbf633665",
+    "original": "\"A ragged tribe of scavengers, claiming to be exiles from the Graven who rule the White Well, pick through the churned mud...\"",
+    "translation": "一个衣衫褴褛的拾荒者部落，自称是统治白井的格雷文人的流亡者，在搅动的泥浆中挑来挑去。"
+  },
+  {
+    "key": "legacy_c8c32d1d5971b295ed0e",
+    "original": "\"In recent years, over-eager Scrive-Spinsters have picked reams of London literature from the wrecks of engines they have destroyed, and taken it to the Forge. A yoked servitor spirit is selling it off by the pound. He indicates that it's starting to clog up shelves that could be dedicated to more interesting and important subjects.\"",
+    "translation": "近年来，急于求成的Scrive-Spinsters从他们破坏的引擎残骸中挑出成堆的伦敦文献，并将其带到锻造厂。一个带着枷锁的仆人精神正在把它按磅卖掉。他表示，这些东西已经开始堵塞书架，而这些书架可以用来摆放更多有趣和重要的主题。"
+  },
+  {
+    "key": "legacy_ea4813565f68e35ae2b7",
+    "original": "\"In recent years, over-eager Scrive-Spinsters have picked reams of London literature from the wrecks of engines they have destroyed, and taken it to the Forge...\"",
+    "translation": "近年来，急于求成的Scrive-Spinsters从他们破坏的引擎残骸中挑出成堆的伦敦文献，并将其带到锻造厂...。"
+  },
+  {
+    "key": "legacy_a4d9d816649248bacbd2",
+    "original": "\"A gloomy spirit sells folds of black cloth. These are the robes customarily worn by shades of the Invisible class, and are wrought of light-drinking bombazine to prevent them from offending the eye of their king. What became of the specific shades who wore these robes? The vendor will not say.\"",
+    "translation": "一个阴沉的灵魂在卖黑布的褶皱。这些是隐形阶级的阴魂们习惯穿的长袍，是用喝光的弹子织成的，以防止他们触犯国王的眼睛。穿着这些长袍的具体影子变成了什么？卖家不会说。"
+  },
+  {
+    "key": "legacy_967b462c8a30c59a5113",
+    "original": "\"A theologian who travelled here from London is selling his bibles, his prayer-books, and his hymnals...\"",
+    "translation": "一位从伦敦来到这里的神学家正在出售他的圣经、他的祈祷书和他的赞美诗。"
+  },
+  {
+    "key": "legacy_f12bd8089ca346e1fdfd",
+    "original": "\"This glassmaker came to the Blue Kingdom in order to capture the gold of its sun and the blue awe of its sky. But he has looked too long and too closely. The light sears his eyes; his vision fades. But still he makes pane after pane, spending the last of his sight in attempts to trap the things he has seen in prisons of glass.\"",
+    "translation": "这位玻璃匠来到蓝色王国，是为了捕捉其太阳的金色和天空的蓝色威严。但他看得太长、太仔细。光线灼伤了他的眼睛；他的视力逐渐减退。但他仍然制作了一块又一块的玻璃，用他最后的视力试图把他所看到的东西困在玻璃的监狱里。"
+  },
+  {
+    "key": "legacy_7c9f854ec8637dc53565",
+    "original": "\"A visiting London aristocrat has become besotted with the scale and splendour and sequence of the Blue Kingdom. He sees no point in delaying his return here as one of the dead, and is selling his pension of hours in order to accelerate his end.\"",
+    "translation": "一位来访的伦敦贵族已经迷恋上了蓝色王国的规模、辉煌和序列。他认为，作为死者之一，他没有必要推迟返回这里，并正在出售他的养老金，以加速他的结束。"
+  },
+  {
+    "key": "legacy_1d79a97513762ddaffd7",
+    "original": "\"He moves in stuttering starts, like a rabbit who knows a dog is about. Some call him a grave-robber, but he prefers 'archaeologist'. He's in no hurry, he professes, none at all, to shift these gemstones. Of <i>course</i> they're from a legitimate source: he plundered the vault himself.\"",
+    "translation": "\"他的动作结结巴巴，就像一只知道有狗来的兔子。有人叫他盗墓者，但他更喜欢 \"\"考古学家\"\"。他说，他不急于转移这些宝石，一点都不急。当然，这些宝石的来源是合法的：他自己掠夺了金库。\""
+  },
+  {
+    "key": "legacy_cc44c63410c36cfc582d",
+    "original": "\"He moves in stuttering starts, like a rabbit who knows a dog is about...\"",
+    "translation": "他在结结巴巴地开始移动，就像一只知道狗要来的兔子。"
+  },
+  {
+    "key": "legacy_2f94345bfd60d8647191",
+    "original": "\"While excavating ice to build their homes at the well's edge, the Psalmists unearthed a number of large, sinuous creatures frozen within it. The beasts thaw slowly. Still trapped, this one flicks a lazy eyelid. For a fee, you may take the monsters off the Psalmists hands.\"",
+    "translation": "诗人们在井边挖掘冰块建房时，发现了一些冻结在冰块中的大型蜿蜒生物。这些野兽慢慢解冻。仍然被困住的这只眼睛懒洋洋地眨了一下。有了钱，你就可以把这些怪物从诗篇家的手上拿走。"
+  },
+  {
+    "key": "legacy_253003d165bf81f9704f",
+    "original": "\"While excavating ice to build their homes at the well's edge, the Psalmists unearthed a number of large, sinuous creatures frozen within it...\"",
+    "translation": "在挖掘冰块以在井边建造他们的家园时，诗人们发现了一些冻结在其中的大型、蜿蜒的生物......。"
+  },
+  {
+    "key": "legacy_27a9b360c452dde10f87",
+    "original": "\"Some say that Navaratine gemstones are cooled sparks that once fell from the Forge of Souls during its heyday. The shades that watch over the Forge occasionally find a new trove of them glimmering among the mounds of ash and slag. One of the spirits, a Scorched Servitor, furtively sells handfuls of the gems in the shadow of the port's gate. It does not say what it wants with London currency.\"",
+    "translation": "有人说，曩縛咤宝石是全盛时期曾经从灵魂铸炉落下的冷却火花。看守铸炉的阴魂们偶尔会在灰烬和矿渣堆中发现新的宝石库，并在其中闪闪发光。其中一个阴魂，一个烧焦的仆人，在港口大门的阴影下偷偷摸摸地卖了一把宝石。它没有说它想用伦敦货币买什么。"
+  },
+  {
+    "key": "legacy_08dc9f6a62c9faa9c1a4",
+    "original": "\"Only a minority of the shades of the Blue Kingdom are human, or even human-like...\"",
+    "translation": "蓝色王国的阴影中只有少数是人类，甚至是类似人类的......"
+  },
+  {
+    "key": "legacy_cdfbb45443183548b0ac",
+    "original": "\"A many-legged spirit paws at your arm and pulls you towards a trove of hours it has piled in a ditch. These are hours shed by spirits intending to pass through Death's Door. Their quality is as good as any dug from a sky-rock, or from the Mother of Mountains.\"",
+    "translation": "一个多腿的灵魂用爪子抓着你的胳膊，把你拉向它堆在沟里的时间宝库。这些是打算通过死亡之门的灵魂所留下的时间。它们的质量不亚于从天岩上挖出来的，或者从山之母那里挖出来的。"
+  }
+]

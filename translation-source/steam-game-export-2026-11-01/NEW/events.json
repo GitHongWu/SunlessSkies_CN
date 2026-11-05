@@ -1,0 +1,287 @@
+[
+  {
+    "key": "legacy_e4d51557fc6851adcb0d",
+    "original": "A member of the crew has fallen hopelessly in love with your [qvd:138886(Name)][qvd:138891(Name)][qvd:138890(Name)][qvd:138892(Name)] Forged Companion.\"",
+    "translation": "\"一位船员无可救药地爱上了你的[qvd:138886(Name)][qvd:138891(Name)][qvd:138890(Name)][qvd:138892(Name)]锻造的同伴。\""
+  },
+  {
+    "key": "legacy_258b7347a0cf4b234567",
+    "original": "You duck behind a hissing pipe just in time to avoid the Pugilistic Forged Companion's [qvd:138894(Encounter)][qvd:139010(Encounter)] gaze. They walk slowly (damnably slowly), and you are forced to wait, wedged between the pipe and the wall, while they pass by. \r\n\r\nA sudden jet of steam scalds your flesh, and you cry out in shock. The Companion whips around. \"There you are,\" they say, yanking you from your hiding place. Before you can command them to stop, the Companion lands a punch in your midsection that catapults you into the hull with such force that it buckles.\"",
+    "translation": "\"你躲在一根嘶嘶作响的管子后面，刚好避开了武术锻造同伴[qvd:138894(Encounter)][qvd:139010(Encounter)]的注视。他们走得很慢（该死的慢），你被迫等待，夹在管子和墙之间，而他们则经过。\\一股突如其来的蒸汽烫伤了你的肉体，你震惊地叫了起来。同伴们扭头就走。他们说：\"你在这里，\"把你从藏身处拉出来。在你能命令他们停下来之前，同伴在你的腹部打了一拳，把你推到车体上，力量之大让车体弯曲。\""
+  },
+  {
+    "key": "legacy_7b488390001a6c23de89",
+    "original": "This will transform the Fortunate Navigator into the Stalwart Navigator, a First Officer who increases your Iron by 10, your Affiliation: Establishment by 1 and your Affiliation: Boheme by 1.",
+    "translation": "这会使走运的领航员成为忠实的领航员。这位大副会使你的钢铁增加10，人脉：权贵增加1，人脉：波西米亚派艺术家增加1。"
+  },
+  {
+    "key": "legacy_b568e6bd914e4aeb3d5e",
+    "original": "\"[qvd:133374(deprivation_penitent)] [qvd:133371(deprivation_crime)] [qvd:133374(to_cure)], [qvd:133374(penitent_pronoun)] [qvd:133372(deprivation_punishment)] [qvd:133352(reaction)]\r\n\r\nAs for your punishment, it does not bear speaking of.\"",
+    "translation": "\"[qvd:133374(deprivation_penitent)] [qvd:133371(deprivation_crime)] [qvd:133374(to_cure)], [qvd:133374(penitent_pronoun)] [qvd:133372(deprivation_punishment)] [qvd:133352(reaction)]\r\n\r\n 至于你的惩罚，它不值得说。\""
+  },
+  {
+    "key": "legacy_3e41e0e923833dc12eed",
+    "original": "This will transform your Inconvenient Aunt into Your Spymaster Aunt, a Quartermaster who increases your Iron by 10 and your Affiliation: Establishment by 2.\"",
+    "translation": "这会使令人困扰的姨妈成为你的间谍头目姨妈。她是一位军需官，会使你的钢铁增加10，人脉：权贵增加2。"
+  },
+  {
+    "key": "legacy_5e4a2d21c80c1789c4c3",
+    "original": "\"<i>'Life moves slowly here. There are arguments over the rules of bowls, and the correct amount of time to steep tea. The Station Master seems to avoid the villagers. There is an unusual unique quality to the starlight which filters through the underside of the caps.'</i>\"",
+    "translation": "\"<i>\"这里的生活进展缓慢。人们对碗的规则和沏茶的正确时间有争论。站长似乎在回避村民。滤过帽子底部的星光有一种不寻常的独特品质。\""
+  },
+  {
+    "key": "legacy_abb6736719a64018b22d",
+    "original": "The Orator takes upon himself to deliver a speech. Your crew, suitably inspired, band together and tackle the village head-on, clearing away clutter, sweeping up spores, even hacking away most of the fungi. By the end of the day, Hybras is habitable once again.\r\n\r\n\"This seems the most suitable accommodation for the embassy,\" declares the Orator, standing outside the modest town hall. \"For now, we shall set up our operations here. And one can only hope that in the future we grow.\"",
+    "translation": "\"演说家自告奋勇地发表了一篇演讲。你的船员们得到了适当的启发，他们团结一致，迎难而上，清理杂物，扫除孢子，甚至砍掉了大部分的真菌。在一天结束时，Hybras再次适合居住。\"这似乎是最适合大使馆的住所，\"演讲者站在简陋的市政厅外宣布。\"现在，我们将在这里建立我们的业务。人们只能希望在未来我们会有所发展。\""
+  },
+  {
+    "key": "legacy_bffa74b8ca5f24d30715",
+    "original": "Your crew draw lots. The three who drew short set out into the drift, armed with the big saw. They hack away at the still-vibrating stinger. There is a brief violet flash when a stoker's boot brushes against the sigil on the chorister's back.\r\n\r\nSoon, your crew return, hands golden with spilt fluid, the stinger held aloft. The settler offers to mend the stoker's scorched boot.\r\n\r\n",
+    "translation": "你的船员抽签。抽到短签的三个人带着大锯子出发到漂流中。他们砍掉了仍在震动的毒刺。当锅炉工的靴子擦过合唱者背上的标志时，出现了短暂的紫色闪光。很快，你的船员回来了，他们的手被溅出的液体染成金色，高举着毒刺。定居者提出要补好司炉的烧焦的靴子。"
+  },
+  {
+    "key": "legacy_1a966bf323780556ee2d",
+    "original": "A revolutionary invention! Its possibilities are thrilling, but have yet to be realised by lesser minds. At least your peers appreciate your ingenuity.\r\n",
+    "translation": "一个革命性的发明! 它的可能性是令人激动的，但还没有被较少的人意识到。至少你的同行们欣赏你的聪明才智。"
+  },
+  {
+    "key": "legacy_c43b8ec602da517a2e14",
+    "original": "\"'Hold the line,' your orders said. So you fought and bled on a foreign field, far from home.\"",
+    "translation": "\"坚守阵地，\"你们的命令说。于是你们在远离家乡的外国战场上战斗和流血。\""
+  },
+  {
+    "key": "legacy_e924d9fce3722850345e",
+    "original": "\"<i>The biological Infestation, known commonly as 'Guests', are in fact multiple Organisms...</i>\"",
+    "translation": "\"<i>通常被称为 \"客人 \"的生物侵扰，实际上是多种生物体......</i>。\""
+  },
+  {
+    "key": "legacy_93eaec9a6c448aa25219",
+    "original": "\"<i>The biological Infestation, known commonly to Conductors as 'Guests', are in fact multiple Organisms...</i>\"",
+    "translation": "\"<i>生物侵袭，导体通常称为 \"客人\"，实际上是多种生物体......</i>。\""
+  },
+  {
+    "key": "legacy_bc96888ed763f28dbfc4",
+    "original": "\"[qvd:133374(enlightenment_penitent)] [qvd:133371(enlightenment_crime)] [qvd:133374(to_cure)], [qvd:133374(penitent_pronoun)] [qvd:133372(enlightenment_punishment)] \r\n\r\nAs for your punishment, it does not bear speaking of. You don't have the stamina to wait it out.\"",
+    "translation": "\"[qvd:133374(enlightenment_penitent)] [qvd:133371(enlightenment_crime)] [qvd:133374(to_cure)], [qvd:133372(enlightenment_punishment)] \r\n\r\n至于你的惩罚，不值得一提。你没有足够的耐力来等待它。\""
+  },
+  {
+    "key": "legacy_5576668b2fedb4684a3a",
+    "original": "\"[qvd:133374(ordeal_penitent)] [qvd:133371(ordeal_crime)] [qvd:133374(to_cure)], [qvd:133374(penitent_pronoun)] [qvd:133372(ordeal_punishment)]\r\n\r\nAs for your punishment, it does not bear speaking of. You don't get through it.\"",
+    "translation": "\"[qvd:133374(ordeal_penitent)] [qvd:133371(ordeal_crime)] [qvd:133374(to_cure)], [qvd:133372(ordeal_punishment)]\r\n\r\n至于你的惩罚，不值得一提。你不可能通过它。\""
+  },
+  {
+    "key": "legacy_c1816b97f4ed75a926ef",
+    "original": "\"[qvd:133374(endurance_penitent)] [qvd:133371(endurance_crime)] [qvd:133374(to_cure)], [qvd:133374(penitent_pronoun)] [qvd:133372(endurance_punishment)] \r\n\r\nAs for your punishment, it does not bear speaking of. Your stamina does not hold up.\"",
+    "translation": "\"[qvd:133374(endurance_penitent)] [qvd:133371(endurance_crime)] [qvd:133374(to_cure)], [qvd:133372(endurance_punishment)] （至于你的惩罚，不值得一提。你的体力不支。\""
+  },
+  {
+    "key": "legacy_6178ee7b53938b932269",
+    "original": "\"[qvd:133374(endurance_penitent)] [qvd:133371(endurance_crime)] [qvd:133374(to_cure)], [qvd:133374(penitent_pronoun)] [qvd:133372(endurance_punishment)] [qvd:133353(reaction)]\r\n\r\nYour own punishment passes swiftly. Afterward you can't help notice some of it is a little sub-par. But the attendant seems happy with the penance you have acquired.\"",
+    "translation": "\"[qvd:133374(enurance_penitent)] [qvd:133371(enurance_crime)] [qvd:133374(to_cure)], [qvd:133372(enurance_punishment)] [qvd:133353(reaction)]\r\n\r\n你自己的惩罚迅速过去。事后你不禁注意到有些东西有点不合格。但服务员似乎对你获得的忏悔很满意。\""
+  },
+  {
+    "key": "legacy_7785ef5682f1d1662491",
+    "original": "\"We have...\" the Bedraggled Parson warbles, fingers steepled over his mouth. He weighs the next word like a heart on a scale: \" ... a transfer. And there are more coming to our doors. The Cult of the Displeased is generous, generous indeed. After all, we are the same, united in this study of suffering. Thank you. They Who Must Grieve know you now and they wait for when they may offer you their gratitude.\"",
+    "translation": "\"我们有...... 衣衫褴褛的帕森颤抖着，手指陡然放在嘴边。他掂量着下一个词，就像秤上的心一样。\"......一个转移。而且还有更多的人来到我们的门前。厌恶之教是慷慨的，确实是慷慨的。毕竟，我们是一样的，在这个研究苦难的过程中团结一致。谢谢你。必须悲伤的人现在知道了你，他们等待着何时可以向你表示感谢。\""
+  },
+  {
+    "key": "legacy_79cb9b91a8cd77f55293",
+    "original": "\"[qvd:135517(progress)]\r\n\r\nYou chat with the Vigilante, flinging ideas of shape and change back and forth. Once again, he waits for a lull, then changes the topic to the Liberation of Night. \"Do they expect us to believe that stars can be extinguished by mortals?\" he asks, shuddering with outrage. \"No, there are greater powers at work, I'd stake my soul on it. The humans flocking to Eleutheria are being deceived.\"\r\n\r\nAfter a moment's silence, he thanks you for your help. This time, you leave before he works himself into the Warrens.\"",
+    "translation": "\"[qvd:135517(progress)]\r\n\r\n你与守夜人聊天，来回甩动形状和变化的想法。他又一次等待着冷场，然后把话题转到了 \"夜的解放 \"上。\"他们希望我们相信星星可以被凡人熄灭吗？\"他问道，愤怒地颤抖着。\"不，有更大的力量在起作用，我愿意用我的灵魂打赌。涌向Eleutheria的人类被欺骗了。\"经过片刻的沉默，他感谢你的帮助。这一次，你在他把自己弄到沃伦地区之前就离开了。\""
+  },
+  {
+    "key": "legacy_9b8e23f03c8809b8f5e2",
+    "original": "\"[qvd:135465(chaplain_description_follow)]\r\n\r\nYou pass a squalling thing clinging to the wall. It lacks structure or substance, except its stark eyes. \r\n\r\n\"What was my name?\" it mewls.\"",
+    "translation": "\"[qvd:135465(chaplain_description_follow)]\r\n\r\n你经过一个依附在墙上的尖叫的东西。它缺乏结构或物质，除了它那呆滞的眼睛。\\\"我的名字是什么？\"它喃喃自语道。\""
+  },
+  {
+    "key": "legacy_ad32636d826b2a588150",
+    "original": "\"Don't look back.\"",
+    "translation": "\"不要回头看。\n更高，更高\n表演者咧嘴一笑，鞠躬，伸出一只手。然后继续。\""
+  },
+  {
+    "key": "legacy_fde82f3b162d44c4289d",
+    "original": "The Official cracks open a barrel and tastes an hour-crystal. The hours will, he concedes, do. \r\n\r\nEnclosed in your engine's pocket of hours, it is hard to say how long the passage will take. Unseasoned hours tend to be melancholy and anxious; your journey is likely to be wearing. \r\n\r\nThe machinery grinds and stirs. Steam vents. The sigils of the edifice burn with sullen fire. A force like a great hand seizes your engine.\r\n",
+    "translation": "官员打开了一个桶，品尝了一个小时晶体。他承认，这几个小时可以了。\\在你的引擎的小时口袋里，很难说这段旅程会花多长时间。没有经历过的时间往往是忧郁和焦虑的；你的旅程可能会很累。\\机器磨擦着，搅拌着。蒸汽喷出。大楼的标志燃烧着闷热的火焰。一股力量像一只大手抓住了你的引擎。"
+  },
+  {
+    "key": "legacy_a7ffbf4e093e9dfc78c0",
+    "original": "\"<I>She found profit in love and death, many times over. Her story should have ended at the bottom of the well where her last 'victim' overcame her. But the deepest wells often echo each other. When circumstances are right, their depths can bleed together.</I>\"",
+    "translation": "\"<一>她在爱情和死亡中找到了利益，多次的利益。她的故事本应在她最后的 \"受害者 \"战胜她的井底结束。但最深的井往往是相互呼应的。当情况合适的时候，它们的深度就会流淌在一起。\""
+  },
+  {
+    "key": "legacy_307fd4a1cf6c9d99d1de",
+    "original": "The Scrive-Spinsters were wrought from bronzewood, now popular with London train-wrights and cabinet-makers. ",
+    "translation": "斯克里夫人是用青铜木锻制的，现在在伦敦的火车司机和橱柜制造商那里很受欢迎。"
+  },
+  {
+    "key": "legacy_e0802c5e61ff686114a2",
+    "original": "\"[qvd:138076(sfc_entry)][qvd:138077(sfc_entry)][qvd:138078(sfc_entry)]\r\n\r\n\"Your entry permission lasts one month only,\" says the Administrator, stamping a certificate and handing it to you.\"",
+    "translation": "\"[qvd:138076(sfc_entry)][qvd:138077(sfc_entry)][qvd:138078(sfc_entry)]\r\n \"你的入境许可只持续一个月，\"管理员说，在一张证书上盖章，并把它递给了你。\""
+  },
+  {
+    "key": "legacy_5ae6151de56c9fa6c784",
+    "original": "\"[qvd:138480(wedlock_commentary2)]\r\n\r\nThe Well's walls are teeming, cascading, with frozen sorrow-spiders. <i>[qvd:138480(wedlock_commentary)]</i>The Relict reaches out and plucks one like fruit, holding it reverently.\r\n\r\n\"Do you take this spider as your lawful wedded husband?\" asks the Widow, words half-snatched by the wind. You nod. \r\n\r\n\"You may now devour the groom.\"\r\n\r\nIt takes several painful swallows to force the lump of ice to slide down your throat. It gets easier as it melts. For a moment, as it warms and softens and descends, you feel the twitch of a leg.\"",
+    "translation": "\"[qvd:138480(wedlock_commentary2)]/r\n\r\n井壁上充斥着，层层叠叠的，冰冷的悲伤蜘蛛。<i>[qvd:138480(wedlock_commentary)]</i>Relict伸出手，像摘果子一样摘下一只，虔诚地拿着它。<r\n\r\n \"你接受这只蜘蛛作为你合法的丈夫吗？\"寡妇问道，话语被风吹得半响。你点点头。\\你现在可以吞噬新郎了。\"花了几次痛苦的吞咽才迫使这块冰滑入你的喉咙。随着它的融化，它变得更容易了。有那么一刻，当它变暖、变软、下降时，你感觉到一条腿在抽搐。\""
+  },
+  {
+    "key": "legacy_d48bee14787d9cbb4557",
+    "original": "\"<i>Enough!</i> the Masked Citizen's second mouth snaps. <i>Answers have been given; understanding bestowed. We will not speak again except in one instance, should it come to pass.</i> \r\n\r\nThe mouths crawl down face and neck to position themselves more discreetly. You can feel it, when your clothes catch on it.\r\n\r\nEleutheria's midnight sun withdraws gradually from the window, but the thudding pressure of its attention is still on you. If it is possible, it seems pleased.\r\n\r\nMr Barleycorn stands. \"Please leave,\" it says.\r\n\r\nWhen you return to your engine, the Masked Citizen says \"I would very much like to go home,\" and locks themselves in their cabin.\"",
+    "translation": "\"<i>够了！<i>蒙面公民的第二张嘴咬住了。<i>答案已经给出；理解已经赋予。我们不会再说话，除了在一个例子中，如果它实现了。<i>口中爬下脸和脖子，使自己的位置更谨慎。你可以感觉到它，当你的衣服被它抓住的时候。Eleutheria的午夜太阳逐渐从窗口撤走，但它的注意力的砰砰的压力仍在你身上。如果有可能的话，它似乎很高兴。Barleycorn先生站起来。\"当你回到你的引擎时，蒙面公民说 \"我很想回家\"，然后把自己锁在他们的舱里。\""
+  },
+  {
+    "key": "legacy_5b1116acdd2442bd1576",
+    "original": "\"<i>'They burned the charts, for what use were they now? The </i>Incorrigible<i> thundered through an empty, unnamed heaven, blown with a frost-wind. Ahead, a new sun blazed, the size of a penny through the forward windows. There was a long way to go.'</i>\"",
+    "translation": "\"<i>\"他们烧掉了图表，它们现在有什么用？无可救药 \"号以迅雷不及掩耳之势穿过一个空旷的、无名的天堂，被霜风吹拂着。在前方，一个新的太阳在燃烧，透过前窗，只有一个硬币大小。还有很长的路要走。\"</i>。\""
+  },
+  {
+    "key": "legacy_a41fee2b634ff1802bc6",
+    "original": "\"<i>'On the third day, it rained. The sky was a grey, drizzly circle in the well's mouth, far above. The rubble underfoot darkened, then swam with mud. Perhaps he would drown today, Joseph thought. \"A slow way to die,\" he remarked to the skeleton that shared the well with him. Raindrops tip-tapped on its skull.</i>\r\n\r\n<i>'The skeleton was a good listener. Joseph had already shared all his secrets with it. All, that is, except one. Now, holding onto that last secret seemed pointless. After all, he was likely to drown before dinnertime. He cleared his throat. \"It was I who pushed you,\" he confessed.</i>\"",
+    "translation": "\"<i>\"第三天，下雨了。天空在井口处，远远望去，是一圈灰蒙蒙的细雨。脚下的瓦砾变黑了，然后被泥浆淹没。也许他今天会淹死，约瑟夫想。\"一个缓慢的死亡方式，\"他对与他共处一井的骷髅说。雨滴滴在它的头骨上。<i>\r\n\r\n<i>\"骷髅是个好的听众。约瑟夫已经和它分享了他所有的秘密。所有的，也就是说，除了一个。现在，守住最后一个秘密似乎毫无意义。毕竟，他很可能在晚餐前就被淹死。他清了清嗓子。\"是我推了你，\"他承认。\""
+  },
+  {
+    "key": "legacy_f049b3d756047dbb53d3",
+    "original": "\"<i>'His companion's hooves thumped on the crimson carpet. The corridor was long and lined with doors, each with a brass knob. He opened one. The room behind was filled from floor to ceiling with bottled souls. He tried another: the same. \"We've never found a use for them,\" the devil admitted.'</i>\"",
+    "translation": "\"<i>\"他的同伴的马蹄在深红色的地毯上咚咚作响。走廊很长，两边都是门，每个门都有一个铜把手。他打开了一扇。后面的房间从地板到天花板都装满了瓶装的灵魂。他又试了试另一个：也是如此。\"我们从未发现它们的用途，\"魔鬼承认。\""
+  },
+  {
+    "key": "legacy_2a6ec9752d74c631ae4c",
+    "original": "\"<i>'Another silent century passed. Upon the throne, the king's corpse withered and sagged, mould devouring the incarnadine robes. Then, a sound. The doors opened. A woman entered: young, scarred, a sword in her hand. Behind her were more men. More swords. \"About time,\" thought the throne.'</i>\"",
+    "translation": "\"<i>\"又一个沉默的世纪过去了。在王座上，国王的尸体枯萎了，下垂了，霉菌吞噬了圣洁的袍子。然后，一个声音。大门打开了。一个女人进来了：年轻，有疤痕，手里拿着一把剑。在她身后是更多的人。更多的剑。\"大约是时候了，\"王座想。'/i>\""
+  },
+  {
+    "key": "legacy_675831c06ac0a9e301fe",
+    "original": "\"<i>'Being a tale of political inevitability, from the perspective of empire.'</i>\"",
+    "translation": "\"<i>\"从帝国的角度来看，这是一个关于政治必然性的故事。\""
+  },
+  {
+    "key": "legacy_3160973150008bdd3f8b",
+    "original": "\"<i>'Amelia looked through the glass. Her sister had returned. In one hand she held a necklace of muddy diamonds, dug from a doyenne's grave. From the other dangled the corpse of a doe. Around Katherine's stretched throat, Amelia could still see the rope-marks; white and neat as a vicar's collar.'</i>\"",
+    "translation": "\"<i>\"阿米莉亚透过玻璃看了看。她的妹妹已经回来了。她的一只手拿着一条从一个女商人的坟墓里挖出来的泥泞的钻石项链。另一只手吊着一具母鹿的尸体。在凯瑟琳被拉长的喉咙周围，阿米莉亚仍然可以看到绳索的痕迹；像牧师的衣领一样白而整齐。\""
+  },
+  {
+    "key": "legacy_f8b7cf565fc86c5ef8d4",
+    "original": "\"<i>'The ladle steamed. \"Another portion?\" asked the Parson's wife. \"Why not?\" Constance replied, and raised her bowl. The Parson's crockery was old and pretty. His chair was comfortable. His house needed only modest improvements, mostly in the area of the curtains. Perhaps he would be missed, but no one would ever find his remains. As long as Constance finished the stew.'</i>\"",
+    "translation": "\"   \"再来一份？\"牧师的妻子问。\"为什么不呢？康斯坦丝回答说，并举起她的碗。牧师的餐具又老又漂亮。他的椅子很舒服。他的房子只需要适度的改进，主要是在窗帘方面。也许人们会怀念他，但没有人会找到他的遗体。只要康斯坦丝完成了炖肉。\""
+  },
+  {
+    "key": "legacy_b1a55667310d71f73028",
+    "original": "\"'Your Aunt' meets you in a smoky pub backroom. She is a formidable lady of advanced years. \"I'm an excellent Quartermaster. My references are impeccable and my facility with a cipher commendable. My work requires me to travel for a time.\" She smiles brightly. \"We'll be best of friends, I'm sure.\"  She begins to gather her things. \"I'm sure we're related somehow. Would you care for a scone before we go?\"\r\n\r\nShe has extracted gossip from you before she has even boarded. This woman is <i>skilled</i>.\"",
+    "translation": "\"你的姨妈 \"在一个烟雾缭绕的酒馆密室里与你见面。她是一位年富力强的女士。\"我是一个优秀的军需官。我的推荐信无懈可击，我对密码的运用也值得称赞。我的工作需要我暂时出差。\" 她笑得很开心。\"我们会成为最好的朋友，我肯定。\"  她开始收拾她的东西。\"我确信我们有某种关系。在我们走之前，你想吃个烤饼吗？\"她在上船之前就已经从你那里套出了一些八卦。这个女人很有技巧。\""
+  },
+  {
+    "key": "legacy_2fbafe055ce215530cb6",
+    "original": "\"'Your Aunt' meets you in a moonlit grove. She introduces herself as February and winks ostentatiously. \"Work requires me to travel for a bit. I'm a commendable Quartermaster and have facility with ciphers, arson and firearms.\" She smiles wickedly. \"I'm sure we'll get along famously.\" \r\n\r\nShe has extracted gossip from you before she has even boarded. This woman is <i>skilled</i>.\"",
+    "translation": "\"你的姨妈 \"在月光下的小树林里与你见面。她自我介绍说是二月，并夸张地眨着眼睛。\"工作需要我去旅行一下。我是一个值得称赞的军需官，对密码、纵火和火器都很在行。\" 她邪恶地笑了笑。\"我相信我们会相处得很好的。\" \\她在上船之前就已经从你那里套出了一些八卦。这个女人很有技巧。\""
+  },
+  {
+    "key": "legacy_76dc4261d660d81af455",
+    "original": "A sleepy warmth oozes through the curtains. Admission is free. What awaits inside is negotiable.\r\n",
+    "translation": "昏昏欲睡的温暖透过窗帘渗透出来。参观是免费的。里面的东西是可以商量的。"
+  },
+  {
+    "key": "legacy_2a3538d18830d64cb536",
+    "original": "Cheerio!",
+    "translation": "Cheerio！"
+  },
+  {
+    "key": "legacy_2a799906ac25e5a69343",
+    "original": "Isadore",
+    "translation": "Isadore"
+  },
+  {
+    "key": "legacy_bc506957b87a5d2ec0fb",
+    "original": "The <i>Berrenger</i> is a waste of time, and should be destroyed.",
+    "translation": "<i>Berrenger</i>是在浪费时间，应该被摧毁。"
+  },
+  {
+    "key": "legacy_31d6dbe3fe8b1732b4ba",
+    "original": "Forwaaaaard... march!",
+    "translation": "Forwaaaaard...行进！"
+  },
+  {
+    "key": "legacy_df320604659df023d753",
+    "original": "Tensions are high, and the crew are making mistakes.\r\n\r\nThe preternaturally fertile seeds of the Reach must be stored with the utmost care. A flicker of light, a lap of moisture  and they burst into violent growth.\r\n\r\nLike the sack in your hold, from which questing vines have groped, knotting around your cargo.\"",
+    "translation": "局势紧张，船员们接连出错。\n\n外野的种子繁殖力惊人，储存时必须格外小心。只要闪过一丝光亮，沾上一点水分，它们便会疯长。\n\n你货舱里那一袋就是如此：探寻的藤蔓从袋中伸出，缠住了你的货物。"
+  },
+  {
+    "key": "legacy_2167462edd6769928ee2",
+    "original": "Magdalene's is abuzz with activity.",
+    "translation": "抹大拉之家一片忙碌。"
+  },
+  {
+    "key": "legacy_6ac27c26d20d357aedcb",
+    "original": "A nurse from Magdalene's opens up the crate and breathes a sigh of relief.\"",
+    "translation": "抹大拉之家的一名护士打开箱子，松了一口气。"
+  },
+  {
+    "key": "legacy_570f67b8280995ae4459",
+    "original": "The auction is taking place in a sumptuous hall in the east wing of Magdalene's, and the crowd are clearly composed of wealthy dignitaries and collectors. You can tell by the monocles, moustaches, and fascinators on display.\r\n\r\nYou slip comfortably into the role of auctioneer, your voice spilling from you with machine-like rapidity, your gavel thrusting at the crowd like a rapier. \"Sold!\" you declare finally, and for a very respectable price too. This will be the main talking point of the auction, you are sure.\"",
+    "translation": "\"拍卖会在马格达林东翼的一个豪华大厅举行，人群显然是由富有的权贵和收藏家组成。你可以从展示的单片眼镜、小胡子和法帽上看出来。你舒服地进入了拍卖师的角色，你的声音以机器一样的速度溢出，你的槌子像一把剑一样刺向人群。\"成交！\"你最后宣布，而且是以一个非常体面的价格。这将是拍卖会的主要话题，你确信。\""
+  },
+  {
+    "key": "legacy_60ecd304cf90f4646743",
+    "original": "The auction is taking place in a sumptuous hall in the east wing of Magdalene's, and the crowd are clearly composed of wealthy dignitaries and collectors.",
+    "translation": "拍卖会在抹大拉之家东翼的一间豪华大厅里举行，来宾显然都是富有的权贵和收藏家。"
+  },
+  {
+    "key": "legacy_4e2c7d739259dc46a996",
+    "original": "You require someone good with animals, with an ample lap and boundless patience. The most senior attendant at Magdalene's steps forward. \"I could do with a challenge,\" she says.\"",
+    "translation": "你需要一位善于照料动物、有宽大的膝头和无限耐心的人。抹大拉之家最资深的侍从站了出来。“我正想找点挑战呢。”她说。"
+  },
+  {
+    "key": "legacy_c9861eac45e78577cf3b",
+    "original": "The glass spires of Magdalene's pierce the clouds like swords.",
+    "translation": "抹大拉之家的玻璃尖塔如利剑般刺入云层。"
+  },
+  {
+    "key": "legacy_14a44a32129d78b27db3",
+    "original": "Your new crew shuffle aboard and pick their bunks, leaving their old Captain in the caring hands of Magdalene's finest.",
+    "translation": "新船员们拖着脚步登上机车，挑选自己的铺位，把老车长交给抹大拉之家最优秀的人照顾。"
+  },
+  {
+    "key": "legacy_26e269782d737a999d27",
+    "original": "Magdalene's is a popular respite with most skyfarers in the Reach. There's always someone interesting to share a drink with in this house of comfort.",
+    "translation": "抹大拉之家是外野许多行天客喜爱的休憩之处。在这座安乐之家，总能找到有趣的人一起喝上一杯。"
+  },
+  {
+    "key": "legacy_ed69a6030b88110a11b2",
+    "original": "A bright-eyed attendant is at the registration desk. She listens with interest, before ringing a small bell situated beneath her papers.\r\n\r\nDid you know Magdalene's had a small standing army? You did not  and neither, it seems, did the captain of the smuggling engine. The ensuing brawl is vigorous and brief.  No one is killed and the smugglers leave, bruised but functional. They will, the attendant informs you, not be permitted back in Magdalene's. She predicts mutiny aboard the engine. There is a small purse for your trouble.",
+    "translation": "一个眼睛明亮的服务员正在登记台前。她饶有兴趣地听着，然后摇了摇她文件下面的小铃铛。你知道马格达林有一支小规模的常备军吗？你不知道，似乎走私车的车长也不知道。随之而来的争吵是激烈而短暂的。 没有人被杀，走私者们离开了，虽然伤痕累累，但还算正常。服务员告诉你，他们将不被允许回到马格达林餐厅。她预言发动机上会发生兵变。你的麻烦有一个小钱包。"
+  },
+  {
+    "key": "legacy_250f66117088999fc6dd",
+    "original": "A mining vessel has docked at Magdalene's to the consternation of its residents.",
+    "translation": "一艘采矿船停靠在抹大拉之家，令这里的居民感到不安。"
+  },
+  {
+    "key": "legacy_a4bf8d0a2709f58f510a",
+    "original": "The crew wrap the Sky-Maddened Captain in blankets then secure them tightly with belts. It takes four to transport him safely to your locomotive. He might not be happy restrained, but it should keep him from harm until you get him to Magdalene's.",
+    "translation": "船员们用毯子裹住天狂症车长，再用皮带牢牢固定。四个人才把他安全送上你的机车。他或许不喜欢被束缚，但这至少能保护他，直到你把他送到抹大拉之家。"
+  },
+  {
+    "key": "legacy_c04a8a1c6f72838205d0",
+    "original": "\"He's defective. Plain to hear; no wonder he lives surrounded by humans. If they only knew true Clay music\" The Conductor grimaces.\r\n\r\nHe directs your attention to a crumpled brochure. It is for Magdalene's House of Small Comfort in the Reach. 'Any company the weary skyfarer needs, we shall provide. Anyone you can think of; those of a Rubbery persuasion, the company of the dead, even Clay company.' The Conductor taps the page. \"We shall see... Can we?\"",
+    "translation": "\"他是有缺陷的。朴实无华；难怪他生活在人类的包围之中。如果他们只知道真正的克莱音乐，指挥家龇牙咧嘴。他把你的注意力引到一本皱巴巴的小册子上。这是为马格达林的 \"小康之家 \"准备的。疲惫的空中旅行者需要的任何陪伴，我们都会提供。任何你能想到的人；那些有橡胶癖的人，死人的同伴，甚至克莱的同伴。指挥官敲击着这一页。\"我们将看到... 我们可以吗？\""
+  },
+  {
+    "key": "legacy_c720acfc7b687c1f6ad4",
+    "original": "You try to shout over the tumult, but your voice is just one among many. \r\n\r\n\"What will we do without her? I don't know the first thing about\"\r\n\"already bad, and just going to get worse\"\r\n\"she helped design the b__dy thing, never thought she'd\"\r\n\"need to go back to London. Get my family to the Reach\"\r\n\r\nIn the distance, a colossal cog grinds to a halt. Something snaps with a noise like gunshot. Still arguing, the engineers rush to deal with it.\"",
+    "translation": "\"你试图在喧嚣中喊叫，但你的声音只是众多声音中的一个。\\没有她，我们该怎么办？I don't know the first thing about \"已经很糟糕了，而且会越来越糟 \"她帮助设计了那个该死的东西，从来没有想过她会 \"需要回到伦敦。Get my family to the Reach \"在远处，一个巨大的齿轮嘎然而止。有东西断裂，发出像枪声一样的声音。工程师们还在争论，他们急着去处理这个问题。\""
+  },
+  {
+    "key": "legacy_7c47a87536a613e62e5c",
+    "original": "You step back and allow the engineers to work it out among themselves. This seems to mostly consist of bellowing and posturing. You can catch a few phrases amidst the tumult.\r\n\r\n\"What will we do without her? I don't know the first thing about\"\r\n\"already bad, and just going to get worse\"\r\n\"she helped design the b__dy thing, never thought she'd\"\r\n\"need to go back to London. Get my family to the Reach\"\r\n\r\nIn the distance, a colossal cog grinds to a halt. Something snaps with a noise like gunshot. Still arguing, the engineers rush to deal with it.\"",
+    "translation": "\"你退后一步，让工程师们自己解决这个问题。这似乎主要包括吼叫和姿态。你可以在骚动中捕捉到几个短语。\"没有她我们该怎么办？我不知道第一件事是什么\"。\"已经很糟糕了，而且会越来越糟\"。\"她帮助设计了那个该死的东西，从来没有想过她会\"。\"需要回到伦敦。Get my family to the Reach \"在远处，一个巨大的齿轮嘎然而止。有东西断裂，发出像枪声一样的声音。工程师们还在争论，他们急忙去处理它。\""
+  },
+  {
+    "key": "legacy_f1a775ead663eb2dcde7",
+    "original": "\"The host at Magdalene's needs an urgent delivery of seeds; paying a pretty penny, too. If I were you, I'd get to the bazaar straight away; put my mark against it.\"\r\n\r\nMeg grunts. \"Broker in Port Avon is selling cheap seeds. Chirpy chap; God knows why. 'is face looks like it's been pushed through a mangle.\"\r\n\r\nAn opportunity!\r\n\r\nPort Avon lies to the north of New Winchester, and Magdalene's lies to the west of New Winchester.\r\n\r\n<style=\"descriptive\">Accept this Prospect from the bazaar if you haven't already, then buy seeds from the bazaar in Port Avon and sell them at Magdalene's.</style>",
+    "translation": "\"马格达林的主人需要紧急运送种子；还得付不少钱。如果我是你，我会马上去巴扎；把我的记号写在上面。\"\r\n\r\nMeg哼了一声。\"埃文港的经纪人正在出售廉价的种子。这家伙很狡猾，上帝知道为什么。他的臉看起來像是被推過來的。\"\r\n\r\n一个机会!\r\n\r\n埃文港位于新温彻斯特的北部，马格达林的房子位于新温彻斯特的西部。\r\n\r\n<style=\"descriptive\">如果你还没有接受集市上的这份展望，那么就从埃文港的集市上购买种子，然后在马格达林那里出售。</style>"
+  },
+  {
+    "key": "legacy_83ccb5333b37400a2974",
+    "original": "\"The host at Magdalene's needs an urgent delivery of seeds; paying a pretty penny, too.",
+    "translation": "“抹大拉之家的主人急需一批种子，报酬也很丰厚。"
+  }
+]
