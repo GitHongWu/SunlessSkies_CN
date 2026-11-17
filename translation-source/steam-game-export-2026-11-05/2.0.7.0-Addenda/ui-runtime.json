@@ -148,5 +148,80 @@
     "key": "ui_runtime_96404e59de21",
     "original": "If you have heard of any opportunities to acquire trade goods via unusual means, they will appear here.",
     "translation": " 如果你听说有任何通过不寻常手段获得贸易货物的机会，它们将出现在这里。"
+  },
+  {
+    "key": "ui_runtime_f950050832f0",
+    "original": "We have no scout on board!",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_87fdc2e3f03f",
+    "original": "You do not have enough supplies!",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_9da29d8beed3",
+    "original": "Nothing Found",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_87272bf01e5d",
+    "original": "You cannot engage Full Steam Mode at half heat!",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_be24848827e8",
+    "original": "You do not have enough crew to engage Full Steam Mode!",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_c5c4e19258ac",
+    "original": "You do not have enough fuel to engage Full Steam Mode!",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_52439fd7f644",
+    "original": "Regrettably, you no longer meet the requirements for some of your locomotive equipment. It has been unequipped and returned to your hold.",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_c815d693f782",
+    "original": "You cannot change equipment unless you're docked.",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_3324b26170cd",
+    "original": "Character no longer eligible for event",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_2c72d39bd1f4",
+    "original": "Result was a failure",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_62763a31fb9d",
+    "original": "Character is not at an event",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_1ef794e5f3f4",
+    "original": "Event is no longer Open for the Character",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_f62cb9b116ec",
+    "original": "There is no CurrentCharacter on CharacterService.",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_672d54b6221d",
+    "original": "There is no CurrentCharacter on CharacterService",
+    "translation": ""
+  },
+  {
+    "key": "ui_runtime_bfe2b988c00b",
+    "original": "   (Merciful Mode)",
+    "translation": ""
   }
 ]
