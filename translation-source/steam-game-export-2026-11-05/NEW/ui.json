@@ -1,0 +1,17 @@
+[
+  {
+    "key": "legacy_07d15c821e15b1751920",
+    "original": "{{A}} barrels in hold. \n{{B}}% remaining in current barrel.",
+    "translation": "货舱中剩余{{A}}桶.\n这一桶中还剩{{B}}%."
+  },
+  {
+    "key": "legacy_57597e10d419e6ad86d5",
+    "original": "Terror: {{A}}%\nNightmares: Untroubled",
+    "translation": "恐怖:{{A}}%\n恶梦:无所畏惧"
+  },
+  {
+    "key": "legacy_1eafc83a25516d467243",
+    "original": "{{A}} crates in hold. \n{{B}}% remaining in current crate.",
+    "translation": "货舱中剩余{{A}}箱。 \n这一箱中还剩{{B}}%。"
+  }
+]
