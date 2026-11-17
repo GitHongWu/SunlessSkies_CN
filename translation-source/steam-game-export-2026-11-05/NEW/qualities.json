@@ -37,7 +37,7 @@
   {
     "key": "legacy_7c23cd81f8ad6f1b81fc",
     "original": "Reach: Titania",
-    "translation": "抵达。泰坦尼亚"
+    "translation": ""
   },
   {
     "key": "legacy_fa44132b238e67958fb1",
@@ -63,5 +63,1715 @@
     "key": "legacy_a6d1765ab64d82a7ac06",
     "original": "incidents",
     "translation": "事件"
+  },
+  {
+    "key": "legacy_46401dc068e724efd350",
+    "original": "reduction",
+    "translation": "减少"
+  },
+  {
+    "key": "legacy_26ec6b9167f97937698f",
+    "original": "The Ringmaster waves you in as you poke your head through the tent flap. He offers you a seat, a spot of coffee, and knowledge of your future. \n\n\\My cards know it all,\\ he says, tapping the pack poking out of his breast pocket. He shuffles, and bids you cut; then, he turns over a few from the top, and make vague proclamations about future successes.",
+    "translation": "当你把头探进帐篷的挡板时，团长向你招手。他给你提供了一个座位，一杯咖啡，以及关于你未来的知识。\\他说：我的牌知道这一切，他敲打着从胸前口袋里探出的牌包。他洗牌，并让你切牌；然后，他从上面翻出几张，并对未来的成功做了模糊的宣告。"
+  },
+  {
+    "key": "legacy_2f8c2106ebd8321ae8cd",
+    "original": "The Ringmaster closes the volume he was reading as you enter. He smiles congenially. \\I'm studying the Reach's history. I can't help but feel Plenty and I should have researched our rock better before settling.\\ \n\nHim and Plenty? Is he Polmear? The Ringmaster smiles proudly, but says nothing.",
+    "translation": "当你进来时，马戏团团长合上了他正在阅读的书。他友好地笑了笑。\\我正在研究Reach的历史。我不禁觉得，在定居之前，丰盛和我应该更好地研究我们的岩石。\\他和丰盛？他是Polmear吗？圈主得意地笑了笑，但什么也没说。"
+  },
+  {
+    "key": "legacy_4cee42bdd360b4e0232a",
+    "original": "The leading crewmember holds up a hand. The tip of their middle finger is missing. Apparently, it was there last night. The creature was found under their bed the next morning  it must be to blame.\n\nIt's admirably neat work. No bite marks, no scabbing, no blood. It's just as if the fingertip had never existed.",
+    "translation": "领先的机组成员举起一只手。他们的中指尖不见了。很显然，它昨晚就在那里。第二天早上在他们的床下发现了这个生物，它一定是受到了责备。这是令人钦佩的整洁的工作。没有咬痕，没有结痂，没有血迹。就像指尖从来没有存在过一样。"
+  },
+  {
+    "key": "legacy_ece39284bdff924531d0",
+    "original": "Two stokers explain that they nearly came to blows after one accused the other of stealing his wedding ring  after all, the accused party was wearing it at the time! It was only later that  they realised the ring was on the correct finger, but that their fingers had been swapped. Dilly has been up to her tricks again.",
+    "translation": "两个司炉工解释说，他们在一个人指责另一个人偷了他的结婚戒指后几乎发生了冲突，毕竟被指控的一方当时正戴着它！。后来他们才意识到，戒指是戴在正确的手指上，但他们的手指被调换了。迪莉又开始耍花招了。"
+  },
+  {
+    "key": "legacy_00e1cd91841cd2125b78",
+    "original": "You find an address among the dead settlers belongings: a small house, not far from the station. An old woman answers the door, a young child at her elbow. She nods stiffly as she sees you. She accepts his crated corpse. You are not invited in.",
+    "translation": "你在死去的定居者的物品中找到了一个地址：一个小房子，离车站不远。一个老妇人应门而入，她的肘部有一个年轻的孩子。她看到你时，僵硬地点点头。她接受了他装箱的尸体。没有人邀请你进去。"
+  },
+  {
+    "key": "legacy_6ecf348546737c0e4f1d",
+    "original": "The return to Port Prosper doesnt seem to surprise your wanted passenger.  The Ministrys men are waiting at the station. She holds out her slim wrists to be manacled when you dock. She goes quietly, but she does not break eye contact with you until she is forcibly pulled away.",
+    "translation": "回到普罗斯珀港似乎并没有让你的通缉犯感到惊讶。 部里的人在车站等着呢。她伸出纤细的手腕，准备在你靠岸时被铐住。她安静地走了，但她没有与你有任何眼神接触，直到她被强行拉走。"
+  },
+  {
+    "key": "legacy_967c1707495d47b51d0d",
+    "original": "The settler claps you hard on the back, like an old schoolmate you'd rather forget. \\Good show! I should say we got here in record time. Record time! Let's hope they're as eager here as you've been. Here's your reward.\\ ",
+    "translation": "定居者用力拍打你的背，就像你宁愿忘记的老同学一样。\\Good show! 我应该说我们在创纪录的时间内到达这里。创纪录的时间! 让我们希望他们在这里像你一样渴望。这是你的奖励。 "
+  },
+  {
+    "key": "legacy_505d1ad3a739e5584617",
+    "original": "Initiate",
+    "translation": "启动"
+  },
+  {
+    "key": "legacy_720cfd0ba592c96de42c",
+    "original": "You set down beside a humble homestead whose owners  despite their ragged sleeves  insist on inviting you in.",
+    "translation": "你在一个简陋的宅院旁坐下，其主人尽管衣袖褴褛，但仍坚持邀请你进去。"
+  },
+  {
+    "key": "legacy_157fd0120f89710f0134",
+    "original": "You set down in a quiet homestead. The buildings are well kept  the fences recently painted, the plants thoroughly beaten back. But no one comes out to greet you.",
+    "translation": "你在一个安静的宅基地上坐下。建筑物保持得很好，栅栏最近被粉刷过，植物被彻底打掉了。但没有人出来迎接你。"
+  },
+  {
+    "key": "legacy_15fb9c98011ab1256818",
+    "original": "A small group is dancing in the yard before the homestead. There is little rhythm to the dance  it is the exuberant limb-flinging of the truly happy and the substantially drunk.",
+    "translation": "一小群人正在家园前的院子里跳舞。舞蹈没有什么节奏，是真正快乐的人和大醉的人旺盛的肢体扭动。"
+  },
+  {
+    "key": "legacy_e1bf63951fe99797d20d",
+    "original": "Your host serves a grim  but filling  gruel, then follows it with a plate of genuinely exceptional custard tarts. Your crew descend upon them like Chorister-bees upon a rival hive.",
+    "translation": "你的主人为你端上了粗糙但饱满的稀饭，然后又端上了一盘真正意义上的特殊蛋挞。你的船员们就像是在敌对的蜂巢里的 乔里斯特 蜜蜂一样，向他们扑去。"
+  },
+  {
+    "key": "legacy_24abaef1e1c3a7276b18",
+    "original": "Habitation",
+    "translation": "住所"
+  },
+  {
+    "key": "legacy_9f377c66c7f2ca1209f0",
+    "original": "Ruins",
+    "translation": "废墟"
+  },
+  {
+    "key": "legacy_9f917fbace5ffe361a2f",
+    "original": "You fling down your lamp and run to the gate. Your footfall echoes in the long dark as you descend the stairs to the sunken gates. Your mother cries out joyously: her child, returned for her! Your hands scrabble at the metal ",
+    "translation": "你扔下你的灯，跑向大门。你的脚步声在漫长的黑暗中回荡，你走下楼梯，来到下沉的大门口。你的母亲高兴地喊道：她的孩子，为她回来了！你的手在金属门上乱抓。你的手在金属上乱抓一通"
+  },
+  {
+    "key": "legacy_4036c838a8f846e03cbc",
+    "original": "You fling down your lamp and run to the gate. Your footfall echoes in the long dark as you descend the stairs to the sunken gates. You crewman cries out  his captain will not leave a man behind! Your hands scrabble at the metal ",
+    "translation": "你扔下你的灯，跑向大门。你的脚步声在漫长的黑暗中回荡，你从楼梯上走到了下沉的城门。你的船员喊道：他的船长不会留下一个人的！。你的手在金属上乱抓一通"
+  },
+  {
+    "key": "legacy_2b224a779a67b5ffbaeb",
+    "original": "You fling down your lamp and run to the gate. Your footfall echoes in the long dark as you descend the stairs to the sunken gates. You lovers cries out   even death will not stay your love! Your hands scrabble at the metal ",
+    "translation": "你扔下你的灯，跑向大门。你的脚步声在漫长的黑暗中回荡，你从楼梯上走到沉没的大门。你的恋人哭喊着，即使是死亡也不能阻挡你的爱！你的手在金属上乱抓。你的手在金属上乱抓一气"
+  },
+  {
+    "key": "legacy_9302aae9314cdef12281",
+    "original": "The Feckless Theologian suddenly embraces you. He is near crying. \\Please don't die.\\ He backs away, towards the entrance.\n",
+    "translation": "无能的神学家突然拥抱了你。他几乎要哭了。\\请不要死。 他向后退去，朝着入口走去。"
+  },
+  {
+    "key": "legacy_de3147e9d3037adfb3d1",
+    "original": "The Theologian burst into laughter and embraces you. \\Well, I supposes that's freed us all. Wait till I tell the others what you did!\\ He returns to your locomotive in high spirits, eager to return to the Summerset camp, and later, back to London, where he intends to publish a popular novel about all of this.",
+    "translation": "神学家 突然大笑起来，拥抱了你。\\Well, Isupposes that's freed us all. 等到我告诉其他人你做了什么！。他兴高采烈地回到你的机车上，急于回到萨默塞特营地，后来又回到伦敦，他打算在那里出版一本关于这一切的流行小说。"
+  },
+  {
+    "key": "legacy_44240974567555143f64",
+    "original": "Severed",
+    "translation": "割裂的"
+  },
+  {
+    "key": "legacy_32a7961bd734592e6d11",
+    "original": "TimeRemaining",
+    "translation": "剩下的时间"
+  },
+  {
+    "key": "legacy_c18b54bb00bcb644ce5c",
+    "original": "A secret factory operating on Lustrum has been discovered by Tackety raiders! A report from Sweet Jane indicates all workers were lost, but \\the assets were secured.\\ No official response from the Windward Company, but Company engines have been sighted leaving Port Prosper in larger than usual numbers.\n",
+    "translation": "一家在Lustrum经营的秘密工厂被Tackety突袭者发现了！。来自Sweet Jane的报告显示，所有工人都失踪了，但资产得到了保护。 没有来自Windward公司的官方回应，但有人看到公司的引擎离开普罗斯珀港，数量比平时多。"
+  },
+  {
+    "key": "legacy_d70c7a388a7e2889e62f",
+    "original": "Hostile maneuvers in the Assembly, as the previously neutral Magdalene's Representative took up their seat in Victory Hall, immediately revoking all access to the sanctuary by Company staff. The Windward Company has threatened legal action. The Magdalene's representative has declared \\Carillon is still willing to take you.\\ ",
+    "translation": "大会上出现了敌对的演习，以前中立的马格达林代表在胜利厅就座，立即取消了公司工作人员进入圣地的所有权限。向风公司已威胁要采取法律行动。马格达林的代表已经宣布 \\卡里昂仍然愿意接受你。 "
+  },
+  {
+    "key": "legacy_316f99433beafeb74cbc",
+    "original": "A surprise declaration at Victory Hall this morning, sanctioning routine inspections of all mercantile ships coming into New Winchester, \\in the interests of fairness.\\ The Windward Company has cried foul, arguing that the line between merchant and fighter vessels is too loosely defined for Tackety engines, and the measure is merely a pretext to search Company ships alone.\n",
+    "translation": "今天上午在胜利厅发表了一份意外的声明，批准对所有进入新温彻斯特的商船进行例行检查，为了公平起见。 向风公司大喊大叫，认为商船和战舰之间的界限对于Tackety引擎来说定义太松散了，这项措施只是一个单独搜查公司船只的借口。"
+  },
+  {
+    "key": "legacy_6fed9c43d959e4c87cbe",
+    "original": "The Windward Company continue to press their advantage, seemingly in response to the Assembly's perceived complacency. The Acting Government on Port Prosper suffered a coup late Monday evening, when the Cabinet was arrested at the Admiral Nelson, the temporary headquarters of the Government. The Windward Company has regained control of the civilian government, and is encouraging other ports to fight back against the \\Tackety Tyranny.\\ ",
+    "translation": "向风公司继续压榨他们的优势，似乎是对议会认为的自满的回应。普罗斯珀港的代理政府在周一晚间遭遇政变，内阁在政府的临时总部纳尔逊海军上将号被逮捕。向风公司已经重新获得了对文职政府的控制权，并鼓励其他港口对 Tackety Tyranny 进行反击。"
+  },
+  {
+    "key": "legacy_bc0726fa318d9eb24aa8",
+    "original": "In a dramatic sequence of events shocking to all those who haven't been following the pages of the New Gazette, the Assembly late last night voted to withdraw from the governments of many ports in the Reach, and to allow the Windward Company to return to New Winchester. The increasingly unpopular Assembly has had to contend with growing discontent over reduced supplies  spread even more thinly  and the limitations of their own abilities. Do we detect the Prudent Secretary's hand in the new accord?",
+    "translation": "在一连串戏剧性的事件中，所有没有关注《新公报》版面的人都感到震惊，议会在昨天深夜投票决定退出Reach地区许多港口的政府，并允许Windward公司返回New Winchester。越来越不受欢迎的议会不得不应对因供应减少而分布得更加稀疏以及自身能力有限而产生的日益不满。我们是否发现慎重的秘书在新协议中的作用？"
+  },
+  {
+    "key": "legacy_4f53ed3c550cdcbccf1c",
+    "original": "The Illusive Forged Companion cuts the deck. \\Choose a card, but don't tell me what it is. Now, replace it in the pack. Shuffle. Now, put the cards here.\\ It indicates a spot on the scuffed metal floor. \n\nYou do as you are told, and the Companion takes a box of matches from the table, strikes one, and lowers it to the deck, which bursts into flames. When there is nothing but ash, the Companion gestures to the porthole. For a moment, your card flutters against the other side of the glass, before drifting away into the Wilderness.",
+    "translation": "虚幻的锻造伙伴 切开了牌。\\选择一张牌，但不要告诉我它是什么。现在，把它放到牌包里。洗牌。现在，把牌放在这里。 它指了指擦过的金属地板上的一个地方。\\你照做了，同伴从桌子上拿了一盒火柴，点燃了一根，然后把它放到牌上，牌就烧起来了。当只有灰烬时，同伴向舷窗做了个手势。有那么一瞬间，你的牌在玻璃的另一边飘动，然后飘向了荒野。"
+  },
+  {
+    "key": "legacy_5c0bae02462bd34b0669",
+    "original": "Gaze",
+    "translation": "凝视"
+  },
+  {
+    "key": "legacy_d07654b1bcd5357bc752",
+    "original": "Their unclothed body is featureless, but beset with bulges where its stuffing pushes against its skin. \\I hope I please you,\\ the Companion says, in a voice muffled by their permanent mouthful of paper.",
+    "translation": "他们没有穿衣服的身体没有特征，但在其填充物推挤皮肤的地方有很多凸起。\\我希望我能取悦你，同伴说，他们的声音被永久的纸张压得很低。"
+  },
+  {
+    "key": "legacy_db26aa8778264d7b56a4",
+    "original": "AGentleAwakening",
+    "translation": "温柔的觉醒（AGentleAwakening"
+  },
+  {
+    "key": "legacy_617dc25f6c9269323228",
+    "original": "It is a poem written in the epic style. Whilst it is lightly-written and seasoned with humour, the central figure  an intrepid skyfarer  is unambiguously heroic. Moreover, they bear unmistakable similarities to yourself!",
+    "translation": "这是一首以史诗风格写成的诗。虽然它写得很轻松，并带有幽默感，但中心人物--一个无畏的天空旅行者是毫不含糊的英雄主义。此外，他们与你自己有着明确无误的相似之处！"
+  },
+  {
+    "key": "legacy_9b5bef1a632a6695c4bf",
+    "original": "The Illusive Forged Companion is entertaining the crew. At first, the tricks are delightful  a rabbit leaps from a hat, endless scarves spill from a sleeve  but gradually become more disturbing. A crew member volunteers to be sawn in half, but the illusion is so realistic that they are overcome with horror. The audience panic.",
+    "translation": "虚幻的锻造伴侣正在娱乐船员。起初，这些把戏很讨人喜欢，兔子从帽子里跳出来，无尽的围巾从袖子里洒出来，但逐渐变得更加令人不安。一名船员自愿被锯成两半，但幻觉是如此逼真，以至于他们被恐怖所征服。观众们惊慌失措。"
+  },
+  {
+    "key": "legacy_ea9bb7ea83febba10913",
+    "original": "Destroy",
+    "translation": "摧毁"
+  },
+  {
+    "key": "legacy_4b9a7dcf6feb50b4a876",
+    "original": "Fists",
+    "translation": "拳头"
+  },
+  {
+    "key": "legacy_c26fa3c0533e2b5ae532",
+    "original": "Fists2",
+    "translation": "拳头2"
+  },
+  {
+    "key": "legacy_37f1089b6d1fcee7e9ad",
+    "original": "3 shakes of an bergoat's tail.",
+    "translation": "3次摇动山羊的尾巴。"
+  },
+  {
+    "key": "legacy_4e0906eed4c935c0163b",
+    "original": "[This act has unlocked a new Facet  not for you, but for future captains of your lineage: Sunday Dinners.]",
+    "translation": "[这一行为不是为你，而是为你未来的队长解锁了一个新的面：周日晚餐。］"
+  },
+  {
+    "key": "legacy_b52ed0f4c54024478b5a",
+    "original": "You're escorting Mme. Lumire back to New Winchester",
+    "translation": "你要护送卢米埃尔夫人回到新温彻斯特"
+  },
+  {
+    "key": "legacy_c1ba2035bdfba4c20f53",
+    "original": "Mme. Lumire is planning a premiere soon. You're to be invited",
+    "translation": "卢米埃尔夫人正计划不久后举行首映式。你将被邀请"
+  },
+  {
+    "key": "legacy_eb63adc61d7fd6487e36",
+    "original": "You attended the premiere, God help you. Mme. Lumire would like another meeting",
+    "translation": "你参加首映式，上帝保佑你。卢米埃尔夫人希望再一次见面"
+  },
+  {
+    "key": "legacy_4c6860cabe66f4c4f795",
+    "original": "[COMPLETE]Mme. Lumire has retired from filming",
+    "translation": "[完整版]卢米埃尔夫人已从拍摄中退休"
+  },
+  {
+    "key": "legacy_9a1fc91aed350c16117c",
+    "original": "Something is amiss. Things are out of place  unexplained cracker crumbs on the pantry floor. The chief engineer's favourite wrench, hung on the wrong hook. Several empty pages torn from the back of your logbook.\n\nThe crew protest their innocence, and contribute their own stories: vanished shoelaces, doors left open, oily footprints on a door frame. \n\nYou have a stowaway.",
+    "translation": "有些事情是不对劲的。东西不对劲，储藏室的地板上有无法解释的饼干碎屑。总工程师最喜欢的扳手，挂错了钩子。船员们抗议他们的清白，并提供他们自己的故事：消失的鞋带、被打开的门、门框上的油脚印。\\You have a stowaway. 你有一个偷渡者。"
+  },
+  {
+    "key": "legacy_4a5ff74a30fe4d39826e",
+    "original": "Your \\A Stranger\\ quality has gone. Welcome to the world!",
+    "translation": "Your \\A Stranger\\ quality has gone. 欢迎来到这个世界！"
+  },
+  {
+    "key": "legacy_cf6d20d0c4e1ca881923",
+    "original": "You started with a quality called \\A Stranger\\, which has just changed to level 1. This will unlock more stories.",
+    "translation": "你从一个叫 A Stranger\\的品质开始，它刚刚变成了1级。这将解锁更多的故事。"
+  },
+  {
+    "key": "legacy_f87418731fadfb59a116",
+    "original": "You started with a quality called \\A Stranger\\, which has just changed to level 2. This will unlock more stories.",
+    "translation": "你从一个叫 A Stranger\\的品质开始，它刚刚变成了2级。这将解锁更多的故事。"
+  },
+  {
+    "key": "legacy_30a2b9db4613a5715f4d",
+    "original": "You started with a quality called \\A Stranger\\, which has just changed to level 3. This will unlock more stories.",
+    "translation": "你从一个叫 A Stranger\\的品质开始，它刚刚变成了3级。这将解锁更多的故事。"
+  },
+  {
+    "key": "legacy_25d7778bbf6d0c5fd9c7",
+    "original": "You started with a quality called \\A Stranger\\, which has just changed to level 4. This will unlock more stories.",
+    "translation": "你从一个叫 A Stranger\\的品质开始，它刚刚变成了4级。这将解锁更多的故事。"
+  },
+  {
+    "key": "legacy_cf60a22627f0cd71149f",
+    "original": "You started with a quality called \\A Stranger\\, which has just changed to level 5. This will unlock more stories.",
+    "translation": "你从一个叫 A Stranger\\的品质开始，它刚刚变成了5级。这将解锁更多的故事。"
+  },
+  {
+    "key": "legacy_f059bbf8789a09fd6ff6",
+    "original": "You started with a quality called \\A Stranger\\, which has just changed to level 6. This will unlock more stories.",
+    "translation": "你从一个叫 A Stranger\\的品质开始，它刚刚变成了6级。这将解锁更多的故事。"
+  },
+  {
+    "key": "legacy_7141cc3bb151f4428f32",
+    "original": "You started with a quality called \\A Stranger\\, which has just changed to level 7. This will unlock more stories.",
+    "translation": "你从一个叫 A Stranger\\的质量开始，它刚刚改变为7级。这将解锁更多的故事。"
+  },
+  {
+    "key": "legacy_86f38e28a250e3d4ff2f",
+    "original": "You started with a quality called \\A Stranger\\, which has just changed to level 8. This will unlock more stories.",
+    "translation": "你从一个叫 A Stranger\\的质量开始，它刚刚改变为8级。这将解锁更多的故事。"
+  },
+  {
+    "key": "legacy_a35302b0929d0dc7bbb8",
+    "original": "You started with a quality called \\A Stranger\\, which has just changed to level 9. This will unlock more stories.",
+    "translation": "你从一个叫 A Stranger\\的质量开始，它刚刚改变为9级。这将解锁更多的故事。"
+  },
+  {
+    "key": "legacy_1efa235ade5955a45819",
+    "original": "You started with a quality called \\A Stranger\\, which has just changed to level 10. This will unlock more stories.",
+    "translation": "你从一个叫 A Stranger\\的品质开始，它刚刚变成了10级。这将解锁更多的故事。"
+  },
+  {
+    "key": "legacy_664635ef0942475cf9dd",
+    "original": "You started with a quality called \\A Stranger\\, which has just changed to level 11. This will unlock more stories.",
+    "translation": "你从一个叫 A Stranger\\的品质开始，它刚刚变成了11级。这将解锁更多的故事。"
+  },
+  {
+    "key": "legacy_ae023c15f75020e45bbf",
+    "original": "You started with a quality called \\A Stranger\\, which has just changed to level 12. This will unlock more stories.",
+    "translation": "你从一个叫 A Stranger\\的质量开始，它刚刚改变为12级。这将解锁更多的故事。"
+  },
+  {
+    "key": "legacy_ba2bcfb295409fbb054b",
+    "original": "Their unclothed body is smooth and featureless, glowing softly as the starshine sloshes gently within. \\I hope I please you,\\ the Companion says, and you catch a glimpse of the starshine that lines its mouth, gleaming like iridescent glass.",
+    "translation": "他们没有穿衣服的身体是光滑的，没有特征，随着星光在里面轻轻滑动，发出柔和的光芒。\\我希望我能取悦你，同伴说，而你瞥见了它嘴边的星光，像彩虹色的玻璃一样闪闪发光。"
+  },
+  {
+    "key": "legacy_7afa9e0e0ec7b3b29a2e",
+    "original": "The imagery is sublime, the metaphors subtle yet perceptive. Moreover, the central figure  an intrepid skyfarer  bears unmistakable similarities to yourself!",
+    "translation": "想象力是崇高的，隐喻是微妙而敏锐的。此外，中心人物是一个无畏的天空旅行者，与你自己有明确无误的相似之处！"
+  },
+  {
+    "key": "legacy_25803df1b40513bdba3a",
+    "original": "The Illusive Forged Companion whispers a stream of instructions: concentrate on your breath, you are the breath, drifting through the Wilderness, unfettered by\n\nYou grasp the delicately-painted crockery tightly as the hallucination becomes more vivid. Whenever the vertigo of the illusory Wilderness threatens to overwhelm you, you focus your attention on the cool china beneath your fingertips.\n\nOnce the Companion stops whispering, you are less afraid, more able to face the challenges ahead. Unfortunately, you are also surrounded by broken crockery, and your hands are riddled with porcelain splinters.",
+    "translation": "虚幻的同伴低声说着一系列的指示：集中注意力在你的呼吸上，你就是呼吸，在荒野中漂流，不受约束。你紧紧抓住画得精致的陶器，因为幻觉变得更加生动。Whenever the vertigo of the illusory Wilderness threatens to overwhelm you, you focus your attention on the cool china beneath your fingertips.一旦同伴停止低语，你就不再害怕，更有能力面对前面的挑战。不幸的是，你也被破碎的陶器所包围，你的手被瓷器的碎片弄得千疮百孔。"
+  },
+  {
+    "key": "legacy_35d3d63b66f1f0390b2b",
+    "original": "The Illusive Forged Companion whispers a stream of instructions: concentrate on your breath, you are the breath, drifting through the Wilderness, unfettered by\n\nYour hallucinatory flight through the illusory Wilderness becomes more vivid, but you never feel afraid. On the contrary, the aimless drifting soothes your turbulent mind.\n\nAfter some time, you gradually return to your senses. It is as if you have been on a restorative holiday, and you feel calmer, more rested, and better equipped to face the challenges ahead. It is only when you realise that you have been in a trance for three days that your sense of well-being is tempered with annoyance.",
+    "translation": "虚幻的锻造伴侣低声说着一股指令：专注于你的呼吸，你就是呼吸，在荒野中漂流，不受约束 by/n/n你在虚幻的荒野中的幻觉飞行变得更加生动，但你从未感到害怕。相反，漫无目的的漂流使你动荡的心灵得到安抚。一段时间后，你逐渐恢复了你的感觉。就像你已经度过了一个恢复性的假期，你感觉更平静，更有活力，更有能力去面对未来的挑战。只有当你意识到你已经恍惚了三天，你的幸福感才会被恼怒所取代。"
+  },
+  {
+    "key": "legacy_565540f07b964bc252f7",
+    "original": "Navigator",
+    "translation": "导航员"
+  },
+  {
+    "key": "legacy_deefd127851bcd3ea0ca",
+    "original": "\\We hunt without help,\\ writes the Relict in her spiky half-legible handwriting. As each word is finished the ink convulses, lifts itself from the page on dark little legs, and scatters for the shadows.",
+    "translation": "We hunt without help, Relict用她带刺的半可读字迹写道。每写完一个字，墨水就会抽搐，用黑暗的小腿从书页上抬起来，然后散落到阴影中。"
+  },
+  {
+    "key": "legacy_6d6d7f43b63c4417b586",
+    "original": "\\We hunt without help,\\ hisses the dark thing, its mouthparts mangling every word.",
+    "translation": "We hunt without help, hisses the dark thing, its mouthparts mangling every word. We hunt without help, hisses the dark thing, its mouthparts mangling every word."
+  },
+  {
+    "key": "legacy_adc767a6fd9b0d549339",
+    "original": "and behind the shji, where they giggle along to the playful melodies of shamisen.   \n",
+    "translation": "而在寺庙的后面，他们随着三味线的俏皮旋律傻笑。  \n"
+  },
+  {
+    "key": "legacy_634bff24efe8d7c40c4a",
+    "original": "\\It's a pleasure to see you. How are you enjoying Little Nice? Have you visited Brabazon proper, yet? We've been doing some marvellous work there.\\ He doesn't give you much room for conversation. ",
+    "translation": "It's a pleasure to see you. 你是如何享受小尼斯的？你去过布拉巴宗吗？我们已经在那里做了一些了不起的工作。他并没有给你太多的谈话空间。"
+  },
+  {
+    "key": "legacy_cd9bb168c55bf4dba239",
+    "original": "\\It's a pleasure to see you. How are you enjoying Little Nice? Have you visited Brabazon proper, yet? We've been doing some marvellous work there.\\ He doesn't give you much room to speak.",
+    "translation": "很高兴见到你。你喜欢小尼斯吗？你去过布拉巴宗吗？我们已经在那里做了一些了不起的工作。他没有给你多少说话的空间。"
+  },
+  {
+    "key": "legacy_075cab6f5a11718ccdf3",
+    "original": "Albion: London  Horological Office",
+    "translation": "阿尔比恩。伦敦钟表局"
+  },
+  {
+    "key": "legacy_3ce9add2ee34df3c851c",
+    "original": "As you finish, the Murderous Sort in the court looks up at the clock with a smug expression. \\Where was I at the time of the murders, mi'lud? Why, I will be right here, mi'lud. And so will all of you.\\ By law, the alibi stands.",
+    "translation": "当你说完时，法庭上的杀人狂魔抬头看了看时钟，露出了得意的表情。\\谋杀发生时我在哪里，伙计？为什么，我就在这里，老兄。你们所有人也会在这里。 根据法律，不在场证明成立。"
+  },
+  {
+    "key": "legacy_e472c7e6edc4fb07e5b6",
+    "original": "Leaving the clock, you see the Khan's collectors arrive to demand the Embassy's taxes. \\But they were paid yesterday!\\ protests the Ambassador. But as yesterday now no longer officially existed according to the Embassy's records, all paperwork to that effect is a clear forgery. He is dragged off by the guards to explain himself to the Khan.",
+    "translation": "离开时钟，你看到大汗的收税员来到这里，要求缴纳大使馆的税收。\\大使抗议说：但他们昨天已经交过了！。但根据大使馆的记录，昨天已经不存在了，所有的文件都是伪造的。他被卫兵拖去向大汗解释。"
+  },
+  {
+    "key": "legacy_4bd74382dc8e9267ebc5",
+    "original": "The clocks on the pier are running a few hours slow. \\Explore the mists! Trip of a lifetime!\\ calls a diving bell attendant, one eye fixed on the slow tick of the minutes hand.",
+    "translation": "码头上的时钟运行慢了几个小时。\\Explor the mists! 一生的旅行！一个潜水钟的服务员叫道，一只眼睛盯着分针缓慢的滴答声。"
+  },
+  {
+    "key": "legacy_966a68129c23bf0f0dd6",
+    "original": "The clocks are running several hours slow, much to the relief of a fellow Captain with a shipment of Hours from Lustrum. \\Thought I was going to be late again,\\ he tells you, quickly unloading his cargo.",
+    "translation": "时钟慢了好几个小时，这让一个带着从Lustrum运来的小时数的船长同伴松了一口气。\\他告诉你：还以为我又要迟到了，他很快就卸下了他的货物。"
+  },
+  {
+    "key": "legacy_6914c70046e668bff742",
+    "original": "The central port clock is fast. It has also been vandalised by protesters against Albion Standard Time. \\NO TIME LIKE THE PRESENT\\ has been scrawled over the clockface.",
+    "translation": "中央港口的时钟很快。它也被反对阿尔比恩标准时间的抗议者破坏了。\\NO TIME LIKE THE PRESENT 被涂在了钟面上。"
+  },
+  {
+    "key": "legacy_1ebc55c52dc5ce0f7479",
+    "original": "Donkey",
+    "translation": "驴子"
+  },
+  {
+    "key": "legacy_822b2ae4542bc74b8fcc",
+    "original": "Find",
+    "translation": "发现"
+  },
+  {
+    "key": "legacy_23a27e1f697f781c06b8",
+    "original": "Flirt",
+    "translation": "调情"
+  },
+  {
+    "key": "legacy_19b292ea7d083385b5d4",
+    "original": "\\I've seen your type so many times that I could swear you were an attendant at Magdalene's,\\ she says without looking up.",
+    "translation": "I've seen your type so many times that I could swear you were an attendant at Magdalene's,（她头也不抬地说道）。"
+  },
+  {
+    "key": "legacy_189820399bbe7cb745d7",
+    "original": "\\What's the matter? Verdant eaten your brain? You look like you've never seen a woman before.\\ She practically inhales her whiskey.",
+    "translation": "What's the matter? 维尔丹吃掉了你的大脑？你看起来好像从来没有见过一个女人。她几乎是吸着她的威士忌。"
+  },
+  {
+    "key": "legacy_7e25d221aa7bd925a16d",
+    "original": "\\My goodness, even the Curators would throw you back.\\ She finishes her absinthe in one long gulp.",
+    "translation": "我的天啊，即使是馆长也会把你扔回去。 她一口气喝完了她的苦艾酒。"
+  },
+  {
+    "key": "legacy_5d22ae18838f7e1edef4",
+    "original": "\\So, how was your spell in the Midnight Cells?\\ She punctuates each syllable with a shot of brandy.",
+    "translation": "那么，你在午夜牢房的咒语如何？ 她用一杯白兰地为每一个音节加注。"
+  },
+  {
+    "key": "legacy_8478ad492ead51585451",
+    "original": "Alices Adventures in Wonderland",
+    "translation": "爱丽丝梦游仙境》(Alices Adventures in Wonderland)"
+  },
+  {
+    "key": "legacy_017979e8299034d8c481",
+    "original": "Tea",
+    "translation": "茶"
+  },
+  {
+    "key": "legacy_32db1e4a662900c14703",
+    "original": "Your tea is tepid, sickly sweet. The room  bare concrete and naked flames  is barren save for muscular men clustered in tense discussion. Broken glass carpets the floor. Perhaps, this wasn't the best choice in eateries.",
+    "translation": "你的茶是温的，病态的甜。房间里光秃秃的混凝土和赤裸裸的火焰，除了肌肉发达的男人聚集在一起紧张地讨论外，一片荒芜。破碎的玻璃在地板上铺满了地毯。也许，这不是最好的食堂选择。"
+  },
+  {
+    "key": "legacy_6c61bdb3bf0dc30f7a93",
+    "original": "The tea is dark and unctuous, and is furnished with roots and quite possibly a garnish of dirt. A single sip, however, spreads warmth all the way to your fingertips and toes. The air shimmers and suddenly, everyones either lion-headed or crowned with antlers. Too bad the withdrawal hits harder than the heat. ",
+    "translation": "茶是深色的，不粘稠的，并配有树根和很可能是泥土的装饰品。然而，只要喝一口，温暖就会一直蔓延到你的指尖和脚趾。空气中闪闪发光，突然间，每个人要么是狮子头，要么戴着鹿角。太糟糕了，戒断比热度更难打。"
+  },
+  {
+    "key": "legacy_dc5763379931ee04cb04",
+    "original": "Your tea is tepid, sickly sweet. The room  bare concrete and naked flames  is barren save for muscular men clustered in tense discussion. Broken glass carpets the floor. Perhaps, this wasn't the best choice in eateries. ",
+    "translation": "你的茶是温的，病态的甜。房间里光秃秃的混凝土和赤裸裸的火焰，除了肌肉发达的男人聚集在一起紧张地讨论外，一片荒芜。碎玻璃在地板上铺满了地毯。也许，这不是最好的选择，在吃的方面。"
+  },
+  {
+    "key": "legacy_5d9ffe54875c1b8bbf42",
+    "original": "An irregularity in the galley: the table is neatly laid, but the plates are glued in place and the cutlery nailed down. The culprit is quickly discovered when she tries to nail the chief engineer's hat to the chief engineer's head. \\Everything has its place,\\ she explains when she's dragged before you.",
+    "translation": "厨房里的一个不正常现象：桌子摆得整整齐齐，但盘子是用胶水粘的，餐具是用钉子钉的。当她试图把总工程师的帽子钉在总工程师的头上时，罪魁祸首很快就被发现了。\\当她被拖到你面前时，她解释说：一切都有它的位置，。"
+  },
+  {
+    "key": "legacy_c6d5ed757b66bfd3147a",
+    "original": "Dream",
+    "translation": "梦"
+  },
+  {
+    "key": "legacy_5db55dc0987b9f759a4f",
+    "original": "The sky of your dream is blazing gold. It is peppered  no, crowded  with suns. Suns piled on suns, like the groats in a miser's hoard.\n\nTheir light floods you. It shines through skin and blood and meat, picking out your branching veins and the slender pillars of your bones. Is there no more to you than this? ",
+    "translation": "你梦中的天空是炽热的金色。它是斑驳的，不，挤满了太阳。太阳堆积在太阳上，就像守财奴囤积的粮食。它们的光芒淹没了你。它穿过皮肤、血液和肉，照亮了你的血管和你骨骼的细长柱子。对你来说，没有比这更多的东西了吗？"
+  },
+  {
+    "key": "legacy_e0ae8207ee563c3d4d3f",
+    "original": "At first glance, the circus is in poor shape. A second glance reveals how much worse things are than that. You try the battered mushrooms, and realise why they have yet to take off as a beloved snack. \n\nAttempting to dispose of the bag, you duck behind a stall and find a pile of them already waiting. Another visitor pokes their head around. \\Is this where the bags go?\\ she asks and deposits her own with the rest.",
+    "translation": "乍一看，马戏团的状况很差。再看一眼，就会发现情况比这更糟。你尝了尝糊糊的蘑菇，意识到为什么它们还没有成为人们喜爱的零食。\\你想把袋子扔掉，却躲在一个摊位后面，发现有一堆蘑菇已经在等着你了。另一位游客探出头来。\\Is this where the bags go? she asks and deposits her own with the rest. 这是袋子去的地方吗？"
+  },
+  {
+    "key": "legacy_15870d61c8e38c671f46",
+    "original": "You spend some time watching the sideshow attractions. The Amazing Invisible Flea Circus is immediately disappointing. The circus' Strong Woman, on the other hand, is arguably too good for the place  effortlessly raising all manner of heavy things over her head. \n\nThe problem is that she makes it look so easy that the audience just shrug. It seems that the only thing she cannot lift is the mood.",
+    "translation": "你花一些时间观看杂耍景点。惊人的隐形跳蚤马戏团立刻让人失望。另一方面，马戏团的女强人可以说是太出色了，她毫不费力地将各种重物举过头顶。\\问题是，她让它看起来如此容易，以至于观众只是耸耸肩。看来，她唯一不能提升的是情绪。"
+  },
+  {
+    "key": "legacy_1605d173bb0ad15ca495",
+    "original": "An enclave of the dead. These shades  some once human, some not, all masked and quiet  are performing the observances they hope will secure their passage through Death's Door. \n\nThey pray around a pattern of stones arrayed in complex circles. Occasionally, one of them stands and moves a stone, provoking a fierce, but silent and gesticulatory, argument.\n\nWhen you approach, they stop. The laws of guest-right require that they offer you respite.",
+    "translation": "一个死人的飞地。这些影子有的曾经是人，有的不是人，都戴着面具，安静地表演着他们希望能确保他们通过死亡之门的仪式。\\他们围绕着排列成复杂圆圈的石头图案祈祷。偶尔，他们中的一个人站起来移动一块石头，引发一场激烈的、但无声的、打手势的争论。当你走近时，他们停下来。客人权利的法律要求他们为你提供喘息的机会。"
+  },
+  {
+    "key": "legacy_5c4419a6999d2a7a29e0",
+    "original": "Desc",
+    "translation": "描述"
+  },
+  {
+    "key": "legacy_7d9d22f90bf853581aa2",
+    "original": "Lanes",
+    "translation": "兰斯"
+  },
+  {
+    "key": "legacy_2f40a6cfd0942db283fb",
+    "original": "A woman calls you over to a stall selling... Toffee-something. They're a little too large to be apples. She assures you, with a broad smile that \\Of course they're apples. Maybe you haven't seen one recently and can't recall how they look?\\ Some of the toffee has fingerprints in. Still, that child bedecked in frills seems to be eating some without suffering any obvious harm.",
+    "translation": "一个女人把你叫到一个卖......太妃糖的摊位前。太妃糖之类的东西。它们有点太大，不像是苹果。她用一个宽厚的笑容向你保证：当然是苹果。也许你最近没有见过，所以想不起它们的样子。有些太妃糖上有指纹。不过，那个身着褶皱的孩子似乎在吃一些，没有受到任何明显的伤害。"
+  },
+  {
+    "key": "legacy_25bd8f7a30bb3ea9018f",
+    "original": "An attractive individual, vividly attired in poison colours, draws your attention to a stall. \\Bespoke jewellery?\\ His cohorts share identical smiles and eyebrows. As one, they gesture at the available material: bits of tinsel, chewed-up bubblegum, bent pennies, bird bones, and strands of hair in every hue. ",
+    "translation": "一个有吸引力的人，身着鲜艳的毒药色，把你的注意力吸引到一个摊位。\\Bespoke jewellery?（定制珠宝）。他的同伙有着相同的笑容和眉毛。作为一个整体，他们在现有的材料上做手势：零星的金属丝、嚼碎的泡泡糖、弯曲的硬币、鸟骨和各种颜色的头发丝。"
+  },
+  {
+    "key": "legacy_13f2005fb79c67879089",
+    "original": "The barber smiles at you with too many teeth. \\Shave and a nick?\\ he asks. Though his shop is lushly appointed, crushed velvet and a decadently papal aesthetic, it is conspicuously empty. He notes your glance and, crestfallen, offers to sell you a story instead.",
+    "translation": "理发师用太多的牙齿对你微笑。\\他问道：要不要刮刮胡子？虽然他的店面布置得很好，有碎丝绒和一种颓废的教皇式美学，但它明显是空的。他注意到了你的目光，并沮丧地提出要向你推销一个故事。"
+  },
+  {
+    "key": "legacy_1b733fe7f289fabd1c9f",
+    "original": "An attractive individual, vividly attired in poison colours, draws your attention to a stall. \\Bespoke jewellery?\\ His cohorts share identical smiles and eyebrows. As one, they gesture at the available material: bits of tinsel, chewed-up bubblegum, bent pennies, bird bones, strands of hair in every hue, and eyeballs impaled on hooks.",
+    "translation": "一个有吸引力的人，身着鲜艳的毒药色，把你的注意力吸引到一个摊位。\\Bespoke jewellery?（定制珠宝）。他的同伙有着相同的笑容和眉毛。作为一个整体，他们在现有的材料上做手势：零星的金属丝、嚼碎的泡泡糖、弯曲的硬币、鸟骨、各种颜色的头发丝，以及钉在钩子上的眼珠。"
+  },
+  {
+    "key": "legacy_e91dd27440b0e1d52a04",
+    "original": "The barber smiles at you with too many teeth. \\Shave and a nick?\\ he asks. Though his shop is lushly appointed, crushed velvet and a decadently papal aesthetic, it is conspicuously empty. He notes your glance and, crestfallen, offers to sell you a story instead. ",
+    "translation": "理发师用太多的牙齿向你微笑。\\他问道：刮胡子，再加个小胡子？虽然他的店面布置得很好，粉碎的天鹅绒和一种颓废的教皇式美学，但它明显是空的。他注意到了你的目光，然后沮丧地提出要向你推销一个故事。"
+  },
+  {
+    "key": "legacy_23d2d73543f9d7d92ac7",
+    "original": "Dance",
+    "translation": "跳舞"
+  },
+  {
+    "key": "legacy_e6f1c46731f4feefad22",
+    "original": "The Macabre Counsellor is having some sort of party. Your name is on her list. You are brought to a catacomb the size of a cathedral, where an orchestra is mishandling Saint-Sans. There are costumes. You are made Pope. It emerges the Macabre Counsellor is attempting to recreate a tableaux she once saw in Siena.",
+    "translation": "恐怖辅导员正在举行某种聚会。你的名字在她的名单上。你被带到一个大教堂般大小的墓穴，那里有一个管弦乐队正在错误地处理圣桑。这里有服装。你被任命为教皇。出现的情况是，马卡博尔顾问试图重现她曾经在锡耶纳看到的一个表象。"
+  },
+  {
+    "key": "legacy_d50e0343ecd3c59f7924",
+    "original": "Dance2",
+    "translation": "跳舞2"
+  },
+  {
+    "key": "legacy_5cdb8d305681c33652be",
+    "original": "Albion: London  The New Line",
+    "translation": "阿尔比恩。伦敦新线"
+  },
+  {
+    "key": "legacy_d77091b2aac763076235",
+    "original": "Someone approaches. \\Captain,\\ they say. They want something. What a bother.",
+    "translation": "有人走过来。\\他们说：船长，他们说。他们想要什么。真麻烦。"
+  },
+  {
+    "key": "legacy_be8816dbd8b8aa53557b",
+    "original": "War",
+    "translation": "战争"
+  },
+  {
+    "key": "legacy_acb5b9c9c3c8ef89bf55",
+    "original": "It is nearer, nearer, nearer. No  it is here.",
+    "translation": "它越来越近了，越来越近了，越来越近了。不，它在这里。"
+  },
+  {
+    "key": "legacy_da39e2ac152ca777c197",
+    "original": "You collect the Minute to Midnight and manoeuvre it  with some difficulty - into your hold. Now to return to the Unseen Queen, exhausted but alive.",
+    "translation": "你把 午夜一分钟 收集起来，艰难地把它移到你的舱里。现在回到看不见的女王身边，虽然筋疲力尽，但还活着。"
+  },
+  {
+    "key": "legacy_d9b3f65ef0f92011cf05",
+    "original": "The faded portrait of the Unseen Queen now hangs in the corridor just outside your quarters. The crew still don't quite understand your ambitions, and resent the portrait for both suspicious and superstitious reasons.\n\n\\What do you have to tell me?\\ asks the Queen sharply as you approach. You suspect she misses her moonlit court.",
+    "translation": "褪色的隐世女王的画像现在就挂在你宿舍外的走廊上。船员们仍然不太理解你的雄心壮志，并且因为可疑和迷信的原因而对这幅画像感到不满。你有什么要告诉我的？当你走近时，女王急切地问道。你怀疑她怀念她的月光法庭。"
+  },
+  {
+    "key": "legacy_69799e1419fb8bb3da46",
+    "original": "\\Are you ready to experience the last moments of my father?\\ asks the Unseen Queen. \n\nYour chosen vessel nods solemnly, approaching the Cup. Tendrils of light dance across their brow.",
+    "translation": "你准备好体验我父亲的最后时刻了吗？看不见的女王问道。\\你选择的容器郑重地点点头，走近杯子。光的卷轴在他们的眉宇间舞动。"
+  },
+  {
+    "key": "legacy_6287900b1507650a08fd",
+    "original": "The vault is truly vast, larger than any cathedral you've seen. Every inch is stacked with glittering treasures and dusty relics. \n\n\\There,\\ says the Queen.\n\nIn pride of the place at the vault's centre is the Martyr-King's Cup. \n\nIt is not a mere cup, of course. It is a whirling, spitting, shimmering vortex, flashing with lightning and fire, as wide and deep as a well.\n\nHow can you possibly take this back to the engine?",
+    "translation": "金库确实很大，比你见过的任何大教堂都大。每一英寸都堆满了闪闪发光的宝物和尘封的遗物。\\皇后说：在那里，在金库的中心，有一个值得骄傲的地方，那就是殉道者-国王的杯子。\\当然，这不是一个简单的杯子。它是一个旋转的、喷吐的、闪闪发光的漩涡，闪烁着闪电和火焰，像井一样宽阔和深邃。你怎么可能把这个带回引擎？"
+  },
+  {
+    "key": "legacy_c01ad4e3f3d91b6150c2",
+    "original": "When you take the Second Canto to the Omnivorous Publisher, he flashes a goblin-like grin. \\We're going to set this city on fire,\\ he declares with convincing menace.",
+    "translation": "当你把第二部大部头拿给全能的出版商时，他闪过一个妖精般的笑容。\\他以令人信服的威胁宣称：我们要把这个城市烧掉。"
+  },
+  {
+    "key": "legacy_89c68736febabbe9412a",
+    "original": "Words spit like lightning from your fingertips. The typewriter shudders and clanks in protest under the strain. You write in a kind of fury, your mind's eye raging with images of gloating stars and endless burning emptiness  and then you sit back, exhausted, as you realise you've run out of words. The Second Canto is complete.",
+    "translation": "话语像闪电一样从你的指尖吐出。打字机在压力下颤抖并发出叮当声以示抗议。你在一种愤怒中写作，你的脑海中充斥着幸灾乐祸的星星和无尽燃烧的空虚的图像，然后你疲惫地坐下来，因为你意识到你已经没有字了。第二章已经完成。"
+  },
+  {
+    "key": "legacy_94a3fc2370ec3a613a5d",
+    "original": "The tale has grown in the telling, and grown, and grown. In its vastness, it has become impossible to control. You find yourself searching through previous Cantos to ensure consistency of character and detail  stumbling unexpectedly upon narrative dead ends  writing yourself into terrible tangles that cannot be salvaged. With the grim determination of Hercules facing the hydra, you cut. And cut. Until the story lies bleeding, but better, at your feet. The Fifth Canto is complete.",
+    "translation": "这个故事在讲述中不断成长，不断成长，不断成长。在它的浩瀚中，它已变得无法控制。你发现自己在之前的几部作品中寻找，以确保人物和细节的一致性，却意外地在叙述的死胡同里跌倒，把自己写进了无法挽回的可怕纠结中。带着海格力斯面对九头蛇的严峻决心，你剪了。不断地删减。直到故事躺在你的脚下，流血不止，但更好。第五章已经完成。"
+  },
+  {
+    "key": "legacy_51761cbdd782be2d4b7c",
+    "original": "A moment of hesitation, and then a dam bursts in your mind. Words flood the page and carry you forward in an irresistible current, until you are flung into an ending as though dashed upon rocks. The result is rushed and imperfect. Grimly, you go back. You knock the story down and rebuild it, brick by painstaking brick, working with the nihilist fury of a master blacksmith forging his own guillotine. Finally, just as you are ready to throw your entire manuscript into the fire, you realise that you no longer need to  there's nothing left to fix. The Sixth Canto is complete.",
+    "translation": "犹豫片刻，然后你心中的大坝就破裂了。文字充斥着页面，在不可抗拒的水流中带着你前进，直到你被抛向一个结局，就像被冲到岩石上。结果是仓促和不完美的。严峻的是，你回去了。你把故事推倒重建，一砖一瓦地努力工作，像铁匠师傅锻造自己的断头台一样虚无主义的愤怒。最后，就在你准备把你的整个手稿扔进火里的时候，你意识到你不再需要这样做了，没有什么可以修复了。第六章已经完成。"
+  },
+  {
+    "key": "legacy_2e025387c9a9e7242281",
+    "original": "${Crossing",
+    "translation": "${十字路口"
+  },
+  {
+    "key": "legacy_c782025a9609c093f154",
+    "original": "You ford a steep hill and find the Feckless Theologian and the Dismal Paleographer sharing a bottle of brandy at the summit. The Paleographer twines flowers in his hair, while the Theologian corrects him: Violets, never roses. And never, ever ever, lilies. There, I look half Elagabalus already. They do not bother to notice you, lost in quiet bickering.",
+    "translation": "你穿过一座陡峭的山丘，发现无用神学家和糟糕的苍老师在山顶分享一瓶白兰地。苍老师在他的头发上缠绕着鲜花，而神学家则纠正他。是紫罗兰，不是玫瑰。还有，永远不要，永远不要，百合花。在那里，我看起来已经有一半的埃拉加巴卢斯了。他们懒得注意你，沉浸在安静的争吵中。"
+  },
+  {
+    "key": "legacy_3be1ec70a59a93d37fad",
+    "original": "The Feckless Theologian is lying in the Vituperative Classicists lap. She reads out her favourite passages from Virgil, in between swigs from a large amphora. The Theologian drinks even more fervently, as he laments the poets treatment of Turnus. The discussion soon turns to debate, and then disappointment, as the Classicist storms away. Neither notices you, lost in wine and vitriol.",
+    "translation": "无用神学家 正躺在 蔑视古典主义者 的腿上。她读出了她最喜欢的维吉尔的段落，其间用大酒瓶喝了几口。神学家喝得更欢了，他感叹诗人对特努斯的处理。讨论很快变成了辩论，然后是失望，因为古典主义者冲了出去。两人都没有注意到你，在酒和谩骂中迷失了方向。"
+  },
+  {
+    "key": "legacy_6a2c114242ae4db7be9e",
+    "original": "Youre able to find your way to a steep hill, covered in an avalanche of leaves. You pull your way to the top, and the way ahead is clear, just a few miles to the south. The shadow of the barrow falls over you.",
+    "translation": "你能够找到你的路，来到一个陡峭的山头，被雪崩般的树叶覆盖。你把路拉到山顶，前面的路很清楚，就在南边的几英里处。荒冢的阴影落在你身上。"
+  },
+  {
+    "key": "legacy_9b01fd84eb284b2ac4f0",
+    "original": "The shadows of the trees fall all around you. Twigs snap under your feet as you make your way on, almost blind through the dark. The lighting of a lantern almost starts a fire. An unexpected pond ruins boots and morale. Something lows in the copse just beside you. But  eventually  you find your way to a familiar spot.",
+    "translation": "树的影子落在你周围。当你在黑暗中几乎盲目地前进时，树枝在你的脚下折断。点燃的灯笼几乎引发了一场火灾。一个意外的水塘毁了靴子和士气。在你身边的灌木丛中，有什么东西倒下了。但最终你还是找到了你的路，来到了一个熟悉的地方。"
+  },
+  {
+    "key": "legacy_e0612b2800d3ff486807",
+    "original": "You cant even hear your crew. Alone in the dark of the wood. Neither sign nor compass to guide your way. You fumble through the blind wood for what seems hours. Every time you look behind, all signs of your passage have seemingly vanished, swept away. Could you find your way back? And then, like the rising of the first star in the evening, you find yourself in a wooded glade. Your crew is waiting. All speak of eery trails and sudden silences opening before them.",
+    "translation": "你甚至听不到你的船员。独自一人在黑暗的树林里。既没有标志，也没有指南针为你指路。你在盲目的树林中摸索了好几个小时。每当你往后看时，所有你通过的迹象似乎都消失了，一扫而空。你能找到回去的路吗？然后，就像夜晚第一颗星星的升起一样，你发现自己在一片树林里。你的船员正在等待。所有的人都在说他们面前出现了可怕的小路和突然的寂静。"
+  },
+  {
+    "key": "legacy_cc3a062a97bf2935e0e1",
+    "original": "Truth",
+    "translation": "真相"
+  },
+  {
+    "key": "legacy_037c4cd47517991cd6e0",
+    "original": "One approaches you. \\Perhaps, you might have the potential to become of us, after all.\\ Laughter and something else, a voraciousness absent of humanity.",
+    "translation": "一个人接近你。\\Perhaps, you might have the potential to become of us, after all. 笑声和其他东西，一种没有人性的贪婪。"
+  },
+  {
+    "key": "legacy_8d32783da1e492e6d8cd",
+    "original": "One approaches you. \\Perhaps, you might have the potential to become of us, after all.\\ Laughter and something else, a voraciousness absent of humanity. The timbre of their scrutiny has altered. No longer is it topical, a tepid curiosity. They've noticed you. Worse, they're interested. ",
+    "translation": "一个人接近你。\\Perhaps, you might have the potential to become of us, after all. 也许，你毕竟有可能成为我们的一员。 笑声和其他东西，一种没有人性的贪婪。他们审视的音色已经改变了。它不再是主题，是一种不温不火的好奇心。他们已经注意到你了。更糟的是，他们感兴趣。"
+  },
+  {
+    "key": "legacy_50e73e012ee391bea08b",
+    "original": "The Scorn Fluke is not dead. Of course, it isn't. But the monstrosity has been diminished, its pustulant form weeping ichor and distrust. It will be years, at least, before it invites company. It will reject the overtures of the cult.\n\nAs for the cult, between the desecration of its god, and the ministrations of the Toymaker, it is barely more than the corpse that is its chapel. It is not gone  it is worse: it is pathetic.",
+    "translation": "蔑视侥幸 并没有死。当然，它没有。但这个怪物已经被削弱了，它的脓包形式在哭泣，流淌着ichor和不信任。至少要过几年，它才会邀请同伴。它将拒绝邪教的邀请。至于邪教，在对其神的亵渎和玩具制造商的服务之间，它几乎没有比作为其教堂的尸体更多的东西。它没有消失，它更糟糕：它很可悲。"
+  },
+  {
+    "key": "legacy_4f3a9bd003974a5ed8c9",
+    "original": "Class",
+    "translation": "等级"
+  },
+  {
+    "key": "legacy_33d0fa882c35523c6b87",
+    "original": "Loom",
+    "translation": "织布机"
+  },
+  {
+    "key": "legacy_e9376a281aac57bb78e2",
+    "original": "Morning",
+    "translation": "早晨"
+  },
+  {
+    "key": "legacy_7908a0fc93a1674b3039",
+    "original": "The passage is less pleasant than you had hoped. A crewman swears he saw something vast stirring in the  sky's deeps, and raves about a \\many-eyed burrower\\ to any who will listen.",
+    "translation": "这条通道没有你希望的那么愉快。一个船员发誓说他看到天空深处有巨大的东西在动，并向任何愿意听的人夸耀一个 多眼的洞穴人。"
+  },
+  {
+    "key": "legacy_8d486bb2d3f85d1bc352",
+    "original": "Anyone",
+    "translation": "任何一个人"
+  },
+  {
+    "key": "legacy_e18b31dfadaa788b73c2",
+    "original": "A sign has been hammered onto the pillar. 'If you've done something that can't be forgiven  if there is no place left to run  if you would seek refuge with the Gentlemen, record your name and crime.' It is barely legible under a thick coat of frost.",
+    "translation": "柱子上被敲了一个牌子。'如果你做了不能被原谅的事情，如果没有地方可逃，如果你愿意向绅士们寻求庇护，请记录你的名字和罪行。在厚厚的霜冻下，它几乎无法辨认。"
+  },
+  {
+    "key": "legacy_f8e531080f340848fe93",
+    "original": "The desperate make pilgrimage to Avid Horizon. They write confessions of their misdeeds, and wedge them in a crack of the mooring post. Sometimes, the Gentlemen of Pan will stop by. They read what is written, and recruit a chosen few. \n\nThe mooring post flutters with paper  it is stuffed with secrets.",
+    "translation": "走投无路的人到阿维兹地平线朝拜。他们写下自己的罪行忏悔，并将其楔入停泊柱的缝隙中。有时，潘氏绅士 会顺道拜访。他们阅读所写的东西，并招募一些被选中的人。\\停泊柱上飘着纸，里面塞满了秘密。"
+  },
+  {
+    "key": "legacy_723c44477abfa6998714",
+    "original": "Beside it is a rough hut  made from packing crates, insulated with thin rugs. A gaunt man huddles inside, leaning close to a small fire. He looks up at your approach. His expression is desolate.",
+    "translation": "在它旁边是一个用包装箱做成的粗糙的小屋，用薄薄的地毯保温。一个憔悴的男人蜷缩在里面，紧靠着一个小火堆。他抬头看了看你的方向。他的表情很凄凉。"
+  },
+  {
+    "key": "legacy_f59b4fc726888564dca8",
+    "original": "And visitors seem to agree! Cheery calliope music thunders from the Big Top and through the many, polished amusement stands. \n\nSuch is the lure of the renewed carnival, that people are coming from as far as London itself to partake. Many of them never leave. A small shanty-town has been established just outside of the tents where they sit and laugh and plan to return home  just not today. Tomorrow, perhaps. After one more performance.",
+    "translation": "而游客们似乎也同意! 欢快的卡里欧音乐从大顶上响起，穿过许多抛光的娱乐台。\\新的狂欢节的诱惑力是如此之大，以至于人们从遥远的伦敦赶来参加活动。他们中的许多人从未离开过。在帐篷外建立了一个小棚户区，他们在那里坐着，笑着，计划回家，但不是今天。明天，也许。再演一场之后。"
+  },
+  {
+    "key": "legacy_6e7d50e84f4731ef7418",
+    "original": "Result",
+    "translation": "结果"
+  },
+  {
+    "key": "legacy_acc76c51210606d07115",
+    "original": "\\They are dreaming of you. They Who Must Grieve whisper to me in my sleep of your face, the lines of your throat and nose. They tell me things of you that I do not understand.\\ The Bedraggled Parson's regard burns like sepsis, abyss-deep and incurious.",
+    "translation": "他们正在梦到你。他们在睡梦中对我轻声说起你的脸，你的喉咙和鼻子的线条。他们告诉我关于你的事情，我不明白。衣衫褴褛的牧师的视线像败血症一样燃烧着，深不见底，无动于衷。"
+  },
+  {
+    "key": "legacy_5b19f21a43ae62e28c53",
+    "original": "\\Strangers, sour-faced, sour-mouthed, have begun to fill the Off Season. Is this your doing? If so, thank you.\\ The Bedraggled Parson slants a heavy-lashed stare. \n\nThat certainly sounds like the Displeased you encountered in the Avid Horizon. What ship brought them here so swiftly?",
+    "translation": "陌生人，脸色苍白，嘴角上扬，已经开始充斥着淡季。这是你做的吗？如果是的话，谢谢你。衣衫褴褛的牧师斜着眼睛看了一眼。\\这听起来确实像你在 渴求之地平线 号上遇到的不高兴者。什么船把他们如此迅速地带到这里？"
+  },
+  {
+    "key": "legacy_236e137a34153711e5a0",
+    "original": "\\Some of them may resist, but it is only because they are afraid. Change is not intrinsic to human nature.\\ The Bedraggled Parson bobs his head, mouth pinched to a gash. Surely he'd only desire new parishioners who want to be there?",
+    "translation": "他们中的一些人可能会抵制，但这只是因为他们害怕。变化并不是人类本性所固有的。衣衫褴褛的牧师晃了晃脑袋，嘴巴被捏成了一个缺口。当然，他只希望新的教区居民愿意去那里？"
+  },
+  {
+    "key": "legacy_c9a7b78c50517d0f9afb",
+    "original": "\\They were kind to you,\\ the Bedraggled Parson says, abruptly and without vitriol, only a pale wonder, eyes fever-warm under the wilds of his hair. It is all he extends. \n\nWas he talking about the officials from the Bureau of Entertainments? Or someone else?",
+    "translation": "The Bedraggled Parson says, abruptly and without vitriol, only a pale wonder, eyes fever-warm under the wilds of his hair.。这是他的全部内容。\\他说的是娱乐局的官员吗？还是别的人？"
+  },
+  {
+    "key": "legacy_b281a5db4ebf16d16d4c",
+    "original": "Here in the heavens there is no defence from the maddening light of the stars. Your crew  on edge, weary, already haunted by their long journeys in the sky  are susceptible. One succumbs, and the madness leaps to another and another as quick as fire. Within a day, they rave with delusions and obsessions. Your engine is on the brink of disaster.",
+    "translation": "在这里的天堂里，没有人可以抵御星辰的疯狂之光。你的船员处于紧张状态，疲惫不堪，已经被他们在天空中的长途旅行所困扰，他们很容易受到影响。一个人屈服了，疯狂的情绪就会像火一样迅速跳到另一个人身上。在一天之内，他们因妄想和痴迷而狂欢。你的引擎正处于灾难的边缘。"
+  },
+  {
+    "key": "legacy_99edf93986bdc13daafa",
+    "original": "Mutiny",
+    "translation": "叛变"
+  },
+  {
+    "key": "legacy_3a97f8647c314820e6f4",
+    "original": "Wordlessly, your crew tether your engine. Ignoring your orders, some of them gather their belongings and prepare to disembark. \\This is our stop,\\ one of them says.",
+    "translation": "无言地，你的船员把你的引擎拴住。他们中的一些人无视你的命令，收集他们的物品，准备下船。\\他们中的一个说：这是我们的终点站。"
+  },
+  {
+    "key": "legacy_bf59d6a4564f9f49964e",
+    "original": "root2",
+    "translation": "根2"
+  },
+  {
+    "key": "legacy_23a17592bc7b43012671",
+    "original": "A scream  one of your crew is staring in horror at her hand, which has suddenly shrivelled and sprouted liver spots. The light can do strange things to the flow of time, and you seem to have strayed into a bad patch.",
+    "translation": "你的一个船员尖叫着，惊恐地盯着她的手，她的手突然干瘪，长出了肝斑。光线可以对时间的流动做出奇怪的事情，而你似乎误入了一个不好的地方。"
+  },
+  {
+    "key": "legacy_051bb2d0e4f4eb41f71d",
+    "original": "You're also joined by the Sovereign Misanthrope, whose smile is so forced it's practically a grimace. He didn't appreciate sharing his British sensibilities with an \\inferior\\ aesthetic, but was somewhat mollified by the amount of good English history contained in the library's acquisitions. The Rhapsodic Mayor presents you the ceremonial scissors.",
+    "translation": "你也加入了君主厌世者的行列，他的微笑是如此的勉强，几乎是一种面无表情。他不喜欢与一个 低级 审美的人分享他的英国人的感觉，但他对图书馆所收藏的大量优秀的英国历史感到有些欣慰。狂想曲市长向您赠送仪式用的剪刀。"
+  },
+  {
+    "key": "legacy_ef1c44e92cc6faa6ba04",
+    "original": "Fully half your crew are shades, now. They insinuate themselves between the living crew, so the seating arrangement is one living, one dead, one living, one dead  all around the table. Conversation is impossible. The meal is silent and solemn.",
+    "translation": "现在，你的船员中足有一半是墨镜。他们在活着的船员之间穿插，所以座位安排是一个活人，一个死人，一个活人，一个死人，都在桌子周围。对话是不可能的。这顿饭是沉默而庄重的。"
+  },
+  {
+    "key": "legacy_96e4ab839557c96f36e5",
+    "original": "The Windward Company are keen to consolidate their recent victory over the Assembly. The Assembly has fled New Winchester  and are rumoured to be licking their wounds at Lustrum. Asked for comment, the Parsimonious Chairman, speaking from the ruins of Victory Hall, merely smiled. ",
+    "translation": "向风公司热衷于巩固他们最近对议会的胜利。议会已经逃离了新温彻斯特，据说正在拉斯特伦舔舐他们的伤口。在被问及评论时，在胜利厅的废墟上发言的帕斯蒙尼主席只是笑了笑。"
+  },
+  {
+    "key": "legacy_f8b22dcc011f34ed76aa",
+    "original": "And when the siege is over, we to the town repair. The townsmen cry, \\Hurrah, boys, here comes a Grenadier!",
+    "translation": "当围城结束后，我们到镇上去修理。镇上的人喊道：万岁，孩子们，手榴弹士兵来了！"
+  },
+  {
+    "key": "legacy_b82ac75fc72f8b1a3b0b",
+    "original": "His gaze, if not concentrated on you, inevitably strays toward the trapdoor  until he remembers himself, and directs his eyes elsewhere.",
+    "translation": "他的目光，如果不集中在你身上，就不可避免地朝活板门游移，直到他想起自己，把目光投向别处。"
+  },
+  {
+    "key": "legacy_1196b6c538ecc61a6584",
+    "original": "Repair",
+    "translation": "修理"
+  },
+  {
+    "key": "legacy_0f602557411e8ceb433a",
+    "original": "\nHere, at the heart of the forest, a great barrow built from ancient stone stands. Gates of star-forged bronze block the entrance.\\t",
+    "translation": "在这里，在森林的中心，矗立着一座由古老的石头建成的巨大墓穴。星形锻造的青铜门挡住了入口。"
+  },
+  {
+    "key": "legacy_ef6622da9f38b2d8fbd7",
+    "original": "The Second Canto is the tale of how you became the Saint of Wells  a story to chill the bones of the reader, to make them lift their eyes to the stars above in wondrous dread.",
+    "translation": "第二节是关于你如何成为威尔斯的圣徒的故事 一个让读者胆战心惊的故事，让他们在奇妙的恐惧中抬眼望向上方的星星。"
+  },
+  {
+    "key": "legacy_88693188d68301d411a8",
+    "original": "The Fourth Canto is the tale of how you became the Saint of Wells  a story to chill the bones of the reader, to make them lift their eyes to the stars above in wondrous dread.",
+    "translation": "第四篇是关于你如何成为威尔斯圣徒的故事... ...一个让读者寒心的故事，让他们在奇妙的恐惧中抬起眼睛看上面的星星。"
+  },
+  {
+    "key": "legacy_1b7c27979d7d49ebe7a3",
+    "original": "The Sixth Canto is the tale of how you became the Saint of Wells  a story to chill the bones of the reader, to make them lift their eyes to the stars above in wondrous dread.",
+    "translation": "第六篇是关于你如何成为威尔斯圣徒的故事 一个让读者胆战心惊的故事，让他们在奇妙的恐惧中抬起眼睛看向上面的星星。"
+  },
+  {
+    "key": "legacy_ff0f7486d654e4e1fb8a",
+    "original": "The Second Canto reaches mythic proportions  here, the Song becomes the story of a captain who spat in the faces of gods, and lived through terrible consequences to tell the tale. It's a triumph of the most blasphemous kind.",
+    "translation": "第二节在这里达到了神话的程度，这首歌变成了一个船长的故事，他在众神面前吐口水，并经历了可怕的后果来讲述这个故事。这是最亵渎神明的胜利。"
+  },
+  {
+    "key": "legacy_508067ed6db64cc35be8",
+    "original": "The Fourth Canto reaches mythic proportions  here, the Song becomes the story of a captain who spat in the faces of gods, and lived through terrible consequences to tell the tale. It's a triumph of the most blasphemous kind.",
+    "translation": "第四章在这里达到了神话的程度，这首歌成为了一个船长的故事，他在众神的面前吐口水，并经历了可怕的后果来讲述这个故事。这是最亵渎神明的胜利。"
+  },
+  {
+    "key": "legacy_ae00dd9e350f10d4af6a",
+    "original": "The Sixth Canto reaches mythic proportions  here, the Song becomes the story of a captain who spat in the faces of gods, and lived through terrible consequences to tell the tale. It's a triumph of the most blasphemous kind.",
+    "translation": "第六章在这里达到了神话的程度，这首歌变成了一个船长的故事，他在众神面前吐口水，并经历了可怕的后果，讲述了这个故事。这是一种最亵渎神灵的胜利。"
+  },
+  {
+    "key": "legacy_bfe2e5e2995e69181b00",
+    "original": "The Second Canto is a story of your time as a Member of Parliament  the intrigue, the scandal, the dizzying bureaucracy! It's farce and satire and tragedy, rolled into one.",
+    "translation": "The Second Canto is a story of your time as a Member of Parliament the intrigue, the scandal, the dizzying bureaucracy! 它是闹剧、讽刺和悲剧，融为一体。"
+  },
+  {
+    "key": "legacy_c161faa193a003b862f8",
+    "original": "The Fourth Canto is a story of your time as a Member of Parliament  the intrigue, the scandal, the dizzying bureaucracy! It's farce and satire and tragedy, rolled into one.",
+    "translation": "《第四章》是一个关于你作为国会议员的故事，其中包括阴谋、丑闻、令人眼花缭乱的官僚主义！这是一出闹剧和讽刺，融为一体。它是闹剧、讽刺和悲剧，融为一体。"
+  },
+  {
+    "key": "legacy_b4135b8ca3a1358f8e39",
+    "original": "The Sixth Canto is a story of your time as a Member of Parliament  the intrigue, the scandal, the dizzying bureaucracy! It's farce and satire and tragedy, rolled into one.",
+    "translation": "《第六章》是一个关于你作为国会议员时的故事，其中包括阴谋、丑闻、令人眼花缭乱的官僚主义！这是一出闹剧和讽刺，集于一身。它是闹剧、讽刺和悲剧，融为一体。"
+  },
+  {
+    "key": "legacy_6a52c2fb1516ada9eb72",
+    "original": "The Second Canto is the story of a hostage rescued from a tyrant Empress. It's a hero-narrative, yes, but also a ruthless expos of the corruption at Albion's core.",
+    "translation": "第二卷是一个从暴君皇后手中解救人质的故事。这是一个英雄的故事，没错，但也是对阿尔比恩核心腐败的无情揭露。"
+  },
+  {
+    "key": "legacy_5d0b6f89481b423dce00",
+    "original": "The Fourth Canto is the story of a hostage rescued from a tyrant Empress. It's a hero-narrative, yes, but also a ruthless expos of the corruption at Albion's core.",
+    "translation": "《第四章》是一个从暴君皇后手中解救人质的故事。这是一个英雄故事，是的，但也是对阿尔比恩核心腐败的无情揭露。"
+  },
+  {
+    "key": "legacy_190cba1a6507fdb379fc",
+    "original": "The Sixth Canto is the story of a hostage rescued from a tyrant Empress. It's a hero-narrative, yes, but also a ruthless expos of the corruption at Albion's core.",
+    "translation": "《第六章》是一个从暴君皇后手中解救人质的故事。这是一个英雄的故事，是的，但也是对阿尔比恩核心腐败的无情揭露。"
+  },
+  {
+    "key": "legacy_a6f1dc8173a6aa947fbc",
+    "original": "The mid-morning calm is shattered by furious yelling in the distance. \\The Psalmists are causing trouble again!\\ shouts a passing urchin joyously.",
+    "translation": "清晨的平静被远处愤怒的叫喊声打破了。\\诗篇派又在制造麻烦了！一个路过的顽童高兴地喊道。"
+  },
+  {
+    "key": "legacy_93e05a3bdda8e79435c3",
+    "original": "acq",
+    "translation": "收购"
+  },
+  {
+    "key": "legacy_4b59f6c0facf7c981199",
+    "original": "A hissing sound  like that of an aggrieved cat  comes from the galley.",
+    "translation": "厨房里传来像受委屈的猫的嘶嘶声。"
+  },
+  {
+    "key": "legacy_dfcd471e38ed6d74f7ad",
+    "original": "A low groaning can be heard from below, like the sound of a pipe before it bursts, or a particularly unhappy digestive tract. \\Did anyone else  hear 'Let me out?'\\ your stoker asks. No one will answer.",
+    "translation": "从下面可以听到低沉的呻吟声，就像管道爆裂前的声音，或者是一个特别不开心的消化道。\\还有人听到'让我出去'吗？你的司炉问道。没有人会回答。"
+  },
+  {
+    "key": "legacy_f41b0355ae81fd735ce8",
+    "original": "t{Travel",
+    "translation": "t{旅行"
+  },
+  {
+    "key": "legacy_68ee6f7fa172efdaeb38",
+    "original": "Infatuation",
+    "translation": "迷恋"
+  },
+  {
+    "key": "legacy_88f5b5d83dc9ea45d09d",
+    "original": "${New Friend",
+    "translation": "${新朋友"
+  },
+  {
+    "key": "legacy_30bd4e78bf3ae669ffd2",
+    "original": "The room is as empty and cold as the cooling heart of a slain star. Your friend's gums are stretched in something of a smile. Your conversation is charming, amiable, raucous even. You are interrupted by the arrival of an attendant, not yet fully costumed. \\So sorry I'm late. Shall we begin?\\ ",
+    "translation": "房间里空荡荡的，像一颗被杀死的星星的冷却的心一样冷。你的朋友的牙龈在某种程度上是微笑的。你们的谈话是迷人的，和蔼的，甚至是喧闹的。你被一个还没有穿好衣服的服务员的到来打断了。\\很抱歉我迟到了。我们可以开始了吗？"
+  },
+  {
+    "key": "legacy_a144eb7bcbe504b02a9e",
+    "original": "The kettle is on, filling the room with steam. Have you seen this room before? Her face is behind a veil, but the voice is right, as perfect as you've heard in dreams. \\I've sent everyone away so we can talk properly. You still take sugar, yes?\\ ",
+    "translation": "水壶开了，房间里充满了蒸汽。你以前见过这个房间吗？她的脸在面纱后面，但声音是正确的，就像你在梦中听到的那样完美。\\我已经把所有人都打发走了，这样我们就可以好好谈谈。你还在吃糖，是吗？"
+  },
+  {
+    "key": "legacy_09619e8802484e0eb214",
+    "original": " Mother has brought a picnic basket containing all of your very favourite things. She tells stories you'd never heard, of a life you'd never guessed she'd led. Her hands meet yours over the uncorked champagne. \\You know we haven't long left.\\ The clock chimes and she is gone.",
+    "translation": " 妈妈带来了一个野餐篮子，里面装着所有你最喜欢的东西。她讲述了你从未听说过的故事，以及你从未想过的她所过的生活。她的手在未开瓶的香槟酒上与你相遇。\\你知道我们没有离开多久。钟声响起，她就走了。"
+  },
+  {
+    "key": "legacy_cf48e6e2bbe8c60b96f9",
+    "original": "Mother sits behind a screen today. Her head aches, she says, but is dismissive of any intimation of concern on your part. She wants only to hear your concerns. She has her knitting. \\I thought your engine could use a little colour,\\ she says. Hookah smoke emerges in billows from behind the painted screen.",
+    "translation": "母亲今天坐在屏幕后面。她说，她的头很痛，但对你的任何关心暗示都不屑一顾。她只想听听你的担忧。她有她的针织品。\\她说：我想你的引擎可以使用一点颜色。她说：我认为你的引擎可以用点颜色，她说。胡克烟从画屏后面冒出来。。"
+  },
+  {
+    "key": "legacy_233259128db1f0c07dcf",
+    "original": "Quest",
+    "translation": "任务"
+  },
+  {
+    "key": "legacy_c01576cf2381888cee52",
+    "original": "Shade",
+    "translation": "阴阳师"
+  },
+  {
+    "key": "legacy_e48f5a5ea3aee6e1efd7",
+    "original": "Time stills to a hush as the great doors close behind you. Silence falls like a curtain over a stage. Your footfall is too loud on the polished marble. \n\nThe Throne is ahead, towering over you in all its splendid immensity. Its myriad glass surfaces shimmer like falling water; within you see yourself reflected  as you once were, as you ought to be, and as you never will be. There is a chair at the top of the Throne. A much smaller throne. A figure sits on it.",
+    "translation": "当你身后的大门关闭时，时间静止为一片寂静。沉默像舞台上的幕布一样落下。你的脚步声在抛光的大理石上太响了。\\王座就在前面，以其所有的辉煌的广度耸立在你面前。它的无数玻璃表面像落水一样闪闪发光；在里面，你可以看到你曾经是什么样子，你应该是什么样子，以及你永远不会是什么样子。在王座的顶部有一把椅子。一个小得多的宝座。一个人物坐在上面。"
+  },
+  {
+    "key": "legacy_6665b12bd60d234d999e",
+    "original": "Bomb2",
+    "translation": "炸弹2"
+  },
+  {
+    "key": "legacy_d1896c0b0bf5a4fd6ad5",
+    "original": "The Incognito Princess married her beloved  the King of Choirs, the Devil trapped in the Well of the Wolf. Her shed skin remains",
+    "translation": "隐姓埋名的公主嫁给了她心爱的唱诗班之王，那位被困在狼之井里的魔鬼。她留下了蜕去的皮囊"
+  },
+  {
+    "key": "legacy_78564ac8b32d5dbb4fe2",
+    "original": "The Incognito Princess married her beloved  the King of Choirs, the Devil trapped in the Well of the Wolf. What will you do with her skin?",
+    "translation": "隐姓埋名的公主嫁给了她心爱的唱诗班之王，那位被困在狼之井里的魔鬼。你将如何处理她的皮囊？"
+  },
+  {
+    "key": "legacy_97155e5169ff7cfbda5f",
+    "original": "The Rat Brigade are playing cards. Cinders is cheating  by means of mirrors concealed in the sleeves of her uniform, a spring-loaded trap, and brazen card-counting. Albrecht and Petronella have devised a surreptitious drinking game around each new display of bad sportsratship.",
+    "translation": "老鼠大队正在玩牌。辛德斯通过隐藏在她制服袖子里的镜子、一个弹簧陷阱和厚颜无耻的算牌来作弊。阿尔布雷希特和佩特罗内拉围绕着每一次新的不良运动精神的展示，设计了一个偷偷摸摸的喝酒游戏。"
+  },
+  {
+    "key": "legacy_56cfdb84ea1832515a59",
+    "original": "Only Albrecht is available for conversation today. Petronella is nursing a hangover. Cinders has, in a gesture of kindness, gone to the galley to seek some kind of food-based cure. \n\nAlbrecht steeps a tea for you both. \\This tea is a particular delicacy. From Achlys, I believe.\\ His conversation is extensive, erudite and acerbic.",
+    "translation": "今天只有阿尔布雷希特可以谈话。佩特罗内拉正在喝宿醉。为了表示善意，Cinders已经去厨房寻求某种基于食物的治疗。\\阿尔布雷希特为你们俩沏了一杯茶。\\这杯茶是一种特别的美味佳肴。我相信是来自Achlys。 他的谈话是广泛的、博学的和尖刻的。"
+  },
+  {
+    "key": "legacy_78a59ccbac1c050f6353",
+    "original": "The Captain of a Sea More Sunless\\t",
+    "translation": "更多阳光的海洋的船长"
+  },
+  {
+    "key": "legacy_2f9845b04e27dfd73409",
+    "original": "The Embittered Devil smiles in abject delight as they approach the Underappreciated Scribe. The Scribe instantly raises a jewel-studded hand. \\No, no it's fine. On you go. One is fine.\\ The Embittered Devil looks rather disappointed.",
+    "translation": "苦恼的魔鬼在接近被低估的文士时，露出了卑微的笑容。文士立刻举起一只镶有宝石的手。\\不，不，这很好。你去吧。一个就好。 痛苦的魔鬼看起来相当失望。"
+  },
+  {
+    "key": "legacy_311fd2f55e6255c23756",
+    "original": "The Embittered Devil grins as they approach the Unworthy Scribe. The Scribe raises their hand. \\Oh no, It's fine. On you go. One scrap is enough.\\ The Embittered Devil looks disappointed.",
+    "translation": "当他们接近不值得的文士时，痛苦的魔鬼咧嘴一笑。文士举起了他们的手。\\Oh no, It's fine. 你去吧。一个废品就够了。 愤世嫉俗的魔鬼看起来很失望。"
+  },
+  {
+    "key": "legacy_e984ae456542b4799892",
+    "original": "The Embittered Devil has a suggestion regarding a reopening of the question of the comparative qualities between the souls of beasts and those of the Blue Kingdom he's keep to explore  perhaps, he says, it's best for the hunched spirit that his proposed subject is sent away before he can begin.",
+    "translation": "痛苦的魔鬼有一个建议，关于重新讨论野兽的灵魂和蓝色王国的灵魂之间的比较质量问题，他一直在探索，也许，他说，对驼背的精神来说，在他开始之前，他提议的主题最好被送走。"
+  },
+  {
+    "key": "legacy_e596899f114b51624023",
+    "original": "exit",
+    "translation": "退出"
+  },
+  {
+    "key": "legacy_cb94b68d7b6aad903cf7",
+    "original": "Melusine walks confidently down a promising tunnel. Two minutes later she emerges from another on the other side of the cavern. \\Grr,\\ she confirms, glaring at her device.",
+    "translation": "Melusine自信地走过一条有希望的隧道。两分钟后，她从洞穴另一边的另一条隧道中走出来。\\她确认说：Grr，她瞪着她的设备。"
+  },
+  {
+    "key": "legacy_4abc460ff0edb37594f5",
+    "original": "Melusine pops the Ambiguous Shard out of her device and cleans it on her shirt. \\There's the problem,\\ she announces.",
+    "translation": "梅鲁辛从她的设备中弹出模糊的碎片，并在她的衬衫上清洗它。\\问题就在这里，她宣布。"
+  },
+  {
+    "key": "legacy_93c9f90630a9c3d14687",
+    "original": "This terrain is rocky. Occasional scrub pokes through the snow  a heather like substance known to be highly toxic and irritating to the skin. The snow is soft and fluffy. There are no signs of other miners this far away from town.",
+    "translation": "这种地形是岩石的。偶尔有灌木从雪中探出，这是一种类似石楠的物质，已知对皮肤有剧毒和刺激性。雪是柔软的，蓬松的。离镇子这么远，没有其他矿工的迹象。"
+  },
+  {
+    "key": "legacy_11dcd8b3e4bb8704ef59",
+    "original": "A stream of fellow fire-faced Scintillant are exiting from a door marked \\LABORATORIES,\\ carrying between them another singed Scintillant on a stretcher.",
+    "translation": "一队火面人从一扇标有 实验室 的门里出来，他们中间抬着另一个被烧焦的火面人放在担架上。"
+  },
+  {
+    "key": "legacy_bf8d137428556a453b36",
+    "original": "You have 'Spatchcocker' Meg aboard. Take her to find Mr Menagerie. You will need four Caged Catches to secure his aid\\t",
+    "translation": "你有'Spatchcocker'梅格在船上。带她去找Menagerie先生。你将需要四只笼子里的猫来确保他的援助。"
+  },
+  {
+    "key": "legacy_3932e66fd84d2908ccc1",
+    "original": "'Spatchcocker' Meg is investigating the Fire that Follows.\\t",
+    "translation": "'Spatchcocker'Meg正在调查Fire that Follows。"
+  },
+  {
+    "key": "legacy_9fcb9c1f5a89c25f2ae5",
+    "original": "Mme. Lumire has boarded your engine.",
+    "translation": "卢米雷夫人已经登上了你的引擎。"
+  },
+  {
+    "key": "legacy_d2342dc0e5ca5fa12246",
+    "original": "Mme. Lumire has departed.",
+    "translation": "卢米勒夫人已经离开了。"
+  },
+  {
+    "key": "legacy_ff81ba561409c628eabc",
+    "original": "Your Nightmares are now 0  Untroubled.",
+    "translation": "你的噩梦现在是0，不受困扰。"
+  },
+  {
+    "key": "legacy_6bd712dbfee4610be4c3",
+    "original": "An irregularity in the galley. The table is neatly laid, but the plates are all glued in place, and the cutlery has been nailed down. The culprit is quickly discovered when she tries to nail the chief engineer's hat to the chief engineer's head. \\Everything has its place,\\ she explains when she's dragged before you.",
+    "translation": "厨房里的一个不规则现象。桌子摆放得很整齐，但盘子都是用胶水粘住的，餐具也被钉死了。当她试图把总工程师的帽子钉在总工程师的头上时，罪魁祸首很快就被发现了。\\Everything has its place, she explains when she's dragged before you。"
+  },
+  {
+    "key": "legacy_17a96a36df724c01951b",
+    "original": "The Royal Horologist sighs unhappily. \\The power that previously claimed dominion here was, by all accounts, regrettably showy. Carrying on like a pantomime potentate. Not that I've seen one.\\ ",
+    "translation": "皇家钟表师不高兴地叹息着。\\从各方面来看，以前在这里称霸的势力是令人遗憾的炫耀。就像一个哑剧中的权贵一样。我并没有见过这样的人。"
+  },
+  {
+    "key": "legacy_f8278fadbdad5463c3fd",
+    "original": "You have no more odd-jobs in Achlys.\\t",
+    "translation": "你在Achlys没有更多的零工。"
+  },
+  {
+    "key": "legacy_31c1dce66cccdffd52ff",
+    "original": "Mme. Lumire wants you to check in on a film being produced on Lustrum",
+    "translation": "卢米勒夫人想让你去看看正在制作的鲁斯特伦的电影"
+  },
+  {
+    "key": "legacy_27673e636fddcf92ef6c",
+    "original": "Return to Mme. Lumire to tell her of your success on Lustrum",
+    "translation": "回到卢米勒夫人身边，告诉她你在路斯特伦的成功经验"
+  },
+  {
+    "key": "legacy_6f9705f4d23ebcc2890b",
+    "original": "Mme. Lumire wants to show you her bird",
+    "translation": "卢米埃尔夫人想让你看看她的鸟儿"
+  },
+  {
+    "key": "legacy_298d268a8990a205c389",
+    "original": "Mme. Lumire has told you to look out for a fungus tower on Hybras",
+    "translation": "卢米勒夫人告诉你要注意海布拉斯的真菌塔"
+  },
+  {
+    "key": "legacy_f0e055a01661c8ec9081",
+    "original": "Mme. Lumire wants you to check in on a film being produced on Lustrum.",
+    "translation": "卢米勒夫人希望你去看看正在制作的关于Lustrum的一部电影。"
+  },
+  {
+    "key": "legacy_99bffaec92e5604e0c42",
+    "original": "Return to Mme. Lumire to tell her of your success on Lustrum.",
+    "translation": "回到卢米勒夫人身边，告诉她你在路斯特伦的成功。"
+  },
+  {
+    "key": "legacy_a39cd3190dac9f6dde0b",
+    "original": "Mme. Lumire wants to show you her bird.",
+    "translation": "卢米勒夫人想让你看看她的鸟。"
+  },
+  {
+    "key": "legacy_933e22e31915b590348d",
+    "original": "Mme. Lumire has told you to look out for a fungus tower on Hybras.",
+    "translation": "卢米勒夫人告诉你要注意Hybras上的一个真菌塔。"
+  },
+  {
+    "key": "legacy_5ff3e8e8407fc9fa3d97",
+    "original": "An Opportunity! You overhear dreary Company men discuss a storm over Traitor's Wood  they speculate it may have brought down a lot of Bronzewood, which might now be going cheap.",
+    "translation": "一个机会！你听到沉闷的公司人员在讨论叛徒森林上空的风暴，他们推测可能带来了大量的铜钱木，现在可能正在廉价出售。"
+  },
+  {
+    "key": "legacy_83e86ff8b8cc886c7f0f",
+    "original": "An Opportunity! A tacked-up sign at the station announces a tea shop closure on Worlebury-Juxta-Mare. Worlebury tea shops experience boom and bust. Now is the time of bust  and cheap Crates of Nostalgic Crockery.",
+    "translation": "一个机会！。车站的一个粘稠的标志宣布Worlebury-Juxta-Mare的茶店关闭。沃勒伯里的茶店经历了繁荣和萧条。现在是萧条的时候，也是廉价的怀旧陶器箱的时候。"
+  },
+  {
+    "key": "legacy_916d54c195ac63579d27",
+    "original": "Magdalene",
+    "translation": "马格达林"
+  },
+  {
+    "key": "legacy_cc30144848958a84de5d",
+    "original": "Your old gang-leader is waiting. She has a slingshot in hand and a pack of rotten apples for ammunition. \\Too big, longshanks. Let's see if the height gives you any advantage.\\ She spends the next hour testing her theory.",
+    "translation": "你的老帮主正在等待。她手里拿着一把弹弓，一包烂苹果当弹药。\\太大了，长腿。让我们看看身高是否给你带来任何优势。她花了一个小时来测试她的理论。"
+  },
+  {
+    "key": "legacy_a96ce19cdef9d879a070",
+    "original": "Your breast has become translucent, and allows an educational  if distressing  view of your coursing veins and thumping heart",
+    "translation": "你的乳房变得半透明，让人看到你流动的血管和怦然心动的心脏，这很有教育意义。"
+  },
+  {
+    "key": "legacy_02b4581ec7e123b8b47c",
+    "original": "\\Light, air, fire and self control are the enemies of pestilence,\\ says a Supervising Deviless in a sing-song voice.",
+    "translation": "Light, air, fire and self-control are the enemies of pestilence,（光、空气、火和自我控制是瘟疫的敌人）一位女监督员用唱的声音说。"
+  },
+  {
+    "key": "legacy_57b29ab515d945b482e2",
+    "original": "\\Would you say you are feeling more or less conscious of your mortality than when you began this programme?\\ asks the Supervising Devil.",
+    "translation": "你说你对你的死亡的意识比你开始这个项目时更多还是更少？监督的魔鬼问道。"
+  },
+  {
+    "key": "legacy_d7f41018afac7571983a",
+    "original": "\\Is this making you at all more ambitious?\\ asks the supervising Devil curiously.",
+    "translation": "这是否让你更有野心？监督的魔鬼好奇地问道。"
+  },
+  {
+    "key": "legacy_79857aee05e912fc4a7a",
+    "original": "\\Do you feel any more interesting now?\\ asks the supervising Devil.",
+    "translation": "Do you feel any more interesting now? asks the supervising Devil."
+  },
+  {
+    "key": "legacy_60af0c597e26c74afa51",
+    "original": "One of the Devils records this progress with interest.\\t",
+    "translation": "其中一个魔鬼饶有兴趣地记录了这一进展。T"
+  },
+  {
+    "key": "legacy_0db93c8bdf93eddbc4aa",
+    "original": "\\There is such a thing as too much, wouldn't you say?\\ asks the Supervising Devil hopefully.",
+    "translation": "There is such a thing as too much, wouldn't you say? as regards the Supervising Devil hopefully."
+  },
+  {
+    "key": "legacy_e44b5e9b52c4b9136741",
+    "original": "\\This is what happens when you ask too many questions,\\ remarks the Supervising Devil.",
+    "translation": "This is what happens when you ask too many questions, remarks the Supervising Devil."
+  },
+  {
+    "key": "legacy_ca92bde1a2f8adc79961",
+    "original": "\\So, would you say your curiosity has been exhausted?\\ asks the Supervising Devil.",
+    "translation": "So, would you say your curiosity has been exhausted? asks the Supervising Devil."
+  },
+  {
+    "key": "legacy_d550a08b8bc44a3ef441",
+    "original": "\\Are you feeling more aware of the truth?\\ asks the Supervising Devil hopefully.",
+    "translation": "你是否感觉到更多的真相？监管魔鬼满怀希望地问道。"
+  },
+  {
+    "key": "legacy_6a3534afde5851eea144",
+    "original": "\\Still inclined to falsehoods,\\ writes the Supervising Devil.",
+    "translation": "仍然倾向于假话，监督的魔鬼写道。"
+  },
+  {
+    "key": "legacy_0fd640215b96b12cde7c",
+    "original": "\\Try to allow yourself to feel some emotion,\\ prompts the Supervising Deviless.",
+    "translation": "试着让自己感受到一些情感，女监督员提示道。"
+  },
+  {
+    "key": "legacy_3d893ce81f267fbb78d7",
+    "original": "\\Perhaps a memory from childhood will help you warm up,\\ the Supervising Deviless suggests.",
+    "translation": "也许童年的记忆会帮助你热身，女监督员建议。"
+  },
+  {
+    "key": "legacy_35d913e07dd01012b41e",
+    "original": "\\Let that be a lesson to you,\\ says the Supervising Devil.",
+    "translation": "Let that be a lesson to you, says the Supervising Devil. 让这成为你的一个教训，监督魔鬼说。"
+  },
+  {
+    "key": "legacy_37412e4f977d3991a695",
+    "original": "\\Everything in its proper place,\\ says the Supervising Devil.",
+    "translation": "所有的东西都在它适当的位置，监督的魔鬼说。"
+  },
+  {
+    "key": "legacy_b6caeeb4e3fc6806f48c",
+    "original": "\\I think we've all learned from this,\\ remarks the Supervising Devil.",
+    "translation": "我想我们都从中学到了东西，监管魔鬼说。"
+  },
+  {
+    "key": "legacy_0fc77a677779240df969",
+    "original": "The Servitor's porcelain mask is still impassive, but its long fingers flex and twitch and spasm. \\See? I have not changed at all,\\ it says grumpily. Its voice is no longer the thudding of stone. It sounds like a mildly peeved accountant.",
+    "translation": "仆人的瓷质面具仍然无动于衷，但它长长的手指弯曲、抽搐和痉挛。\\See? I have not changed at all, it says grumpily. 它的声音不再是石头的咚咚声。它的声音听起来就像一个轻微生气的会计师。"
+  },
+  {
+    "key": "legacy_f90e3594d89111b9237b",
+    "original": "The Loquacious Civil Servant consults the latest opinion polls. \\This is indeed a... courageous... law,\\ he comments, in a tone usually saved for a particularly unfortunate eulogy.",
+    "translation": "健谈的公务员咨询了最新的民意调查。\\这确实是一个......勇敢的......法律，他用通常为特别不幸的悼词保留的语气评论道。"
+  },
+  {
+    "key": "legacy_85d767e6d168a8716913",
+    "original": "You have become a Minister  you can now pass bills at Parliament",
+    "translation": "你已经成为一名部长，你现在可以在议会通过法案"
+  },
+  {
+    "key": "legacy_375348a751bab8151762",
+    "original": "You have become a Minister  you can now pass bills at Parliament.",
+    "translation": "你已经成为一名部长，你现在可以在议会通过法案。"
+  },
+  {
+    "key": "legacy_9e137f8a19d5dda1b7a6",
+    "original": "Today, the vicar expounds upon Ephesians 6:1-4, and Exodus 20:12. \\Honour your father and mother...\\ Children sit, stiff-backed, in the pews. Their hair is neatly combed. Their buttons are fastened to the collar. Their parents shoot them meaningful looks.",
+    "translation": "今天，牧师阐述了以弗所书6:1-4和出埃及记20:12。\\Honour your father and mother...。孩子们硬着头皮坐在座位上。他们的头发被梳理得整整齐齐。他们的纽扣都系在领口上。他们的父母向他们投来意味深长的目光。"
+  },
+  {
+    "key": "legacy_a3c0c75eef927c206032",
+    "original": "The pews are crowded with Port Avon locals, stiff in their Sunday bests. They embark upon a hymn: \\Christian children all must be; mild, obedient, good as he...\\ The younger parts of the congregation appear unenthused.",
+    "translation": "座位上挤满了埃文港的当地人，他们穿着周日的马甲，身体僵硬。他们开始唱起了赞美诗。\\Christian children all must be; mild, obedient, good as he...。会众中的年轻人似乎没有兴趣。"
+  },
+  {
+    "key": "legacy_8a3cac5eb9a58436c7a1",
+    "original": "Revolution",
+    "translation": "革命"
+  },
+  {
+    "key": "legacy_a89229bd463d45f976cd",
+    "original": "Workers burst through into the Bit Between from the workworld. Overseers run in both directions  some fleeing, some throwing themselves into the melee.",
+    "translation": "工人们从工作区冲进位面之间。监督员们向两个方向跑去，有些人在逃，有些人则投身于混战之中。"
+  },
+  {
+    "key": "legacy_9de9fff0f4976eb9bfd6",
+    "original": "You can see only Overseers in the Bit Between. But all is not as it was before  they seem tense, on edge.",
+    "translation": "你可以在位面之间只看到监督者。但一切都不像以前那样了，他们似乎很紧张，处于紧张状态。"
+  },
+  {
+    "key": "legacy_099d95e01c4e0615cb91",
+    "original": "An Overseer runs up to where you stand by your locomotive. \\The revolution's over. The Governor asked about you.\\ He tries to say more, but needs to catch his breath.",
+    "translation": "一个监督员跑到你站在火车头旁的地方。\\革命已经结束了。总督问起你。 他想说更多，但需要喘口气。"
+  },
+  {
+    "key": "legacy_a2daf8a7032363961a10",
+    "original": "An Overseer bustles you to your locomotive  is it the revolutionary leader's ally?  workers rush between you before you can be sure.",
+    "translation": "一个监督员把你推到你的火车头旁，是革命领袖的盟友吗？在你确定之前，工人们冲到你的中间。"
+  },
+  {
+    "key": "legacy_9e73f8fa9cb76c441b31",
+    "original": "Hard",
+    "translation": "艰难"
+  },
+  {
+    "key": "legacy_520812c990649e862597",
+    "original": "Long shadows move through the silver trees ahead. There is a mournful howl. \\Someone sounds hungry,\\ a stoker tries to joke. A low growling comes from behind you; the beasts have your scent.",
+    "translation": "长长的影子穿过前方的银色树木。有一声凄厉的嚎叫。\\有人听起来很饿，一个司炉试图开玩笑。一阵低沉的咆哮声从你身后传来；野兽们闻到了你的气味。"
+  },
+  {
+    "key": "legacy_a6711925578e38579567",
+    "original": "The ground gives way to a bog  grey and fetid as a newly slain corpse. It burps lazily. The marsh reeds susurrate, growing in volume as you approach. There is English amidst the polyphony: names  yours and those of your crew.",
+    "translation": "地面上出现了一个灰色的沼泽，像一具新杀的尸体一样腥臭。它懒洋洋地打着嗝。沼泽地里的芦苇发出响声，随着你的接近，音量越来越大。复调中夹杂着英语：你和你的船员的名字。"
+  },
+  {
+    "key": "legacy_e4e704ced60f2d237292",
+    "original": "The candles sputter and extinguish. The knights freeze in place, still as statues. \n\nA pit opens beneath the Blindness Throne and swallows you whole. Demons flock about you in the darkness, warty-skinned gargoyles who inspect you like a prize turkey. \n\nAfter a moment's chatter, one of them unscrews the top of your skull and begins rifling through its contents like a frenzied burglar. \n\n\\We'll take everything from you,\\ hisses another of the demons, his hot breath in your ear.",
+    "translation": "蜡烛溅起并熄灭了。骑士们僵在原地，像雕像一样一动不动。\\在失明王座下面打开一个坑，把你整个吞进去。黑暗中，恶魔们蜂拥而至，这些长着疣状皮肤的妖怪们像检查火鸡一样检查你。\\聊了一会儿后，其中一个人拧开了你的头盖骨，开始像个疯狂的小偷一样翻找里面的东西。\\我们会拿走你的一切，另一个恶魔嘶吼着，他的热气在你耳边响起。"
+  },
+  {
+    "key": "legacy_68226aca7d49bf01f562",
+    "original": "The stoker makes a valiant attempt on the Pugilistic Forged Companion's life, but their blows land on unfeeling flesh. The moment they stop to catch their breath, the Companion strikes them in the chest, and they crumple to the floor, lifeless. \\I am more difficult to replace,\\ the Companion says in response to your expression.",
+    "translation": "司炉对搏击锻造同伴的生命进行了勇敢的尝试，但他们的打击落在了无情的肉体上。在他们停下来喘息的那一刻，同伴击中了他们的胸口，他们轰然倒地，毫无生气。\\I am more difficult to replace, the Companion says in response to your expression."
+  },
+  {
+    "key": "legacy_42a7fa7b06183616da15",
+    "original": "The Mellifluous Orator introduces you to someone he describes as an 'up and coming' young artist: a broad-shouldered woman with a shaved head and tattoos coating both her muscular arms. Apparently she specialises in painting startling scenes of a futuristic world united under the Philosophy.\n\n\\I think our friend here can do good work spreading enthusiasm for our Philosophy in Worlebury-juxta-Mare,\\ says the Orator. ",
+    "translation": "Mellifluous Orator向你介绍了一个被他描述为'新兴'的年轻艺术家的人：一个肩部宽阔的女人，剃着头，两只肌肉发达的手臂上都有纹身。显然，她擅长画一个未来世界的惊人场景，在哲学的指导下团结一致。我认为我们的朋友可以做很好的工作，在沃勒伯里-朱克斯塔-马尔为我们的哲学传播热情，演讲者说。"
+  },
+  {
+    "key": "legacy_52656e8104eef3fddd3d",
+    "original": "Branch",
+    "translation": "处"
+  },
+  {
+    "key": "legacy_3b98f9b78147d1231e16",
+    "original": "\\Sarge always had a soft spot for Angel,\\ Vianne says, a note of wistfulness in her voice.",
+    "translation": "军士长总是对安吉尔情有独钟，维安说，她的声音里有一种怀念的意味。"
+  },
+  {
+    "key": "legacy_0a6414b08f9e6fc6a59a",
+    "original": "\\Sarge always liked Vianne,\\ Albrecht says quietly.",
+    "translation": "军士长总是喜欢薇安，阿尔布雷希特平静地说。"
+  },
+  {
+    "key": "legacy_2e8d7462730dbc41566c",
+    "original": "Wilma jumps onto your shoulder. \\Well. Come on then.\\ There's a merry gleam in her eye.",
+    "translation": "威尔玛跳上你的肩膀。\\Well. Come on then. 她的眼睛里有一种快乐的光芒。"
+  },
+  {
+    "key": "legacy_ef436bddea5da5d32764",
+    "original": "It is said that the lakes at the top of Regent's Tears have curative properties. This rumour goes largely unconfirmed  the ground by the lakes is too boggy to land a locomotive.\n\nInstead, you must land on a sharp, slippery ledge lower down the falls. The walk up will be punishing.",
+    "translation": "据说摄政王之泪顶部的湖泊有治疗作用。这个传言在很大程度上没有得到证实，湖边的地面太过泥泞，无法让火车头降落。相反，你必须降落在瀑布下方一个尖锐、湿滑的壁架上。往上走会很痛苦。"
+  },
+  {
+    "key": "legacy_d1dafa4e55ed6fa958ca",
+    "original": "The view from the top of the Tears is dizzying. The forest is so large and you are so high that all perspective is lost. Only your locomotive, small as a match box, breaks the illusion of a mossy meadow inches from your feet. \n\nYou step back from the drop and turn to the lake. It is huge  you cannot make out any details of its far shore. Steam rises sluggishly from the surface: the water is warm!",
+    "translation": "从眼泪山顶上看去，景色令人眼花缭乱。森林是如此之大，你是如此之高，以至于所有的视角都消失了。只有你的火车头，小如火柴盒，打破了离你脚下几英寸的青苔草地的幻觉。\\你从落差上退下来，转向湖面。它是巨大的，你无法看清它远处海岸的任何细节。蒸汽从表面迟缓地升起：水是温暖的！"
+  },
+  {
+    "key": "legacy_74dea014b9ea6205e766",
+    "original": "BranchResult",
+    "translation": "分支结果"
+  },
+  {
+    "key": "legacy_43e520e22ee065fc9701",
+    "original": "To be heard over the sound of the falls you must sit equally close. \nThe couple welcome you warmly, and all too easily slip into discussion of the family they hope for. Their accents reveal a scandalous class disparity  no wonder they are coy about their identities.",
+    "translation": "要想在瀑布的声音中被听到，你必须坐得同样近。\\这对夫妇热情地欢迎你，并且很容易就陷入他们所希望的家庭的讨论中。他们的口音透露出一种可耻的阶级差异，难怪他们对自己的身份讳莫如深。"
+  },
+  {
+    "key": "legacy_716d633b125adb76832f",
+    "original": "Percent",
+    "translation": "百分比"
+  },
+  {
+    "key": "legacy_d933afcfa024239f543c",
+    "original": "%{Old Flame",
+    "translation": "%{古老的火焰"
+  },
+  {
+    "key": "legacy_ee4e485409d10932e671",
+    "original": "Is that the chair where you? Is that the picture you drew after? All is exactly as you remember, a simulacrum perfect to the finest detail. \n\nThey are watching you warily, all the gathered apparatus of your vice laid out before them. Their hand wavers. They smile as you close the door. A return? Or a release? ",
+    "translation": "那是你所在的椅子吗？那是你之后画的画吗？一切都和你记忆中的一模一样，是完美到极致的模拟。\\他们正警惕地看着你，你的副业的所有设备都摆在他们面前。他们的手摇摆不定。当你关门时，他们微笑着。是回归？还是释放？"
+  },
+  {
+    "key": "legacy_131999be54235a9c1cef",
+    "original": "The room is dark and shrouded. Only a few brief candles outline their silhouette before the bed. Their hand meets yours in the darkness, as they guide you to the window. \n\n\\Let me tell you of all that I have done since we parted.\\ Their quick breath fogs the glass as they roll out a fabricated but plausible litany of the years that have divided you.",
+    "translation": "房间是黑暗的，笼罩着的。只有几根简短的蜡烛在床前勾勒出他们的轮廓。他们的手在黑暗中与你相遇，他们引导你到窗前。\\让我告诉你，自从我们分开后我所做的一切。 他们急促的呼吸使玻璃蒙上了一层雾气，因为他们对你们分开的这些年进行了编造但又合理的叙述。"
+  },
+  {
+    "key": "legacy_f8155366e05f31197568",
+    "original": "Your old companion in vice is inside, shackled in a room which resembles one of the Midnight Cells. He sighs and explains this is where all that trouble got him. \n\nHe begs you to listen to the old stories, one last time. \\I couldn't have done it without you, captain,\\ he says, apparently entirely sincerely. The talk seems to have cheered him up immensely. ",
+    "translation": "你的老伙伴在里面，被铐在一个类似于午夜牢房的房间里。他叹了口气，解释说这是他所有麻烦的地方。\\他恳求你最后一次听他讲那些老故事。\\没有你我做不到，队长，他说，显然是完全真诚的。这次谈话似乎让他非常振奋。"
+  },
+  {
+    "key": "legacy_3ed2ecdfd84df4213501",
+    "original": "Be incarcerated in Piranesi  if you dare.",
+    "translation": "如果你有胆量，就在皮拉内西被监禁"
+  },
+  {
+    "key": "legacy_e7f59def2045b7152748",
+    "original": "Itch",
+    "translation": "瘙痒"
+  },
+  {
+    "key": "legacy_e6d43fbcd68f8561d70b",
+    "original": "There is a loud burst of laughter. Someone calls the Xenophilic Youth over. He asks you to join him. A group is talking about the downfall of the owner of a workworld. Apparently, it'll be days before his absence is noted  he'll be ancient before the officials find him. ",
+    "translation": "哗哗 的笑声响起。有人把 异性恋青年 叫过来。他请你加入他。一群人正在谈论一个工作世界的主人的垮台。显然，他的缺席将在几天后被注意到，在官员们找到他之前，他将成为一个古老的人。"
+  },
+  {
+    "key": "legacy_185a7f815494a1dc11dc",
+    "original": "A bound and gagged man in resplendent but tattered attire is marched to a house with barred windows. Two Revolutionaries follow  their faces covered by dark masks. The others draw back as they pass.",
+    "translation": "一个被捆绑和堵住嘴的人，穿着华丽但破烂的服装，被押送到一栋窗户有栅栏的房子里。两名革命者跟在后面，他们的脸被黑面具遮住。当他们经过时，其他人都退了回来。"
+  },
+  {
+    "key": "legacy_9c828f4371553ee6cac5",
+    "original": "He passes you a photograph. It's an image of a vast arch framing the sky. \\Look through it, not at it.\\ There! When you let light fall just so, you can see constellations that should not be there.",
+    "translation": "他递给你一张照片。这是一个巨大的拱门的图像，框住了天空。\\Look through it, not at it. 透过它，而不是看着它。 There! 当你让光线正好落下时，你可以看到不应该出现的星座。"
+  },
+  {
+    "key": "legacy_e61c846633c98cad32cd",
+    "original": "He speaks with frustration of the Ministry. Its insistence on Britishness drains the unique from everything it touches. It destroys new cultures, new languages  they must remain unsullied, for him to explore.",
+    "translation": "他说的是外交部的挫折感。它对英国性的坚持耗尽了它所接触的一切事物的独特之处。它破坏了新的文化，新的语言，他们必须保持不受玷污，让他去探索。"
+  },
+  {
+    "key": "legacy_512f226c88a6a8b826d8",
+    "original": "The agreement is made, and a runner is sent into Corncrake House. Several minutes later, they return carrying a large, mahogany box. They grin when you open it to check the contents  they'd have done the same.",
+    "translation": "协议达成了，一个跑腿的人被派到Corncrake House。几分钟后，他们带着一个大的桃花心木盒子回来。当你打开它检查里面的东西时，他们咧嘴一笑，他们也会这样做。"
+  },
+  {
+    "key": "legacy_214ea7fd7b102f1505e6",
+    "original": "The net is taut; as you begin to cut, its cords ping loose. It holds only a large jar. The things inside are dried and withered. Is that a grape? It rolls over to show a blue iris. Beneath it is a gelatinous bubble containing uncannily-stirring smoke. At the bottom is a dried stalk; one end is swollen, the skin thin and transparent. It glows and flickers like a trapped fire fly  if the fly were as bright as a star.",
+    "translation": "网是紧绷的；当你开始切割时，它的绳索乒乒乓乓地松动。它只能容纳一个大罐子。里面的东西已经干枯了。那是一颗葡萄吗？它翻转过来，露出一朵蓝色的鸢尾花。它的下面是一个胶状的气泡，里面有不稳定的烟雾。底部是一个干枯的茎；一端肿胀，皮薄而透明。它发着光，闪烁着，就像一只被困的火蝇，如果这只火蝇像星星一样明亮。"
+  },
+  {
+    "key": "legacy_ee38aee5aee99ab228e5",
+    "original": "The net is fraying and easy to snap. It has been damaged by the contents  unkind things. A carnivore's tooth: thick, long and shaped to rip and gouge. The nameplate of a locomotive, blasted beyond reading, twisted and torn; its edges are raw. A perfect sphere, smooth to the touch and black as guilt. It seems out of place in this array, till you notice that your sky-suit has eroded where you held it.",
+    "translation": "这张网已经磨损，容易折断。它已被内容不善的东西损坏。一颗食肉动物的牙齿：又粗又长，形状是撕咬和抠挖的。一个机车的铭牌，被炸得无法阅读，扭曲和撕裂；其边缘是生的。一个完美的球体，触摸起来很光滑，黑得让人心虚。它在这个阵列中似乎格格不入，直到你注意到你的天空服在你拿着它的地方被侵蚀了。"
+  },
+  {
+    "key": "legacy_24d1ee0732369908616e",
+    "original": "The net releases a tumult of items: one small cymbal  the size of a large coin, a flower whose petals chafe to produce a crystalline hum, a rock the size of a human skull  carved into a looping shape and pierced with a lattice of tunnels, and, finally, a gourd. The gourd bulges with round-capped fungus which, when depressed, emits a wistful sighing. ",
+    "translation": "这张网放出了一堆物品：一个大硬币大小的小钹，一朵花，其花瓣摩擦产生晶莹的嗡嗡声，一块人类头骨大小的岩石，被雕刻成环形，并穿有隧道的格子，最后是一个葫芦。葫芦上隆起的圆盖真菌，在压下时，发出俏皮的叹息。"
+  },
+  {
+    "key": "legacy_5f46153bbc0dd71ab30d",
+    "original": "The fur around the net is matted and worn; it must be torn free before you can access its contents. Among them is a chitinous foot, possessed of eight articulate toes  it smells like embalming fluid. A small dried five-eyed fish. A human heart, salted. Was this curator notably morbid? Or were these provisions for its vast, windy journeys across the gulfs between stars?",
+    "translation": "网周围的毛皮是垫高的、磨损的；在你能接触到它的内容之前，必须把它撕开。其中有一只甲壳质的脚，拥有八个有关节的脚趾，闻起来像防腐液。一条小的五眼鱼干。一颗盐渍的人类心脏。这位馆长是不是很病态？还是说这些是为它穿越星际间的海湾而提供的巨大的、多风的旅程？"
+  },
+  {
+    "key": "legacy_1082b96c0b3ba75a1e3b",
+    "original": "The Curator's wings lift away easily  they are thin, translucent and dull. Beneath them, the creature's torso is marred with a brand. It is a sigil, partially obliterated by a wound from one of your weapons. Even damaged and incomplete, it aches to look upon.",
+    "translation": "馆长的翅膀很容易就抬起来了，它们很薄，半透明，无光泽。在它们下面，这个生物的躯干上有一个烙印的痕迹。那是一个符号，被你的一个武器的伤口部分抹去了。即使被损坏和不完整，它也让人看了心疼。"
+  },
+  {
+    "key": "legacy_7719194043a5a8dcd604",
+    "original": "It takes two to pull open one of the giant wings. It is reasonably light, but cumbersome  it threatens to enfold you like an affectionate tent. You pull back the other wing. The Curator's body is still warm, and covered with a fine fur. ",
+    "translation": "需要两个人才能拉开其中一个巨翼。它还算轻，但累赘的它有可能像一个亲切的帐篷一样把你包裹起来。你拉回另一只翅膀。馆长的身体仍然是温暖的，并且覆盖着一层细毛。"
+  },
+  {
+    "key": "legacy_77a06b1b8ed0dd701497",
+    "original": "This creature's wings were thin and battered even before you trained your weapons upon it. They tear when you unfold them. Its body is thin, the ridges of its ribs pressing through the patchy dull fur. An old scar traces the shape of a sigil. \\I can't look at it, Captain. Makes my teeth sing.\\ An engineer winces and turns away.",
+    "translation": "这个生物的翅膀很薄，甚至在你对它进行武器训练之前就已经被打烂了。当你展开它们时，它们就会撕裂。它的身体很瘦，肋骨的棱线压在斑驳的暗色毛皮上。一道古老的疤痕描画出一个符号的形状。\\我不能看它，队长。让我的牙齿发痒。一个工程师抽泣着转身离开。"
+  },
+  {
+    "key": "legacy_2fe0ef9616ed2d0e0e65",
+    "original": "Your weapons have wrenched one wing out of the shoulder. The Curator is covered in a fine, dull fur. Under what could perhaps be described as an armpit is a bald patch, marred with a throbbing sigil. Fortunately, the grime on your visor prevents you from seeing it clearly. Your stoker  ever fastidious  is less lucky. He shrieks as his eyebrows ignite.",
+    "translation": "你的武器把一只翅膀从肩膀上扯了下来。馆长身上覆盖着一层细密、暗淡的皮毛。在也许可以被描述为腋下的地方有一块秃头，上面有一个跳动的符号。幸运的是，你面罩上的污垢使你无法清楚地看到它。你的司炉一向很谨慎，却没有那么幸运。当他的眉毛被点燃时，他尖叫起来。"
+  },
+  {
+    "key": "legacy_66ffe2baf8899652e82e",
+    "original": "The Curator's wings are thin but sturdy, with a texture between sailcloth and supple leather. An engineer helps you pull the wings open and pin them out of the way. He yelps when a claw scratches his helmet  a final spasm from the dead creature.",
+    "translation": "馆长的翅膀很薄但很结实，质地介于帆布和柔软的皮革之间。一个工程师帮你拉开翅膀，把它们钉在外面。当一只爪子抓破他的头盔时，他大叫起来，这是死亡生物的最后一次痉挛。"
+  },
+  {
+    "key": "legacy_91a662b618f61baa4fed",
+    "original": "The Curator's wings are thick and heavy, like the leather of a London club's best armchair. It takes the combined strength of you and your navigator to reveal the beast's torso  thick with muscle, covered in a glossy fur. This one was a skilled hunter; it ate well.",
+    "translation": "馆长的翅膀又厚又重，像伦敦俱乐部最好的扶手椅的皮革。需要你和你的领航员合力才能露出这只野兽厚实的肌肉，覆盖着一层光亮的皮毛。这只是一个熟练的猎手；它吃得很好。"
+  },
+  {
+    "key": "legacy_8d9001d32c6a703d9592",
+    "original": "shop",
+    "translation": "商店"
+  },
+  {
+    "key": "legacy_f1b1cd4c5a8c02315ea1",
+    "original": "You find a seat among the parishioners, their skin whorled with strange patterns  tentacular calligraphy that might, quite possibly, be flesh.",
+    "translation": "你在教区居民中找到一个座位，他们的皮肤上有奇怪的图案，有可能是肉体的天书。"
+  },
+  {
+    "key": "legacy_d964ba6027970bbc133b",
+    "original": "Breach2",
+    "translation": "突破2"
+  },
+  {
+    "key": "legacy_5f2b8e0e2d39981140e8",
+    "original": "Fumes",
+    "translation": "烟尘"
+  },
+  {
+    "key": "legacy_bfd3daed092b1c0b335c",
+    "original": "Window cracks have accreted a filling of moss-green dust. Once-white paint is yellowed and peeling. The signal box possesses a faded dignity, like a beleaguered butler. It was designed with pride  to be part of that great folly, the Isambard Line.",
+    "translation": "窗户的裂缝中已经积聚了苔藓绿色的灰尘。曾经的白色油漆已经发黄和剥落。信号箱拥有一种褪色的尊严，就像一个陷入困境的管家。它被自豪地设计为那个伟大的愚蠢的一部分，伊桑巴德线。"
+  },
+  {
+    "key": "legacy_31b27d832158024f3ef5",
+    "original": "The captain details various damages done to their engine, and the causes. Hull: aggrieved cantankeri. Backplate: bad launch off Port Prosper. Frontplate: bad landing on Port Prosper. Hull again  Jones. A change in personnel gives the captain optimism for the next leg of the journey.",
+    "translation": "车长详细介绍了他们的发动机所受到的各种损害，以及原因。车体：受委屈的cantankeri。背板：在普罗斯佩尔港外的不良发射。前板：在普罗斯珀港着陆不顺利。船身又是琼斯。人员的变化让船长对下一段旅程感到乐观。"
+  },
+  {
+    "key": "legacy_3ff9f0d329cbed62d25d",
+    "original": "A Taciturn Inspector boards the ship, licking a fresh pencil and signing his name on a pristine new search form. \\Shall we?\\ he says, carefully double-checking his own spelling before moving on.",
+    "translation": "一位默默无闻的视察员登上了飞船，舔着一支新的铅笔，在一张崭新的搜查表上签下了自己的名字。\\Shall we? 他说，在继续前行之前，仔细检查了自己的拼写。"
+  },
+  {
+    "key": "legacy_0a2adf7d28e7f0e63e4f",
+    "original": "The Avuncular Inspector finishes her quick look around the ship. \\Excellent, Captain. I won't be needing this after all.\\ She puts away the well-weathered red customs stamp in favour of a green one that looks almost unused.",
+    "translation": "有礼貌的视察员完成了她在船上的快速检查。\\很好，船长。我毕竟不需要这个。她收起了风化严重的红色海关印章，换上了一个看起来几乎没有使用过的绿色印章。"
+  },
+  {
+    "key": "legacy_1b41355223082f49c916",
+    "original": "Your best attempts at secrecy fail. \\Oh dear, oh dear,\\ sighs the Avuncular Inspector, her smile fading. She blows her whistle, summoning three very large Clay Men golems to her side.",
+    "translation": "Your best attempts at secrecy fail. \\哦，亲爱的，哦，亲爱的，表情丰富的视察员叹了口气，她的笑容消失了。她吹响了哨子，召唤出三个非常大的粘土人巨兽到她身边。"
+  },
+  {
+    "key": "legacy_36ac33a597fbaa2e9b87",
+    "original": "The Avuncular Inspector smiles knowingly. \\Ah, good, good. Shall we say that you just 'found' it? That you were 'carrying it for a friend', perhaps? Don't worry, dear. We'll take good care of that nasty contraband.\\ She signals her Clay Men golems to confiscate it, and sends you on your way.",
+    "translation": "有礼貌的视察员 明知故问地笑着。\\啊，好，好。我们可以说你只是'发现'它吗？也许你是'为一个朋友带着它'？别担心，亲爱的。我们会好好照顾那些讨厌的违禁品的。她给她的Clay Men golems发信号，让他们把它没收，然后送你上路。"
+  },
+  {
+    "key": "legacy_503fb285666ac75489c7",
+    "original": "The Song is a memoir  and more than a memoir. It encompasses so much more than just one life. It holds the sky itself.",
+    "translation": "《天歌》是一本回忆录，也不仅仅是一本回忆录。它包含了很多东西，不仅仅是一个人的生命。它拥有天空本身。"
+  },
+  {
+    "key": "legacy_83b432b3ffb870522ff8",
+    "original": "The Song is ostensibly fiction  its captain has a different name, a different face. But your readers aren't stupid. They know the truth behind the tales. The Song is your life, bound in paper.",
+    "translation": "《歌》表面上是小说它的船长有一个不同的名字，不同的面孔。但你的读者并不傻。他们知道故事背后的真相。歌》是你的生活，装在纸上。"
+  },
+  {
+    "key": "legacy_106a5842fc5fce6f6631",
+    "original": "help",
+    "translation": "帮助"
+  },
+  {
+    "key": "legacy_de7b4d0c393ab67e40aa",
+    "original": "Entrance",
+    "translation": "入口"
+  },
+  {
+    "key": "legacy_a46a21654685396501d7",
+    "original": "Beyond the next doorway, a dark room  massive and spooled in shadow. A single candle flashes on the diamonds of a monstrous chandelier.",
+    "translation": "在隔壁的门外，一个黑暗的房间，巨大的、缠绕在阴影中。一根蜡烛在一盏巨大的吊灯的钻石上闪烁着。"
+  },
+  {
+    "key": "legacy_8d6c402afb26f0ffb397",
+    "original": "k{Leave",
+    "translation": "k{离开"
+  },
+  {
+    "key": "legacy_00239028c88c52e17874",
+    "original": "My evidence, however, is sadly lacking, even if the theory is sound. The queen of heaven is surely situated among the stars. But why is she buried? Well, mythological time is not our time. And here so many things thought impossible reveal themselves to be entirely, magnificently possible. Perhaps this is the Underworld of the ancients.",
+    "translation": "然而，我的证据是可悲的，即使该理论是合理的，也是缺乏的。天后肯定位于星空之中。但她为什么被埋葬？嗯，神话中的时间不是我们的时间。在这里，许多被认为不可能的事情都显示出它们是完全、巨大的可能。也许这就是古人的冥界。"
+  },
+  {
+    "key": "legacy_58740c03b1fe610fa4ca",
+    "original": "Is it dead? How was it not dead before, with its tatters of flesh and its bared bones? There is, admittedly, rather less of it now  but is that enough?\n\nAs you watch, parts of it fade from sight. The touch of your lamplight reveals them again, but it is enough to make you wonder if it is there at all. Which is true, the presence or the absence?",
+    "translation": "它死了吗？它以前怎么会没死呢，它的碎肉和裸露的骨头？诚然，现在它的数量减少了，但这就够了吗？随着你的观察，它的一部分从视线中消失了。你的灯火一照，它们又露出来了，但这足以让你怀疑它是否还在那里。哪个是真的，存在还是不存在？"
+  },
+  {
+    "key": "legacy_883b364b4b4df0a2fe08",
+    "original": "The thin air of the heavens fills with greasy smoke. The smell is overwhelming. Flames devour the corpse  or is it simply fading from view again, hiding itself in the unseen corners of the night?",
+    "translation": "天堂的稀薄空气中充满了油腻的烟雾。气味扑面而来。火焰吞噬了尸体，还是它只是再次淡出人们的视线，把自己藏在黑夜中看不见的角落里？"
+  },
+  {
+    "key": "legacy_c226b0485361a7d12f67",
+    "original": "Relay",
+    "translation": "中继站"
+  },
+  {
+    "key": "legacy_bdc7e96514483428984b",
+    "original": "Well",
+    "translation": "井"
+  },
+  {
+    "key": "legacy_f243ef7184d0b832beaa",
+    "original": "According to the bathysphere's clocks, you descend for more than a day. Then the winds begin to ease. The sphere stops spinning and swaying. There is an eery calm, then a sudden, grinding collision. Then silence.\n\n\\I think we've hit the bottom,\\ the Baroness says. Her voice is bleak.",
+    "translation": "根据水球的时钟，你下降的时间超过了一天。然后，风开始缓和。球体停止旋转和摇摆。有一个可怕的平静，然后是一个突然的、研磨的碰撞。然后是一片寂静。我想我们已经到了底部，男爵夫人说。她的声音很凄凉。"
+  },
+  {
+    "key": "legacy_8a9c870972d479abbd74",
+    "original": "The Masked Citizen leads you away from the populated parts of Pan's ruins and into a statued grove. \\We can speak here,\\ they say.",
+    "translation": "蒙面人带领你离开潘氏废墟的居民区，进入一个雕像丛林。\\他们说：我们可以在这里交谈。"
+  },
+  {
+    "key": "legacy_a3d0dfacbe0350f609d7",
+    "original": "Mme. Lumire is getting ready to show her latest film in New Winchester.",
+    "translation": "卢米埃尔夫人正准备在新温彻斯特放映她的最新影片。"
+  },
+  {
+    "key": "legacy_11341ffb521b96ba55d2",
+    "original": "The spirit caresses your Companion's face, quivering with emotion. Milky tears spill over their cheeks and run into the Companion's mouth.\n\nThe Companion's leathery lips twitch, and they turn their head to you, ignoring the spirit. Stiffly at first, but with gradually more fluid movements, they sit upright upon the plinth, then step down onto the floor of the chamber. \\I look forward to working for you,\\ they say in a monotone voice.",
+    "translation": "精神抚摸着你的同伴的脸，因情感而颤抖。乳白色的眼泪溢出脸颊，流进同伴的嘴里。同伴的皮革般的嘴唇抽搐着，他们把头转向你，不理会这个灵魂。一开始很僵硬，但随着动作的逐渐流畅，他们在基座上坐直了，然后走到了房间的地板上。\\我期待着为你工作，他们用单调的声音说。"
+  },
+  {
+    "key": "legacy_bb8893e09c84c608dc4b",
+    "original": "The Lost Love has been returned to the Industrialist. You must return to collect her  after nine months, and before a year and a day has passed, or there will be consequences",
+    "translation": "失去的爱已被送回实业家手中。你必须在九个月后，在一年零一天之前回来取回她，否则后果自负"
+  },
+  {
+    "key": "legacy_02d46068ad2d250ceaa4",
+    "original": "Chat1",
+    "translation": "聊天1"
+  },
+  {
+    "key": "legacy_aaf966b6462cac484bd2",
+    "original": "\\I'm settling in nicely, thank you, Captain. You've a good crew here. And a sharp one.\\ The Navigator already has visited every crewmember at their station.",
+    "translation": "我很好地适应了，谢谢你，船长。你这里有一个很好的船员。而且是一个聪明的人。导航员已经在他们的岗位上拜访了每个船员。"
+  },
+  {
+    "key": "legacy_58e41f544dbbb5cb2859",
+    "original": "The Clown rubs the back of his head. \\It's troubling to me that the show goes on, even if no one's there to watch it.\\ He looks to you, searchingly. What does he expect you to say?",
+    "translation": "小丑揉了揉他的后脑勺。\\即使没有人在那里看，表演还是在继续，这对我来说很麻烦。他看向你，探究地看着你。他希望你说什么？"
+  },
+  {
+    "key": "legacy_484b27a0752a2fc80a83",
+    "original": "The fire is low, fuelled only by damp twigs and the occasional monograph when someone thinks the others arent looking. The scholars cast mournful glances between the trees, ignoring their sodden equipment and dwindling supplies.",
+    "translation": "火堆很低，只有潮湿的树枝和偶尔有人认为别人没在看时的专著作为燃料。学者们在树间投以哀伤的目光，无视他们沾满泥土的装备和不断减少的供应。"
+  },
+  {
+    "key": "legacy_9998eb6b87343d37bb4e",
+    "original": "You see the dividends our work has produced! I have students of my own! Stipends! Grants! Though - between you and me - the College has not sent its best. And not nearly enough funds to cover further exploration. But we are making progress. My Charlemagne will be woken soon enough. And you shall have the credit of helping me find him.",
+    "translation": "你看到我们的工作所产生的红利了吧！我有自己的学生了！。我也有自己的学生了! 津贴! 补助金! 虽然--在你和我之间--学院没有派出最好的。也没有足够的资金来支付进一步的探索。但我们正在取得进展。我的查理曼很快就会被唤醒。而你将拥有帮助我找到他的功劳。"
+  },
+  {
+    "key": "legacy_97e9363a819fe8ade293",
+    "original": "The Wood is vast and dark. Its silences are split by only the occasional downpour of rain from a passing stellar drift. Heavy firs bend in the wind. The Regents Grave broods over the forest from its high place.",
+    "translation": "森林是巨大而黑暗的。它的寂静只被路过的恒星漂流中偶尔的倾盆大雨所分割。沉重的枞树在风中弯曲。摄政王墓从它的高处俯瞰着森林。"
+  },
+  {
+    "key": "legacy_00e346dfe92baec7e81d",
+    "original": "A bell sounds in the wood. The scent of incense and lotus carries with the breeze. The bronze of the Regents Grave shines in reflected starlight.",
+    "translation": "森林中响起了钟声。清香和莲花的香味随着微风飘来。摄政王墓的青铜器在反射的星光下闪闪发光。"
+  },
+  {
+    "key": "legacy_eb17eb12be09d68422c1",
+    "original": "Tall cedars bend before a fierce wind. The scent of sand carries from a nearby riverbed. The bulk of the Regents Grave casts long golden shadows across the brooding wood.",
+    "translation": "高大的雪松在猛烈的风中弯曲。沙子的香味从附近的河床传来。摄政王墓的主体在阴沉的树林中投下了长长的金色阴影。"
+  },
+  {
+    "key": "legacy_7a4339d54149923a9b2c",
+    "original": "Dark trees shrouded in snow sway in fierce winds. A horn sounds deep in the wood. The stones of the Regents Grave are dark like slate stained with the blood of felled kings.",
+    "translation": "笼罩在雪中的黑暗树木在猛烈的风中摇摆。树林深处响起了号角。摄政王墓的石头像石板一样黝黑，沾满了被砍死的国王的血。"
+  },
+  {
+    "key": "legacy_bd0fa12452bb26190f60",
+    "original": "appeased",
+    "translation": "平息了"
+  },
+  {
+    "key": "legacy_5ab0b68b3b6917d19c8b",
+    "original": "appeased2",
+    "translation": "平息了2"
+  },
+  {
+    "key": "legacy_a9e021c43fbe29b962bc",
+    "original": "Before you can hear a voice from your own history, the storm resounds with thunder. Irritable lightning stabs the sky. For a moment, you forget your place  you are struck by visions of castles, forests plunging into valleys, knights on pale horses. It takes hours of lurching confusion before you remember who you really are.",
+    "translation": "在你能听到来自你自己历史的声音之前，风暴中响起了雷声。烦躁的闪电刺向天空。有那么一瞬间，你忘记了自己的位置，你被城堡、陷入山谷的森林、骑着苍白马匹的骑士的幻觉所震撼。经过几个小时的混乱，你才想起自己到底是谁。"
+  },
+  {
+    "key": "legacy_5678239327dbb30b4159",
+    "original": "Albrecht distracts the guard nearest the door. His whiskers flutter; he raises those tiny paws towards his nose; he even begs for cheese. Petronella positions the explosives  after sketching hasty calculations on the floor with chalk. Vianne unstoppers an acrid fluid, which rapidly generates a thick black smog. She throws it into the most expensive looking loom. Workers and guards panic. Finally, Cinders charges into the mouse hole with a match.",
+    "translation": "阿尔布雷希特分散了离门最近的警卫的注意力。他的胡须飘动；他把那双小爪子举向鼻子；他甚至乞求奶酪。佩特罗内拉用粉笔在地板上草草计算了一下，就把炸药放好了。薇安解开了一种刺鼻的液体，它迅速产生了一种厚厚的黑色烟雾。她把它扔进看起来最昂贵的织布机。工人和守卫都惊慌失措。最后，辛德斯拿着一根火柴冲进老鼠洞。"
+  },
+  {
+    "key": "legacy_103463af6ff24aa0adfb",
+    "original": "Albrecht distracts the guard nearest the door. His whiskers flutter; he raises those tiny paws towards his nose; he even begs for cheese. Petronella positions the explosives  after sketching hasty calculations on the floor with chalk.Angel launches himself at an expensive loom with a grenade and wicked expression. Explosions rock the factory floor. Workers and guards panic. Finally, Cinders charges into the mouse hole with a match.",
+    "translation": "阿尔布雷希特分散了离门最近的警卫的注意力。他的胡须飘动着；他把那双小爪子举向鼻子；他甚至乞求奶酪。佩特罗内拉用粉笔在地板上草草计算后，将炸药放好。安吉尔用手榴弹和邪恶的表情向一台昂贵的织布机发动了自己。爆炸声震撼了工厂的地板。工人和守卫惊慌失措。最后，辛德斯拿着一根火柴冲进了老鼠洞。"
+  },
+  {
+    "key": "legacy_47152890bff5755407bf",
+    "original": "Wilma's had a plan for this situation ready for months. (\\Well, I don't sleep well.\\)  Albrecht is the distraction. His performance as a lost pet rat is riveting. A gaggle of guards argue over who's taking him home for their children. Meanwhile, aided by an unstoppered vial of black smoke courtesy of Vianne, Petronella gets to work with lockpicks. She disarms the triple vial of Cantankeri poison, the rotating tumblers and the serrated unlock mechanism. Cinders barrels through the door.",
+    "translation": "威尔玛已经为这种情况准备了几个月的计划。(Well, I don't sleep well.\\)Albrecht是分心的。他作为一只迷路的宠物鼠的表演很吸引人。一群守卫为谁把他带回家给他们的孩子而争吵。与此同时，在维安提供的未封盖的黑烟瓶的帮助下，佩特罗内拉开始使用锁匙。她解除了三瓶Cantankeri毒药、旋转的滚轮和锯齿状的开锁装置。煤渣桶穿过门。"
+  },
+  {
+    "key": "legacy_ef4eb8f26bd203c011be",
+    "original": "Sapping and sabotage are the order of the day. Albrecht feigns being caught in a mouse-trap  guards and foremen are drawn to attend to his pitiable 'death' sobs. Petronella gets to work an assembly line and a rotating saw. The air is quickly full of ricocheting nails. This provides cover for Cinders to rush the door, guns ablaze; she blows the lock clean off! Vianne scurries to attend to the punctured guards and workers  her care involves significant amounts of laudanum. You are unlikely to be disturbed for a while.",
+    "translation": "偷窃和破坏是今天的主旋律。阿尔布雷希特佯装被老鼠夹子夹住，工头们被吸引来照顾他可怜的'死亡'啜泣。佩特罗内拉在一条装配线和一个旋转锯上工作。空气中很快充满了弹跳的钉子。这为辛德斯提供了掩护，她冲进门去，枪声大作；她把锁吹得一干二净! 薇安急忙去处理被刺穿的警卫和工人，她的护理涉及大量的鸦片酊。你不大可能在一段时间内被打扰。"
+  },
+  {
+    "key": "legacy_810e21f18cc8dc9a3908",
+    "original": "Sapping and sabotage are the order of the day. Albrecht feigns being caught in a mouse-trap  guards and foremen are drawn to attend to his pitiable 'death' sobs. Petronella gets to work an assembly line and a rotating saw. The air is quickly full of ricocheting nails. This provides cover for Cinders to rush the door, guns ablaze; she blows the lock clean off! Angel sets off a series of controlled explosions all along the hour looms. Profits are at stake! You are unlikely to be disturbed for a while.",
+    "translation": "偷窃和破坏是今天的主旋律。阿尔布雷希特假装被老鼠夹子夹住了，警卫和工头们都被吸引来照顾他可怜的 死亡 啜泣。佩特罗内拉在一条装配线和一个旋转锯上工作。空气中很快充满了弹跳的钉子。这为辛德斯提供了掩护，她带着枪冲进门去，把门锁炸开了！她把门锁打开了。安吉尔在一小时内引发了一系列受控爆炸。利润岌岌可危! 你不大可能在一段时间内被打扰。"
+  },
+  {
+    "key": "legacy_474bdc0fdb153e18c9de",
+    "original": "Petronella races after Cinders, leaving Vianne and Albrecht to remain in the room. \\Get,\\ VIanne says to the Chairman, who does not need telling twice. ",
+    "translation": "Petronella在Cinders后面跑，留下Vianne和Albrecht留在房间里。\\VIanne对主席说：去吧，他不需要说第二次。"
+  },
+  {
+    "key": "legacy_48a31a6139b07a4688ac",
+    "original": "You press your eye to the telescope and HESUNTHESUNTHESUNTHESUNTHESUNTHESUNTHESUNTHESUN",
+    "translation": "你把你的眼睛按在望远镜上，HESUNTHESUNTHESUNTHESUNTHESUN"
+  },
+  {
+    "key": "legacy_b5f90a96e680140d51e2",
+    "original": "progress",
+    "translation": "进步"
+  },
+  {
+    "key": "legacy_59fd84c591237d759cd0",
+    "original": "A harassed captain waits by the steps for his crew to emerge one by one from the chambers below. Each he grabs by the ear and leads to a quiet antechamber. The shouting can be heard from here. \\If you had complaints about my captaining, you could have just told me directly! Not some ruddy actor!\\ ",
+    "translation": "一位苦恼的船长在台阶旁等待他的船员一个个从下面的房间里走出来。他抓住每个人的耳朵，把他们带到一个安静的前厅。从这里可以听到喊叫声。\\如果你对我的船长有不满，你可以直接告诉我！而不是让我去当什么演员！。而不是找一些粗俗的演员！ "
+  },
+  {
+    "key": "legacy_ad4e3084c8670d5402ca",
+    "original": "Drinks",
+    "translation": "饮料"
+  },
+  {
+    "key": "legacy_c0323ea228dc771246f0",
+    "original": "Tour",
+    "translation": "旅游"
+  },
+  {
+    "key": "legacy_f0c3268e9287552fccbe",
+    "original": "The Great Library of Titania is mostly empty shelves, the original settlers having brought few books with them. With each new arrival, however, shelves begin filling with essential texts, including volumes QT of the Britannica, the almost complete works of Shakespeare, and a rare copy of the 1631 'Wicked Bible' containing the infamous misprint 'thou shalt commit adultery'.",
+    "translation": "泰坦尼亚的大图书馆大多是空架子，最初的定居者带来的书很少。然而，随着每个新移民的到来，书架上开始装满了基本的文本，包括《大英百科全书》的QT卷，几乎完整的莎士比亚作品，以及1631年'邪恶圣经'的罕见副本，其中包含臭名昭著的错字'你不得通奸'。"
+  },
+  {
+    "key": "legacy_5bca11ae8bb119f9c285",
+    "original": "The Svartlfar Academy is open to students and visitors.",
+    "translation": "斯瓦特尔法尔学院对学生和访客开放。"
+  },
+  {
+    "key": "legacy_5aa523535f8d00baeeef",
+    "original": "The Svartlfar Academy is the new home  for the Nocturnal poetry school. Its architecture is dark and unwelcoming  light is  seemingly only invited in to better create shadows. Dark-eyed poets sit on the steps and the purple lawn, weeping mournfully while moistening their ink-pens with their tears.",
+    "translation": "斯瓦特尔法尔学院是不夜城诗歌学院的新家。它的建筑是黑暗的，不受欢迎的光线似乎只是为了更好地创造阴影而被邀请进来。黑眼圈的诗人坐在台阶上和紫色的草坪上，一边哀伤地哭泣，一边用泪水滋润他们的墨水笔。"
+  },
+  {
+    "key": "legacy_36105774a9fefb4f54a5",
+    "original": "The Manannn Academy is the new domain of the Bazaarine poetry school  much needed, now their works are banned from most of Albion. They refute all allegations that they are a cult supporting the Masters of Old London, but their cloaks and verse demonstrate a concerning nostalgia.",
+    "translation": "马南学院是巴扎林诗歌学校急需的新领域，现在他们的作品在阿尔比恩的大部分地区被禁止。他们驳斥了所有关于他们是支持旧伦敦大师的邪教的指控，但他们的斗篷和诗句表现出一种令人担忧的怀旧情绪。"
+  },
+  {
+    "key": "legacy_87a858c68661a6c3ec1c",
+    "original": "The Stone-Faced Sculptor has chosen one of the lower Petals to work on. His team have already begun work on the seats, carved out of the silken petal-flesh. Next comes the stage. The all-important decorations are last  once an official theme is decided.",
+    "translation": "石脸雕塑家已经选择了下部花瓣中的一个进行创作。他的团队已经开始制作座椅，用丝质的花瓣肉雕刻而成。接下来是舞台。一旦决定了一个正式的主题，所有重要的装饰物就会最后出现。"
+  },
+  {
+    "key": "legacy_c26ee0e4b915257d995c",
+    "original": "Mutation",
+    "translation": "变异"
+  },
+  {
+    "key": "legacy_c6c4d592082004786edf",
+    "original": "Revolt",
+    "translation": "叛乱"
+  },
+  {
+    "key": "legacy_be2ebea9a3fc601b9143",
+    "original": "A crowd flows up the tunnel. Overseers are pressed to the walls  deliberately or accidentally, the result is the same: howls of pain. \nThe crowd doesn't turn against its own  but workers are hurt none the less. This uncontrolled scrum is a danger to all.",
+    "translation": "一群人涌向隧道。监视者有意或无意地被压在墙上，结果都是一样的：痛苦的嚎叫。\\人群并不反对自己的人，但工人们还是受到了伤害。这种不受控制的骚乱对所有人都是一种危险。"
+  },
+  {
+    "key": "legacy_a3177441efd5cecd606a",
+    "original": "You immediately raise the existence of your Useless Cat. The rat examines it critically. \\I don't think that counts,\\ she says, and happily enters your service.",
+    "translation": "你立即提出你的无用猫的存在。老鼠认真地检查了它。\\她说：我不认为这算数，她高兴地进入了你的服务。"
+  },
+  {
+    "key": "legacy_78caa69396f4d1067c40",
+    "original": "The Conformer doesn't turn her head. She tells you that, in hope of escape, some of the prisoners change into creatures of absurd size and hideous visage. They crawl through the changing tunnels, warping their features and hollowing out the warm parts of their brains, until they become monsters  but many were monsters to begin with, and so have still not changed enough to escape.",
+    "translation": "顺应者并没有转过头来。她告诉你，为了希望逃脱，一些囚犯变成了体型荒谬、面目狰狞的生物。他们在变化的隧道中爬行，扭曲他们的五官，掏空他们大脑的温暖部分，直到他们成为怪物，但许多人一开始就是怪物，所以仍然没有变化到足以逃脱。"
+  },
+  {
+    "key": "legacy_8a7525b1492fb84833f5",
+    "original": "Notes",
+    "translation": "笔记"
+  },
+  {
+    "key": "legacy_f2ffc40f7071017159e4",
+    "original": "Amid the rubbish-heaps, space has been cleared for a throne of scrap metal and broken wood. Atop the throne sits a faded portrait. \n\nThe frame is silver-painted wood; it depicts a noblewoman sitting before an open window, hands folded neatly in her lap. Over her shoulder shines a crescent moon. The face has been furiously scratched out. \n\n\\I would prefer you not see me like this,\\ says the Unseen Queen mournfully. Her voice is melodious, ethereal, and comes from nowhere.",
+    "translation": "在垃圾堆中，已经为一个由废旧金属和碎木头组成的王座清理出了空间。宝座上坐着一张褪色的画像。\\画框是银色的木头；它描绘了一个贵族妇女坐在一扇打开的窗户前，双手整齐地叠在膝上。她的肩膀上闪耀着一弯新月。她的脸被愤怒地划掉了。\\我希望你不要看到我这个样子，看不见的女王哀伤地说道。她的声音悠扬、空灵，不知从何处传来。"
+  },
+  {
+    "key": "legacy_79063e5ddb43b4aefc2d",
+    "original": "After a few hours of searching, you come across a curious sight. \n\nA section of the rubbish-heap has been assiduously cleared and flattened. The pieces of rubbish that remain seem to have been carefully chosen for aesthetic reasons  piping, wire, scrap metal  and assembled into something approaching a throne. \n\nAnd sitting in the throne, a faded old portrait.",
+    "translation": "经过几个小时的搜索，你发现了一个奇怪的现象。\\垃圾堆的一个部分已经被认真地清理和平整了。剩下的垃圾碎片似乎是出于审美的原因被精心挑选出来的，管道、铁丝、废金属，被组装成一个接近王座的东西。\\坐在宝座上的是一幅褪色的旧画像。"
+  },
+  {
+    "key": "legacy_f3803298b9af05f9ebbf",
+    "original": "\\I am proud of you,\\ says the Unseen Queen. A circle of rats and beetles form at your feet, squeaking and chittering their approval.",
+    "translation": "我为你感到骄傲，看不见的女王说。一圈老鼠和甲虫在你的脚下形成，吱吱喳喳地表示赞同。"
+  },
+  {
+    "key": "legacy_2c36fb61dd87fd936908",
+    "original": "Your rival jouster is riding a wretched-looking mule, and waving a broomstick. You don't have a steed, so you recruit a sturdy quester and climb onto his shoulders. \n\nYou ride toward each other at incredible speed. (Incredible in its slowness.) Finally you meet in the middle, and his broomstick hits you in the solar plexus with surprisingly vicious accuracy. You topple over and land badly, twisting your arm underneath you. \n\n\\Another challenger falls!\\ shouts one of the surrounding questers, banging two tin cans together.",
+    "translation": "Your rival jouster is riding a wretched look mule, and waving a broomstick. 你没有骏马，所以你招募了一个结实的探险者并爬上他的肩膀。\\你们以难以置信的速度向对方骑去。(最后你们在中间相遇，他的扫帚以惊人的准确性击中了你的太阳穴。你翻倒在地，摔得很惨，胳膊在身下扭动。\\又一个挑战者倒下了！周围的一个追求者喊道，把两个铁罐子撞在一起。"
+  },
+  {
+    "key": "legacy_8eeb9a5876e3660a6165",
+    "original": "Your rival jouster is riding a scarred destrier that looks as though it has something demonic in its ancestry. When you ride into the ring, your rival shoots you a sneer, then flips his visor shut. \n\nYour horses thunder toward each other at incredible, ground-shaking speed. Once, twice, three times you clash, and the spectators gasp as though they are witnessing the collision of two gods. Finally, on the fourth pass, your rival plants his lance squarely in your solar plexus and lifts you bodily from the saddle. \n\n\\Another challenger falls!\\ shouts the announcer, to the sound of bugles. It's an hour before you can walk again.",
+    "translation": "你的对手骑着一只伤痕累累的Destrier，看起来好像它的祖先有什么魔力。当你骑马上场时，你的对手向你投来一个冷笑，然后把他的面罩翻过来。\\你们的马以惊人的、震撼人心的速度冲向对方。一次、两次、三次的碰撞，观众们喘着粗气，仿佛看到了两个神的碰撞。最后，在第四次碰撞中，你的对手将他的长枪正中你的太阳穴，并将你从马鞍上抬起。\\另一个挑战者倒下了！播音员在号声中喊道。一个小时后，你就可以重新走路了。"
+  },
+  {
+    "key": "legacy_0dc84538b39bf5b215cb",
+    "original": "How long does she need? \\The Tournament will begin in two weeks,\\ says the Queen. \n\nSilence settles across the wasteland. A gust of wind scatters scraps of paper across her lonely throne. ",
+    "translation": "她需要多长时间？\\锦标赛将在两周内开始，女王说。\\寂静在整个荒地上沉淀下来。一阵风吹来，纸屑散落在她孤独的宝座上。"
+  },
+  {
+    "key": "legacy_47aca77041b5a2a693b4",
+    "original": "Here is a pale palace  or perhaps temple  of old Eleutheria, adorned with leaning columns.",
+    "translation": "这里是一座苍白的宫殿，或许是古老的埃卢瑟亚的神庙，用倾斜的柱子装饰着。"
+  },
+  {
+    "key": "legacy_e91faeb7275ed4f1b759",
+    "original": "Supper",
+    "translation": "晚餐"
+  },
+  {
+    "key": "legacy_aee4c6429e753928c8fa",
+    "original": "The Eagle Khan's daughter arrives in a small, heavily armoured engine. Her guards ensure the crowd is at a respectful distance before she disembarks. Her robes are azure blue, and decorated with threads of gold. Her hat bristles with eagles' feathers.\n\nThe crowd parts before her. She leads the way to the edge of a small lake  the Moon's Mirror.",
+    "translation": "鹰身人汗的女儿乘坐一辆小型的重装甲发动机抵达。她的卫兵在她下船之前，确保人群与她保持一个恭敬的距离。她的长袍是天蓝色的，上面装饰着金线。她的帽子上长满了鹰的羽毛。人群在她面前分开。她带领大家走到一个小湖的边缘，即月亮之镜。"
+  },
+  {
+    "key": "legacy_72616882c3dbad731f34",
+    "original": "\\Ah",
+    "translation": " welcome.\\ He stands to shake your hand. \\Always good to see a locomotive captain. Good to know the trade routes are still running. Do you smoke?\\ He rummages in his desk. \\Oh. It appears I'm all out. My apologies.\\=啊，欢迎。 他站起来和你握手。\\看到机车车长总是很高兴。很高兴知道贸易路线还在运行。你抽烟吗？他在他的桌子里翻找着。\\哦，看来我已经用完了。我很抱歉。"
+  },
+  {
+    "key": "legacy_da3d3e3254fea2ec6341",
+    "original": "\\Captain",
+    "translation": " you'd best not be hanging around here. Wouldn't want you caught by the peelers. Don't worry about me. Someone's got to fight the good fight.\\=船长，你最好不要在这里闲逛。我不希望你被剥皮者抓住。别为我担心。总得有人来打这场漂亮的仗。"
   }
 ]

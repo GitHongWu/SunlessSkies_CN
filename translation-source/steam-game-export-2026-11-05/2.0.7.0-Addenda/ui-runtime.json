@@ -115,6 +115,11 @@
     "translation": "8"
   },
   {
+    "key": "ui_runtime_01091f9955d5",
+    "original": "Sept",
+    "translation": "9"
+  },
+  {
     "key": "ui_runtime_6877e8494c3a",
     "original": "Oct",
     "translation": "10"
@@ -138,5 +143,10 @@
     "key": "ui_runtime_7410b3f02125",
     "original": "The Safira",
     "translation": ""
+  },
+  {
+    "key": "ui_runtime_96404e59de21",
+    "original": "If you have heard of any opportunities to acquire trade goods via unusual means, they will appear here.",
+    "translation": " 如果你听说有任何通过不寻常手段获得贸易货物的机会，它们将出现在这里。"
   }
 ]
