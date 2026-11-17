@@ -63,5 +63,75 @@
     "key": "ui_runtime_ade0c2ebe015",
     "original": "No challenge",
     "translation": ""
+  },
+  {
+    "key": "ui_runtime_5c5db120cb11",
+    "original": "Jan",
+    "translation": "1"
+  },
+  {
+    "key": "ui_runtime_caf71b3f582d",
+    "original": "Feb",
+    "translation": "2"
+  },
+  {
+    "key": "ui_runtime_b4b7d3818dbf",
+    "original": "Mar",
+    "translation": "3"
+  },
+  {
+    "key": "ui_runtime_617531b4fec3",
+    "original": "Apr",
+    "translation": "4"
+  },
+  {
+    "key": "ui_runtime_8c78fe5b9936",
+    "original": "May",
+    "translation": "5"
+  },
+  {
+    "key": "ui_runtime_b27fd46ed1b6",
+    "original": "Jun",
+    "translation": "6"
+  },
+  {
+    "key": "ui_runtime_d5808c0e0a47",
+    "original": "June",
+    "translation": "6"
+  },
+  {
+    "key": "ui_runtime_c43f56b9807e",
+    "original": "Jul",
+    "translation": "7"
+  },
+  {
+    "key": "ui_runtime_e9cf7a1ca4a7",
+    "original": "July",
+    "translation": "7"
+  },
+  {
+    "key": "ui_runtime_41e1d82aa990",
+    "original": "Aug",
+    "translation": "8"
+  },
+  {
+    "key": "ui_runtime_6877e8494c3a",
+    "original": "Oct",
+    "translation": "10"
+  },
+  {
+    "key": "ui_runtime_3e630d2964a0",
+    "original": "Nov",
+    "translation": "11"
+  },
+  {
+    "key": "ui_runtime_f2a0cfbcf191",
+    "original": "Dec",
+    "translation": "12"
+  },
+  {
+    "key": "ui_runtime_988676be74ed",
+    "original": "Affiliations",
+    "translation": "所属机构"
   }
 ]
