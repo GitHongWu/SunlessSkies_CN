@@ -12,7 +12,7 @@ namespace SunlessSkiesCN.Shared
     {
         public const string WeightTemplate = "Weight: {value1}";
         static readonly Regex Weight = new Regex(@"(?<prefix>\A|[\r\n])Weight: (?<number>[0-9]+)(?=\r|\n|\z)", RegexOptions.CultureInvariant);
-        static readonly Regex Markup = new Regex(@"<[^>]*>|\[[^\]]*\]|\{[^{}]*\}", RegexOptions.CultureInvariant);
+        static readonly Regex Markup = new Regex(@"<[^>]*>|\[(?:/?[A-Za-z][A-Za-z0-9_-]*(?:=[^\]\r\n]*)?|(?:q|qvd|d|df|dl|dir|train):[^\]\r\n]+|#[A-Fa-f0-9]+)\]|\{[^{}]*\}", RegexOptions.CultureInvariant);
         static readonly Regex Pieces = new Regex(@"(<[^>]*>|\r\n|\r|\n)");
         static readonly Regex EngineStat = new Regex(@"(?m)^(?<label><b>(?:Movement Speed|Fuel Consumption|Full Steam Speed):</b> )(?<n>[+-]?[0-9]+(?:[.,][0-9]+)?)%(?<end>\r\n|\n|\z)", RegexOptions.CultureInvariant);
         static readonly Regex Stat = new Regex(@"\A(?<label>Damage: |Blast Damage: |Range: |Heat: |Tier )(?<n>[+-]?[0-9]+(?:[.,][0-9]+)?)\z");
