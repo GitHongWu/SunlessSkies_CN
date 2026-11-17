@@ -223,5 +223,285 @@
     "key": "ui_runtime_bfe2b988c00b",
     "original": "   (Merciful Mode)",
     "translation": ""
+  },
+  {
+    "key": "ui_runtime_b5cc31fbf60b",
+    "original": "sr:(?<day>[0-9]+)[a-z][a-z] (?<month>[A-Z][a-z]*) (?<year>[0-9]{4})",
+    "translation": "${year}年${month}月${day}日"
+  },
+  {
+    "key": "ui_runtime_37082e68df85",
+    "original": "January",
+    "translation": "1"
+  },
+  {
+    "key": "ui_runtime_9d95a2cf0d71",
+    "original": "March",
+    "translation": "3"
+  },
+  {
+    "key": "ui_runtime_4afe6ea150d5",
+    "original": "April",
+    "translation": "4"
+  },
+  {
+    "key": "ui_runtime_a66d8970e569",
+    "original": "August",
+    "translation": "8"
+  },
+  {
+    "key": "ui_runtime_cd559ea0abca",
+    "original": "September",
+    "translation": "9"
+  },
+  {
+    "key": "ui_runtime_fdd791787b64",
+    "original": "October",
+    "translation": "10"
+  },
+  {
+    "key": "ui_runtime_9de6fe1d7265",
+    "original": "November",
+    "translation": "11"
+  },
+  {
+    "key": "ui_runtime_8fb204ca4609",
+    "original": "December",
+    "translation": "12"
+  },
+  {
+    "key": "ui_runtime_95d1e4e5d488",
+    "original": "{{A}} Iron",
+    "translation": "{{A}}钢铁"
+  },
+  {
+    "key": "ui_runtime_d8ae6852974c",
+    "original": "{{A}} Veils",
+    "translation": "{{A}}面纱"
+  },
+  {
+    "key": "ui_runtime_d9bbccaea673",
+    "original": "+{{A}} Veils",
+    "translation": "+{{A}}面纱"
+  },
+  {
+    "key": "ui_runtime_97e53a780f06",
+    "original": "{{A}} Hearts",
+    "translation": "{{A}}红心"
+  },
+  {
+    "key": "ui_runtime_fd8a7be5e70e",
+    "original": "{{A}} Mirrors",
+    "translation": "{{A}}镜子"
+  },
+  {
+    "key": "ui_runtime_1d50eb0e1547",
+    "original": "+{{A}} Affiliation: Villainy",
+    "translation": "+{{A}}隶属。卑鄙小人"
+  },
+  {
+    "key": "ui_runtime_c3a5fc93d629",
+    "original": "{{A}} Fermented",
+    "translation": "{{A}} 发酵"
+  },
+  {
+    "key": "ui_runtime_0f77286fef14",
+    "original": "{{A}} Flickering",
+    "translation": "{{A}} 闪烁"
+  },
+  {
+    "key": "ui_runtime_1084c6d1075e",
+    "original": "Iron +{{A}}",
+    "translation": "钢铁+{{A}}"
+  },
+  {
+    "key": "ui_runtime_b0db682cc0ef",
+    "original": "Veils +{{A}}",
+    "translation": "钢铁+{{A}}"
+  },
+  {
+    "key": "ui_runtime_bafbef3890ca",
+    "original": "Hearts +{{A}}",
+    "translation": "红心+{{A}}"
+  },
+  {
+    "key": "ui_runtime_ab2a921e2a82",
+    "original": "Mirrors +{{A}}",
+    "translation": "镜子+{{A}}"
+  },
+  {
+    "key": "ui_runtime_4658500237a9",
+    "original": "<b>BUGS & TECHNICAL HELP</b> \r\n\n• If you find a bug please let us know via the bug reporter found through the pause menu or by pressing F8.\n\r\n• For technical help, please see our <u><link=https:\\/\\/steamcommunity.com/sharedfiles/filedetails/?id=1860884266>Troubleshooting Guide</link></u>.",
+    "translation": "<b>漏洞和技术帮助</b> \r\n\n- 如果你发现了一个错误，请通过暂停菜单或按F8找到错误报告，让我们知道。\n\r\n- 关于技术帮助，请看我们的 <u><link=https:\\/\\/steamcommunity.com/sharedfiles/filedetails/?id=1860884266>故障排除指南</link></u>."
+  },
+  {
+    "key": "ui_runtime_a9f84a98ce55",
+    "original": "Tackety Scout",
+    "translation": "塔克特侦察员"
+  },
+  {
+    "key": "ui_runtime_f6a30d6c33cd",
+    "original": "Star Maddened Explorer",
+    "translation": "星级疯狂的探险家"
+  },
+  {
+    "key": "ui_runtime_b0fd1aa3f3b0",
+    "original": "The Bittersweet Aria",
+    "translation": "苦乐参半的咏叹调"
+  },
+  {
+    "key": "ui_runtime_32e92edf6977",
+    "original": "The Rönnholm",
+    "translation": "伦霍尔姆"
+  },
+  {
+    "key": "ui_runtime_e7e99742930a",
+    "original": "\"Bring me my spear: O clouds unfold!\" A no-nonsense, common-or-garden armament for the skyfarer on a budget.\n\n<b>Damage: 10\nRange: 750\nHeat: 30</b>\n\nWeight: 10\n\n<color=#FFFFFF>Tier 1</color>",
+    "translation": "\"给我带来我的长矛。哦，云层展开了！\"为预算有限的天空飞行者提供的无意义的、普通的或花园式的武装。\n\n<b>损害。10\n范围。750\n热量。攻击力：30</b>\n\n重量。10\n\n<color=#FFFFFF>层级1</color>"
+  },
+  {
+    "key": "ui_runtime_5f1cc79269b2",
+    "original": "A wheezing, sputtering, ramshackle engine dating from the first days of London's settlement. It gobbles fuel like a starved wolf and sulks worse than a cat kept in from the rain. It will, at best, suffice.\n\nWeight: 30\n\n<b>Movement Speed:</b> 100%\n<b>Fuel Consumption:</b> 100%\n\n<color=#FFFFFF>Tier 1</color>",
+    "translation": "一台喘息着、溅射着、破烂不堪的发动机，可以追溯到伦敦定居的最初几天。它像一只饥饿的狼一样狼吞虎咽，比一只被关在雨中的猫还闷闷不乐。它充其量也就够了。\n\n重量。30\n\n<b>移动速度。</b> 100%\n<b>燃料消耗。</b> 100%\n\n<color=#FFFFFF>层级1</color>"
+  },
+  {
+    "key": "ui_runtime_c42d88d79798",
+    "original": "You cannot remove your engine. You could, however, replace it with another one.",
+    "translation": "你不能拆除你的发动机。然而，你可以用另一个来替换它。"
+  },
+  {
+    "key": "ui_runtime_6a7d6a38f88d",
+    "original": "Warning!",
+    "translation": "警告!"
+  },
+  {
+    "key": "ui_runtime_b1faae1e42ba",
+    "original": "Reputation: The Windward Company ({{A}})",
+    "translation": "信誉。风华公司({{A}})"
+  },
+  {
+    "key": "ui_runtime_bd46af781be5",
+    "original": "Reputation: The Tacketies ({{A}})",
+    "translation": "信誉。Tacketies ({{A}})"
+  },
+  {
+    "key": "ui_runtime_4ac8e097a5b2",
+    "original": "Fermented ({{A}})",
+    "translation": "发酵的 ({{A}})"
+  },
+  {
+    "key": "ui_runtime_91b1af492d94",
+    "original": "Flickering ({{A}})",
+    "translation": "闪闪发光 ({{A}})"
+  },
+  {
+    "key": "ui_runtime_f5a49d22ffc7",
+    "original": "Your Train",
+    "translation": "你的火车"
+  },
+  {
+    "key": "ui_runtime_63c6fa3d3f4c",
+    "original": "It is impressive that their engine lasted as long as it did. They must have good reflexes, at least.\n\n<b>Effects: </b><b><color=#83d978FF>+2 Hearts</color></b> | <b><color=#83d978FF>+6 Iron</color></b> | <b><color=#83d978FF>+1 Affiliation: Establishment</color></b>",
+    "translation": "令人印象深刻的是，他们的引擎持续了那么久。他们至少必须有良好的反应能力。\n\n<b>影响。 </b><b><color=#83d978FF>+2心脏</color></b> | <b><color=#83d978FF>+6 铁</color></b> | <b><color=#83d978FF>+1附属机构。成立时间</color></b>"
+  },
+  {
+    "key": "ui_runtime_e812ea42fbfb",
+    "original": "Fastidious Inspector ({{A}})",
+    "translation": "一丝不苟的视察员 ({{A}})"
+  },
+  {
+    "key": "ui_runtime_b10ca6276853",
+    "original": "Black Box ({{A}})",
+    "translation": "黑匣子 ({{A}})"
+  },
+  {
+    "key": "ui_runtime_f1d1987d8b2d",
+    "original": "An Inspector of London's Horological Office – responsible for the orderly regulation of time across the empire – requires assistance. You are to escort her to Port Prosper. Prosper lies to the south-southeast of New Winchester.",
+    "translation": "伦敦钟表局的一名视察员--负责整个帝国的时间秩序管理--需要协助。你要护送她到普罗斯波港。普罗斯珀位于新温彻斯特的东南偏南。"
+  },
+  {
+    "key": "ui_runtime_1f2a959910da",
+    "original": "<b><color=#FDBD58FF><smallcaps>New Winchester</smallcaps></color></b>\n<color=#FFFFFFFF>The greatest port in the Reach, fought over by the independent Tacketies and the London-loyalist Stovepipes.</color>\n<color=#D0D0D0FF><i>This port sells </i></color><b><color=#FFFFFF>fuel</color></b><color=#D0D0D0FF><i> and </i></color><b><color=#FFFFFF>supplies</color></b><color=#D0D0D0FF><i>.</i></color>",
+    "translation": "<b><color=#FDBD58FF><smallcaps>新温彻斯特</smallcaps></color></b>\n<color=#FFFFFFFF>Reach地区最大的港口，由独立的Tacketies和忠于伦敦的Stovepipes争夺。</color>\n<color=#D0D0D0FF><i>这个港口的销售 </i></color><b><color=#FFFFFF>燃料</color></b><color=#D0D0D0FF><i> 和 </i></color><b><color=#FFFFFF>补给品</color></b><color=#D0D0D0FF><i>.</i></color>"
+  },
+  {
+    "key": "ui_runtime_00b575e8b75f",
+    "original": "Affiliation: Villainy ({{A}})",
+    "translation": "隶属关系。小人({{A}})"
+  },
+  {
+    "key": "ui_runtime_3c5ae5cbfe98",
+    "original": "Affiliation: Establishment ({{A}})",
+    "translation": "隶属关系。机构 ({{A}})"
+  },
+  {
+    "key": "ui_runtime_3043a06e076b",
+    "original": "Dominant in the Reach ({{A}})",
+    "translation": "主导地位的范围({{A}})"
+  },
+  {
+    "key": "ui_runtime_6aad4ef8f0c9",
+    "original": "Fortunes: Tacketies ({{A}})",
+    "translation": "财富。Tacketies ({{A}})"
+  },
+  {
+    "key": "ui_runtime_426e9fc7d1d5",
+    "original": "Fortunes: Stovepipes ({{A}})",
+    "translation": "财富。炉子 ({{A}})"
+  },
+  {
+    "key": "ui_runtime_509295b2e1d0",
+    "original": "The Strength of the Sun ({{A}})",
+    "translation": "太阳的力量 ({{A}})"
+  },
+  {
+    "key": "ui_runtime_4d1c3144cd5f",
+    "original": "The <i>Orphean</i> (completed)",
+    "translation": "最近，<i>俄耳甫斯号</i> (已完成)"
+  },
+  {
+    "key": "ui_runtime_b4f9be565581",
+    "original": "With extra fold-down bunks and some careful shift-scheduling, you can squeeze a few more in. It will be snug, but that keeps the cold at bay.\n\n<b>Effects: </b><b><color=#83d978FF>+4 Quarters</color></b> | \n\nWeight: 10\n\n<b>Requires: </b><color=#FA2827>Veils at 25+</color>\n<color=#5CFE51>Tier 2</color>",
+    "translation": "有了额外的折叠式床铺和一些仔细的轮班安排，你可以多挤几个人进去。这将是很舒适的，但这可以防止寒冷。\n\n<b>影响。 </b><b><color=#83d978FF>+4宿舍</color></b> |\n\n重量。秤砣: 10\n\n<b>需要。 </b><color=#FA2827>25+的面纱</color>\n<color=#5CFE51>层级2</color>"
+  },
+  {
+    "key": "ui_runtime_c6e262be3da4",
+    "original": "\"Why should Punishment Weave the Veil with Iron Wheels of War\" A short-range, rapid-firing gun capable of quick turn arounds. Beloved by the short-tempered and the short-sighted.\r\n\n\n<b>Damage: 5\nRange: 650\nHeat: 8</b>\n\nWeight: 10\n\n<b>Requires: </b><color=#FA2827>Veils at 25+</color>\n<color=#5CFE51>Tier 2</color>",
+    "translation": "\"惩罚为什么要用战争的铁轮来编织面纱\"，一种能够快速转身的短程速射炮。受到脾气暴躁和目光短浅的人的喜爱。\r\n\n\n<b>损害。5\n范围。650\n热量。攻击力：8</b>\n\n重量。10\n\n<b>需要。 </b><color=#FA2827>25+的面纱</color>\n<color=#5CFE51>层级2</color>"
+  },
+  {
+    "key": "ui_runtime_9be4cf113222",
+    "original": "\"The strong shall be as tow, and the maker of it as a spark, and they shall both burn together, and none shall quench them.\" A long-range, fast-firing, self-cooling armament for the captain who likes things settled promptly. The barrel revolves, possibly powered by spite.\n\n<b>Damage: 15\nRange: 750\nHeat: 25</b>\n\nWeight: 10\n\n<b>Requires: </b><color=#FA2827>Mirrors at 25+</color>\n<color=#5CFE51>Tier 2</color>",
+    "translation": "\"强者如塔，造者如火，二者同烧，谁也不能熄灭。\"一种远程、快速发射、自冷却的武器，适合喜欢迅速解决事情的船长。炮管旋转，可能是由怨气驱动。\n\n<b>损害。15\n范围。750\n热量。攻击力：25</b>\n\n重量。10\n\n<b>需要。 </b><color=#FA2827>25+的镜子</color>\n<color=#5CFE51>层级2</color>"
+  },
+  {
+    "key": "ui_runtime_1b7cdbf08dd5",
+    "original": "\"The secret of success in life is to be ready for opportunity when it comes.\" A mine favoured by captains eager to bedevil pursuit.\n\n<b>Damage: 10\nBlast Damage: 10\nRange: 750\nHeat: 35</b>\n\nWeight: 10\n\n<b>Requires: </b><color=#A7FDA2>Iron at 25+</color>\n<color=#5CFE51>Tier 2</color>",
+    "translation": "\"生活中成功的秘诀是在机会来临时做好准备\"。渴望寝食难安的船长们所青睐的地雷。\n\n<b>损害。10\n爆炸伤害。10\n范围。攻击范围：750\n热量。35</b>\n\n重量。10\n\n<b>需要。 </b><color=#A7FDA2>在25+的铁</color>\n<color=#5CFE51>层级2</color>"
+  },
+  {
+    "key": "ui_runtime_6f1b1ac4797d",
+    "original": "The Ellington's Zenith",
+    "translation": "艾灵顿的天顶"
+  },
+  {
+    "key": "ui_runtime_567e418ce31f",
+    "original": "The Perfidy",
+    "translation": "欺骗"
+  },
+  {
+    "key": "ui_runtime_062aa22b7207",
+    "original": "The Only in Silence",
+    "translation": "沉默中的唯一"
+  },
+  {
+    "key": "ui_runtime_3cce078e49ee",
+    "original": "The Ashkelon",
+    "translation": "阿什凯隆"
+  },
+  {
+    "key": "ui_runtime_2a091e35dd49",
+    "original": "The Point of no Return",
+    "translation": "不归点"
   }
 ]
